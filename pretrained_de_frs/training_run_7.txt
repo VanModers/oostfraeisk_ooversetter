@@ -1,0 +1,348 @@
+2025-09-05 19:26:00.013678: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-09-05 19:26:00.031600: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1757100360.053519    2964 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1757100360.060115    2964 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+W0000 00:00:1757100360.076943    2964 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1757100360.076970    2964 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1757100360.076973    2964 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1757100360.076975    2964 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+2025-09-05 19:26:00.081920: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Downloading builder script: 4.20kB [00:00, 6.35MB/s]
+tokenizer_config.json: 100% 42.0/42.0 [00:00<00:00, 327kB/s]
+source.spm: 100% 829k/829k [00:00<00:00, 25.7MB/s]
+target.spm: 100% 814k/814k [00:00<00:00, 12.9MB/s]
+vocab.json: 1.33MB [00:00, 9.41MB/s]
+config.json: 1.38kB [00:00, 7.61MB/s]
+/usr/local/lib/python3.12/dist-packages/transformers/models/marian/tokenization_marian.py:175: UserWarning: Recommended: pip install sacremoses.
+  warnings.warn("Recommended: pip install sacremoses.")
+pytorch_model.bin: 100% 297M/297M [00:01<00:00, 267MB/s]
+generation_config.json: 100% 293/293 [00:00<00:00, 2.14MB/s]
+model.safetensors:  78% 231M/297M [00:01<00:00, 107MB/s]Loading dataset
+Finished loading dataset
+/content/oostfraeisk_translator/pretrained_de_frs/trainer.py:62: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
+  trainer = Seq2SeqTrainer(
+model.safetensors: 100% 297M/297M [00:02<00:00, 123MB/s]
+The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'bos_token_id': None}.
+wandb: (1) Create a W&B account
+wandb: (2) Use an existing W&B account
+wandb: (3) Don't visualize my results
+wandb: Enter your choice: 3
+wandb: You chose "Don't visualize my results"
+wandb: Tracking run with wandb version 0.21.3
+wandb: W&B syncing is set to `offline` in this directory. Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+wandb: Run data is saved locally in /content/oostfraeisk_translator/wandb/offline-run-20250905_192621-u4j1ykla
+{'loss': 0.142, 'grad_norm': 0.175064817070961, 'learning_rate': 4.906203007518797e-05, 'epoch': 0.13}
+{'loss': 0.0565, 'grad_norm': 0.17045705020427704, 'learning_rate': 4.812218045112783e-05, 'epoch': 0.26}
+{'loss': 0.0468, 'grad_norm': 0.18626567721366882, 'learning_rate': 4.7182330827067675e-05, 'epoch': 0.39}
+{'loss': 0.0414, 'grad_norm': 0.13554750382900238, 'learning_rate': 4.6242481203007524e-05, 'epoch': 0.53}
+{'loss': 0.0371, 'grad_norm': 0.1532958745956421, 'learning_rate': 4.5302631578947365e-05, 'epoch': 0.66}
+{'loss': 0.0347, 'grad_norm': 0.17661084234714508, 'learning_rate': 4.436278195488722e-05, 'epoch': 0.79}
+{'loss': 0.0326, 'grad_norm': 0.1321045309305191, 'learning_rate': 4.342293233082707e-05, 'epoch': 0.92}
+ 14% 3800/26600 [33:57<3:08:11,  2.02it/s]
+  0% 0/32 [00:00<?, ?it/s]
+  6% 2/32 [00:01<00:23,  1.29it/s]
+  9% 3/32 [00:02<00:26,  1.09it/s]
+ 12% 4/32 [00:03<00:25,  1.11it/s]
+ 16% 5/32 [00:04<00:22,  1.18it/s]
+ 19% 6/32 [00:05<00:21,  1.22it/s]
+ 22% 7/32 [00:05<00:19,  1.30it/s]
+ 25% 8/32 [00:07<00:23,  1.03it/s]
+ 28% 9/32 [00:07<00:21,  1.08it/s]
+ 31% 10/32 [00:09<00:23,  1.05s/it]
+ 34% 11/32 [00:10<00:20,  1.00it/s]
+ 38% 12/32 [00:11<00:21,  1.05s/it]
+ 41% 13/32 [00:12<00:18,  1.01it/s]
+ 44% 14/32 [00:13<00:21,  1.17s/it]
+ 47% 15/32 [00:15<00:21,  1.24s/it]
+ 50% 16/32 [00:15<00:17,  1.09s/it]
+ 53% 17/32 [00:16<00:15,  1.03s/it]
+ 56% 18/32 [00:17<00:14,  1.00s/it]
+ 59% 19/32 [00:18<00:12,  1.06it/s]
+ 62% 20/32 [00:19<00:11,  1.03it/s]
+ 66% 21/32 [00:20<00:10,  1.04it/s]
+ 69% 22/32 [00:21<00:08,  1.13it/s]
+ 72% 23/32 [00:22<00:10,  1.13s/it]
+ 75% 24/32 [00:23<00:08,  1.06s/it]
+ 78% 25/32 [00:25<00:08,  1.20s/it]
+ 81% 26/32 [00:26<00:06,  1.14s/it]
+ 84% 27/32 [00:28<00:07,  1.47s/it]
+ 88% 28/32 [00:29<00:05,  1.27s/it]
+ 91% 29/32 [00:30<00:03,  1.25s/it]
+ 94% 30/32 [00:32<00:02,  1.31s/it]
+ 97% 31/32 [00:32<00:01,  1.18s/it]
+                                          
+{'eval_loss': 0.025187551975250244, 'eval_accuracy': 0.4735544382131116, 'eval_runtime': 35.316, 'eval_samples_per_second': 28.316, 'eval_steps_per_second': 0.906, 'epoch': 1.0}
+ 14% 3800/26600 [34:33<3:08:11,  2.02it/s]
+100% 32/32 [00:34<00:00,  1.16s/it]
+                                   /usr/local/lib/python3.12/dist-packages/transformers/modeling_utils.py:4034: UserWarning: Moving the following attributes in the config to the generation config: {'max_length': 512, 'num_beams': 4, 'bad_words_ids': [[57566]]}. You are seeing this warning because you've set generation parameters in the model config, as opposed to in the generation config.
+  warnings.warn(
+{'loss': 0.0292, 'grad_norm': 0.15838269889354706, 'learning_rate': 4.248308270676692e-05, 'epoch': 1.05}
+{'loss': 0.0267, 'grad_norm': 0.15504683554172516, 'learning_rate': 4.1543233082706766e-05, 'epoch': 1.18}
+{'loss': 0.0255, 'grad_norm': 0.10728058218955994, 'learning_rate': 4.060338345864662e-05, 'epoch': 1.32}
+{'loss': 0.0249, 'grad_norm': 0.16650724411010742, 'learning_rate': 3.966353383458647e-05, 'epoch': 1.45}
+{'loss': 0.0239, 'grad_norm': 0.13188213109970093, 'learning_rate': 3.872368421052632e-05, 'epoch': 1.58}
+{'loss': 0.0231, 'grad_norm': 0.09725698828697205, 'learning_rate': 3.778383458646617e-05, 'epoch': 1.71}
+{'loss': 0.0222, 'grad_norm': 0.1523095667362213, 'learning_rate': 3.6843984962406015e-05, 'epoch': 1.84}
+{'loss': 0.022, 'grad_norm': 0.11595641821622849, 'learning_rate': 3.590413533834587e-05, 'epoch': 1.97}
+ 29% 7600/26600 [1:08:30<2:36:58,  2.02it/s]
+  0% 0/32 [00:00<?, ?it/s]
+  6% 2/32 [00:01<00:22,  1.32it/s]
+  9% 3/32 [00:02<00:26,  1.09it/s]
+ 12% 4/32 [00:03<00:25,  1.11it/s]
+ 16% 5/32 [00:04<00:23,  1.17it/s]
+ 19% 6/32 [00:05<00:21,  1.22it/s]
+ 22% 7/32 [00:05<00:19,  1.28it/s]
+ 25% 8/32 [00:07<00:23,  1.01it/s]
+ 28% 9/32 [00:08<00:21,  1.06it/s]
+ 31% 10/32 [00:09<00:23,  1.09s/it]
+ 34% 11/32 [00:10<00:21,  1.04s/it]
+ 38% 12/32 [00:11<00:21,  1.10s/it]
+ 41% 13/32 [00:12<00:19,  1.03s/it]
+ 44% 14/32 [00:14<00:22,  1.23s/it]
+ 47% 15/32 [00:15<00:21,  1.29s/it]
+ 50% 16/32 [00:16<00:18,  1.13s/it]
+ 53% 17/32 [00:17<00:16,  1.07s/it]
+ 56% 18/32 [00:18<00:14,  1.03s/it]
+ 59% 19/32 [00:19<00:12,  1.03it/s]
+ 62% 20/32 [00:20<00:12,  1.01s/it]
+ 66% 21/32 [00:21<00:10,  1.00it/s]
+ 69% 22/32 [00:21<00:09,  1.08it/s]
+ 72% 23/32 [00:23<00:10,  1.16s/it]
+ 75% 24/32 [00:24<00:08,  1.09s/it]
+ 78% 25/32 [00:25<00:08,  1.20s/it]
+ 81% 26/32 [00:26<00:06,  1.13s/it]
+ 84% 27/32 [00:29<00:07,  1.44s/it]
+ 88% 28/32 [00:29<00:05,  1.26s/it]
+ 91% 29/32 [00:31<00:03,  1.23s/it]
+ 94% 30/32 [00:32<00:02,  1.30s/it]
+ 97% 31/32 [00:33<00:01,  1.18s/it]
+                                            
+{'eval_loss': 0.018746132031083107, 'eval_accuracy': 0.5514890736801392, 'eval_runtime': 35.4403, 'eval_samples_per_second': 28.216, 'eval_steps_per_second': 0.903, 'epoch': 2.0}
+ 29% 7600/26600 [1:09:05<2:36:58,  2.02it/s]
+100% 32/32 [00:34<00:00,  1.16s/it]
+{'loss': 0.0192, 'grad_norm': 0.12563319504261017, 'learning_rate': 3.496428571428572e-05, 'epoch': 2.11}
+{'loss': 0.0185, 'grad_norm': 0.1354794055223465, 'learning_rate': 3.402443609022557e-05, 'epoch': 2.24}
+{'loss': 0.0179, 'grad_norm': 0.13945141434669495, 'learning_rate': 3.308458646616541e-05, 'epoch': 2.37}
+{'loss': 0.0179, 'grad_norm': 0.11287873983383179, 'learning_rate': 3.2144736842105265e-05, 'epoch': 2.5}
+{'loss': 0.0172, 'grad_norm': 0.11611411720514297, 'learning_rate': 3.120488721804511e-05, 'epoch': 2.63}
+{'loss': 0.017, 'grad_norm': 0.11562900990247726, 'learning_rate': 3.026503759398496e-05, 'epoch': 2.76}
+{'loss': 0.0169, 'grad_norm': 0.1302202045917511, 'learning_rate': 2.932518796992481e-05, 'epoch': 2.89}
+ 43% 11400/26600 [1:43:02<2:05:24,  2.02it/s]
+  0% 0/32 [00:00<?, ?it/s]
+  6% 2/32 [00:01<00:22,  1.32it/s]
+  9% 3/32 [00:02<00:26,  1.09it/s]
+ 12% 4/32 [00:03<00:25,  1.10it/s]
+ 16% 5/32 [00:04<00:22,  1.18it/s]
+ 19% 6/32 [00:05<00:21,  1.22it/s]
+ 22% 7/32 [00:05<00:19,  1.29it/s]
+ 25% 8/32 [00:07<00:23,  1.01it/s]
+ 28% 9/32 [00:07<00:21,  1.08it/s]
+ 31% 10/32 [00:09<00:23,  1.07s/it]
+ 34% 11/32 [00:10<00:21,  1.01s/it]
+ 38% 12/32 [00:11<00:21,  1.08s/it]
+ 41% 13/32 [00:12<00:19,  1.01s/it]
+ 44% 14/32 [00:13<00:21,  1.20s/it]
+ 47% 15/32 [00:15<00:21,  1.24s/it]
+ 50% 16/32 [00:16<00:17,  1.10s/it]
+ 53% 17/32 [00:16<00:15,  1.05s/it]
+ 56% 18/32 [00:17<00:14,  1.01s/it]
+ 59% 19/32 [00:18<00:12,  1.05it/s]
+ 62% 20/32 [00:19<00:11,  1.01it/s]
+ 66% 21/32 [00:20<00:10,  1.02it/s]
+ 69% 22/32 [00:21<00:09,  1.11it/s]
+ 72% 23/32 [00:23<00:10,  1.15s/it]
+ 75% 24/32 [00:24<00:08,  1.08s/it]
+ 78% 25/32 [00:25<00:08,  1.21s/it]
+ 81% 26/32 [00:26<00:06,  1.14s/it]
+ 84% 27/32 [00:28<00:07,  1.46s/it]
+ 88% 28/32 [00:29<00:05,  1.27s/it]
+ 91% 29/32 [00:30<00:03,  1.24s/it]
+ 94% 30/32 [00:32<00:02,  1.31s/it]
+ 97% 31/32 [00:33<00:01,  1.18s/it]
+                                             
+{'eval_loss': 0.015360500663518906, 'eval_accuracy': 0.6217849545542449, 'eval_runtime': 35.0942, 'eval_samples_per_second': 28.495, 'eval_steps_per_second': 0.912, 'epoch': 3.0}
+ 43% 11400/26600 [1:43:37<2:05:24,  2.02it/s]
+100% 32/32 [00:34<00:00,  1.15s/it]
+{'loss': 0.016, 'grad_norm': 0.08848953992128372, 'learning_rate': 2.8385338345864665e-05, 'epoch': 3.03}
+{'loss': 0.0142, 'grad_norm': 0.10822087526321411, 'learning_rate': 2.7445488721804514e-05, 'epoch': 3.16}
+{'loss': 0.0142, 'grad_norm': 0.13009700179100037, 'learning_rate': 2.6505639097744362e-05, 'epoch': 3.29}
+{'loss': 0.0139, 'grad_norm': 0.11382568627595901, 'learning_rate': 2.556578947368421e-05, 'epoch': 3.42}
+{'loss': 0.0138, 'grad_norm': 0.12330228090286255, 'learning_rate': 2.462593984962406e-05, 'epoch': 3.55}
+{'loss': 0.0137, 'grad_norm': 0.11320219188928604, 'learning_rate': 2.368609022556391e-05, 'epoch': 3.68}
+{'loss': 0.0137, 'grad_norm': 0.12414965778589249, 'learning_rate': 2.274624060150376e-05, 'epoch': 3.82}
+{'loss': 0.0135, 'grad_norm': 0.09879142045974731, 'learning_rate': 2.180639097744361e-05, 'epoch': 3.95}
+ 57% 15200/26600 [2:17:37<1:34:20,  2.01it/s]
+  0% 0/32 [00:00<?, ?it/s]
+  6% 2/32 [00:01<00:22,  1.31it/s]
+  9% 3/32 [00:02<00:27,  1.06it/s]
+ 12% 4/32 [00:03<00:25,  1.09it/s]
+ 16% 5/32 [00:04<00:23,  1.16it/s]
+ 19% 6/32 [00:05<00:21,  1.21it/s]
+ 22% 7/32 [00:05<00:19,  1.27it/s]
+ 25% 8/32 [00:07<00:23,  1.01it/s]
+ 28% 9/32 [00:08<00:21,  1.06it/s]
+ 31% 10/32 [00:09<00:23,  1.08s/it]
+ 34% 11/32 [00:10<00:21,  1.01s/it]
+ 38% 12/32 [00:11<00:21,  1.08s/it]
+ 41% 13/32 [00:12<00:19,  1.02s/it]
+ 44% 14/32 [00:14<00:21,  1.21s/it]
+ 47% 15/32 [00:15<00:21,  1.25s/it]
+ 50% 16/32 [00:16<00:17,  1.10s/it]
+ 53% 17/32 [00:17<00:15,  1.04s/it]
+ 56% 18/32 [00:18<00:14,  1.02s/it]
+ 59% 19/32 [00:18<00:12,  1.04it/s]
+ 62% 20/32 [00:19<00:11,  1.01it/s]
+ 66% 21/32 [00:20<00:10,  1.02it/s]
+ 69% 22/32 [00:21<00:09,  1.11it/s]
+ 72% 23/32 [00:23<00:10,  1.16s/it]
+ 75% 24/32 [00:24<00:08,  1.08s/it]
+ 78% 25/32 [00:25<00:08,  1.21s/it]
+ 81% 26/32 [00:26<00:06,  1.13s/it]
+ 84% 27/32 [00:28<00:07,  1.46s/it]
+ 88% 28/32 [00:29<00:05,  1.27s/it]
+ 91% 29/32 [00:30<00:03,  1.24s/it]
+ 94% 30/32 [00:32<00:02,  1.30s/it]
+ 97% 31/32 [00:33<00:01,  1.18s/it]
+                                             
+{'eval_loss': 0.013427574187517166, 'eval_accuracy': 0.6459098820344228, 'eval_runtime': 35.2152, 'eval_samples_per_second': 28.397, 'eval_steps_per_second': 0.909, 'epoch': 4.0}
+ 57% 15200/26600 [2:18:12<1:34:20,  2.01it/s]
+100% 32/32 [00:34<00:00,  1.14s/it]
+{'loss': 0.0122, 'grad_norm': 0.1190095990896225, 'learning_rate': 2.086654135338346e-05, 'epoch': 4.08}
+{'loss': 0.0115, 'grad_norm': 0.1267821192741394, 'learning_rate': 1.9926691729323312e-05, 'epoch': 4.21}
+{'loss': 0.0114, 'grad_norm': 0.11134999990463257, 'learning_rate': 1.8986842105263157e-05, 'epoch': 4.34}
+{'loss': 0.0114, 'grad_norm': 0.13184307515621185, 'learning_rate': 1.804699248120301e-05, 'epoch': 4.47}
+{'loss': 0.0113, 'grad_norm': 0.09993510693311691, 'learning_rate': 1.7107142857142857e-05, 'epoch': 4.61}
+{'loss': 0.0113, 'grad_norm': 0.09842546284198761, 'learning_rate': 1.616729323308271e-05, 'epoch': 4.74}
+{'loss': 0.0113, 'grad_norm': 0.10451719909906387, 'learning_rate': 1.5227443609022558e-05, 'epoch': 4.87}
+{'loss': 0.011, 'grad_norm': 0.128702312707901, 'learning_rate': 1.4287593984962408e-05, 'epoch': 5.0}
+ 71% 19000/26600 [2:52:10<1:02:50,  2.02it/s]
+  0% 0/32 [00:00<?, ?it/s]
+  6% 2/32 [00:01<00:22,  1.32it/s]
+  9% 3/32 [00:02<00:26,  1.10it/s]
+ 12% 4/32 [00:03<00:25,  1.12it/s]
+ 16% 5/32 [00:04<00:22,  1.18it/s]
+ 19% 6/32 [00:05<00:21,  1.22it/s]
+ 22% 7/32 [00:05<00:19,  1.29it/s]
+ 25% 8/32 [00:07<00:23,  1.02it/s]
+ 28% 9/32 [00:07<00:21,  1.07it/s]
+ 31% 10/32 [00:09<00:23,  1.07s/it]
+ 34% 11/32 [00:10<00:21,  1.02s/it]
+ 38% 12/32 [00:11<00:21,  1.08s/it]
+ 41% 13/32 [00:12<00:19,  1.01s/it]
+ 44% 14/32 [00:13<00:21,  1.20s/it]
+ 47% 15/32 [00:15<00:21,  1.25s/it]
+ 50% 16/32 [00:16<00:17,  1.10s/it]
+ 53% 17/32 [00:17<00:15,  1.05s/it]
+ 56% 18/32 [00:17<00:14,  1.02s/it]
+ 59% 19/32 [00:18<00:12,  1.04it/s]
+ 62% 20/32 [00:19<00:11,  1.00it/s]
+ 66% 21/32 [00:20<00:10,  1.02it/s]
+ 69% 22/32 [00:21<00:09,  1.10it/s]
+ 72% 23/32 [00:23<00:10,  1.15s/it]
+ 75% 24/32 [00:24<00:08,  1.08s/it]
+ 78% 25/32 [00:25<00:08,  1.20s/it]
+ 81% 26/32 [00:26<00:06,  1.14s/it]
+ 84% 27/32 [00:28<00:07,  1.48s/it]
+ 88% 28/32 [00:29<00:05,  1.29s/it]
+ 91% 29/32 [00:30<00:03,  1.25s/it]
+ 94% 30/32 [00:32<00:02,  1.32s/it]
+ 97% 31/32 [00:33<00:01,  1.19s/it]
+                                             
+{'eval_loss': 0.012157893739640713, 'eval_accuracy': 0.6707600077354476, 'eval_runtime': 35.38, 'eval_samples_per_second': 28.265, 'eval_steps_per_second': 0.904, 'epoch': 5.0}
+ 71% 19000/26600 [2:52:45<1:02:50,  2.02it/s]
+100% 32/32 [00:34<00:00,  1.19s/it]
+{'loss': 0.0097, 'grad_norm': 0.12080859392881393, 'learning_rate': 1.3347744360902256e-05, 'epoch': 5.13}
+{'loss': 0.0097, 'grad_norm': 0.10124800354242325, 'learning_rate': 1.2407894736842106e-05, 'epoch': 5.26}
+{'loss': 0.01, 'grad_norm': 0.08281008154153824, 'learning_rate': 1.1468045112781955e-05, 'epoch': 5.39}
+{'loss': 0.0098, 'grad_norm': 0.11808302998542786, 'learning_rate': 1.0528195488721805e-05, 'epoch': 5.53}
+{'loss': 0.0096, 'grad_norm': 0.10748498886823654, 'learning_rate': 9.588345864661655e-06, 'epoch': 5.66}
+{'loss': 0.0094, 'grad_norm': 0.11614234745502472, 'learning_rate': 8.648496240601504e-06, 'epoch': 5.79}
+{'loss': 0.0096, 'grad_norm': 0.09001936763525009, 'learning_rate': 7.708646616541354e-06, 'epoch': 5.92}
+ 86% 22800/26600 [3:26:45<31:23,  2.02it/s]
+  0% 0/32 [00:00<?, ?it/s]
+  6% 2/32 [00:01<00:22,  1.33it/s]
+  9% 3/32 [00:02<00:26,  1.11it/s]
+ 12% 4/32 [00:03<00:25,  1.12it/s]
+ 16% 5/32 [00:04<00:22,  1.18it/s]
+ 19% 6/32 [00:05<00:21,  1.22it/s]
+ 22% 7/32 [00:05<00:19,  1.26it/s]
+ 25% 8/32 [00:07<00:23,  1.01it/s]
+ 28% 9/32 [00:08<00:21,  1.06it/s]
+ 31% 10/32 [00:09<00:23,  1.07s/it]
+ 34% 11/32 [00:10<00:21,  1.00s/it]
+ 38% 12/32 [00:11<00:21,  1.06s/it]
+ 41% 13/32 [00:12<00:19,  1.01s/it]
+ 44% 14/32 [00:13<00:21,  1.19s/it]
+ 47% 15/32 [00:15<00:20,  1.23s/it]
+ 50% 16/32 [00:16<00:17,  1.09s/it]
+ 53% 17/32 [00:16<00:15,  1.04s/it]
+ 56% 18/32 [00:17<00:14,  1.01s/it]
+ 59% 19/32 [00:18<00:12,  1.05it/s]
+ 62% 20/32 [00:19<00:11,  1.01it/s]
+ 66% 21/32 [00:20<00:10,  1.02it/s]
+ 69% 22/32 [00:21<00:09,  1.10it/s]
+ 72% 23/32 [00:23<00:10,  1.16s/it]
+ 75% 24/32 [00:24<00:08,  1.08s/it]
+ 78% 25/32 [00:25<00:08,  1.21s/it]
+ 81% 26/32 [00:26<00:06,  1.13s/it]
+ 84% 27/32 [00:28<00:07,  1.46s/it]
+ 88% 28/32 [00:29<00:05,  1.27s/it]
+ 91% 29/32 [00:30<00:03,  1.24s/it]
+ 94% 30/32 [00:32<00:02,  1.31s/it]
+ 97% 31/32 [00:33<00:01,  1.18s/it]
+                                           
+{'eval_loss': 0.01147004310041666, 'eval_accuracy': 0.680284277702572, 'eval_runtime': 35.1562, 'eval_samples_per_second': 28.445, 'eval_steps_per_second': 0.91, 'epoch': 6.0}
+ 86% 22800/26600 [3:27:20<31:23,  2.02it/s]
+100% 32/32 [00:34<00:00,  1.17s/it]
+{'loss': 0.0092, 'grad_norm': 0.08908005058765411, 'learning_rate': 6.768796992481203e-06, 'epoch': 6.05}
+{'loss': 0.0087, 'grad_norm': 0.09264210611581802, 'learning_rate': 5.8289473684210525e-06, 'epoch': 6.18}
+{'loss': 0.0088, 'grad_norm': 0.0865611732006073, 'learning_rate': 4.889097744360902e-06, 'epoch': 6.32}
+{'loss': 0.0086, 'grad_norm': 0.08653530478477478, 'learning_rate': 3.949248120300752e-06, 'epoch': 6.45}
+{'loss': 0.0086, 'grad_norm': 0.10130257904529572, 'learning_rate': 3.009398496240602e-06, 'epoch': 6.58}
+{'loss': 0.0085, 'grad_norm': 0.09783270955085754, 'learning_rate': 2.069548872180451e-06, 'epoch': 6.71}
+{'loss': 0.0086, 'grad_norm': 0.09672851115465164, 'learning_rate': 1.1296992481203007e-06, 'epoch': 6.84}
+{'loss': 0.0086, 'grad_norm': 0.09173755347728729, 'learning_rate': 1.8984962406015039e-07, 'epoch': 6.97}
+100% 26600/26600 [4:01:20<00:00,  2.02it/s]
+  0% 0/32 [00:00<?, ?it/s]
+  6% 2/32 [00:01<00:22,  1.33it/s]
+  9% 3/32 [00:02<00:26,  1.11it/s]
+ 12% 4/32 [00:03<00:25,  1.12it/s]
+ 16% 5/32 [00:04<00:22,  1.18it/s]
+ 19% 6/32 [00:04<00:21,  1.23it/s]
+ 22% 7/32 [00:05<00:19,  1.27it/s]
+ 25% 8/32 [00:07<00:23,  1.02it/s]
+ 28% 9/32 [00:07<00:21,  1.06it/s]
+ 31% 10/32 [00:09<00:23,  1.07s/it]
+ 34% 11/32 [00:10<00:21,  1.00s/it]
+ 38% 12/32 [00:11<00:21,  1.06s/it]
+ 41% 13/32 [00:12<00:19,  1.02s/it]
+ 44% 14/32 [00:13<00:21,  1.21s/it]
+ 47% 15/32 [00:15<00:21,  1.26s/it]
+ 50% 16/32 [00:16<00:17,  1.11s/it]
+ 53% 17/32 [00:17<00:15,  1.05s/it]
+ 56% 18/32 [00:17<00:14,  1.02s/it]
+ 59% 19/32 [00:18<00:12,  1.05it/s]
+ 62% 20/32 [00:19<00:12,  1.00s/it]
+ 66% 21/32 [00:20<00:10,  1.02it/s]
+ 69% 22/32 [00:21<00:09,  1.10it/s]
+ 72% 23/32 [00:23<00:10,  1.15s/it]
+ 75% 24/32 [00:24<00:08,  1.08s/it]
+ 78% 25/32 [00:25<00:08,  1.21s/it]
+ 81% 26/32 [00:26<00:06,  1.14s/it]
+ 84% 27/32 [00:28<00:07,  1.46s/it]
+ 88% 28/32 [00:29<00:05,  1.28s/it]
+ 91% 29/32 [00:30<00:03,  1.24s/it]
+ 94% 30/32 [00:32<00:02,  1.31s/it]
+ 97% 31/32 [00:33<00:01,  1.18s/it]
+                                           
+{'eval_loss': 0.011181934736669064, 'eval_accuracy': 0.6769000193386192, 'eval_runtime': 35.2863, 'eval_samples_per_second': 28.34, 'eval_steps_per_second': 0.907, 'epoch': 7.0}
+100% 26600/26600 [4:01:55<00:00,  2.02it/s]
+100% 32/32 [00:34<00:00,  1.18s/it]
+{'train_runtime': 14521.6553, 'train_samples_per_second': 58.612, 'train_steps_per_second': 1.832, 'train_loss': 0.019863635140254084, 'epoch': 7.0}
+100% 26600/26600 [4:01:57<00:00,  1.83it/s]
+wandb: 
+wandb: You can sync this run to the cloud by running:
+wandb: wandb sync /content/oostfraeisk_translator/wandb/offline-run-20250905_192621-u4j1ykla
+wandb: Find logs at: wandb/offline-run-20250905_192621-u4j1ykla/logs
