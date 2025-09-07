@@ -8,7 +8,7 @@ using System.Transactions;
 using static System.Net.Mime.MediaTypeNames;
 
 const int MAX_TEXT_LENGTH = 300;
-const int MANUAL_DATASET_MUL = 4;
+const int MANUAL_DATASET_MUL = 1;
 const int SQL_SEED = 42; // Set your desired seed value
 
 
@@ -233,6 +233,20 @@ List<DictionaryRow> getDictionaryContent(String commandText)
 
     Console.Write("finished reading dictionary");
     return dictionaryRows;
+}
+
+static void Shuffle(List<List<String>> list)
+{
+    Random rng = new Random(SQL_SEED);
+    int n = list.Count;
+    while (n > 1)
+    {
+        n--;
+        int k = rng.Next(n + 1);
+        List<String> value = list[k];
+        list[k] = list[n];
+        list[n] = value;
+    }
 }
 
 Console.WriteLine("Path: " + MapPath(""));
@@ -473,6 +487,8 @@ using (StreamWriter outputFileGerman = new StreamWriter(MapPath("data/german.txt
         }
     }
 
+    List<List<String>> frsTextsList = new List<List<String>>();
+
     using (StreamWriter outputFileTextEastFrisian = new StreamWriter(MapPath("data/fan teksten/eastfrisian.txt")))
     using (StreamWriter outputFileTextGerman = new StreamWriter(MapPath("data/fan teksten/german.txt")))
     {
@@ -480,9 +496,53 @@ using (StreamWriter outputFileGerman = new StreamWriter(MapPath("data/german.txt
         {
             outputFileTextGerman.WriteLine(gerTexts[i]);
             outputFileTextEastFrisian.WriteLine(frsTexts[i]);
+
+            frsTextsList.Add(new List<String>(new String[]{frsTexts[i], gerTexts[i]}));
         }
 
-        while (true)
+        Shuffle(frsTextsList);
+
+        String finalGerString = "";
+        String finalFrsString = "";
+        bool first = false;
+        foreach (List<String> text in frsTextsList)
+        {
+            var frsString = text[0];
+            var gerString = text[1];
+
+            gerString = gerString.Replace("\n", " ");
+            frsString = frsString.Replace("\n", " ");
+
+           if (!String.IsNullOrEmpty(frsString) && !String.IsNullOrEmpty(gerString))
+            {
+                gerString = CutSentenceIfNecessary(frsString, gerString);
+
+                frsString = AddPoint(FirstCharToUpper(frsString));
+                gerString = AddPoint(FirstCharToUpper(gerString));
+                if (!first)
+                {
+                    finalFrsString += frsString;
+                    finalGerString += gerString;
+                    Console.WriteLine(finalFrsString + "  :  " + finalGerString);
+                    outputFileGerman.WriteLine(finalGerString);
+                    outputFileEastFrisian.WriteLine(finalFrsString);
+
+                    finalFrsString = "";
+                    finalGerString = "";
+                }
+                else
+                {
+                    finalFrsString += (frsString + " ");
+                    finalGerString += (gerString + " ");
+                }
+
+                first = !first;
+            }
+        }
+
+
+
+        /*while (true)
         {
             Console.WriteLine("");
             Console.WriteLine("Düütsk tekst:");
@@ -517,7 +577,7 @@ using (StreamWriter outputFileGerman = new StreamWriter(MapPath("data/german.txt
                     outputFileTextEastFrisian.WriteLine(frsString);
                 }
             }
-        }
+        }*/
     }
 
 
