@@ -8,7 +8,7 @@ import evaluate
 # BLEU metric
 bleu_metric = evaluate.load("sacrebleu")
 
-models = ["de_frs_model_2", "de_frs_model_3", "de_frs_model_5", "de_frs_model_6"]
+models = ["de_frs_model"]
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(device)
