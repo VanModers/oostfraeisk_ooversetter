@@ -45,7 +45,7 @@ data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 training_args = Seq2SeqTrainingArguments(
     output_dir="./de_frs_model",
     eval_strategy="epoch",  # Evaluate after every epoch
-    save_strategy="epoch",  # Save model after every epoch
+    save_strategy="no",  # Save model after every epoch
     per_device_train_batch_size=32,
     per_device_eval_batch_size=32,
     num_train_epochs=7,
