@@ -21,32 +21,33 @@ With ```trainingset_creator_app.py```, the data set for training in ```data/krek
 The repo currently contains two translator models. One model for translating from German to East Frisian (de_frs_model) and one model for translating from East Frisian to German (frs_de_model).
 
 ## Model performance on validation data set
+![alt text](<performance on validation data.png>)
 -------------------------------------------------------------------------------------
 de_frs_model_2
 Token-wise Accuracy: 0.7635
 Avg Loss: 0.1550
-BLEU Score: 0.81
 
 -------------------------------------------------------------------------------------
 de_frs_model_3
 Token-wise Accuracy: 0.7872
 Avg Loss: 0.1545
-BLEU Score: 1.50
 
 -------------------------------------------------------------------------------------
 de_frs_model_5
 Token-wise Accuracy: 0.8049
 Avg Loss: 0.1505
-BLEU Score: 1.11
 
 -------------------------------------------------------------------------------------
 de_frs_model_6
 Token-wise Accuracy: 0.8274
 Avg Loss: 0.1409
-BLEU Score: 2.54
 
 -------------------------------------------------------------------------------------
-de_frs_model_7 (current model)
+de_frs_model_7
 Token-wise Accuracy: 0.8418
 Avg Loss: 0.1224
-BLEU Score: 0.78
+
+-------------------------------------------------------------------------------------
+de_frs_model_8 (current model)
+Token-wise Accuracy: 0.8456
+Avg Loss: 0.1085
