@@ -5746,7 +5746,7 @@ Gibt es schon Pläne für die Zukunft des Übersetzers? Natürlich! Wir wollen u
 Wir brauchen neue Funktionen!
 Wir brauchen neue Funktion!
 Der Übersetzer ist jetzt freigeschaltet und kann von jedermann jederzeit genutzt werden.
-Der repo schalte ich nachher noch frei. Und kommt auch noch ein Video auf YouTube.
+Das Repo schalte ich nachher noch frei. Und kommt auch noch ein Video auf YouTube.
 Dorf
 Was magst du lieber, Apfelsaft oder Traubensaft?
 Ich weiß sehr genau, wo die Ledabrücke ist, denn die ist hinter der Ems.
@@ -6534,3 +6534,74 @@ Die erste Raumsonde, die von der Erde aus den Mars besuchte, war Mariner 4 im Ja
 Die Schülerin, die sich direkt vor den Lehrer gesetzt hat, kommt aus Deutschland.
 Der Aufzug war außer Betrieb, und wir mussten in den fünften Stock laufen.
 Der Arzt wies Tom an, Bettruhe einzuhalten und sich so viel wie möglich auszuruhen.
+Ich habe dir Zugang zum Repo gegeben. Ich weiß nicht, ob mein Training-Approach so gut funktioniert, aber erstmal brauchen wir sowieso Daten. Da ist ein Skript mit Namen "dataset_generator.py". Wenn du Zeit hast, wäre es gut, wenn du ein bisschen aufnehmen könntest.
+Nur so viel wie geht und dann einfach Ctrl-C. Er fängt immer dort an, wo zuletzt aufgehört wurde. Wenn du etwas falsch aufnimmst, musst du das Skript stoppen, die Aufnahme manuell in wavs löschen und den Eintrag in der csv löschen und dann neu starten.
+Gleich sitze ich auf der Bank.
+Hast du eigentlich versucht, den Ooversetter auf Wikipedia hinzuzufügen oder war das jemand anders?
+Im Leben der Nation war das Wichtigste der Fokus auf die Zukunft.
+Jetzt lege ich mich sofort ins Bett, lese vielleicht noch kurz etwas und gehe dann aber wirklich schlafen.
+Gute Nacht und schlaft gut!
+Gute Nacht!
+Schlaf gut und träume süß von sauren Gurken!
+Wenn du nicht gesund bist und dein Körper oder Kopf dir zeigt, dass irgendwas nicht stimmt, bist du krank.
+Meistens merkt man das daran, dass man Schmerzen hat, schlapp ist, Fieber kriegt oder sich einfach mies fühlt.
+sei’s der Magen, die Lunge, das Herz, die Psyche oder gleich der ganze Körper...
+Manchmal steckt ein Virus oder Bakterium dahinter.
+Moin ChatGPT, sprichst du auch ostfriesisches Platt? Ich will dass du ab jetzt sowohl auf Deutsch als auch auf Platt antwortest. Ich gebe dir jetzt ein Beispiel für die moderne ostfriesische Rechtschreibung, damit du weißt, wie du mir antworten sollst.
+Danke für das Beispiel. Das hilft mir sehr, mich daran zu orientieren.
+Danke für das Beispiel. Ich denke, das hilft mir eigentlich sehr, mich daran zu orientieren.
+Ja, das mache ich gerne. Dann gebe ich dir künftig zuerst deinen Text ins Deutsche übertragen und danach meine Antwort in beiden Sprachen.
+Hausweg
+Sollte es nicht mit dem „a“ von „Affe“ sein?
+Hast du heute Morgen gefrüstückt?
+Steht auf für den Kampf! Bereitet euch zum Angriff! Kämpft um euer Leben, ihr Arbeitervolk!
+Die Friesenbrücke bei der ostfriesischen Stadt Weener in Niedersachsen ist die größte Hub-Drehbrücke für den Eisenbahnverkehr Europas.
+Die Überreste des Staatsgefängnisses, in dem sich Sokrates umgebracht hat
+Schreib mal wenn du daran gehst, damit wir uns nicht überschneiden
+Er ist hier der Leiter. Aber dafür braucht er eine Leiter.
+Funktioniert das noch immer genauso gut, wie vorher?
+Er putzt gerade den Boden.
+Sie putzt gerade den Boden.
+Sie putzen gerade den Boden.
+Ihr putzt gerade den Boden.
+Ich putze gerade den Boden.
+Ich müsste eigentlich gerade den Boden saubermachen.
+Ich müsste eigentlich gerade den Boden putzen.
+Putzt du heute noch den Flur oder machst du das wann anders?
+Sie hassen es, den Flur zu putzen.
+Wo bleibst du oder putzt du noch den Flur?
+In den Vereinigten Staaten wurde der politische Aktivist und einflussreiche Medienpersönlichkeit Charlie Kirk erschossen. Kirk hielt gerade eine Präsentation an der Utah Valley University, als er getroffen wurde.
+Er ist in der Oberstufe.
+Ich bin Chantal und bin sechsundzwanzig Jahre alt. Ich wohne in Weener und habe einen Hund namens Karlo
+Dies ist ein kleiner Beispielsatz.
+Grietje Kammler Leiterin des Plattdüütskbüros der Ostfriesischen Landschaft
+Dies hatte zur Folge, dass Onno im Moor versank.
+So ist es. Patois wird oft genauso genutzt wie die Benennung Platt.
+Und wir haben dieses Mal ja deutlich mehr Werbung gemacht als sonst.
+Das glaube ich nicht. Wer hat denn das gemacht?
+Das glaube ich nicht. Wer hat das denn gemacht?
+Entschuldige bitte meine späte Antwort und vielen Dank für deine redaktionelle Arbeit! Ich habe noch ein paar Änderungen vorgenommen (siehe Ordner im Drive), aber es sah schon sehr gut aus.
+Du bist eigentlich der einzige kleine Freund, den diese Welt voller Feinde für mich bereithielt.
+Interessant, danke für das Teilen :thumbsup: scheint teilweise schon gar nicht so falsch zu sein, finde ich.
+Das ist natürlich ein Problem für das Model, besonders bei so wenig Daten.
+Dann bin ich vielleicht auf einem Geburtstag fällt mir gerade ein. Passt es dir auch an einem anderen Tag?
+Und dein Modell übersetzt immer "Freunde" als "Kameraden", aber ihr habt auf Gronings doch auch "vrunnen", oder?
+Laut NBC News wurde Kirk nach dem Vorfall von seinen Sicherheitsleuten weggebracht. 
+FBI-Direktor Kash Patel teilte über X mit, dass er die Berichte über die Schießerei verfolge. „Unsere Gedanken sind bei Charlie, seinen Angehörigen und allen Betroffenen.“
+FBI-Direktor Kash Patel ließ via X mitteilen, dass er die Berichte über die Schießerei verfolge. „Unsere Gedanken sind bei Charlie, seinen Angehörigen und allen Betroffenen.“
+Jetzt habe ich genug von diesen ganzen Dokumenten! Dann bin ich eben ein schlechter Arbeiter! Ich gucke jetzt noch eine Folge einer Serie und dann gehe ich einfach ins Bett und vergesse das alles! Bis dann!
+Jetzt habe ich genug von diesen ganzen Dokumenten! Dann bin ich eben ein schlechter Arbeiter! Ich gucke jetzt noch eine Ausgabe einer Serie und dann gehe ich einfach ins Bett und vergesse das alles! Bis dann!
+Jetzt habe ich genug von diesen ganzen Dokumenten! Dann bin ich eben ein enttäuschender Arbeiter! Ich gucke jetzt noch eine Serie und dann gehe ich einfach ins Bett und vergesse das alles! Bis dann!
+Heute bundesweiter Warntag
+Es handelt sich lediglich um den jährlichen Warntag von Bund, Ländern und Kommunen,
+Das passende Tagesgeldkonto bewahrt Ihr Erspartes sicher auf.
+Das ist die erste Steuererklärung des Finanzamtes
+Was der Rasen im September unbedingt braucht
+Hersteller ruft Wäschetrockner wegen Brandgefahr zurück
+Warum gibt es eigentlich in manchen Ländern Linksverkehr?
+Warum immer mehr Länder Stempel im Reisepass abschaffen
+Der Ostfriesentee ist eine spezielle, kräftige Teemischung aus Ostfriesland; sie besteht aus mehreren Schwarzteesorten, hauptsächlich aus Assam. Aber auch Tee aus Sri Lanka und Afrika sowie Java-, Sumatra- und Darjeelingsorten werden dazugemischt.
+Wer Hass säht wird Hass ernten.
+Sind Leute, die Platt sprechen, altmodisch? Nein, sie sind mehrsprachig, sie haben einen größeren Wortschatz.
+Was hat deine Mutter früher gekocht? Welche Speisen kennt man heute kaum noch?
+Es dröhnt gewaltig hier, bebt alles und mein Hahn ist auch auf der Stange.

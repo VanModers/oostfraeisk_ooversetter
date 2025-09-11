@@ -6534,3 +6534,74 @@ Däi êerst ruumsoen, däi fan d' êer uut däi Maars besöch, was Mariner 4 in 
 Dat skaulerske, wat sük diirekt fööer däi mester set't het, kumt fan Düütskland.
 Däi uptsuğ was buuten bedriif, un wii mussent in däi fîift stok loopen.
 Däi dokter wees Tom an, berrüst in t' hollen un sük soo fööl as möögelk uut t' rüsten.
+Ik heb dii taugaang tau 't Repo dóón. Ik wäit näit, of miin training-approach soo gaud funksjoonäärt, man eerst bruukent wii soo of soo dóóten. D'r is 'n skript mit nóóm "dataset_generator.py". Doo duu tiid hest, was 't gaud doo duu 'n biitje upneemen kust.
+Bloot soo fööl as gaajt un dan äinfach ctrl-c. Häi fangt altiid dor an, wor t'läest uphollen wur. Doo duu wat ferkeert upnimst, maust duu dat skript stoppen, däi upnóóem manuwel in waws leskern un däi indrağ in d' csv leskern un dan näjs starten.
+Fut sit ik up d' bâank.
+Hest duu äinliik fersöcht, däi Ooversetter up Wikipedia d'r bii t' setten of was dat annerswel?
+In 't leevend fan däi nóósjoon was dat wichtiğst däi fookus up däi taukumst.
+Nuu läeğ ik mii fut up bäer, lees fiilicht noch eeven wat, man góó dan wies slóópen.
+Gâaud nacht un slóópt gaud!
+'N nacht!
+Slóóp gaud un drööm söyt fan suer gurken!
+Doo duu näit sund büst un diin körper of kop dii wist, dat wat näit stemt, büst duu krank.
+Mäisttiids maarkt man dat d'r an, dat man piin het, slap is, fäivers kriğt of sük äinfach maal föylt.
+was 't däi móóeğ, däi lueng, dat haart, däi psüüech of fut däi häiel körper...
+Of un tau stekt d'r 'n wiirus of bakteerje achter.
+Moin ChatGPT, prootst duu ook oostfräisk Plat? Ik wil dat duu fan nuu of an soo wal up Düütsk as ook up Plat anterst. Ik geev dii nuu 'n biispil föör dat maudêern oostfräisk rechtskriiven, dat duu wäist, woo duu mii antern sast.
+Bedankt föör dat biispil. Dat helpt mii läip, mii d'r an t' oorjentäären.
+Bedankt föör dat biispil. Ik denk, dat helpt mii äinliik läip, mii d'r an t' oorjentäären.
+Jóó, dat dau ik geern. Dan geev ik dii in d' taukumst t'eerst diin tekst in 't Düütsk ooverdróógen un d'r nóó miin antern in bâajd tóólen.
+huusweğ
+Sul 't näit mit 't "a" fan "óóep" weesen?
+Hest duu fanmörn früüstükt?
+Stóót up föör däi striid! Beräid't jau tau d' angreep! Fecht't um jau leevend, jii aarbaiderfolk!
+Däi Fräisenbrüeğ bii däi oostfräisk stad Wäiner in Leeğsaksen is däi grôotst huub-draajbrüeğ föör d' iisderbóónferkeert fan Oiroopó.
+Däi ooverresten fan dat stóótsgefangenis, wor sük Sokrates in umbrocht het
+Skriiv móól doo duu d'r bii gaajst, dat wii us näit ooversniident
+Häi is hir däi läider. Man d'r bruukt häi 'n ledder föör.
+Funksjoonäärt dat noch altiid net soo gaud, as föördeem?
+Häi móókt net däi grund skoon.
+Säi móókt net däi grund skoon.
+Säi móókent net däi grund skoon.
+Jii móókent net däi grund skoon.
+Ik bün net akróót däi grund an 't skoonmóóken.
+Ik mus äinliik net däi grund skoonmóóken.
+Ik mus äinliik net däi grund hemmeln.
+Móókst duu fandóóeğ noch däi flaur skoon of móókst duu dat 'n anner móól?
+Säi hóótent dat, däi flaur skoon t' móóken.
+Wor blifst duu of móókt duu noch däi flaur skoon?
+In d' Feräint Stóóten wur däi pooliitisk aktiivist un inflaudrîik meedjenpersöönelkkaid Charlie Kirk doodskooten. Kirk hul net 'n preesentóósjoon an d' Utah Valley University, as häi róókt wur.
+Häi is in d' upperstûuf.
+Ik bün Chantal un bün sesuntwintiğ joer old. Ik woon in Wäiner un heb 'n hund mit d' nóóm Karlo
+Dat is 'n lütje biispilsats.
+Griitje Kammler läiderske fan 't Platdüütskbüroo fan d' Oostfräisk Landskup
+Dat haar as foelğ, dat Oen in 't maur fersunk.
+Soo is 't. Patois word't fóók net soo bruukt as dat benöymen Plat.
+Un wii hebbent dit móól je düüdelk meer reeklóóem móókt as anners.
+Dat lööv ik näit. Wel het dan dat móókt?
+Dat lööv ik näit. Wel het dat dan móókt?
+Undskülliğ asjeb'läivt miin lóóet antern un fööl dank föör diin reedaksjoonäel aarbaid! Ik heb noch 'n poer annerns föörnoomen (säi ördner in d' Drive), man 't leet al läip gaud.
+Duu büst äinliik däi enkeld lütje fründ, däi disser weerld ful fäien föör mii föörhul.
+Interessant, bedankt föör 't däilen :thumbsup: Let't däilwîis al häil näit soo ferkeert t' weesen, fin ik.
+Dat is fan sülst 'n proobleem föör dat moodel, besünners bii soo min dóóten.
+Dan bün ik fiilicht up 'n boorsdağ faalt mii net in. Paast dii dat ook up 'n anner dağ?
+Un diin moodel daajt altiid "fründen" as "kameróóden" ooversetten, man jii hebbent up Gröyngersk doch ook "vrunnen", of näit?
+Nóó NBC News wur Kirk nóó däi föörfal fan siin seekerhaidslüü weğbrocht.
+FBI-diirektoor Kash Patel däilde oover X mit, dat häi däi berichten oover däi skäiteräj ferfolğde. "Us gedanken bünt bii Charlie, siin lüü un âal däi bedruepen."
+FBI-diirektoor Kash Patel leet wiijó X mitdäilen, dat häi däi berichten oover däi skäiteräj ferfolğde. "Us gedanken bünt bii Charlie, siin lüü un âal däi bedruepen."
+Nuu heb ik nauğ fan disser häiel dookumenten! Dan bün ik eeven 'n släecht aarbaider! Ik kiik nuu noch 'n foelğ fan 'n seerje un dan góó ik man up bäer un fergeet dat âal! Bit dan!
+Nuu heb ik nauğ fan disser häiel dookumenten! Dan bün ik eeven 'n släecht aarbaider! Ik kiik nuu noch 'n uutgóóev fan 'n seerje un dan góó ik man up bäer un fergeet dat âal! Bit dan!
+Nuu heb ik nauğ fan disser häiel dookumenten! Dan bün ik eeven 'n t'löörstellend aarbaider! Ik kiik nuu noch 'n seerje un dan góó ik man up bäer un fergeet dat âal! Bit dan!
+Fandóóeğ bundswîid worskaaudağ
+Dat hannelt sük man up däi aljorelk worskaaudağ fan bund, lâan un kumuunen,
+Dat paasend dóóğgeldkuntoo bewort Jau besports seeker up.
+Dat is dat êerst stürferkloren fan 't fiinansamt
+Wat däi róósen in d' september unbedingt bruukt
+Heersteller röpt drööğmeskîin weegen brandgefoer t'rüeğ
+Woosoo gift dat äinliik in menniğ lâan linksferkeer?
+Woosoo altiid meer lâan stempels in d' raajspas ofskaffent
+Däi Oostfräisentee is 'n speesjäel, krachtiğ teemiskern uut Oostfräisland; häi bestaajt uut meerder swaartteetsoorden, hoovdsóókelk uut assaam. Man ook tee uut Srii Lankó un Óófriikó net as Zjaawó-, Summatró- un Derzjiilingtsoorden wordent d'r tau miskert.
+Däi hóót saajt sal hóót arnten.
+Bünt lüü, däi Plat prootent, ollerweerldsk? Nee, säi bünt meertóóliğ, säi hebbent 'n grooterder woordskat.
+Wat het diin mauder waleer kookt? Wekker spiisen kent man fandóóeğ bold näit meer?
+Dat dröönt gewaltiğ hir, beevt âals un miin hóón is ook up rik.
