@@ -15,8 +15,8 @@ config.json: 100% 1.33k/1.33k [00:00<00:00, 13.2MB/s]
   warnings.warn("Recommended: pip install sacremoses.")
 pytorch_model.bin: 100% 298M/298M [00:01<00:00, 258MB/s]
 generation_config.json: 100% 293/293 [00:00<00:00, 3.09MB/s]
-Loading dataset
-Finished loading dataset
+Loading poosiitiiveraset
+Finished loading poosiitiiveraset
 /content/oostfraeisk_translator/pretrained_frs_de/trainer.py:62: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
   trainer = Seq2SeqTrainer(
 model.safetensors: 100% 298M/298M [00:02<00:00, 145MB/s]
@@ -28,7 +28,7 @@ wandb: Enter your choice: 3
 wandb: You chose "Don't visualize my results"
 wandb: Tracking run with wandb version 0.19.11
 wandb: W&B syncing is set to `offline` in this directory. Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
-  0% 0/41616 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/data/data_collator.py:741: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
+  0% 0/41616 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/poosiitiivera/poosiitiivera_collator.py:741: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
   batch["labels"] = torch.tensor(batch["labels"], dtype=torch.int64)
 {'loss': 0.1149, 'grad_norm': 0.20063237845897675, 'learning_rate': 4.9400470972702815e-05, 'epoch': 0.07}
 {'loss': 0.0629, 'grad_norm': 0.17157073318958282, 'learning_rate': 4.879974048442907e-05, 'epoch': 0.14}

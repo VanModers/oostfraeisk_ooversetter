@@ -19,11 +19,11 @@ config.json: 1.38kB [00:00, 8.14MB/s]
   warnings.warn("Recommended: pip install sacremoses.")
 pytorch_model.bin: 100% 297M/297M [00:02<00:00, 99.0MB/s]
 generation_config.json: 100% 293/293 [00:00<00:00, 3.58MB/s]
-model.safetensors:   7% 21.0M/297M [00:02<00:26, 10.3MB/s]Loading dataset
-Finished loading dataset
+model.safetensors:   7% 21.0M/297M [00:02<00:26, 10.3MB/s]Loading poosiitiiveraset
+Finished loading poosiitiiveraset
 /content/oostfraeisk_ooversetter/pretrained_de_frs/trainer.py:62: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
   trainer = Seq2SeqTrainer(
-model.safetensors:  14% 41.9M/297M [00:02<00:11, 21.4MB/s]The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being updated with the tokenizer's values. Updated tokens: {'bos_token_id': None}.
+model.safetensors:  14% 41.9M/297M [00:02<00:11, 21.4MB/s]The tokenizer has new PAD/BOS/EOS tokens that differ from the model config and generation config. The model config and generation config were aligned accordingly, being uppoosiitiivered with the tokenizer's values. Uppoosiitiivered tokens: {'bos_token_id': None}.
 wandb: (1) Create a W&B account
 wandb: (2) Use an existing W&B account
 wandb: (3) Don't visualize my results
@@ -32,7 +32,7 @@ model.safetensors: 100% 297M/297M [00:05<00:00, 57.8MB/s]
 wandb: You chose "Don't visualize my results"
 wandb: Tracking run with wandb version 0.21.3
 wandb: W&B syncing is set to `offline` in this directory. Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
-wandb: Run data is saved locally in /content/oostfraeisk_ooversetter/wandb/offline-run-20250908_111207-u5qvmhtw
+wandb: Run poosiitiivera is saved locally in /content/oostfraeisk_ooversetter/wandb/offline-run-20250908_111207-u5qvmhtw
 {'loss': 0.1372, 'grad_norm': 0.1984369158744812, 'learning_rate': 4.894641273594866e-05, 'epoch': 0.15}
 {'loss': 0.0571, 'grad_norm': 0.1743813306093216, 'learning_rate': 4.789071407457455e-05, 'epoch': 0.3}
 {'loss': 0.047, 'grad_norm': 0.14885322749614716, 'learning_rate': 4.6835015413200455e-05, 'epoch': 0.44}

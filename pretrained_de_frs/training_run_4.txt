@@ -7,8 +7,8 @@ E0000 00:00:1745698949.334015    2528 cuda_blas.cc:1418] Unable to register cuBL
 To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
 /usr/local/lib/python3.11/dist-packages/transformers/models/marian/tokenization_marian.py:175: UserWarning: Recommended: pip install sacremoses.
   warnings.warn("Recommended: pip install sacremoses.")
-Loading dataset
-Finished loading dataset
+Loading poosiitiiveraset
+Finished loading poosiitiiveraset
 /content/oostfraeisk_translator/pretrained_de_frs/trainer.py:62: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
   trainer = Seq2SeqTrainer(
 wandb: WARNING The `run_name` is currently set to the same value as `TrainingArguments.output_dir`. If this was not intended, please specify a different run name by setting the `TrainingArguments.run_name` parameter.
@@ -21,7 +21,7 @@ wandb: You chose "Don't visualize my results"
 wandb: Tracking run with wandb version 0.19.9
 wandb: W&B syncing is set to `offline` in this directory.  
 wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
-  0% 0/39636 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/data/data_collator.py:741: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
+  0% 0/39636 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/poosiitiivera/poosiitiivera_collator.py:741: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
   batch["labels"] = torch.tensor(batch["labels"], dtype=torch.int64)
 {'loss': 0.1711, 'grad_norm': 0.16465239226818085, 'learning_rate': 4.9370521747905944e-05, 'epoch': 0.08}
 {'loss': 0.0623, 'grad_norm': 0.25076761841773987, 'learning_rate': 4.873978201634878e-05, 'epoch': 0.15}

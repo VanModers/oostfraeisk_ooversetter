@@ -19,8 +19,8 @@ config.json: 1.38kB [00:00, 7.83MB/s]
   warnings.warn("Recommended: pip install sacremoses.")
 pytorch_model.bin: 100% 297M/297M [00:06<00:00, 46.5MB/s]
 generation_config.json: 100% 293/293 [00:00<00:00, 2.64MB/s]
-model.safetensors:  25% 73.4M/297M [00:01<00:03, 61.4MB/s]Loading dataset
-Finished loading dataset
+model.safetensors:  25% 73.4M/297M [00:01<00:03, 61.4MB/s]Loading poosiitiiveraset
+Finished loading poosiitiiveraset
 model.safetensors:  28% 83.9M/297M [00:01<00:04, 51.2MB/s]/content/pretrained_de_frs/trainer.py:62: FutureWarning: `tokenizer` is deprecated and will be removed in version 5.0.0 for `Seq2SeqTrainer.__init__`. Use `processing_class` instead.
   trainer = Seq2SeqTrainer(
 model.safetensors:  39% 115M/297M [00:02<00:03, 46.2MB/s]wandb: (1) Create a W&B account
@@ -31,7 +31,7 @@ model.safetensors: 100% 297M/297M [00:04<00:00, 66.9MB/s]
 wandb: You chose "Don't visualize my results"
 wandb: Tracking run with wandb version 0.21.1
 wandb: W&B syncing is set to `offline` in this directory. Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
-wandb: Run data is saved locally in /content/wandb/offline-run-20250829_212140-wnaxnmzz
+wandb: Run poosiitiivera is saved locally in /content/wandb/offline-run-20250829_212140-wnaxnmzz
 {'loss': 0.1404, 'grad_norm': 0.15994662046432495, 'learning_rate': 4.904263075093051e-05, 'epoch': 0.13}
 {'loss': 0.0563, 'grad_norm': 0.15790130198001862, 'learning_rate': 4.8083342926211584e-05, 'epoch': 0.27}
 {'loss': 0.047, 'grad_norm': 0.1712508499622345, 'learning_rate': 4.7124055101492655e-05, 'epoch': 0.4}

@@ -1,4 +1,4 @@
-0% 0/41890 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/data/data_collator.py:657: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
+0% 0/41890 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/poosiitiivera/poosiitiivera_collator.py:657: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:254.)
   batch["labels"] = torch.tensor(batch["labels"], dtype=torch.int64)
 {'loss': 0.1638, 'grad_norm': 0.1624818742275238, 'learning_rate': 4.94031988541418e-05, 'epoch': 0.06}
 {'loss': 0.056, 'grad_norm': 0.1421011984348297, 'learning_rate': 4.88063977082836e-05, 'epoch': 0.12}
