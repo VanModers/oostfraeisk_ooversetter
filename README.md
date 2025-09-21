@@ -48,6 +48,11 @@ Token-wise Accuracy: 0.8418
 Avg Loss: 0.1224
 
 -------------------------------------------------------------------------------------
-de_frs_model_8 (current model)
+de_frs_model_8
 Token-wise Accuracy: 0.8456
 Avg Loss: 0.1085
+
+-------------------------------------------------------------------------------------
+de_frs_model_9 (current model)
+Token-wise Accuracy: 0.8583
+Avg Loss: 0.1072
