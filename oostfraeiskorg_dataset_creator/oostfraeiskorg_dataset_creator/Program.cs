@@ -9,6 +9,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 const int MAX_TEXT_LENGTH = 300;
 const int MANUAL_DATASET_MUL = 1;
+const int MANUAL_DATASET_COMB_MUL = 2;
 const int SQL_SEED = 42; // Set your desired seed value
 
 
@@ -235,9 +236,9 @@ List<DictionaryRow> getDictionaryContent(String commandText)
     return dictionaryRows;
 }
 
-static void Shuffle(List<List<String>> list)
+static void Shuffle(List<List<String>> list, int seed)
 {
-    Random rng = new Random(SQL_SEED);
+    Random rng = new Random(seed);
     int n = list.Count;
     while (n > 1)
     {
@@ -500,43 +501,46 @@ using (StreamWriter outputFileGerman = new StreamWriter(MapPath("data/german.txt
             frsTextsList.Add(new List<String>(new String[]{frsTexts[i], gerTexts[i]}));
         }
 
-        Shuffle(frsTextsList);
-
-        String finalGerString = "";
-        String finalFrsString = "";
-        bool first = false;
-        foreach (List<String> text in frsTextsList)
+        for (int i = 0; i < MANUAL_DATASET_COMB_MUL; i++)
         {
-            var frsString = text[0];
-            var gerString = text[1];
+            Shuffle(frsTextsList, SQL_SEED);
 
-            gerString = gerString.Replace("\n", " ");
-            frsString = frsString.Replace("\n", " ");
-
-           if (!String.IsNullOrEmpty(frsString) && !String.IsNullOrEmpty(gerString))
+            String finalGerString = "";
+            String finalFrsString = "";
+            bool first = false;
+            foreach (List<String> text in frsTextsList)
             {
-                gerString = CutSentenceIfNecessary(frsString, gerString);
+                var frsString = text[0];
+                var gerString = text[1];
 
-                frsString = AddPoint(FirstCharToUpper(frsString));
-                gerString = AddPoint(FirstCharToUpper(gerString));
-                if (!first)
+                gerString = gerString.Replace("\n", " ");
+                frsString = frsString.Replace("\n", " ");
+
+                if (!String.IsNullOrEmpty(frsString) && !String.IsNullOrEmpty(gerString))
                 {
-                    finalFrsString += frsString;
-                    finalGerString += gerString;
-                    Console.WriteLine(finalFrsString + "  :  " + finalGerString);
-                    outputFileGerman.WriteLine(finalGerString);
-                    outputFileEastFrisian.WriteLine(finalFrsString);
+                    gerString = CutSentenceIfNecessary(frsString, gerString);
 
-                    finalFrsString = "";
-                    finalGerString = "";
-                }
-                else
-                {
-                    finalFrsString += (frsString + " ");
-                    finalGerString += (gerString + " ");
-                }
+                    frsString = AddPoint(FirstCharToUpper(frsString));
+                    gerString = AddPoint(FirstCharToUpper(gerString));
+                    if (!first)
+                    {
+                        finalFrsString += frsString;
+                        finalGerString += gerString;
+                        Console.WriteLine(finalFrsString + "  :  " + finalGerString);
+                        outputFileGerman.WriteLine(finalGerString);
+                        outputFileEastFrisian.WriteLine(finalFrsString);
 
-                first = !first;
+                        finalFrsString = "";
+                        finalGerString = "";
+                    }
+                    else
+                    {
+                        finalFrsString += (frsString + " ");
+                        finalGerString += (gerString + " ");
+                    }
+
+                    first = !first;
+                }
             }
         }
 
