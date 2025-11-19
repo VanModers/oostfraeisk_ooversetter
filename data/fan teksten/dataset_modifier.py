@@ -37,6 +37,7 @@ def suggest_replacement(word, dictionary):
 
 def main():
     base_path = "data/fan teksten"
+    val_path = "validation data"
     ger_path = os.path.join(base_path, "german.txt")
     frs_path = os.path.join(base_path, "eastfrisian.txt")
     dict_path = os.path.join(base_path, "frs.dic")
