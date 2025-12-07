@@ -248,6 +248,7 @@
 1,8
 1.000
 1.018
+1.400
 1.862
 1.991
 10
@@ -289,6 +290,9 @@
 17
 17,9
 1780
+17:19
+17:25
+17:26
 18
 1812
 182
@@ -367,6 +371,7 @@
 2100
 21:08
 22
+22-9
 22-móól
 22:00
 237
@@ -405,6 +410,7 @@
 45-joriğ
 455
 463.090
+49
 490
 5
 5-prosent-hüerd
@@ -417,6 +423,7 @@
 502,5
 50€
 51
+52-joriğ
 53000
 53ste
 55-joriğ
@@ -456,6 +463,7 @@
 90
 90er-joer
 917
+93
 99
 :
 AFP
@@ -529,6 +537,7 @@ Adenauer
 Adje
 Advocatus
 AfD
+AfD-bóós
 AfD-huusholler
 AfD-politikker
 Afallach
@@ -605,6 +614,7 @@ Alexander
 Alfóóder
 Alfóóders
 Algeerjen
+Alice
 Aliits
 Aljâan
 Alkmâar
@@ -831,6 +841,7 @@ Bakker
 Bakkeräj
 Bakoovendsmee
 Balhoorn
+Balkanbâarğt
 Balkhuus
 Balster
 Baltikum
@@ -1426,6 +1437,7 @@ Büütsans
 C
 CD
 CDU
+CDU-buutenekspäert
 CDU-bóós
 CDU-politikker
 CHP
@@ -1454,6 +1466,7 @@ Cheopspürómîid
 Chicago
 Christian
 Christine
+Chrupalla
 Churchill
 City
 Cogat
@@ -1472,6 +1485,7 @@ D'r
 D.C
 DAK-Gesundheit
 DAX
+DB
 DDR
 DEG
 DHL
@@ -1546,6 +1560,7 @@ Depressjoonen
 Derk
 Dessau
 Dessauer
+Deutschlandfunk
 Diaboli
 Died
 Dietmar
@@ -1796,6 +1811,7 @@ EU-asüülagentüer
 EU-biitreedenskandidóót
 EU-binnenkummissaar
 EU-binnenminister-kuleegen
+EU-buutenbeupdrâağt
 EU-buutengrensen
 EU-delegóósjoon
 EU-fertreeden
@@ -1901,6 +1917,7 @@ Emius
 Emke
 Emmanuel
 Emmen
+Emmenegger
 Emmengó
 Emmens
 Emmó
@@ -1972,13 +1989,16 @@ Etioopien
 Etje
 Ettens
 Ettó
+Evelyn
 Everest
 Evers
+Evtl
 Ewangeelium
 Exascale-klâas
 F
 FBI-direktoor
 FNP
+FPD-ferdeegenspolitikkerske
 FSP
 FUEV
 Faajelman
@@ -2061,6 +2081,7 @@ Ferband
 Ferbinnensknóól
 Ferdeegensferbuen
 Ferdräit
+Ferdäilent
 Ferjağt
 Ferlooren
 Ferlóót
@@ -2271,6 +2292,7 @@ Freerkswerd
 Freerksäeğ
 Freewaarf
 Freewoel
+Freidóóğóóvendstemmen
 Freihaid
 Freimaud
 Freimaudswaarf
@@ -2428,6 +2450,7 @@ Fürtoorn
 Füürenkamp
 G
 G7
+GB
 GEAS
 GOOE.EU
 GPIAAF
@@ -2476,6 +2499,7 @@ Gammensder
 Gang
 Ganges
 Gannersem
+Gardasäj
 Garmäied
 Garsiins
 Gat
@@ -2893,12 +2917,14 @@ Hanoover
 Hanooversk
 Hanooversken
 Hans
+Hans-ailand
 Hansen
 Hansförrel
 Hansjörg
 Hanstiid
 Hanstiiden
 Hanöyver
+Hardt
 Harlinger
 Harlingerfräisk
 Harlingerland
@@ -3578,6 +3604,7 @@ Jaauer
 Jaauke
 Jaaukenbörğ
 Jabben
+Jacinto
 Jackson
 Jacobs
 Jaffó
@@ -3637,6 +3664,7 @@ Jelliistee
 Jelsgâast
 Jelske
 Jelsken
+Jelto
 Jenke
 Jenkii
 Jenkiis
@@ -3798,6 +3826,7 @@ Jümmiger
 Jümsäj
 Jürden
 Jürdenerfeld
+Jürgen
 Jürjen
 Jürn
 Jürnsdreisk
@@ -3846,6 +3875,7 @@ Kaimóónailâan
 Kain
 Kaisershof
 Kaiseräj
+Kaja
 Kalfóómer
 Kalfóómergat
 Kalifornien
@@ -3854,6 +3884,7 @@ Kalkman
 Kalkut
 Kalkuttó
 Kalkwaarf
+Kallas
 Kalle
 Kalverham
 Kalwiin
@@ -4786,6 +4817,7 @@ Margräiten
 Margräitenhof
 Mariannenhof
 Mariantje
+Marie-Agnes
 Mariino
 Marilyn
 Mariner
@@ -4918,6 +4950,7 @@ Mets
 Metsenbörğ
 Metsenheerd
 Metó
+Metó"
 Metónool
 Mi'em
 Mi'emer
@@ -5015,6 +5048,7 @@ Mooswaarven
 Morits
 Morte
 Moskaau
+Moskaau,
 Moskaau.
 Moskaauer
 Mossenbörğ
@@ -5148,10 +5182,16 @@ NAKO-partner
 NAKO-partners
 NASA
 NATO
+NATO-gebiit
 NATO-generóólsekreteer
 NATO-generóólsekreteer.
+NATO-gewest
 NATO-kuntrakt
 NATO-lidskup
+NATO-lâan
+NATO-lüchtruum
+NATO-stóóten
+NATO-territoorium
 NBC
 NDR
 NEITAUSNEE
@@ -5707,6 +5747,7 @@ Oseóónjers
 Osnóbrüeger
 Osnóbrüeğ
 Ossenkop
+Ossiitôort
 Oswald
 Otelloplóóet
 Othield
@@ -5735,6 +5776,7 @@ Palestiinensers
 Palestiinó
 Palestiinó-ankennen
 Palestine
+Palla
 Pallert
 Paltrok
 Palts
@@ -6011,6 +6053,7 @@ Ransenbül
 Rap
 Rasmus
 Rastdörp
+Ratio
 Rauden
 Rauderkampen
 Raudermaur
@@ -6042,6 +6085,7 @@ Reersem
 Reersterhôov
 Rees
 Ref'rmóótoorsk
+Regio
 Regum
 Regäärensbetsirk
 Regäärenstruppen
@@ -6061,6 +6105,7 @@ Rentenferseekern
 Renó
 Renóóet
 Republik
+Resepten
 Resultóót:
 Reuters
 Rewulusjoon
@@ -6770,6 +6815,7 @@ Stolhamsterdiik
 Stolhamsterwisk
 Stolteräj
 Store
+Strack-Zimmermann
 Stradivarius
 Strasbörğ
 Strategy
@@ -7218,6 +7264,7 @@ Timmeler
 Timmelerfeld
 Timor-Leste
 Timpenbörğ
+Tino
 Tirool
 Tjaard
 Tjaardshuusen
@@ -7452,6 +7499,7 @@ Tōkyō
 Tōkyōter
 UN-büro
 UN-flüğtlingsorgóónisóósjoon
+UN-seekerhaidsróód
 UNICEF
 UNO
 UNRWA
@@ -7459,6 +7507,7 @@ URL
 US-aautobaauer
 US-amerikóónsk
 US-bundsstóót
+US-böskupper
 US-department
 US-duller
 US-feersäisenner
@@ -7507,6 +7556,7 @@ Ulpt
 Ulpts
 Ulrike
 Ulsterhuusen
+Ultima
 Ultróräecht
 Ulven
 Ulvenbörğ
@@ -7689,6 +7739,7 @@ Walsrooder
 Walsrôod
 Walter
 Walter-Buubert-Siidlung
+Waltz
 Wams
 Wandó
 Wanger
@@ -7732,6 +7783,7 @@ Weert
 Weevershuusen
 Weeveräj
 Wegewitz
+Weidel
 Weigelt
 Weigâast
 Weil
@@ -10729,6 +10781,7 @@ angeneem
 angeneemer
 angeneemhaid
 angeneemhaiden
+angenêem
 angesichten
 angesichts
 angesiecht
@@ -11438,6 +11491,7 @@ anstorde
 anstoren
 anstreek
 anstreeken
+anstreevt
 anstrengen
 anstrengend
 anstrengens
@@ -11597,6 +11651,7 @@ antreedensbesöyk
 antreedensbesöyken
 antreedensföörleesen
 antreedensföörleesens
+antreedensräied
 antrekkelk
 antrekken
 antrekken.
@@ -11725,6 +11780,7 @@ apartment,
 apartmenten
 apartmenthuus
 apartmenthuusen
+apartments
 aparts
 apartsk
 aperitiif
@@ -13816,6 +13872,7 @@ beamtske
 beamtskes
 beandróógen
 beandróógens
+beanterde
 beantern
 beanternd
 beanterns
@@ -14918,6 +14975,7 @@ behuusens
 behuusent
 behuust
 behuust!
+behäimóót't
 behäimóóten
 behêer
 behêerst
@@ -14969,6 +15027,7 @@ beiisen
 beiivern
 beike
 beikes
+beindrükde
 beindrükken
 beindrükkend
 beindrükt
@@ -16308,6 +16367,7 @@ beslusfermöögens
 beslusföörmen
 beslusföörmens
 beslussen
+beslut't
 besluupen
 besluuten
 besluuter
@@ -16737,6 +16797,7 @@ besörgen
 besörgens
 besörger
 besörgers
+besörğ
 besörğde
 besörğt
 besöyk
@@ -17689,6 +17750,7 @@ biisskóóev
 biisskóóven
 biistand
 biistandsartikkel
+biistandsplicht
 biister
 biisterder
 biisterderder
@@ -20860,6 +20922,7 @@ breekboer
 breekboonen
 breekbor
 breekbôon
+breekdöörfal
 breekem
 breekems
 breeken
@@ -23432,6 +23495,7 @@ bóónbiljeeren
 bóónbreekend
 bóónbreeker
 bóónbreekers
+bóónbóós
 bóónde
 bóóndent
 bóóndest
@@ -23530,6 +23594,7 @@ bóósknecht
 bóósknechten
 bóóswaark
 bóóswaarken
+bóósäärde
 bóósäären
 bóósóól
 bóót
@@ -24235,6 +24300,7 @@ chatten
 checken
 cloud
 clouds
+co-parteibóós
 coach
 coachen
 coaching
@@ -24768,6 +24834,7 @@ deaktiiväärens
 debatten
 debatäären
 debatäärt
+debatäärt,
 debet
 debetten
 debiil
@@ -24864,8 +24931,10 @@ deerst
 deert
 deert!
 deeskaläären
+deeskaläärend
 deeskalóósjoon
 deeskalóósjoonen
+deeskóólóósjoon
 deest
 deet
 deeğs
@@ -25293,6 +25362,7 @@ desinfeksjoonsmiddels
 desinfisäären
 desinteressen
 desinteräes
+desiğnäärt
 deskriptiif
 desperäär
 desperäär!
@@ -25307,6 +25377,7 @@ desperäärt
 desperäärt!
 desperóósje
 desperóósjes
+destabiilisäärd
 destilläären
 destilläärt
 destillóósjoon
@@ -26508,6 +26579,7 @@ dorstellen
 dorstellens
 dorsteller
 dorstellers
+dorstun
 dorstóón
 dort
 dort!
@@ -27002,6 +27074,7 @@ drinkensbumkes
 drinkenspüel
 drinkenspüllen
 drinkent
+drinken😂🥰
 drinker
 drinkers
 drinkeräj
@@ -27071,6 +27144,7 @@ droondoppen
 droonen
 droonenangreep
 droonenangreepen
+droonenflüügen
 droonenmoert
 droonenmorten
 droonenslağ
@@ -30138,6 +30212,7 @@ düürven
 düürvent
 düürvst
 düüsen
+düüsenfluğtsoiğ
 düüsenjet
 düüsenjets
 düüster
@@ -30965,6 +31040,7 @@ eksistensminimó
 eksistensrecht
 eksistensrechten
 eksistent
+eksistäärde
 eksistäärdent
 eksistäären
 ekskludäären
@@ -31021,6 +31097,7 @@ ekspertîis
 eksplodäärde
 eksplodäären
 eksplodäärens
+eksplodäärt.
 eksplosjoon
 eksplosjoonen
 eksponäären
@@ -31852,6 +31929,7 @@ etümolooğsk
 event
 events
 evenäien
+evtl
 ewangeelien
 ewangeelist
 ewangeelisten
@@ -32197,6 +32275,7 @@ fakskup
 fakskuppen
 fakt
 fakten
+faktenlóógen
 faktisk
 faktoiid
 faktoiiden
@@ -33907,6 +33986,7 @@ ferdeegendest
 ferdeegener
 ferdeegeners
 ferdeegens
+ferdeegensbund
 ferdeegensetó
 ferdeegensetós
 ferdeegensfeeiğkaid,
@@ -34508,6 +34588,7 @@ ferfóótensbeswêerd
 ferfóótensmóótiğ
 ferfóótensorgóón
 ferfóótensorgóónen
+ferfóótensrichter
 ferfóótensskuts
 ferfóótensskutsen
 ferfóótent
@@ -34798,6 +34879,7 @@ ferhangsel
 ferhangsels
 ferhanneln
 ferhannelns
+ferhannelnstóóvel
 ferhannelt
 ferhaspeln
 ferhassen
@@ -36897,6 +36979,7 @@ ferspiikerns
 ferspiilen
 ferspiilt
 ferspiisen
+ferspiist
 ferspillen
 ferspilt
 ferspinnen
@@ -37399,6 +37482,7 @@ fertrauthaiden
 fertred't
 fertreeden
 fertreedens
+fertreedensmester
 fertreedent
 fertreeder
 fertreeders
@@ -38551,6 +38635,7 @@ finansministeerium
 finansminister
 finansministers
 finanspolitisk
+finanstsentren
 finansweerld
 finanszjenii
 finanszjeniis
@@ -39512,6 +39597,7 @@ fluğhóóven
 fluğhóóvens
 fluğmeskiinen
 fluğmeskîin
+fluğobjekten
 fluğplats
 fluğplatsen
 fluğselskup
@@ -40170,6 +40256,7 @@ footokupäären
 footomodel
 footomodels
 footos
+footos,
 footosünteesen
 footosüntêes
 footowinkel
@@ -40598,6 +40685,7 @@ freedelk
 freedelkkaid
 freedelkkaiden
 freeden
+freedensbemaiens
 freedenskunferens
 freedenskunferensen
 freedenskuntrakt
@@ -42033,6 +42121,7 @@ för!
 förde
 fördent
 förder
+förderkebîin
 förders
 förderskiin
 förderskiins
@@ -44265,6 +44354,8 @@ gefolgen
 gefolğ
 gefor
 geforbetsirken
+geford'de
+geford't
 gefordelk
 gefordelkkaid
 gefordelkkaiden
@@ -44785,6 +44876,7 @@ generóólfergóódern
 generóólisäärens
 generóólprooven
 generóólprôov
+generóólsekreteer
 generóólwikaar
 generóólwikaaren
 generóósjoon
@@ -45654,6 +45746,7 @@ giftwulken
 giftwâajt
 gift❣️
 giibel
+giibelde
 giibeln
 giibelnt
 giibelt
@@ -47108,6 +47201,7 @@ grensskütsers
 grensslood
 grensslooden
 grensstriiden
+grenstrekken
 grensäj
 grensäjen
 grenóóet
@@ -49070,6 +49164,7 @@ haarsttiidlöesen
 haarsttiids
 haarsttäilt
 haarsttäilten
+haarstuurlaaub
 haarstwald
 haarstweller
 haarstwien
@@ -51864,6 +51959,7 @@ holteeksters
 holtekkelteeven
 holtekkeltêev
 holten
+holten brüeğ
 holtens
 holtensetter
 holtensetters
@@ -52875,8 +52971,8 @@ husaar
 husaaren
 husaarenslóód
 husaarenslóóden
-hushollensdebatten
-hushollensdebâat
+huushollensdebatten
+huushollensdebâat
 huss
 hussen
 hut
@@ -53069,6 +53165,7 @@ huushollensartikkel
 huushollensartikkels
 huushollensbaukje
 huushollensbaukjes
+huushollensdefisiit
 huushollenseksperten
 huushollensferforen
 huushollensfören
@@ -56697,6 +56794,7 @@ jungerman
 jungers
 jungerskup
 jungerskuppen
+jungfermóólten
 jungfolk
 jungfolken
 jungfolksmaarkten
@@ -59178,6 +59276,7 @@ kiilobytes
 kiilogram
 kiilogrammen
 kiilomeeter
+kiilomeeter.
 kiilomeeters
 kiilomeeterstäin
 kiilomeeterstäinen
@@ -65024,6 +65123,7 @@ kunseern
 kunseernen
 kunseernstruktüer
 kunseernstruktüren
+kunseerntop
 kunsekräären
 kunsekróósjoon
 kunsekróósjoonen
@@ -66337,6 +66437,7 @@ käisoordäil
 käisoordäilen
 käispot
 käispotten
+käisprodusent
 käispräes
 käispräesen
 käisraspen
@@ -67852,6 +67953,7 @@ landgaud
 landgauden
 landgemäien
 landgemäinden
+landgräens
 landgróóf
 landgróófen
 landheer
@@ -69574,6 +69676,7 @@ likwiidóótooren
 likwîid
 lillen
 lilló
+lime-gin
 limetten
 limit
 limits
@@ -69662,6 +69765,7 @@ lipsöyt
 lispelachtiğ
 lispeln
 list
+list't
 listen
 listens
 listiğ
@@ -69767,6 +69871,7 @@ lokfink
 lokfinken
 lokforder
 lokforders
+lokförderskiin
 lokföögel
 lokföögels
 lokhüüdel
@@ -71161,6 +71266,7 @@ lüchthuupen
 lüchthóóven
 lüchthóóvens
 lüchthûup
+lüchtinlóót
 lüchtiğ
 lüchtje
 lüchtjes
@@ -71193,6 +71299,7 @@ lüchtofweer
 lüchtofweeren
 lüchtofweerrekeeten
 lüchtofweerrekêet
+lüchtofweersüsteemen
 lüchtoorlaugen
 lüchtoorlauğ
 lüchtpiipen
@@ -71203,6 +71310,7 @@ lüchtpumpen
 lüchtpunkt
 lüchtpîip
 lüchtruum
+lüchtruumbeseerens
 lüchtruumen
 lüchtrör
 lüchtrörs
@@ -71961,6 +72069,7 @@ manachtiğ
 management
 managements
 managen
+manager
 mandağ
 manderiinen
 manderiinóónt
@@ -72592,6 +72701,7 @@ meedien!
 meedien.
 meedien?
 meedienbericht
+meedienberichten.
 meedienmoguul
 meedienmoguulen
 meedienpersöönelkkaid
@@ -74093,6 +74203,7 @@ misgissens
 misglük
 misglükde
 misglükken
+misglükt
 misgreep
 misgreepen
 misgriipen
@@ -77284,6 +77395,7 @@ nooddööep
 nooddööpen
 noodelk
 nooden
+noodfergóódern
 noodferkäisen
 noodferkäisens
 noodgefal
@@ -80753,6 +80865,7 @@ ooverkweeren
 ooverkweerens
 ooverkweerensfersöyk
 ooverkweerensfersöyken
+ooverkweert
 ooverkâant
 ooverkêev
 ooverkööer
@@ -81493,6 +81606,7 @@ paddels
 paddriiver
 paddriivers
 padferlooren
+padfinners
 padflööer
 padflöören
 padhaarken
@@ -84198,6 +84312,7 @@ pootbôon
 pooteerden
 pooten
 pootend
+pootent
 pooterğ
 pootii
 pootiis
@@ -84408,6 +84523,7 @@ potensen
 potensióól
 potensióól,
 potensióólen
+potensjel
 potensjäel
 potensäären
 potent
@@ -85189,6 +85305,7 @@ prowisjoonsbóósis
 prowisoorsk
 prowokóósjoon
 prowokóósjoonen
+prowokóósjoonen.
 prowosäären
 prowosäären,
 prowosäärend
@@ -86941,8 +87058,10 @@ reagensen
 reagensglas
 reagensglóósen
 reagäärde
+reagäärde.
 reagäärdent
 reagäären
+reagäären.
 reagäärt
 reaksjoon
 reaksjooneer
@@ -87723,6 +87842,7 @@ replisäären
 repo
 report
 reporter
+reporterfróóeğ
 reporters
 reports
 reportäären
@@ -88044,6 +88164,7 @@ richterliik
 richterlîik
 richters
 richterskes
+richterwóól
 richtiğ
 richtiğkaid
 richtiğkaiden
@@ -88410,6 +88531,7 @@ riskaansen
 riskant
 riskâans
 riskâant
+riskäärde
 riskäären
 riskäärent
 rispen
@@ -91558,6 +91680,7 @@ serwii
 serwiis
 serwiäet
 serwäären
+serwäärt
 ses
 sesduumspiiker
 sesduumspiikers
@@ -92077,6 +92200,7 @@ situäärt
 situóósjoon
 situóósjoon.
 situóósjoonen
+situóósjoonen,
 situóósjoontäiken
 situóósjoontäikens
 siómang
@@ -92448,6 +92572,7 @@ skapslóóden
 skapst
 skapt
 skapt!
+skaptóóvel
 skarlii
 skarliis
 skarnären
@@ -92637,6 +92762,7 @@ skaulwaarf
 skaulwaarven
 skaulwicht
 skaulwichter
+skaulwêek
 skaulörnen
 skaulörnens
 skaumóóker
@@ -101795,6 +101921,7 @@ stóólkes
 stóólkâap
 stóólplóóet
 stóólplóóten
+stóólproduksjoon
 stóólrad
 stóólróóden
 stóólrör
@@ -101896,6 +102023,7 @@ stóótssekreteeren
 stóótstrüer
 stóótstrüren
 stóótsuprichten
+stóótsäigen
 stóóttiiken
 stóóttîik
 stóótus
@@ -102424,6 +102552,8 @@ sumtiids
 sumwiilst
 sun
 sund
+sund!!(Emden
+sund!!(Äisens
 sundhaid
 sundhaidelk
 sundhaiden
@@ -102567,6 +102697,7 @@ surtjespanner
 surtjespanners
 surtjeuulke
 surtjeuulkes
+sushi-restaaurants.
 suspekt
 suspendäären
 suspendäärens
@@ -104763,6 +104894,7 @@ sünnernüümten
 sünnerrecht
 sünnerrechten
 sünnerriik
+sünnersittens
 sünnerskaul
 sünniğ
 sünonüüem
@@ -106217,6 +106349,7 @@ teegenloopen
 teegenluuken
 teegenläiden
 teegenlöpt
+teegenmóótreegels
 teegennanner
 teegenoopen
 teegenoover
@@ -107757,6 +107890,7 @@ trainer
 trainers
 trainerstaf
 trainerstóóven
+trainerteam
 training
 training,
 training-approach
@@ -108103,6 +108237,7 @@ trielens
 trielent
 trielfeen
 trielfeenen
+trielpartäj
 trielswammen
 trielswâam
 trielt
@@ -110958,6 +111093,7 @@ uer
 uern
 ues
 uesent
+ufm
 ukrainsk
 uldekollonje
 ulfertskoel
@@ -111411,6 +111547,7 @@ unachtsóóm
 unachtsóómkaid
 unachtsóómkaiden
 unainstiğ
+unakróóet
 unakróót
 unangeneem
 unangeneemhaid
@@ -112659,6 +112796,7 @@ unräid
 unräidelk
 unräidelkkaid
 unräidelkkaiden
+unräidenäärt
 unróód
 unróóden
 unróókt
@@ -115931,6 +116069,7 @@ weerldmachten
 weerldmaisterskaft
 weerldmaisterskaften
 weerldmâarkt
+weerldmäinskup
 weerldnaffel
 weerldnaffels
 weerldniwoo
@@ -118034,6 +118173,7 @@ worskaauensskild
 worskaauensskiller
 worskaauensstap
 worskaauensstappen
+worskaauenssüsteem
 worskaauenswesten
 worskaauenswäest
 worskaauent
@@ -120985,6 +121125,7 @@ zjüüden
 öljeslóógers
 öljeslóógeräj
 öljeslóógeräjen
+öljestand
 öljestäin
 öljestäinen
 öljetakken
@@ -121288,7 +121429,10 @@ zjüüden
 „Burdsch
 „Tokyo
 …
+☀️
+♥️
 ⚫🔴🔵
+⚽
 ❤️
 👍
 😂
