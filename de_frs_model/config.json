@@ -48,7 +48,7 @@
   "scale_embedding": true,
   "share_encoder_decoder_embeddings": true,
   "static_position_embeddings": true,
-  "transformers_version": "4.57.1",
+  "transformers_version": "4.57.3",
   "use_cache": true,
   "vocab_size": 57567
 }

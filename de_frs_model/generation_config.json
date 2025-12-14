@@ -13,5 +13,5 @@
   "num_beams": 4,
   "pad_token_id": 57566,
   "renormalize_logits": true,
-  "transformers_version": "4.57.1"
+  "transformers_version": "4.57.3"
 }
