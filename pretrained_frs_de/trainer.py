@@ -45,13 +45,19 @@ data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 training_args = Seq2SeqTrainingArguments(
     output_dir="./frs_de_model",
     eval_strategy="epoch",  # Evaluate after every epoch
-    save_strategy="no",  # Save model after every epoch
-    per_device_train_batch_size=32,
-    per_device_eval_batch_size=32,
+    save_strategy="no",
+    per_device_train_batch_size=128,
+    per_device_eval_batch_size=128,
     num_train_epochs=7,
     save_total_limit=2,
     logging_dir="./logs",
     predict_with_generate=True,  # Ensure generation during evaluation
+    bf16=True,  # Use bfloat16 mixed precision
+    dataloader_num_workers=4,  # Parallel data loading
+    dataloader_pin_memory=True,  # Faster CPU->GPU transfer
+    torch_compile=True,  # PyTorch 2.0+ compilation for speed
+    optim="adamw_torch_fused",  # Fused AdamW optimizer (faster on GPU)
+    gradient_checkpointing=False,  # Disable for speed (enable if OOM)
 )
 
 # Load your dataset
