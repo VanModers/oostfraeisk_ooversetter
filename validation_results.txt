@@ -36,6 +36,6 @@ BLEU Score: 46.90
 
 -------------------------------------------------------------------------------------
 de_frs_model_9 (current model)
-Token-wise Accuracy: 0.8587
-Avg Loss: 0.0949
-BLEU Score: 51.01
+Token-wise Accuracy: 0.8598
+Avg Loss: 0.0938
+BLEU Score: 51.13
