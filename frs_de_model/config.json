@@ -15,8 +15,8 @@
   "decoder_ffn_dim": 2048,
   "decoder_layerdrop": 0.0,
   "decoder_layers": 6,
-  "decoder_start_token_id": 57566,
-  "decoder_vocab_size": 57567,
+  "decoder_start_token_id": 58100,
+  "decoder_vocab_size": 58101,
   "dropout": 0.1,
   "dtype": "float32",
   "encoder_attention_heads": 8,
@@ -25,6 +25,7 @@
   "encoder_layers": 6,
   "eos_token_id": 0,
   "forced_eos_token_id": 0,
+  "gradient_checkpointing": false,
   "id2label": {
     "0": "LABEL_0",
     "1": "LABEL_1",
@@ -44,11 +45,11 @@
   "normalize_embedding": false,
   "num_beams": null,
   "num_hidden_layers": 6,
-  "pad_token_id": 57566,
+  "pad_token_id": 58100,
   "scale_embedding": true,
   "share_encoder_decoder_embeddings": true,
   "static_position_embeddings": true,
   "transformers_version": "4.57.3",
   "use_cache": true,
-  "vocab_size": 57567
+  "vocab_size": 58101
 }
