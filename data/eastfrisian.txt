@@ -58467,10 +58467,10 @@ Likwiidóótoor is mooj.
 Likwiidóótoor is läif.
 Likwiidóótoor is interessant.
 Likwiidóótoor kan ik näit säin.
-Marsj is mooj.
-Marsj is läif.
-Marsj is interessant.
-Marsj kan ik näit säin.
+marsk is mooj.
+marsk is läif.
+marsk is interessant.
+marsk kan ik näit säin.
 Móótstok is mooj.
 Móótstok is läif.
 Móótstok is interessant.
@@ -58667,10 +58667,10 @@ Kurhuus is mooj.
 Kurhuus is läif.
 Kurhuus is interessant.
 Kurhuus kan ik näit säin.
-Marsjal is mooj.
-Marsjal is läif.
-Marsjal is interessant.
-Marsjal kan ik näit säin.
+marskal is mooj.
+marskal is läif.
+marskal is interessant.
+marskal kan ik näit säin.
 Moped is mooj.
 Moped is läif.
 Moped is interessant.
@@ -58871,10 +58871,10 @@ Burenróód is mooj.
 Burenróód is läif.
 Burenróód is interessant.
 Burenróód kan ik näit säin.
-Marsjmello is mooj.
-Marsjmello is läif.
-Marsjmello is interessant.
-Marsjmello kan ik näit säin.
+marskmello is mooj.
+marskmello is läif.
+marskmello is interessant.
+marskmello kan ik näit säin.
 Mopedforder is mooj.
 Mopedforder is läif.
 Mopedforder is interessant.
@@ -58967,10 +58967,10 @@ Limit is mooj.
 Limit is läif.
 Limit is interessant.
 Limit kan ik näit säin.
-Marsjrichten is mooj.
-Marsjrichten is läif.
-Marsjrichten is interessant.
-Marsjrichten kan ik näit säin.
+marskrichten is mooj.
+marskrichten is läif.
+marskrichten is interessant.
+marskrichten kan ik näit säin.
 Didaktik is mooj.
 Didaktik is läif.
 Didaktik is interessant.
@@ -84217,7 +84217,7 @@ hooğlóóden
 unnerörnen
 lillen
 lillen
-marsjäären
+marskäären
 plumpsen
 hooğloopen
 hooğloopen
@@ -89008,7 +89008,7 @@ griflaagen
 griflaagen
 griflaagen
 wümmeln
-lösmarsjäären
+lösmarskäären
 ofkröypeln
 ofkröypeln
 ofkröypeln
@@ -90592,7 +90592,7 @@ seelen
 speeren
 uphaarken
 uphaarken
-anmarsjäären
+anmarskäären
 luksen
 luksen
 luksen
@@ -109202,8 +109202,8 @@ Dat is Alexander Dobrindt siin êerst uptreeden in d' ruen fan âal EU-binnenmin
 Dat is Alexander Dobrindt siin êerst uptreeden in d' ruen fan âal EU-binnenminister-kuleegen. Däi düütsk grenskuntrullen sal häi d'r näjs ferkloren mauten.
 Man in Koopenhóógen wil häi f'râal wiisen, "dat Düütskland bii migróósjoonsteemen in Oiropó näit meer in 't bremserhuuske sit't, man in d' lokomotîiv". Dat haar däi düütsk binnenminister al äen ferleeden wêek bii d' sülst anset't migróósjoonstopdräepen up d' Zugspitze ferklort.
 Man in Koopenhóógen wil häi f'râal wiisen, "dat Düütskland bii migróósjoonsteemen in Oiropó näit meer in 't bremserhuuske sit't, man in d' lokomotîiv". Dat haar däi düütsk binnenminister al äen ferleeden wêek bii d' sülst anset't migróósjoonstopdräepen up d' Zugspitze ferklort.
-Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marsjrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld."
-Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marsjrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld."
+Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marskrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld."
+Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marskrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld."
 D'r mit heerinnert Brunner ook d'r an, dat fööl fan dat, wat up d' Zugspitze fors föördert wur, fan däi EU-kummisjoon al lâang anskooven wur. Plóónen, däi oover däi feräinbort asüül- un migróósjoonsreföörm (GEAS) uutgóónt, däi 's sömmers 2026 kumpleet griipen sal.
 D'r mit heerinnert Brunner ook d'r an, dat fööl fan dat, wat up d' Zugspitze fors föördert wur, fan däi EU-kummisjoon al lâang anskooven wur. Plóónen, däi oover däi feräinbort asüül- un migróósjoonsreföörm (GEAS) uutgóónt, däi 's sömmers 2026 kumpleet griipen sal.
 Fandóóeğ in Koopenhóógen sal wiider beróóden worden. Bii föörbild "bii dat teemó ofskuuvens un t'rüeğförens, wor wii nuu t'läest ook näej möögelkkaiden skoopen hebbent", see Brunner. Öösterriik - siin häimóótland - haar t'läest nóó Süürien tau ofskooven. Düütskland nóó Afgóónistóón tau.
@@ -121158,7 +121158,7 @@ Dat köönent Jii näit móóken. Man dan hebbent s' ook weer soo wat as "äen" 
 Ik wacht al siit twei üer up jau. Däi twei sköötoffers befinnent sük up d' intensiifstóósjoon fan 'n krankenhuus diecht bii.
 Ik hol dat föör unworskiinelk, dat Tom interäes hebben kun, dii diin oel MP3-spööler of t' koopen. Tom maut fööer d' fiiftâajnt fan d' tauken móónd siin pas fernäjen lóóten.
 Dat klingt föör mii ror. Tom het in 't holt 'n beseert föögel funnen un hum weer sund pleeğt.
-Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marsjrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld.". Siin beneemen up d' fier was soo ror, dat ik näit anners kun as t' laagen.
+Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marskrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld.". Siin beneemen up d' fier was soo ror, dat ik näit anners kun as t' laagen.
 Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noorder Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit. An anfang fun Tom Fransk stur, doch nuu holt häi 't föör makkelk.
 Doo häi näit soo fööl feersäin kiiken dee, haar häi meer tiid tau 't leeren. Jii hebbent hum dor.
 Däi möögelkkaid kan näit uutslooten worden, dat däi eksplosjoon döör nóólóótiğkaid feroorsóókt wur. Tom see an Marió, dat säi f'rsichtiğ weesen sullent, däi gastfründskup näit oover t' strapóósäären.
@@ -125051,7 +125051,7 @@ Däi baargen fan d' Himalaya bünt hooger as däi fan d' Anden. Wii hebbent us b
 Tom het drei süsters: äien leevt in Aaustróóljen un däi anner bâajd in Neiseiland. Haartelk greläärt tau d' boorsdağ Sven!
 Wii dürent us näit däi tweidrağt hengeeven. Tom stopde däi 20-duller-skiin, däi Marió hum geeven haar, in siin hemdtaaske.
 Umfangrîik reföörms fan d' sosjóólstóót - dat het sük däi swaart-rôod koalisjoon föörnoomen. Man oover 't woo bóónt sük 'n skäel an. Säi sal up d' 10. junii fan dit joer 6 joer traaut weesen.
-Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marsjrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld.". Um dat häi dat probleem soo näit löesen kun, fersöch häi 't anners.
+Up däi Zugspitze was d'r ook EU-binnenkummissaar Magnus Brunner mit bii - un däi siin marskrichten was ook düüdelk: "Oiropó word't ennelk haarder in fróógen fan d' asüülpolitik. Dat is dat undskäidend: Wii köönent disser uutdóógens bloot mäinsóóm löesen - näit elk föör sük, näit elk äien enkeld.". Um dat häi dat probleem soo näit löesen kun, fersöch häi 't anners.
 Tom kun däi möögelkkaid näit häil uutsluuten, dat häi eeventuel undlóóten wur. Säi gung läip f'rsichtiğ.
 Tachentiğ. Däi êerst bâajd woorden het diin ooversetter uut disser sats toovert: McDonalds, altiid 'n gâaud fangst!
 Tom beweert altiid, däi bäest metôod, 'n gâaud tâas kofje t' ferdaarven was 't, tsukker un room d'r in t' kippen. Mäinst duu, Tom haar lüst, tauken weekenäen mit us telten t' góón?
