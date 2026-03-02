@@ -356,6 +356,7 @@ using (StreamWriter outputFileGerman = new StreamWriter(MapPath("data/german.txt
         "AND Wortart = 'Substantiv' " +
         "ORDER BY RandomOrder " +
         "LIMIT 5000");
+        //"LIMIT 0");
 
     foreach (var dictionaryRow in dictionaryRows)
     {
@@ -404,7 +405,8 @@ using (StreamWriter outputFileGerman = new StreamWriter(MapPath("data/german.txt
         "WHERE Deutsch != '-' " +
         "AND Wortart = 'Verb' " +
         "ORDER BY RandomOrder " +
-        "LIMIT 5000");
+        //"LIMIT 5000");
+        "LIMIT 0");
 
     foreach (var dictionaryRow in dictionaryRows)
     {
@@ -439,7 +441,8 @@ using (StreamWriter outputFileGerman = new StreamWriter(MapPath("data/german.txt
         "WHERE Deutsch != '-' " +
         "AND Wortart = 'Adjektiv' " +
         "ORDER BY RandomOrder " +
-        "LIMIT 5000");
+        //"LIMIT 5000");
+        "LIMIT 0");
 
     foreach (var dictionaryRow in dictionaryRows)
     {
