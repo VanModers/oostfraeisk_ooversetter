@@ -1,6 +1,6 @@
 Küükelüüküü! Däi rôod hóón truk siin gollen spooren an.
 Woo wiid wult duu dan riiden? Fan hir nóó Lammerdiiden.
-Doo häi tau d' Lammerdiiden kwam doo sat däi kau bii 't füer un spun dat kalf lağ in däi wäieğ un sung däi hund däi kemde d' botter däi kâat wusker d' sköddels däi fleddermuus däi feğ dat huus däi swóólfkes droogent d' drek d'r uut mit höör gollen flöögels bünt dat näit diek löögens? Dor achter d' grôot skürdööer dor sattent drei hóónruunen fööer dor bakdent s' dor broodent s' dat bäär wul höör fersuren dor reepent s' däi buren däi buren wurdent drunken doo dansdent säi up klumpen däi klumpen gungent stükken doo dansdent säi up krükken däi krükken gungent of dor dansdent säi up 't hof dat hof dat was soo glad dor lağğent âal buren plat.
+Doo häi tau d' Lammerdiiden kwam doo sat däi kau bii 't füer un spun dat kalf lağ in däi wäieğ un sung däi hund däi kemde d' botter däi kâat wusker d' sköddels däi fleddermuus däi feğ dat huus däi swóólfkes droogent d' drek d'r uut mit höör gollen flöögels bünt dat näit diek löögens? Dor achter d' grôot skürdööer dor sattent drei hóónruunen fööer dor bakdent s' dor broodent s' dat bäär wul höör fersuren dor reepent s' däi buren däi buren wurdent drunken doo dansdent säi up klumpen däi klumpen gungent stükken doo dansdent säi up krükken däi krükken gungent of dor dansdent säi up d' hof däi hof dat was soo glad dor lağğent âal buren plat.
 Wangerooğ däi skôon Spiikerooğ däi krôon Langerooğ is 'n botterfat Baltrem is 'n sandgat Nördernäj dat rooverland Jüüst is dat tooverland Börkemer melken kauje un bruukent drek as brand Röttemooğ dat aierland Münkooğ dat baierland däi Amlanner skalken hebbent stoolen drei balken 's óóvends doo däi móón was reesen däi gâalğ sal höör wóópen weesen up T'rskillenk staajt 'n hôoğ toorn Fliiland het siin nóóm ferlooren Tessel liğt in 't seigat däi lüü fan d' heller seedent dat
 Däi neegen laugen fan Auerk: Eksem Haksem Róó dor haauent s' sük mit d' spóó. In Wâal dor woonent däi skelms un däiven âal. Däi Sandhöster heer rid't up appelgrîis pêer. In Waalenhuusen dor slóónt s' sük mit kuusen däi oel wiiven mit späiken dat kun wal Walkenkuusen häiten. Eegels liğt bii d' siid däi gâalğ is dor näit wiid. Poopens is 'n lauğ Ka'dörp is 'n plauğ. Neegen laugen un äin stad hebbent t'sóómen äin slöödelgat.
 Wäitent jii wor gaud woonen is? In Westerhuusen wor 't altiid sömmer is. In Mi'em stóónt däi ekkelboomen bii Fräibsem góónt däi wóóterstroomen. Kóónem is 'n kinkkank Päisem is 'n tsingtsang. Wookerd is 'n rad Groothuusen is 'n stad Plee'werd is 'n purgat. Kampen liğt soo mooj in d' ruen. Lookerd liğt häil ferkeert. Riisemer buren hebbent heksen leert.
@@ -5550,7 +5550,7 @@ us mauder bakt lekker pankauken mit appelskiiven
 wat daajt man mit 'n huus doo man kiin wiif het?
 wat däi äien siin ûul is däi anner siin nachtgal
 wat eerst 'n klüngel is dat is ook bold 'n hâaur
-wat haarent säi 't drok fan 't hof of tau koomen
+wat haarent säi 't drok fan d' hof of tau koomen
 wat hebbent wii d'r up hochtiid föör 'n lüst hat
 wat hest duu dor nuu weer föör küren bii 't äen?
 wat is dat fandóóeğ föör 'n lüüderäj in d' stad?
@@ -14438,7 +14438,7 @@ t'läest kwam däi wóógen anjağt
 tüsken dööer un drüppel weesen
 up äin bäin kan man näit stóón
 up bâajd siiden gaf dat dooden
-up dat hof fan d' köönenk góón
+up däi hof fan d' köönenk góón
 up oel iis früst 't 't makkelk
 up 't gemak tau bröyden sitten
 us maudet is old un gebrekkelk
@@ -22577,7 +22577,7 @@ dat het hum ferdrooten
 dat het hum gaud róókt
 dat het 'n bummel west
 dat het sük je beweert
-dat hof um 't huus tau
+däi hof um 't huus tau
 dat höört d'r näit hen
 dat höört d'r näit hen
 dat höört hum half mit
@@ -27313,7 +27313,7 @@ t' döörsicht liegen
 't gift sük soo wat
 't helt d'r nóó tau
 't het sük ferlet't
-'t hof fan Spóónjen
+d' hof fan Spóónjen
 't is âal ennelholt
 't is âal ferbruukt
 't is âal ferdweert
@@ -40596,7 +40596,7 @@ Häi drükt dat folk allerweegens wor häi man kan. Häi het 't beeter.
 Häi kwetskert dat köt. Teegen pokken imfen.
 An d' böön. Ik kan mit hum näit króómen.
 Wel siin baudels beräiden. Koopern gaud.
-Küükelüüküü! Däi rôod hóón truk siin gollen spooren an. Woo wiid wult duu dan riiden? Fan hir nóó Lammerdiiden. Doo häi tau d' Lammerdiiden kwam doo sat däi kau bii 't füer un spun dat kalf lağ in däi wäieğ un sung däi hund däi kemde d' botter däi kâat wusker d' sköddels däi fleddermuus däi feğ dat huus däi swóólfkes droogent d' drek d'r uut mit höör gollen flöögels bünt dat näit diek löögens? Dor achter d' grôot skürdööer dor sattent drei hóónruunen fööer dor bakdent s' dor broodent s' dat bäär wul höör fersuren dor reepent s' däi buren däi buren wurdent drunken doo dansdent säi up klumpen däi klumpen gungent stükken doo dansdent säi up krükken däi krükken gungent of dor dansdent säi up 't hof dat hof dat was soo glad dor lağğent âal buren plat. Däi klukhäen lokt höör küükens.
+Küükelüüküü! Däi rôod hóón truk siin gollen spooren an. Woo wiid wult duu dan riiden? Fan hir nóó Lammerdiiden. Doo häi tau d' Lammerdiiden kwam doo sat däi kau bii 't füer un spun dat kalf lağ in däi wäieğ un sung däi hund däi kemde d' botter däi kâat wusker d' sköddels däi fleddermuus däi feğ dat huus däi swóólfkes droogent d' drek d'r uut mit höör gollen flöögels bünt dat näit diek löögens? Dor achter d' grôot skürdööer dor sattent drei hóónruunen fööer dor bakdent s' dor broodent s' dat bäär wul höör fersuren dor reepent s' däi buren däi buren wurdent drunken doo dansdent säi up klumpen däi klumpen gungent stükken doo dansdent säi up krükken däi krükken gungent of dor dansdent säi up d' hof däi hof dat was soo glad dor lağğent âal buren plat. Däi klukhäen lokt höör küükens.
 Löes wêer. Dat dau ik up 't läiefst.
 Dat kistje kun häil näit kittiger móókt worden soo mooj is 't. 'n skip lóóden.
 D'r hest duu häil kiin denk fan. Nuu sal 't noch düller worden!
@@ -43473,7 +43473,7 @@ Dat gaajt âal nóó oel gewôont. Dat lêer is d'r gaud up ferplüeğt.
 D'r kwam soo 'n glinster uut siin oogen. Säi taargent hum.
 Häi fnueğt d'r al wat in rund man häi kriğt d'r kiin örnelk stük of. Häi is bii 't däilen t' kört koomen.
 Häi löpt allerweegens t' börgen un t' läinen. Hap man weğ 't is doch föör dii bestemt.
-Tuffels un fläisk. Up dat hof fan d' köönenk góón.
+Tuffels un fläisk. Up däi hof fan d' köönenk góón.
 Ik sal d'r wal insent mank bullern mauten dat dat folk wat stiel un örnelk word't. Je dat mäin 'k!
 Bii bakken. D' kluntje knappert in d' tee.
 Däi mêer is dekt. Lóót dat!
@@ -46395,7 +46395,7 @@ Dat gung mit 'n flups. Dat minske let't soo lebbiğ.
 Nat hóógeln. D'r willent wii noch eerst um kemfen.
 Eerst kooment däi manlüü un dat däi fraaulüü. Rööğ dii beedelsak mörn is brooddağ.
 Häi gript soo gräitiğ tau dat d' häil kiin baargen teegen is. Häi is hensked't.
-'t hof fan Spóónjen. Häi móókt 't al t' but.
+d' hof fan Spóónjen. Häi móókt 't al t' but.
 Ik wul dat duu up d' Bloksbaarğ satst. Jóópóónsk maarrödderk.
 Wii hebbent koorn móólen um dat wii kiin móólen koorn meer haarent. Bot móóken.
 Däi bâal flooğ mit 'n kóóts up d' tóóvel. Däi pestoor skreed nóó 't altaar tau un hool sük d' kelk.
@@ -48524,7 +48524,7 @@ Häi het bii hum 'n stäin in 't bred. Häi is 'n buutenbeernsk kind.
 Answóójen koomen. In d' banlingskup góón.
 Wat föör sük hollen. Wii willent in d' stad bummeln góón.
 Däi bräif is unner miin hâan. Däi slecht móókt worden wil däi sul sük ferspreeken.
-Dat hof um 't huus tau. Miin angelspâaul maut näjs bespault worden.
+däi hof um 't huus tau. Miin angelspâaul maut näjs bespault worden.
 Dat sit't d'r fan âal kanten in betimmert. 'n buenk kluuven.
 Paltferdreeven keerl. Fräisk Romantik.
 Häi het bii 't föörstellen west un het us fertelt woo mooj dat dat west het. Häi is 'n dêeğ keerl wor man sük up ferlóóten kan.
@@ -48827,7 +48827,7 @@ Miin fingers bünt häil doof. Dat skeelt wat.
 'n dağ t' kinner móóken. Häi het däi fîil nöödiğ.
 Sük äinigen. Häi is 'n groef keerl.
 't is 'n räecht kóóljóóger. Häi sit't ful äigenwiel.
-In d' fûuk sitten. Wat haarent säi 't drok fan 't hof of tau koomen.
+In d' fûuk sitten. Wat haarent säi 't drok fan d' hof of tau koomen.
 Juuten lóóken. Däi buer looğ sük meerder uutwendsels t'sóómen.
 Däi sneiböjen kwamment. Lütje skaul.
 Dat hóópert allerweegens un an âal kanten. Miin fóóder bräjt miin mauder bräjt man ik proot raajn d'r uut.
@@ -102522,7 +102522,7 @@ Dat is miin sküld, dat däi kâauk ferbraant is: ik was bii d' telefoon un heb 
 'T is stur, äien t' läiven, doo man näit wäit, of man net soo staark läivt word't, as man läivt.
 Däi fróóeğ was wal t' makkelk föör dii. Anner móól maut ik 't wat sturder móóken.
 Dat häit't fóók, dat däi upnóóem up 'n jóópóónsk uniwersitäit wal stur, man däi ofslus makkelk was.
-In d' tiid fan Shakespeare, in 't sestâajnt jorhunnert, was tennis an 't engelsk hof läip beläivt.
+In d' tiid fan Shakespeare, in 't sestâajnt jorhunnert, was tennis an d' engelsk hof läip beläivt.
 Doo diin fóóder diin mauder wat up Fransk frağt, antert säi dan up Fransk of up Engelsk?
 Doo wii d'r föör föörsäin wassent, meer t' prooten as t' lüstern, haar man us twei muen un äin ôor geeven.
 Doo wii näit in däi tauken drei dóóeğ 'n antern fan Tom kriigent, sullent wii hum, denk ik, noch insent skriiven.
@@ -113532,7 +113532,7 @@ Ik höyv mii näit soo anhöören as 'n maudertóólprooter. Ik wil man flaajdi�
 Däi miljoonneer haar däi ofsicht, dat maisterwaark t' ferwaarven, häil ne'ğeliik, wat 't kösten dee. Tom wus dat häi dat näit skiren sul, Marió d'r fan t' oovertüügen, mit hum dansen t' góón.
 In 't ferleeden jorhunnert was äien as Tom simpelweğ in 't dülhuus stooken worden. Tom sat in huus in 't slóóppakje fööer d' feersäier un at pitsó.
 Tom frooğ sük, woo fóók häi Marió wal d'r tau upföördern mauten sul, höör kóómer up t' rüümen, bit säi 't ennelk dee. D'r is ook fööl soo nöymt aarbaid achter d' kulissen mit bii.
-In d' tiid fan Shakespeare, in 't sestâajnt jorhunnert, was tennis an 't engelsk hof läip beläivt. 'N grund föör däi stuer ferheltnissen lağ in däi feelend stóótelk kuntruel oover dat besiideln. Doch profiitäärde däi prüüsk stóót fan dat projekt: In däi 1860er-joren nam häi ruuğweğ 200.000 dóólers uut däi kuloniien in. Man Maurdörp bleev däi âarmst maurkulonii fan häil Oostfräisland.
+In d' tiid fan Shakespeare, in 't sestâajnt jorhunnert, was tennis an d' engelsk hof läip beläivt. 'N grund föör däi stuer ferheltnissen lağ in däi feelend stóótelk kuntruel oover dat besiideln. Doch profiitäärde däi prüüsk stóót fan dat projekt: In däi 1860er-joren nam häi ruuğweğ 200.000 dóólers uut däi kuloniien in. Man Maurdörp bleev däi âarmst maurkulonii fan häil Oostfräisland.
 Tom fernam 'n uproor fööer siin huus un begaf sük d'r düs up buuten, um t' säin, wat fööer sük gung. Äien fan däi oelst wersjoonen fertelt Sir Thomas Malory in siin Le Morte Darthur fan 1470, wat däi mäiest lóóterder fertellers beinflaud't het. Dat bekentst nóófertelsel fan d' neitiid is däi fantasy-romóón Däi dook fan Avalon fan Marion Zimmer Bradley.
 Alwoo däi Inkós 'n grôot tsiwiilisóósjoon upricht'dent, haarent s' kiin skriftsüsteem. Däi suldóóten streedent dapper, man mussent amäen upgeeven.
 Alwoo häi teegenan woont, begröt't häi us näit móól. Doo man 'n wunnermôoj drööm het, wil man d'r häil näit uut upwóóken.
@@ -115080,7 +115080,7 @@ Kiin söerğ! Sülst doo ik drink, het dat kiin inflaud up miin fordüğtiğkaid
 Duu sust oover mii wäiten, dat ik fööl tiid mit leesen ferbrengen dau. Doo man dóógelk fiif engelskwokóóbels leert, kan man in äin joer 1825 un in hunnert joer 182 620 wokóóbels leeren.
 Däi wirtskaft het sük noch altiid näit kumpleet fan däi finanskrîis ferhóólt. Dat is ook woer of näit?
 Däi troopsk reegenweller produsäärent surstof un absorbäärent köölendioksiid. Ik fróóğ mii, woosoo ik altiid slóópiğ wor, doo ik anfangen dau t' leeren.
-In d' tiid fan Shakespeare, in 't sestâajnt jorhunnert, was tennis an 't engelsk hof läip beläivt. Ik haar d'r kiin oogenblik mit reekent, dat ik soo fööl beraumt persöönelkkaiden dräepen dee.
+In d' tiid fan Shakespeare, in 't sestâajnt jorhunnert, was tennis an d' engelsk hof läip beläivt. Ik haar d'r kiin oogenblik mit reekent, dat ik soo fööl beraumt persöönelkkaiden dräepen dee.
 In dit däil fan 't land bestaajt praktisk kiin aarbaidslössiğkaid. Hoffelk dee Tom soo, as murk häi näit, dat Marió bruelt haar.
 Dat enkeld, wat telt, is, of duu däi aarbaid móóken kaast of näit. Duu sust fiilicht in bedenken neemen, dii näej aautoraifens tau t' läegen.
 'N noch beeterder deeken was nóó miin mäinen 'n ferbreeken teegen däi füüsik! Ik dräep mii mit Tom up 't eeten. Kumst duu mit?
