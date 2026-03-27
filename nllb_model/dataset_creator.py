@@ -41,9 +41,23 @@ def add_frs_lang(tokenizer, model=None):
 
             print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id})")
 
-    # Always patch the mapping (it is rebuilt from a hardcoded list on load)
-    tokenizer.lang_code_to_id[FRS_LANG] = frs_id
-    tokenizer.id_to_lang_code[frs_id] = FRS_LANG
+    # Patch the lang_code_to_id / id_to_lang_code mapping so src_lang works
+    if hasattr(tokenizer, "lang_code_to_id"):
+        tokenizer.lang_code_to_id[FRS_LANG] = frs_id
+        tokenizer.id_to_lang_code[frs_id] = FRS_LANG
+    else:
+        # Newer TokenizersBackend — build mapping from vocab and set it
+        import re
+        lang_code_to_id = {}
+        id_to_lang_code = {}
+        for token, idx in tokenizer.get_vocab().items():
+            if re.match(r"^[a-z]{2,3}_[A-Z][a-z]{3}$", token):
+                lang_code_to_id[token] = idx
+                id_to_lang_code[idx] = token
+        lang_code_to_id[FRS_LANG] = frs_id
+        id_to_lang_code[frs_id] = FRS_LANG
+        tokenizer.lang_code_to_id = lang_code_to_id
+        tokenizer.id_to_lang_code = id_to_lang_code
 
     return frs_id
 
