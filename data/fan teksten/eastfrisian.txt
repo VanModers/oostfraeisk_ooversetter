@@ -11028,7 +11028,7 @@ Of un tau wordent ook anner tausatsstoffen as witómiinen of eenelks d'r bii dó
 Al fan 20 mg teobromiin pro kiilogram körpergewicht of an kan 't bii huen tau späjen, döörtoğ un ferhoogert döstgeföyl koomen. Fan 40 mg pro kiilogram körpergewicht of an köönent swoer haart- un kraisloopprobleemen uptreeden. Minskentsukkerlóó is föör huen woo gefordelker, woo dunkerder häi is.
 Wiilst wiet tsukkerlóóp praktisk kiin teobromiin undholt (0,01 mg/g), kan dunker tsukkerlóó bit tau 16 mg/g teobromiin undhollen un is d'r mit föör huen läip gefordelk.
 Jóó, dat gift tsukkerlóó mit lütje kaaukaauandäil un lütje tsukkerandäil, däi besünners föör huen móókt word't. Däi word't betäikent as "huentsukkerlóó". Däi teobromiininhold fan disser tsukkerlóó is staark redusäärt un soo mit näit giftiğ föör huen.
-Lopt WinMerge ook up Linux? Doo näit, gift dat alternóótiiven?
+Löpt WinMerge ook up Linux? Doo näit, gift dat alternóótiiven?
 Nee, WinMerge is 'n anwenden, däi äigens föör Windows-bedriifssüsteemen undwikkelt wur un näit up Linux löpt. Man dat gift alternóótiiven tau WinMerge, däi up Linux uutfört worden köönent.
 Hir bünt wat fan däi beläivst alternóótiiven: - KDiff3: KDiff3 is 'n platföörmoovergriipend anwenden, däi up Windows, Linux un MacOS löpt.
 Häi kan föör 't fergliiken un t'sóómenfören fan dóótäjen un fertäikennissen bruukt worden un stöönt ook däi integróósjoon mit Git un anner wersjoonskuntrulsüsteemen. - Meld: Meld is 'n anner platföörmoovergriipend anwenden, dat up Windows, Linux un MacOS uutfört worden kan.

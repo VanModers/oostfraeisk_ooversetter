@@ -1,0 +1,52 @@
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq
+from dataset_creator import get_dataset, add_frs_lang
+
+MODEL_NAME = "facebook/nllb-200-distilled-600M"
+OUTPUT_DIR = "./nllb_frs_model"
+
+print(f"Loading {MODEL_NAME}...")
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
+
+# Register frs_Latn as a new language, seeded from Dutch (nld_Latn) embeddings
+add_frs_lang(tokenizer, model)
+
+data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
+
+training_args = Seq2SeqTrainingArguments(
+    output_dir=OUTPUT_DIR,
+    eval_strategy="epoch",
+    save_strategy="no",
+    per_device_train_batch_size=16,
+    per_device_eval_batch_size=16,
+    gradient_accumulation_steps=4,      # effective batch size = 64
+    num_train_epochs=5,
+    learning_rate=2e-5,
+    warmup_steps=500,
+    weight_decay=0.01,
+    bf16=True,
+    logging_steps=100,
+    dataloader_num_workers=4,
+    dataloader_pin_memory=True,
+    optim="adamw_torch_fused",
+)
+
+# Loads data/ at the project root (run as: python nllb_model/trainer.py)
+dataset = get_dataset("data", tokenizer)
+train_ds = dataset["train"]
+val_ds = dataset["validation"]
+
+trainer = Seq2SeqTrainer(
+    model=model,
+    args=training_args,
+    train_dataset=train_ds,
+    eval_dataset=val_ds,
+    processing_class=tokenizer,
+    data_collator=data_collator,
+)
+
+trainer.train()
+
+model.save_pretrained(OUTPUT_DIR)
+tokenizer.save_pretrained(OUTPUT_DIR)
+print(f"Model saved to {OUTPUT_DIR}")
