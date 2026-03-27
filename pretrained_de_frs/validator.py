@@ -49,14 +49,16 @@ for model_path in models:
 
             # Token-wise accuracy
             preds = torch.argmax(logits, dim=-1)
-            mask = labels != tokenizer.pad_token_id
+            mask = labels != -100
             correct_tokens += (preds == labels).masked_select(mask).sum().item()
             total_tokens += mask.sum().item()
 
             # Sequence-level BLEU (using generate)
             generated_ids = model.generate(input_ids=input_ids, attention_mask=attention_mask, max_length=labels.shape[1])
             decoded_preds = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
-            decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
+            labels_for_decode = labels.clone()
+            labels_for_decode[labels_for_decode == -100] = tokenizer.pad_token_id
+            decoded_labels = tokenizer.batch_decode(labels_for_decode, skip_special_tokens=True)
 
             predictions_text.extend(decoded_preds)
             references_text.extend([[l] for l in decoded_labels])  # sacrebleu expects list of lists

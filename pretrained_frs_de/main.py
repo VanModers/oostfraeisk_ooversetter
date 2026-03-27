@@ -23,7 +23,7 @@ def translate(text):
     return translated_text
 
 # Example translation
-print(translate("Hallo, wie geht es meinem Freund?"))
+print(translate("Moin, woo is 't mit miin fründ?"))
 
 # Interactive translation loop
 while True:
