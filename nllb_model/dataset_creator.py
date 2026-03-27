@@ -23,9 +23,8 @@ def add_frs_lang(tokenizer, model=None):
     frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
     if frs_id == tokenizer.unk_token_id:
-        # Token does not exist yet — add it
-        special_tokens = tokenizer.additional_special_tokens + [FRS_LANG]
-        tokenizer.add_special_tokens({"additional_special_tokens": special_tokens})
+        # Token does not exist yet — add it as a special token
+        tokenizer.add_tokens([FRS_LANG], special_tokens=True)
         frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
         if model is not None:
