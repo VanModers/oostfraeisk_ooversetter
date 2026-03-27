@@ -25,9 +25,10 @@
       "special": true
     }
   },
-  "clean_up_tokenization_spaces": false,
+  "additional_special_tokens": null,
+  "backend": "custom",
   "eos_token": "</s>",
-  "extra_special_tokens": {},
+  "is_local": false,
   "model_max_length": 512,
   "pad_token": "<pad>",
   "separate_vocabs": false,
