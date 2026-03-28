@@ -1,5 +1,5 @@
-
 import gradio as gr
+import spaces
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from dataset_creator import add_frs_lang
@@ -20,6 +20,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
 model.eval()
 
+@spaces.GPU
 def translate(text, source_lang, target_lang):
     if not text.strip() or source_lang == target_lang:
         return text
