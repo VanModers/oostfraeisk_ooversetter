@@ -20,10 +20,11 @@ training_args = Seq2SeqTrainingArguments(
     save_total_limit=2,
     load_best_model_at_end=True,
     metric_for_best_model="eval_loss",
+    greater_is_better=False,
     per_device_train_batch_size=32,
     per_device_eval_batch_size=32,
     gradient_accumulation_steps=2,      # effective batch size = 64
-    num_train_epochs=10,
+    num_train_epochs=15,
     learning_rate=1e-5,
     warmup_steps=2000,
     weight_decay=0.01,
