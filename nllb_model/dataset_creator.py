@@ -14,8 +14,9 @@ NLD_DONOR = "nld_Latn"
 def add_frs_lang(tokenizer, model=None):
     """Register frs_Latn as a new NLLB language.
 
-    * First call (with model): adds the token, resizes embeddings, copies
-      nld_Latn weights into the new frs_Latn row.
+    * First call (with model): adds the token and copies nld_Latn weights
+      into the frs_Latn row IN-PLACE (no resize — the NLLB weight matrix
+      already has spare rows beyond the tokenizer vocab).
     * Later calls (without model, e.g. inference): just patches the
       lang_code_to_id / id_to_lang_code maps so the tokenizer can use
       frs_Latn as src_lang / tgt_lang.
@@ -23,47 +24,29 @@ def add_frs_lang(tokenizer, model=None):
     frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
     if frs_id == tokenizer.unk_token_id:
-        # Token does not exist yet — add it as a special token
         tokenizer.add_tokens([FRS_LANG], special_tokens=True)
         frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
         if model is not None:
             nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
-            old_shared = model.model.shared
-            old_size = old_shared.weight.shape[0]
-            # Weight tensor can be larger than len(tokenizer) in NLLB
-            new_size = max(len(tokenizer), old_size, frs_id + 1)
 
-            # Do NOT use resize_token_embeddings — it replaces model.shared
-            # with a new object but leaves encoder/decoder embed_tokens pointing
-            # to the old one.  M2M100Model.forward then detects the mismatch
-            # (shared is not decoder.embed_tokens) and passes BOTH
-            # decoder_input_ids and decoder_inputs_embeds to the decoder,
-            # which crashes.  Instead we create ONE new embedding and assign
-            # it to all three places manually.
-            new_shared = old_shared.__class__(
-                new_size, old_shared.embedding_dim,
-                old_shared.padding_idx, embed_scale=old_shared.embed_scale,
-            )
+            # The NLLB weight matrices (256206 rows) are already larger than
+            # the tokenizer vocab, so frs_id fits without any resize.
+            # Just copy nld_Latn weights in-place — no new objects, no
+            # broken identity between shared/encoder/decoder embed_tokens.
             with torch.no_grad():
-                new_shared.weight[:old_size] = old_shared.weight.data
-                new_shared.weight[frs_id] = new_shared.weight[nld_id].clone()
+                for emb in [model.model.shared,
+                            model.model.encoder.embed_tokens,
+                            model.model.decoder.embed_tokens]:
+                    assert frs_id < emb.weight.shape[0], \
+                        f"frs_id {frs_id} out of range for embedding with {emb.weight.shape[0]} rows"
+                    emb.weight[frs_id] = emb.weight[nld_id].clone()
 
-            model.model.shared = new_shared
-            model.model.encoder.embed_tokens = new_shared
-            model.model.decoder.embed_tokens = new_shared
+                lm_head = model.lm_head
+                assert frs_id < lm_head.weight.shape[0], \
+                    f"frs_id {frs_id} out of range for lm_head with {lm_head.weight.shape[0]} rows"
+                lm_head.weight[frs_id] = lm_head.weight[nld_id].clone()
 
-            # Resize lm_head separately
-            old_lm = model.lm_head
-            new_lm = torch.nn.Linear(old_lm.in_features, new_size, bias=False)
-            with torch.no_grad():
-                new_lm.weight[:old_size] = old_lm.weight.data
-                new_lm.weight[frs_id] = new_lm.weight[nld_id].clone()
-            model.lm_head = new_lm
-
-            model.config.vocab_size = new_size
-
-            assert model.model.shared is model.model.decoder.embed_tokens
             print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id})")
 
     # Patch the lang_code_to_id / id_to_lang_code mapping so src_lang works
