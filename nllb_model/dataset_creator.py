@@ -31,12 +31,19 @@ def add_frs_lang(tokenizer, model=None):
             nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
             model.resize_token_embeddings(len(tokenizer))
 
+            # resize_token_embeddings replaces model.shared with a new object,
+            # but encoder/decoder embed_tokens still point to the old one.
+            # M2M100's forward detects the mismatch and passes BOTH
+            # decoder_input_ids and decoder_inputs_embeds, which crashes.
+            # Fix: re-share the embedding across encoder and decoder.
+            model.model.encoder.embed_tokens = model.model.shared
+            model.model.decoder.embed_tokens = model.model.shared
+
             with torch.no_grad():
-                inp_emb = model.get_input_embeddings()
-                inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
+                model.model.shared.weight[frs_id] = model.model.shared.weight[nld_id].clone()
 
                 out_emb = model.get_output_embeddings()
-                if out_emb is not inp_emb:          # weights are not tied
+                if out_emb is not model.model.shared:
                     out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
 
             print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id})")
