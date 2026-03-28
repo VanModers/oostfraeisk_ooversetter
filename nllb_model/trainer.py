@@ -16,13 +16,16 @@ data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 training_args = Seq2SeqTrainingArguments(
     output_dir=OUTPUT_DIR,
     eval_strategy="epoch",
-    save_strategy="no",
-    per_device_train_batch_size=16,
-    per_device_eval_batch_size=16,
-    gradient_accumulation_steps=4,      # effective batch size = 64
-    num_train_epochs=5,
-    learning_rate=2e-5,
-    warmup_steps=500,
+    save_strategy="epoch",
+    save_total_limit=2,
+    load_best_model_at_end=True,
+    metric_for_best_model="eval_loss",
+    per_device_train_batch_size=32,
+    per_device_eval_batch_size=32,
+    gradient_accumulation_steps=2,      # effective batch size = 64
+    num_train_epochs=10,
+    learning_rate=5e-6,
+    warmup_steps=2000,
     weight_decay=0.01,
     bf16=True,
     logging_steps=100,
