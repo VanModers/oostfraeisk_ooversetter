@@ -25,11 +25,10 @@ training_args = Seq2SeqTrainingArguments(
     gradient_accumulation_steps=2,      # effective batch size = 64
     num_train_epochs=10,
     learning_rate=5e-6,
-    warmup_ratio=0.06,
+    warmup_steps=2000,
     weight_decay=0.01,
     label_smoothing_factor=0.1,
     bf16=True,
-    torch_compile=True,
     logging_steps=100,
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
