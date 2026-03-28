@@ -29,22 +29,37 @@ def add_frs_lang(tokenizer, model=None):
 
         if model is not None:
             nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
-            model.resize_token_embeddings(len(tokenizer))
+            emb_rows = model.get_input_embeddings().weight.shape[0]
 
-            with torch.no_grad():
-                inp_emb = model.get_input_embeddings()
-                inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
+            if frs_id < emb_rows:
+                # frs_id fits in the existing weight matrix — write in-place
+                # to preserve M2M100 weight tying (shared / encoder / decoder / lm_head)
+                with torch.no_grad():
+                    inp_emb = model.get_input_embeddings()
+                    inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
 
-                out_emb = model.get_output_embeddings()
-                if out_emb is not inp_emb:          # weights are not tied
-                    out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
+                    out_emb = model.get_output_embeddings()
+                    if out_emb is not inp_emb:
+                        out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
+            else:
+                # Fallback: resize (breaks weight tying — avoid if possible)
+                model.resize_token_embeddings(len(tokenizer))
+                with torch.no_grad():
+                    inp_emb = model.get_input_embeddings()
+                    inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
 
-            print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id})")
+                    out_emb = model.get_output_embeddings()
+                    if out_emb is not inp_emb:
+                        out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
+
+            print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id}), "
+                  f"matrix rows={emb_rows}, resized={frs_id >= emb_rows}")
 
     # Patch the lang_code_to_id / id_to_lang_code mapping so src_lang works
     if hasattr(tokenizer, "lang_code_to_id"):
         tokenizer.lang_code_to_id[FRS_LANG] = frs_id
-        tokenizer.id_to_lang_code[frs_id] = FRS_LANG
+        if hasattr(tokenizer, "id_to_lang_code"):
+            tokenizer.id_to_lang_code[frs_id] = FRS_LANG
     else:
         # Newer TokenizersBackend — build mapping from vocab and set it
         import re

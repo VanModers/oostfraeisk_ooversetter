@@ -24,7 +24,7 @@ training_args = Seq2SeqTrainingArguments(
     per_device_eval_batch_size=32,
     gradient_accumulation_steps=2,      # effective batch size = 64
     num_train_epochs=10,
-    learning_rate=5e-6,
+    learning_rate=1e-5,
     warmup_steps=2000,
     weight_decay=0.01,
     bf16=True,
