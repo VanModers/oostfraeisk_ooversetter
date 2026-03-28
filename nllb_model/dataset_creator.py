@@ -31,7 +31,8 @@ def add_frs_lang(tokenizer, model=None):
             nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
             old_shared = model.model.shared
             old_size = old_shared.weight.shape[0]
-            new_size = len(tokenizer)
+            # Weight tensor can be larger than len(tokenizer) in NLLB
+            new_size = max(len(tokenizer), old_size, frs_id + 1)
 
             # Do NOT use resize_token_embeddings — it replaces model.shared
             # with a new object but leaves encoder/decoder embed_tokens pointing
