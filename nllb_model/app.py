@@ -1,3 +1,4 @@
+
 import gradio as gr
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
@@ -9,8 +10,7 @@ LANG_CODES = {
     "English": "eng_Latn",
 }
 
-# For HuggingFace Spaces: change to your HF model repo name (e.g. "username/nllb-frs")
-MODEL_PATH = "./nllb_frs_model"
+MODEL_PATH = "VanModers114/East_Frisian_NLLB_Model"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_PATH)
@@ -19,10 +19,6 @@ add_frs_lang(tokenizer)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model.to(device)
 model.eval()
-
-if device == "cuda":
-    model.half()
-
 
 def translate(text, source_lang, target_lang):
     if not text.strip() or source_lang == target_lang:
@@ -46,7 +42,6 @@ def translate(text, source_lang, target_lang):
         )
 
     return tokenizer.decode(out[0], skip_special_tokens=True)
-
 
 with gr.Blocks(title="Oostfräisk Ooversetter") as demo:
     gr.Markdown("# Oostfräisk Ooversetter")
