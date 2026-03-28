@@ -29,22 +29,35 @@ def add_frs_lang(tokenizer, model=None):
 
         if model is not None:
             nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
-            model.resize_token_embeddings(len(tokenizer))
+            new_size = len(tokenizer)
 
-            # resize_token_embeddings replaces model.shared with a new object,
-            # but encoder/decoder embed_tokens still point to the old one.
-            # M2M100's forward detects the mismatch and passes BOTH
-            # decoder_input_ids and decoder_inputs_embeds, which crashes.
-            # Fix: re-share the embedding across encoder and decoder.
-            model.model.encoder.embed_tokens = model.model.shared
-            model.model.decoder.embed_tokens = model.model.shared
+            # The NLLB checkpoint stores shared, encoder, decoder, and lm_head
+            # embeddings as separate weight tensors (not tied). We must resize
+            # ALL of them independently to avoid size mismatches.
+            model.config.tie_word_embeddings = False
 
+            # resize_token_embeddings only handles model.shared + lm_head
+            model.resize_token_embeddings(new_size)
+
+            # Manually resize encoder and decoder embed_tokens to match
             with torch.no_grad():
-                model.model.shared.weight[frs_id] = model.model.shared.weight[nld_id].clone()
+                for emb in [model.model.encoder.embed_tokens,
+                            model.model.decoder.embed_tokens]:
+                    if emb.num_embeddings < new_size:
+                        old = emb.weight.data
+                        new = old.new_zeros(new_size, old.shape[1])
+                        new[:old.shape[0]] = old
+                        emb.weight = torch.nn.Parameter(new)
+                        emb.num_embeddings = new_size
 
-                out_emb = model.get_output_embeddings()
-                if out_emb is not model.model.shared:
-                    out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
+                # Copy nld_Latn -> frs_Latn in all embedding matrices
+                for emb in [model.model.shared,
+                            model.model.encoder.embed_tokens,
+                            model.model.decoder.embed_tokens]:
+                    emb.weight[frs_id] = emb.weight[nld_id].clone()
+
+                lm_head = model.lm_head
+                lm_head.weight[frs_id] = lm_head.weight[nld_id].clone()
 
             print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id})")
 
