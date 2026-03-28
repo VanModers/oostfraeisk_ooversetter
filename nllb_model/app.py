@@ -41,7 +41,8 @@ def translate(text, source_lang, target_lang):
             **inputs,
             forced_bos_token_id=tgt_id,
             max_new_tokens=256,
-            num_beams=3,
+            max_length=None,
+            num_beams=4,
         )
 
     return tokenizer.decode(out[0], skip_special_tokens=True)

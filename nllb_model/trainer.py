@@ -24,7 +24,7 @@ training_args = Seq2SeqTrainingArguments(
     per_device_train_batch_size=32,
     per_device_eval_batch_size=32,
     gradient_accumulation_steps=2,      # effective batch size = 64
-    num_train_epochs=15,
+    num_train_epochs=20,
     learning_rate=1e-5,
     warmup_steps=2000,
     weight_decay=0.01,
@@ -50,6 +50,12 @@ trainer = Seq2SeqTrainer(
 )
 
 trainer.train()
+
+# Re-tie shared embeddings before saving.  The Trainer's
+# load_best_model_at_end checkpoint reload reports 'missing keys'
+# for the tied weight aliases; tie_weights() guarantees they
+# all point to the same tensor again.
+model.tie_weights()
 
 model.save_pretrained(OUTPUT_DIR)
 tokenizer.save_pretrained(OUTPUT_DIR)
