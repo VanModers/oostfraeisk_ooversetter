@@ -29,7 +29,7 @@ def add_frs_lang(tokenizer, model=None):
 
         if model is not None:
             nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
-            old_size = model.model.shared.num_embeddings
+            old_size = old_shared.weight.shape[0]
             new_size = len(tokenizer)
             old_shared = model.model.shared
 
