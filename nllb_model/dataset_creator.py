@@ -14,9 +14,8 @@ NLD_DONOR = "nld_Latn"
 def add_frs_lang(tokenizer, model=None):
     """Register frs_Latn as a new NLLB language.
 
-    * First call (with model): adds the token and copies nld_Latn weights
-      into the frs_Latn row IN-PLACE (no resize — the NLLB weight matrix
-      already has spare rows beyond the tokenizer vocab).
+    * First call (with model): adds the token, resizes embeddings, copies
+      nld_Latn weights into the new frs_Latn row.
     * Later calls (without model, e.g. inference): just patches the
       lang_code_to_id / id_to_lang_code maps so the tokenizer can use
       frs_Latn as src_lang / tgt_lang.
@@ -24,28 +23,21 @@ def add_frs_lang(tokenizer, model=None):
     frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
     if frs_id == tokenizer.unk_token_id:
+        # Token does not exist yet — add it as a special token
         tokenizer.add_tokens([FRS_LANG], special_tokens=True)
         frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
         if model is not None:
             nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
+            model.resize_token_embeddings(len(tokenizer))
 
-            # The NLLB weight matrices (256206 rows) are already larger than
-            # the tokenizer vocab, so frs_id fits without any resize.
-            # Just copy nld_Latn weights in-place — no new objects, no
-            # broken identity between shared/encoder/decoder embed_tokens.
             with torch.no_grad():
-                for emb in [model.model.shared,
-                            model.model.encoder.embed_tokens,
-                            model.model.decoder.embed_tokens]:
-                    assert frs_id < emb.weight.shape[0], \
-                        f"frs_id {frs_id} out of range for embedding with {emb.weight.shape[0]} rows"
-                    emb.weight[frs_id] = emb.weight[nld_id].clone()
+                inp_emb = model.get_input_embeddings()
+                inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
 
-                lm_head = model.lm_head
-                assert frs_id < lm_head.weight.shape[0], \
-                    f"frs_id {frs_id} out of range for lm_head with {lm_head.weight.shape[0]} rows"
-                lm_head.weight[frs_id] = lm_head.weight[nld_id].clone()
+                out_emb = model.get_output_embeddings()
+                if out_emb is not inp_emb:          # weights are not tied
+                    out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
 
             print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id})")
 
