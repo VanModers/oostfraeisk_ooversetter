@@ -10,7 +10,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
 
 # Register frs_Latn as a new language, seeded from Dutch (nld_Latn) embeddings
-add_frs_lang(tokenizer, model, random_init=True)
+add_frs_lang(tokenizer, model, random_init=False)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
@@ -22,7 +22,7 @@ training_args = Seq2SeqTrainingArguments(
     per_device_eval_batch_size=32,
     gradient_accumulation_steps=2,      # effective batch size = 64
     num_train_epochs=9,
-    learning_rate=1e-4,
+    learning_rate=5e-5,  # Lowered learning rate
     warmup_steps=2000,
     weight_decay=0.01,
     bf16=True,
@@ -55,6 +55,12 @@ class PrintTranslationTrainer(Seq2SeqTrainer):
         inputs = self.tokenizer(sentence, return_tensors="pt", truncation=True, max_length=256)
         inputs = {k: v.to(device) for k, v in inputs.items()}
         tgt_id = self.tokenizer.convert_tokens_to_ids(FRS_LANG)
+        # Debug prints
+        print('frs_Latn in vocab:', FRS_LANG in self.tokenizer.get_vocab())
+        print('frs_Latn id:', self.tokenizer.convert_tokens_to_ids(FRS_LANG))
+        print('lang_code_to_id:', getattr(self.tokenizer, 'lang_code_to_id', None))
+        print('input_ids:', inputs['input_ids'])
+        print('forced_bos_token_id:', tgt_id)
         with torch.inference_mode():
             out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=256, num_beams=4)
         translation = self.tokenizer.decode(out[0], skip_special_tokens=True)
