@@ -37,8 +37,6 @@ dataset = get_dataset("data", tokenizer)
 train_ds = dataset["train"]
 val_ds = dataset["validation"]
 
-trainer = Seq2SeqTrainer(
-
 # --- Custom Trainer to print translation after each evaluation ---
 class PrintTranslationTrainer(Seq2SeqTrainer):
     def evaluate(self, *args, **kwargs):
