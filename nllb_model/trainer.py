@@ -39,6 +39,10 @@ val_ds = dataset["validation"]
 
 # --- Custom Trainer to print translation after each evaluation ---
 class PrintTranslationTrainer(Seq2SeqTrainer):
+    def __init__(self, *args, tokenizer=None, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.tokenizer = tokenizer
+
     def evaluate(self, *args, **kwargs):
         results = super().evaluate(*args, **kwargs)
         # Print translation of the provided sentence
@@ -65,6 +69,7 @@ trainer = PrintTranslationTrainer(
     eval_dataset=val_ds,
     processing_class=tokenizer,
     data_collator=data_collator,
+    tokenizer=tokenizer,
 )
 
 trainer.train()
