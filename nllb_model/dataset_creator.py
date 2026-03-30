@@ -14,39 +14,53 @@ NLD_DONOR = "nld_Latn"
 def add_frs_lang(tokenizer, model=None):
     """Register frs_Latn as a new NLLB language.
 
-    * First call (with model): adds the token, resizes embeddings, copies
-      nld_Latn weights into the new frs_Latn row.
-    * Later calls (without model, e.g. inference): just patches the
-      lang_code_to_id / id_to_lang_code maps so the tokenizer can use
-      frs_Latn as src_lang / tgt_lang.
+    NLLB's weight matrices have 256206 rows but only 256204 tokens in the
+    vocab, leaving rows 256204-256205 as spare slots.  We assign frs_Latn
+    to row 256204 by adding it as a special token (no embedding resize
+    needed since the row already exists).
+
+    To prevent 'missing keys' on checkpoint reload we sync
+    model.config.vocab_size with the tokenizer length so the Trainer's
+    saved config and the weight shapes stay consistent.
+
+    * First call (with model): copies nld_Latn embedding weights into the
+      frs_Latn row so it has a meaningful starting point.
+    * All calls: patches the tokenizer's language-code maps so
+      src_lang / tgt_lang = "frs_Latn" works.
     """
+    # --- Add frs_Latn to tokenizer vocab if needed ---
+    if FRS_LANG not in tokenizer.get_vocab():
+        tokenizer.add_tokens([FRS_LANG], special_tokens=True)
+
     frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
-    if frs_id == tokenizer.unk_token_id:
-        # Token does not exist yet — add it as a special token
-        tokenizer.add_tokens([FRS_LANG], special_tokens=True)
-        frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
+    # --- Seed the embedding row from Dutch (only when we have the model) ---
+    if model is not None:
+        nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
+        emb_rows = model.get_input_embeddings().weight.shape[0]
+        assert frs_id < emb_rows, (
+            f"frs slot {frs_id} out of range (embedding has {emb_rows} rows)"
+        )
+        with torch.no_grad():
+            inp_emb = model.get_input_embeddings()
+            inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
 
-        if model is not None:
-            nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
-            model.resize_token_embeddings(len(tokenizer))
+            out_emb = model.get_output_embeddings()
+            if out_emb is not inp_emb:
+                out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
 
-            with torch.no_grad():
-                inp_emb = model.get_input_embeddings()
-                inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
+        # Keep config.vocab_size in sync so checkpoint reload works
+        model.config.vocab_size = emb_rows
 
-                out_emb = model.get_output_embeddings()
-                if out_emb is not inp_emb:          # weights are not tied
-                    out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
+        print(f"Seeded {FRS_LANG} (id={frs_id}) from {NLD_DONOR} (id={nld_id}), "
+              f"matrix rows={emb_rows}, vocab_size={len(tokenizer)}")
 
-            print(f"Added {FRS_LANG} (id={frs_id}), embedding copied from {NLD_DONOR} (id={nld_id})")
-
-    # Patch the lang_code_to_id / id_to_lang_code mapping so src_lang works
+    # --- Patch the lang_code_to_id / id_to_lang_code maps ---
     if hasattr(tokenizer, "lang_code_to_id"):
         tokenizer.lang_code_to_id[FRS_LANG] = frs_id
-        tokenizer.id_to_lang_code[frs_id] = FRS_LANG
+        if hasattr(tokenizer, "id_to_lang_code"):
+            tokenizer.id_to_lang_code[frs_id] = FRS_LANG
     else:
-        # Newer TokenizersBackend — build mapping from vocab and set it
         import re
         lang_code_to_id = {}
         id_to_lang_code = {}
