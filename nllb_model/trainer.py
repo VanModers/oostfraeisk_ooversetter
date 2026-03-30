@@ -1,9 +1,9 @@
 import torch
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq, EarlyStoppingCallback
 from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
-OUTPUT_DIR = "./nllb_frs_model"
+OUTPUT_DIR = "./nllb_frs_model_longer"
 
 print(f"Loading {MODEL_NAME}...")
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
@@ -21,8 +21,8 @@ training_args = Seq2SeqTrainingArguments(
     per_device_train_batch_size=32,
     per_device_eval_batch_size=32,
     gradient_accumulation_steps=2,      # effective batch size = 64
-    num_train_epochs=9,
-    learning_rate=5e-5,  # Lowered learning rate
+    num_train_epochs=30,  # More epochs
+    learning_rate=2e-5,   # Lower learning rate
     warmup_steps=2000,
     weight_decay=0.01,
     bf16=True,
@@ -68,6 +68,8 @@ class PrintTranslationTrainer(Seq2SeqTrainer):
         print(f"German: {sentence}\nOostfräisk: {translation}\n")
         return results
 
+
+# Add early stopping callback: patience=3 (stop if no improvement for 3 evals)
 trainer = PrintTranslationTrainer(
     model=model,
     args=training_args,
@@ -76,6 +78,7 @@ trainer = PrintTranslationTrainer(
     processing_class=tokenizer,
     data_collator=data_collator,
     tokenizer=tokenizer,
+    callbacks=[EarlyStoppingCallback(early_stopping_patience=3)]
 )
 
 trainer.train()
