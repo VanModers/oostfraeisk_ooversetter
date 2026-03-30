@@ -30,6 +30,7 @@ training_args = Seq2SeqTrainingArguments(
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
     optim="adamw_torch_fused",
+    metric_for_best_model="eval_loss",
 )
 
 # Loads data/ at the project root (run as: python nllb_model/trainer.py)
