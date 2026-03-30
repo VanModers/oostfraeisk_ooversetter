@@ -9,7 +9,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
 
 # Register frs_Latn as a new language, seeded from Dutch (nld_Latn) embeddings
-add_frs_lang(tokenizer, model)
+add_frs_lang(tokenizer, model, random_init=True)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
@@ -20,8 +20,8 @@ training_args = Seq2SeqTrainingArguments(
     per_device_train_batch_size=32,
     per_device_eval_batch_size=32,
     gradient_accumulation_steps=2,      # effective batch size = 64
-    num_train_epochs=25,
-    learning_rate=1e-5,
+    num_train_epochs=15,
+    learning_rate=1e-4,
     warmup_steps=2000,
     weight_decay=0.01,
     bf16=True,

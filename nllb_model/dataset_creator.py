@@ -11,7 +11,8 @@ ENG_LANG = "eng_Latn"
 NLD_DONOR = "nld_Latn"
 
 
-def add_frs_lang(tokenizer, model=None):
+
+def add_frs_lang(tokenizer, model=None, random_init=False):
     """Register frs_Latn as a new NLLB language.
 
     NLLB's weight matrices have 256206 rows but only 256204 tokens in the
@@ -23,8 +24,10 @@ def add_frs_lang(tokenizer, model=None):
     model.config.vocab_size with the tokenizer length so the Trainer's
     saved config and the weight shapes stay consistent.
 
-    * First call (with model): copies nld_Latn embedding weights into the
-      frs_Latn row so it has a meaningful starting point.
+    * First call (with model):
+        - If random_init is False (default): copies nld_Latn embedding weights into the
+          frs_Latn row so it has a meaningful starting point.
+        - If random_init is True: initializes the frs_Latn row randomly.
     * All calls: patches the tokenizer's language-code maps so
       src_lang / tgt_lang = "frs_Latn" works.
     """
@@ -34,26 +37,29 @@ def add_frs_lang(tokenizer, model=None):
 
     frs_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
-    # --- Seed the embedding row from Dutch (only when we have the model) ---
+    # --- Seed the embedding row from Dutch or randomly (only when we have the model) ---
     if model is not None:
-        nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
         emb_rows = model.get_input_embeddings().weight.shape[0]
         assert frs_id < emb_rows, (
             f"frs slot {frs_id} out of range (embedding has {emb_rows} rows)"
         )
         with torch.no_grad():
             inp_emb = model.get_input_embeddings()
-            inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
-
             out_emb = model.get_output_embeddings()
-            if out_emb is not inp_emb:
-                out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
+            if random_init:
+                torch.nn.init.normal_(inp_emb.weight[frs_id])
+                if out_emb is not inp_emb:
+                    torch.nn.init.normal_(out_emb.weight[frs_id])
+                print(f"Randomly initialized {FRS_LANG} (id={frs_id}), matrix rows={emb_rows}, vocab_size={len(tokenizer)}")
+            else:
+                nld_id = tokenizer.convert_tokens_to_ids(NLD_DONOR)
+                inp_emb.weight[frs_id] = inp_emb.weight[nld_id].clone()
+                if out_emb is not inp_emb:
+                    out_emb.weight[frs_id] = out_emb.weight[nld_id].clone()
+                print(f"Seeded {FRS_LANG} (id={frs_id}) from {NLD_DONOR} (id={nld_id}), matrix rows={emb_rows}, vocab_size={len(tokenizer)}")
 
         # Keep config.vocab_size in sync so checkpoint reload works
         model.config.vocab_size = emb_rows
-
-        print(f"Seeded {FRS_LANG} (id={frs_id}) from {NLD_DONOR} (id={nld_id}), "
-              f"matrix rows={emb_rows}, vocab_size={len(tokenizer)}")
 
     # --- Patch the lang_code_to_id / id_to_lang_code maps ---
     if hasattr(tokenizer, "lang_code_to_id"):
