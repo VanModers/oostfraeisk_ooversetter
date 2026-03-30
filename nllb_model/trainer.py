@@ -1,5 +1,6 @@
+import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq
-from dataset_creator import get_dataset, add_frs_lang
+from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
 OUTPUT_DIR = "./nllb_frs_model"
@@ -37,6 +38,29 @@ train_ds = dataset["train"]
 val_ds = dataset["validation"]
 
 trainer = Seq2SeqTrainer(
+
+# --- Custom Trainer to print translation after each evaluation ---
+class PrintTranslationTrainer(Seq2SeqTrainer):
+    def evaluate(self, *args, **kwargs):
+        results = super().evaluate(*args, **kwargs)
+        # Print translation of the provided sentence
+        sentence = ("Die Energiepreise sind seit Beginn des Iran-Kriegs drastisch gestiegen - mit Folgen für Verbraucher und Wirtschaft. "
+                    "Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig fordert im Bericht aus Berlin deshalb sofortige Entlastungen.")
+        self.model.eval()
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.model.to(device)
+        self.tokenizer.src_lang = DEU_LANG
+        inputs = self.tokenizer(sentence, return_tensors="pt", truncation=True, max_length=256)
+        inputs = {k: v.to(device) for k, v in inputs.items()}
+        tgt_id = self.tokenizer.convert_tokens_to_ids(FRS_LANG)
+        with torch.inference_mode():
+            out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=256, num_beams=4)
+        translation = self.tokenizer.decode(out[0], skip_special_tokens=True)
+        print("\n[Sample translation after epoch evaluation]")
+        print(f"German: {sentence}\nOostfräisk: {translation}\n")
+        return results
+
+trainer = PrintTranslationTrainer(
     model=model,
     args=training_args,
     train_dataset=train_ds,
