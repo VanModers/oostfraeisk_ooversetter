@@ -11358,3 +11358,11 @@ Der Postbote klingelt. Die Frau öffnet. Frau: Na, wer bist du denn? Postbote: I
 Frau nimmt den Brief und schaut ihm in die Augen während sie den Brief hinter sich wirft. Postbote schaut verwirrt. Postbote: Ja, dann. Gut. Gibt's noch wat? Frau: Ich habe so viele Probleme mit dem Computer kennen Sie sich da aus? Postbote: Äh, nicht wirklich, nein.
 Frau: Ok, dann kannst du da ja vielleicht was machen. Postbote (murmelnd): Also CDs einlegen und so, das wäre natürlich kein Problem. Die beiden gehen ins Wohnzimmer der Frau. Postbote: Wo ist denn der Computer? Frau: Computer? Ah ja, den habe ich nicht mehr.
 Postbote: Hmm, jetzt hätte ich doch gerne einen Kaffee. Frau: Heiß oder kalt? Postbote: Heiß natürlich. Sie schauen sich kurz an. Postbote: Moment, wer trinkt denn bitte kalten Kaffee? ENDE
+Meiner Meinung nach haben sie da keine Befugnis für.
+Die Befugnis fehlt ihnen.
+Dafür muss man auch eine Befugnis haben.
+Viele Menschen wollen die Todesstrafe abschaffen.
+In der westlichen Welt gibt es fast keine Todesstrafe mehr.
+Die Todesstrafe gibt es vor allem in autoritären Ländern.
+Dieser Gesetzentwurf versetzt Israel in Bezug auf die Todesstrafe in die extremste Position in der demokratischen Welt.
+# Überschriften, die von der Suche ignoriert werden.

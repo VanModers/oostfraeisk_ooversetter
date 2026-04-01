@@ -442,3 +442,5 @@ FodyWeavers.xsd
 /oostfraeiskorg_dataset_creator/oostfraeiskorg_dataset_creator/bin/Debug
 /oostfraeiskorg_dataset_creator/oostfraeiskorg_dataset_creator/obj
 .vscode/settings.json
+
+venv/
