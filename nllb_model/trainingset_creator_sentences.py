@@ -82,6 +82,11 @@ def main():
     model = AutoModelForSeq2SeqLM.from_pretrained(args.model_path)
     add_frs_lang(tokenizer)
 
+    if hasattr(model.config, "max_length") and model.config.max_length is not None:
+            model.config.max_length = None
+    if hasattr(model, "generation_config") and getattr(model.generation_config, "max_length", None) is not None:
+        model.generation_config.max_length = None
+
     model.to(device)
     model.eval()
 
