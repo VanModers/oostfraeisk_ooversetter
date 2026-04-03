@@ -9,8 +9,8 @@ from dataset_creator import FRS_LANG, DEU_LANG, add_frs_lang
 
 DEFAULT_MODEL_PATH = "VanModers114/East_Frisian_NLLB_Model"
 DEFAULT_INPUT_FILE = Path("data/krektüren/deu.txt")
-DEFAULT_GERMAN_OUTPUT = Path("data/krektüren/german.txt")
-DEFAULT_EASTFRISIAN_OUTPUT = Path("data/krektüren/eastfrisian.txt")
+DEFAULT_GERMAN_OUTPUT = Path("data/auto_translated/german.txt")
+DEFAULT_EASTFRISIAN_OUTPUT = Path("data/auto_translated/eastfrisian.txt")
 DEFAULT_COUNT = 10000
 DEFAULT_BATCH_SIZE = 16
 
