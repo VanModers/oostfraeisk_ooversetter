@@ -2,13 +2,17 @@ import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from dataset_creator import FRS_LANG, DEU_LANG, ENG_LANG, add_frs_lang
 
-MODEL_PATH = "./nllb_frs_model"
+#MODEL_PATH = "./nllb_frs_model"
+MODEL_PATH = "VanModers114/East_Frisian_NLLB_Model"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_PATH)
 add_frs_lang(tokenizer)
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
+
+print(device)
+
 model.to(device)
 model.eval()
 
