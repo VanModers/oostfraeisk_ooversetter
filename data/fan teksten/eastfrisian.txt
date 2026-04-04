@@ -6754,7 +6754,7 @@ Nóó 'n lâang aarbaidsdağ is niks gauddaunder as 'n häit bad.
 Abraham Lincoln wur in siin häimóótstad Springfield in Illinois bedulven.
 'N samurai sülst doo häi niks eeten het, bruukt 'n kuuspröökel as 'n Lord.
 Släecht skaultüüğnissen prootent teegen dii, doo duu aarbaid söchst.
-'N wóótermulküül bestaajt uut äin surstof- un twei wóóterstof-atoomen.
+'N wóótermoleküül bestaajt uut äin surstof- un twei wóóterstof-atoomen.
 'N keerl, däi ik näit kende, gung fööer miin huus up un dóól.
 "Duu büst recht gaud in Engelsk, of näit?" - "Dat wil ik mäinen."
 "Wat söölent wii Tom säegen?" - "Kiin söerğ! D'r faalt mii al wat in."
@@ -10676,15 +10676,15 @@ Dat bedüd't, dat wii dat straajt blâau lücht ooverâal um us tau säin köön
 Dat is recht unferstennelk. Boovendeem befinnent sük häil fööl rechtskriivfeelers in diin antern.
 Dat spit't mii läip! Ik probäär 't noch insent un sal fersöyken däi fróóeğ soo äinfach as möögelk t' ferkloren: Stel dii fööer, duu büst in 'n ruum mit fööl buent baalen, däi up d' grund rundliegent.
 Doo duu wiet lüchtstróólen up däi baalen skinst, söölent wat baalen dat lücht döörlóóten un annernt söölent dat lücht reflektäären. Doo duu 'n blâau taaskenlâamp hest un dat lücht döör d' ruum skint, sast duu faststellen, dat fööl fan däi blâau baalen dat lücht döörlóóten daunt.
-Nuu stellent wii us föör, dat us planeet, däi êer, as 'n baldóódiğ ruum mit fööl lüchtmulküülen is, däi as lütje buent baalen rundfläigent. Doo dat sünnenlücht up däi eerdatmosfêer róókt, word't 't döör däi lüchtmulküülen straajt.
+Nuu stellent wii us föör, dat us planeet, däi êer, as 'n baldóódiğ ruum mit fööl lüchtmoleküülen is, däi as lütje buent baalen rundfläigent. Doo dat sünnenlücht up däi eerdatmosfêer róókt, word't 't döör däi lüchtmoleküülen straajt.
 As bii däi buent baalen in d' ruum wordent wat klöören fan 't lücht staarker straajt as annernt. Dat blaau het d'r bii 'n köert wellenläengt un word't 't mäiest straajt. Dat bedüd't, dat 't nóó âal kanten straajt word't un sük oover d' häiel heemel ferdäilt.
 Däi anner klöören fan 't sünnenlücht, as rood un geel, hebbent langerder wellenlengten un wordent minner straajt, soo dat säi näit soo staark sichtbor bünt. Dat is däi grund, woosoo däi heemel blaau let't, doo wii dóóğsoover nóó booven kiikent.
-Doo däi süen unnergaajt, maut dat sünnenlücht döör meer lüchtmulküülen döör, um us oogen t' berekken. D'r wordent däi blâau un fiigeläet klöören wiider straajt, soo dat däi heemel in d' óóvendstünnen fóók ooranzj, rood un pink skint.
+Doo däi süen unnergaajt, maut dat sünnenlücht döör meer lüchtmoleküülen döör, um us oogen t' berekken. D'r wordent däi blâau un fiigeläet klöören wiider straajt, soo dat däi heemel in d' óóvendstünnen fóók ooranzj, rood un pink skint.
 Ik hoop, dat helpt dii t' ferstóón, woosoo däi heemel blaau is!
 Dat spit't mii. Lóót mii 't näjs fersöyken. Däi heemel is blaau, um dat dat blâau lücht 'n körterder wellenläengt het un düs in däi atmosfêer staarker straajt word't.
 Däi "straajt" blâau lüchtwellen ferspräident sük soo in d' tsiktsak oover dat häiel firmament un kooment amäen oover fööl umweegen nóó d' eerdboom. Stel dii fööer, duu smitst 'n bâal teegen 'n müer. Däi bâal pralt of un flüğt t'rüeğ nóó dii.
 Dat is eenelk as bii däi blâau lüchtwellen: Säi wordent fan däi däilkes in d' atmosfêer ofled't un kooment amäen bii us t'rüeğ.
-Ik denk, dat däi begreepen as wellenläengt of mulküülen noch wat t' kumplisäärt bünt. Boovendeem is däi näej tekst f'râal döör däi läengt näit fööl ferstennelker. Finnen bitte köert, sinfuel fergliiken, ook doo dissent näit 100% wäitenskuppelk kurrekt bünt.
+Ik denk, dat däi begreepen as wellenläengt of moleküülen noch wat t' kumplisäärt bünt. Boovendeem is däi näej tekst f'râal döör däi läengt näit fööl ferstennelker. Finnen bitte köert, sinfuel fergliiken, ook doo dissent näit 100% wäitenskuppelk kurrekt bünt.
 Duu hest recht, ik sal 't noch makkelker ferkloren: Stel dii fööer, däi süen is as 'n grôot skiinlücht un däi lücht um us tau is as 'n dookmeskîin up 'n kunsert. Doo dat sünnenlücht döör d' lücht gaajt, straajt 't as däi dook up 't kunsert.
 Blâau lücht word't d'r bii 't mäiest straajt, düs säint wii däi heemel blaau. Dat is 'n biitje as, doo duu 'n taaskenlâamp in d' dook holst - dat lücht word't allerweegens straajt un duu kaast näit genaau säegen wor 't weğ kumt. Ik hoop, dat helpt dii, däi fróóeğ t' ferstóón!
 1. Woo oovertüüğ ik miin laboorpartner up 't effektiifst d'r fan GitLab t' ferwenden, um us LaTeX-protokollen t' sünkroonisäären? 2. Woo oovertüüğ ik hum d'r fan, dat miin layout fan däi protokollen moojer is as siin? Nöym mii 'n poer ferhannelnstechnikken!
