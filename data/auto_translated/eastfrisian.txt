@@ -1780,7 +1780,7 @@ Nüms haar soo 'n stâark ofgefal fan däi tsentsatsen ferwacht't.
 Knap haarent wii däi hâal betreeden, begun däi tseremoonii.
 Nüms wäit oojt wies, wat achter slooten döören fööer sük gaajt.
 Fiifunnentiğ prosent fan âal weesen bünt oller as fiif joer.
-Nikkō liğt ruuğweğ hunnertuntwintiğ kiilomeeter noordelk fan Tōkyō.
+Nikkō liğt ruuğweğ hunnertuntwintiğ kilomeeter noordelk fan Tōkyō.
 Anner móóndağ sal säi 'n móónd lang in 't krankenhuus west hebben.
 In d' läest tiid bünt näej dóódsóóken oover 't oel Skiinó an 't lücht koomen.
 Miin frâau ferklaajt geld, as was ik däi riikst man in d' stad.
@@ -1843,7 +1843,7 @@ Dat sal sük makkelk wel finnen lóóten, däi dat föör dii daajt.
 'T was häil upreegend teegen disser tiid in Boston t' weesen.
 'T was däi weerldwiid êerst mit sünnenenergii bedreeven undsoltenssanlóóeğ.
 Dat wassent däi smachtiğ boren, fööer däi sük däi lauğsters freesdent.
-'T was minner as 'n kiilomeeter bit nóó 't lauğpostamt.
+'T was minner as 'n kilomeeter bit nóó 't lauğpostamt.
 Dat was stur föör Tom, Marió mit t' däilen, dat häi dat skäiden wul.
 'T was stur föör hum siin stolt oover siin erfolğ t' ferstoppen.
 Dat dürs móónden, bit sük Tom fan siin motoorradunfal ferhóólt haar.
@@ -3076,8 +3076,8 @@ Wii hebbent noch näit nauğ inf'rmóósjoonen, um 'n beslus t' móóken.
 Wii beskikkent noch näit oover nauğ inf'rmóósjoonen, um 'n beslus t' móóken.
 Wii löövent näit, dat Tom d'r tau befäiliğt is, perfekt Fransk t' leeren.
 Wii haarent näit nauğ tiid, um t' beennen, wat wii móókt hebbent.
-Wii leedent 100 kiilomeeter mit 't aauto t'rüeğ, eer 't düüster wur.
-Wii kunnent in daartiğ kiilomeeter of 'n baarğtop säin.
+Wii leedent 100 kilomeeter mit 't aauto t'rüeğ, eer 't düüster wur.
+Wii kunnent in daartiğ kilomeeter of 'n baarğtop säin.
 Wii köönent däi taksiiforder näit sünner geld betóólen.
 Wii köönent däi taksiiforder näit betóólen, doo wii kiin geld hebbent.
 Wii köönent disser näej produkten twintiğ prosent unner däi listenpriis anbäiden.
@@ -4650,8 +4650,8 @@ Haar Tom näit dit küssen, dee häi 't läip fermiiten.
 Doo Tom dii beed'de, fan 'n brüeğ t' springen, deest duu dat?
 Doo ik 'n biitje meer geld hat haar, haar ik 't köft.
 Doo ik nauğ geld hat haar, haar ik däi taaske köft.
-Iisland besit't 'n flâakt fan ruuğweğ 103 000 kantkiilomeeters.
-Iisland is ruuğweğ 103000 kantkiilomeeter groot.
+Iisland besit't 'n flâakt fan ruuğweğ 103 000 kwadróótkilomeeters.
+Iisland is ruuğweğ 103000 kwadróótkilomeeter groot.
 Mii bünt hir wat wunnerlîik föörkummnissen upfaalen.
 Dat heb ik noch noojt wel fertelt, näit móól fan miin mauder.
 Ik sağ dii noojt kooken. Kaast duu ooverhôop kooken?
@@ -6350,7 +6350,7 @@ Tom siin mitwoonerske let't fóók fûul geskir in d' spöyel stóón.
 Tom siin mitwooner let't fóók fûul geskir in d' spöyel stóón.
 Tom plóónt tau Marió höör boorsdağ wat häil besünners.
 Tom siin ollen wachtent bii d' tsiiläin up hum.
-Tom siin huus is ruuğweğ drei kiilomeeter fan hir weğ.
+Tom siin huus is ruuğweğ drei kilomeeter fan hir weğ.
 Tom siin fóóder kwam noojt fööer neegen of tain üer nóó huus.
 Tom siin femiilje móókt elker sömmer uurlaaub in d' baargen.
 Haar Tom f'rsichtiger west, haar häi noch an 't leevend.
@@ -6707,7 +6707,7 @@ Däi inhäimsken hir lóótent 't wies rüstiğ angóón.
 Däi läest persoon, däi ik miin idee fertelt heb, doch, ik was benaaut.
 Däi frâau, däi net mit disser jung proot't, is siin mesterske.
 Däi richter feroordäilde hum tau fiif joer gefangenis.
-Dat ailand is fiif kiilomeeter fööer d' küest.
+Dat ailand is fiif kilomeeter fööer d' küest.
 Dat wicht slook in d' hörn fan d' klassenruum.
 Däi film wur fan däi romóón sülviğ tittels inspiräärt.
 Däi hund wacht'de dağ um dağ up däi t'rüeğkumst fan siin man.
@@ -7902,7 +7902,7 @@ Al siit generóósjoonen het 't altiid 'n afkóót in d' femiilje geeven.
 Fööer twei stüen wassent d'r twei rôod hauden up disser tóóvel.
 Up däi tóóvel fan d' gerichtsmedsiiner lağ 'n ofhoovd't lîik.
 Wen ooverhôop, gift dat man min uutsicht up erfolğ.
-'N kiilomeeter flaudfööer gift dat 'n brüeğ.
+'N kilomeeter flaudfööer gift dat 'n brüeğ.
 Däi antóól fan däi moorden is steegen.
 Nóódeem 't d'r niks meer t' daun gaf, mookent wii 'n kaierfort.
 Dat gift ferskeelend metooden, woo wii dit probleem anpakken kunnent.
@@ -8684,7 +8684,7 @@ Kust duu insent nóókiiken, of däi garagentööer diecht is?
 Kunnent Jii dat ofraajsdóótum bii disser forkoert annern?
 Fergleeken mit siin brör is häi näit soo intelligent.
 'N skóókspööler maut gaud in strateeğsk denken weesen.
-Kóóp Desjnjew liğt fiiftiğ kiilomeeter süüdelk fan d' Noordpoolaarkring.
+Kóóp Desjnjew liğt fiiftiğ kilomeeter süüdelk fan d' Noordpoolaarkring.
 Köönent Jii mii säegen, woo ik nóó d' amerikóónsk böskup koom?
 Kunnent jii mii biibrengen, soo gitâar t' spöölen as jii?
 Köönent Jii mii biibrengen, soo gitâar t' spöölen as Jii?
@@ -8905,7 +8905,7 @@ Wii mussent dat dräepen um däi stöörm ofsäegen.
 Wii haarent kiin wóól, as däi skendaarms ferleeden nacht t' raupen.
 Wii kwamment bii d' bóónhof an, doo däi tsuğ net offur.
 Wii söykent wel, däi mit 'n reekener um t' góón wäit.
-Wii bünt fäärtiğ kiilomeeter fan d' hoovdstad weğ.
+Wii bünt fäärtiğ kilomeeter fan d' hoovdstad weğ.
 Wii Düütskers freesent God, man niks anners in d' weerld.
 Dat waaske fan hand t' waaskern is anstrengend un tiidoploot.
 Däi Wallentiinsdağ word't up d' häiel weerld begóón.
@@ -9642,7 +9642,7 @@ Dat is lâang heer, dat wii us dat läest móól sağğent.
 'T is 'n lâang tiid ferleeden, siit wii us dat läest móól säin hebbent.
 Seeker, dat wêer is slecht, man wii hebbent al läiperder beleevt.
 Dat is al elm. Ik maut nuu tau góón.
-Fan hir bit nóó d' küest bünt 't ruuğweğ drei kiilomeeter.
+Fan hir bit nóó d' küest bünt 't ruuğweğ drei kilomeeter.
 Fan hir bit nóó Boston bünt 't ruuğweğ 500 km.
 Dat is 'n ror ferhóól, man elker woord d'r fan is woer.
 Däi campus is 'n kertäärsüer fautmaarsk weğ.
