@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Transactions;
 using static System.Net.Mime.MediaTypeNames;
 
-const int MAX_TEXT_LENGTH = 500;
+const int MAX_TEXT_LENGTH = 5000;
 const int MANUAL_DATASET_MUL = 1;
 const int MANUAL_DATASET_COMB_MUL = 2;
 const int SQL_SEED = 42; // Set your desired seed value
