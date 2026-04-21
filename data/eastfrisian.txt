@@ -2351,7 +2351,7 @@ däi aarften bünt noch t' jung säi ferslinnent t' fööl bii 't kooken
 däi adder säeğt ik biit in d' nood un wat ik biit je dat gaajt dood
 däi dat läest uut kâan drinken wil däi faalt däi deksel up d' snûut
 däi dóóden mautent 't bewiisen wat föör 'n inbost in 'n minsk sit't
-däi het 'n krankhaid mit bakteerjen düs het häi ook 'n antibiotikum
+däi het 'n krankhaid mit bakteerien düs het häi ook 'n antibiotikum
 däi keerl is soo 'n glaajdiğ dönner dat häi häil näit tau fangen is
 däi kinner mautent skôon hâan hebben eer dat säi bii d' tóóvel góón
 däi kloek mağ góón as däi wil man 'n wîis man wäit altiid siin tiid
@@ -6132,7 +6132,7 @@ bünt d'r ook lüü in d' stad dat duu dat weißt?
 däi äien kûus het däi kuusendokter mii trukken
 däi bâalk is mit däi letters "KHI" liiktäikent
 däi baau fan däi fäers is näit soo as 't höört
-däi bakteerjen tosettent däi ofstüüven planten
+däi bakteerien tosettent däi ofstüüven planten
 däi belhóómer wil altiid wat tau säegen hebben
 däi boom kan 'k häil näit in 't gewaas kriigen
 däi buer bestelde däi aarbaider tau d' aarbaid
@@ -30707,7 +30707,7 @@ mutters un bolten
 'n kloot uphangen
 'n klöyteräj geld
 'n kluster huusen
-'n knâap ruuğstof
+'n knâap grundstof
 'n kniintjeköödel
 'n kóóveling holt
 'n kop as 'n bôoj
@@ -48275,7 +48275,7 @@ Füer anböyten. Gif mii 'n tuutje.
 Hâalf brand is weğsmeeten geld. Häi het hum liik in 't haart druepen.
 Häi is up äigen gefoer d'r hen foren. Häi staajt t' jóónen.
 In fäärtain dóóeğ. Biisiid góón.
-Däi bakteerjen tosettent däi ofstüüven planten. Däi peer gróósent in d' klóóver.
+Däi bakteerien tosettent däi ofstüüven planten. Däi peer gróósent in d' klóóver.
 Dat gaajt näit. Dat kan häi näit of.
 Miin heer is näit in huus. 'n böögel um d' gek fan d' puemp.
 Duu bieslanner! Füer in 't holt.
@@ -55826,7 +55826,7 @@ Blîid laagen. Däi grim kikt hum tau d' oogen uut.
 Däi wind waajt soo läj. Liegend präes.
 Dat is âal in d' loop. Man maut däi lüü prooten lóóten däi gausen köönent dat näit.
 Dat lüst ik läifst. Disser skek is näit dekt.
-'n knâap ruuğstof. D'r is oriğ wind.
+'n knâap grundstof. D'r is oriğ wind.
 Föör woer achten. Gaud t' toğ weesen.
 Häi dürt mii näit oover dööer of drüppel koomen. Häi het sük uphangen.
 Häi kwakkelt wat mit dat gaud rund. Häimsk worden.
@@ -57521,7 +57521,7 @@ Häi fersköört 't âal wat hum unner d' hâan kumt. Häi hóókt dat fast.
 Sünner teegenproot. Häi leevt as God in Frankriik.
 Hoolenbewooner. Up 'n têev.
 Baarken riis. Ik kan d'r kiin greep an kriigen.
-Wöyest sluupmüeğ. Däi het 'n krankhaid mit bakteerjen düs het häi ook 'n antibiotikum.
+Wöyest sluupmüeğ. Däi het 'n krankhaid mit bakteerien düs het häi ook 'n antibiotikum.
 Dat is d'r wiid of. Dat óónt mii.
 Doo däi hund in bedringen kumt bit't h'. 'n liecht maud fóóten.
 D'r maut t' fööl drük teegen weesen anners wäit 'k näit wor däi müer soo fan uutbuulen kan. Säeğ bloot!
@@ -88945,7 +88945,7 @@ Däi wünsk, as 'n föögel an d' heemel t' fläigen, led tau 't uutfinnen fan d
 Däi börgers fan disser lütje gemäien düldent däi uuttuusk fan läiftóóliğkaid in d' öffenliikkaid näit.
 Däi börgers fan disser lütje gemäien düldent kiin öffenlîik bekünnens fan läiftóóliğkaid.
 Dat koopen un ferkoopen fan persöönelk dóóten fan lüü word't 'n wichtiğ baudel.
-Däi bakteerjen, däi bii 'n tuutje ooverdróógen wordent, helpent, dat immuunsüsteem tau staarken.
+Däi bakteerien, däi bii 'n tuutje ooverdróógen wordent, helpent, dat immuunsüsteem tau staarken.
 Däi aautoor is tsöömtiğ, man häi is näit minner produktiif as fööer twintiğ joer.
 Däi keerl stun wat biisiids, man keerde sük um, as häi Tom raupen höörde.
 Wat säegent, Fransk was däi môojst tóól in d' weerld.
@@ -92547,7 +92547,7 @@ Slóóp gaud un drööm söyt fan suer gurken!
 Doo duu näit sund büst un diin körper of kop dii wist, dat wat näit stemt, büst duu krank.
 Mäisttiids maarkt man dat d'r an, dat man piin het, slap is, fäivers kriğt of sük äinfach maal föylt.
 was 't däi móóeğ, däi lueng, dat haart, däi psüüech of fut däi häiel körper...
-Of un tau stekt d'r 'n wiirus of bakteerje achter.
+Of un tau stekt d'r 'n wiirus of bakteerie achter.
 Moin ChatGPT, prootst duu ook oostfräisk Plat? Ik wil dat duu fan nuu of an soo wal up Düütsk as ook up Plat anterst. Ik geev dii nuu 'n biispil föör dat modêern oostfräisk rechtskriiven, dat duu wäist, woo duu mii antern sast.
 Bedankt föör dat biispil. Dat helpt mii läip, mii d'r an t' orientäären.
 Bedankt föör dat biispil. Ik denk, dat helpt mii äinliik läip, mii d'r an t' orientäären.
@@ -93430,7 +93430,7 @@ Nóódeem häi däi bräif skreeven haar, stook Tom hum in 'n umslağ un ferseeg
 Nóó d' sömmerfeerjen mautent däi kinner weer nóó d' skaul tau.
 Nóódeem ik däi tol passäärt haar, kun ik góón, wor hen ik wul.
 Nóó wat menüüten fung ik an, dat interäes an dat gesprek t' ferläisen.
-Bii 'n tainsekunniğ tuutje wordent ruuğweğ tachentiğ miljoonen bakteerjen ooverdróógen.
+Bii 'n tainsekunniğ tuutje wordent ruuğweğ tachentiğ miljoonen bakteerien ooverdróógen.
 Aarhus, däi twäidgrôotst stad fan Deenmaark, het däi postläidtóól 8000.
 Aarhus, Deenmaark siin twäidgrôotst stad, het däi postläidtóól 8000.
 'N sumo-ringer móókt 't niks uut, 20.000 kaloriien up d' dağ tau sük t' neemen.
@@ -97991,12 +97991,12 @@ Minst gefaalt mii dat, dat ik uutwendiğ teksten föördróógen maut. Däi sken
 Tom haar dat pech, in d' bank t' weesen, doo sük däi roofooverfal taudrooğ. Undskülligent Jii dat stöören, man kunnent Jii mii fiilicht säegen, woo ik nóó d' bóónhof koom?
 Tom sat alleniğ an d' köökentóóvel, doo Marió inkwam. Gaf dat up d' êer äinliik fööer 203422323 joer al leevend of t'minst 'n anner föörm fan leevend? Un gaf dat dit leevend fandóóeğ noch, doo 't näit uutstüürven was?
 Is 't gaud föör d' sundhaid elker dağ 'n knuuflooktööen t' eeten? Ik haar dii säegen sult, dat duu kiin tsukker meer t' koopen bruukst.
-Däi bakteerjen, däi bii 'n tuutje ooverdróógen wordent, helpent, dat immuunsüsteem tau staarken. Ik lööv, ik heb uut fersäin Tom betsichtiğt, alwoo dat äinliik Marió was.
+Däi bakteerien, däi bii 'n tuutje ooverdróógen wordent, helpent, dat immuunsüsteem tau staarken. Ik lööv, ik heb uut fersäin Tom betsichtiğt, alwoo dat äinliik Marió was.
 Ik wäit näit meer, woo dat wicht heet, wat ferleeden joer in d' franskunnerricht teegen mii sat. Doo häi dat rönnen as êerst fulendjen dee, was dit 'n siiğ föör 't häiel land.
 Tom köf 'n poer in Skiinó móókt moskitonetten föör siin früen. Ik wil Jau näit seer daun, man doo Jii mii in d' möyet kooment, heb ik kiin anner wóól.
 Móóndağ, dingsdağ, middewêek, dönnerdağ, freidağ, sóóterdağ un söndağ bünt däi sööm weekendóógen. Dat is stur föör mii t' lööven, dat Tom an dat undfören bedäiliğt was.
 Dat däint us duel. Duu mäinst däi Fräisentôort mit däi bladdäiğ? Dat staajt up 't ferpakken woo häi móókt word't.
-Bii 'n tainsekunniğ tuutje wordent ruuğweğ tachentiğ miljoonen bakteerjen ooverdróógen. Tom kan kiin paasend woorden finnen, um siin geföylen föör Mary t' beskriiven.
+Bii 'n tainsekunniğ tuutje wordent ruuğweğ tachentiğ miljoonen bakteerien ooverdróógen. Tom kan kiin paasend woorden finnen, um siin geföylen föör Mary t' beskriiven.
 Man d'r achter steekent driist wal êernst teemen. Tom löövde, däi fluğhóóven noch up tiid berekken t' köönen, doo häi däi hooğstgaauiğkaid wat ooverskreed.
 Tom wul näit, dat man doch, häi bruudjede mit Marió. Ik woon nuu in Boston in d' Feräint Stóóten; man ik wil noch fööer 't äen fan 't joer weeruem nóó Jóópóón.
 Of dat windrad Jau in d' slóóp stöören sal, hangt fan Jau persöönelk fiinföyliğkaid teegenoover geluuden of. Enkeld minsken bünt fiinföyliger teegen geluuden as annernt. Enner 'n rîik keerl uut Boston het net dat huus teegen mîin köft.
@@ -100689,7 +100689,7 @@ Dan dat bundsregäären haar in dit iilferforen däi geleegenhaid, höör arğme
 Jau noch 'n môoj oljorsóóvend an d' küest. Dat sal mii meer as drei stüen kösten, dat dokument döör t' kiiken.
 Um 'n professjoonäel banjospööler t' worden, maut man duusend stüen mit öyven ferbrengen. Ik heb mit diin dokter proot't un häi see, dat duu t'minst 'n wêek up bäer bliiven maust.
 Ik fin dat äinfach bloot stur t' lööven, dat Tom dat wies löövt. Dat is n'rmóól, dat sük däi suem fan däi neerstoffen näit genaau up 100 g addäären daajt. Dat liğt d'r an, dat leevendsmiddels ook anner bestanddäilen befóótent, däi näit in däi neerweerdtebäel upfört bünt, as t. b. ballaststoffen, wóóter un aaske.
-Of un tau stekt d'r 'n wiirus of bakteerje achter. Woo let't 't doo Zinderdonks in 't spööl kooment?
+Of un tau stekt d'r 'n wiirus of bakteerie achter. Woo let't 't doo Zinderdonks in 't spööl kooment?
 Dat enkeld, wat föör Tom telt, is, woo fööl geld häi ferdäint. Tom siin näej wäelp is soo lütjet, dat häi nauğ bot up 'n palm fint.
 Tom see, dat häi löövde, dat kun ook in Boston geböören. Ik haar mii däi râajs sporen kunt, doo duu mii äinfach säeğt haarst, dat ik fandóóeğ näit hir t' weesen bruuk.
 Ook 'n dräjergesprek tüsken Trump, Selenskyj un Putin sal nóó Merz bold plóótsfinnen, soo haar man dat fan Trump nóó d' toppünt höört - man uut Moskaau gaf dat d'r föör bit nuu tau kiin siğnóólen. Dat tsiil fan dit spil is, âal bumben up d' bildskiirm eksplodäären t' lóóten.
@@ -103830,7 +103830,7 @@ Dat gift fööl dingen oover miin persöönelkkaid, däi duu näit wäist. Säi 
 Dat gift antäikens föör waasend spannens tüsken däi bâajd lâan. Däi näitwerbóóel kummunikóósjoon is net soo wichtiğ as dat, wat dóódelk säeğt word't.
 Ik denk, soo lâang ik näit t' fööl eet, sal ik seeker ofneemen. Ik kan mii d'r mit offinnen, doo 'n huus unörnelk is, man ik mağ 't näit, doo 't fûul is.
 Duu haarst dat rönnen winnen kunt, doo duu man 'n biitje gaauer loopen wast. 'N tuutje sünner snurbord is as 'n tsoep sünner solt.
-Ölje spöölde 'n wichtiğ ruel in 't undwikkeln fan d' tsiwiilisóósjoon. Of un tau stekt d'r 'n wiirus of bakteerje achter.
+Ölje spöölde 'n wichtiğ ruel in 't undwikkeln fan d' tsiwiilisóósjoon. Of un tau stekt d'r 'n wiirus of bakteerie achter.
 Dat feräinigen "Fräej Fräisland" wünskert blîid wiinachten un 'n gâaud rutsk in 't näej joer! Doo Tom föör 't êerst móól Marió mit nóó huus broch, see siin mauder: "Däi is best!".
 Ik heb dat läiver un bruuk 't näit, as dat ik 't bruuk un näit heb. Ik heb näit däi lütjest twiivel, dat 't Tom was, däi miin motoorrad stoolen het.
 Däi wâalt fan däi nóósjoon is däi plicht fan 't regäären. Willent wii anners noch up Tetje wachten of wat mäinent jii?
@@ -105967,7 +105967,7 @@ Disser ring is 'n móóğsk geegenstand, däi siin dróóger grôot krachten fer
 Dat is 'n test um t' testen of dat emailferstüren noch funksjoonäärt. Tom see, häi haar fanmörn kiin tiid tau 't bladjeleesen hat.
 Doo duu näit wäist, wat dat woord bedüd't, kiik in 't woordenbauk nóó! Fööer d' êerst kofje is Tom 's mörns altiid 'n biitje kibbelk.
 Tom un Marió swelğdent in heerinnerns an däi nacht fööer âal däi joren, doo säi sük kennen leerdent. Föör Erdoğan is Özel 'n unbekwêem opposisjoonsbóós. Unner siin läiden stelde sük däi republikóónsk folkspartäj CHP, däi as eliiteer un ollerweerldsk gul, näj up. Dat broch siin früchten bii däi kumuunóólwóólen in 't ferleeden joer:.
-Däi bakteerjen, däi bii 'n tuutje ooverdróógen wordent, helpent, dat immuunsüsteem tau staarken. Tom un Marió keekent sük mit besörğt mîin an.
+Däi bakteerien, däi bii 'n tuutje ooverdróógen wordent, helpent, dat immuunsüsteem tau staarken. Tom un Marió keekent sük mit besörğt mîin an.
 Höört insent jii heksen lóót't mii miin rüst. Duu móókst grappen!
 Moin, bedankt föör däi frünnelk upnóóem. Ik bün Engelskprooter fan d' USA un fang net an, Düütsk t' leeren, um dat ik 2026 of 2027 'n râajs nóó Oostfräisland plóón. Tom löövt, dat däi dağ koomen sal, up däi 't kiin oorlaugen meer gift.
 Sülst däi akróótst móókt plóónen skaajternt fóók. Trots ofróóden fan höör däärendokter fauerde säi höör hund wiider mit râau gemüües.
@@ -107220,7 +107220,7 @@ Doo häi dat rönnen as êerst fulendjen dee, was dit 'n siiğ föör 't häiel 
 Wii söölent us an 'n persoonóólfermiddeln wenden mauten, um dit läidensbóóntje paasend t' besetten. Wult duu iis?
 Sülst doo Tom däi riikst man fan d' weerld was, dee ik hum näit traauen. Nee, däi tauörnens in däi fróóeğ bünt näit bijektiif. Dat häit't doo uut A B folğt, folğt uut B näit dwingend A. Dat kan alsoo Lungerriks geeven, däi kiin Schluberwicks bünt un ook Plonkerritz, däi kiin Lungerriks bünt.
 Um dat Tom kiin óóliibii föörwiisen kun, namment däi skendaarms hum fast. Dat höört sük häil gaud an! Un wor gaajt 't in dit bauk oover?
-Bii 'n tainsekunniğ tuutje wordent ruuğweğ tachentiğ miljoonen bakteerjen ooverdróógen. Häi is stolt up däi dóódsóóek dat häi noojt in siin leevend 'n dokter upsöcht het.
+Bii 'n tainsekunniğ tuutje wordent ruuğweğ tachentiğ miljoonen bakteerien ooverdróógen. Häi is stolt up däi dóódsóóek dat häi noojt in siin leevend 'n dokter upsöcht het.
 Dat was Tom siin idee, näit mîin. Daut näit mii däi sküld! Tom broch drei joer in Boston bii siin aarbaid as gehäimskendaarm tau.
 Doo diin fóóder diin mauder wat up Fransk frağt, antert säi dan up Fransk of up Engelsk? 'N effektiiverder metôod, disser krankhaid t' behanneln, word't drok nöödiğ.
 Soo dróó dat anfung t' reegen, wur Tom gewoer, dat häi siin reegenskiirm in huus fergeeten haar. Wäist duu ooverhôop, wat berwaaske is?
