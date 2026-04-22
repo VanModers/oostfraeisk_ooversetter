@@ -87539,7 +87539,7 @@ Doo duu näit ennelk anfangst, däi minsken wat respektfuller t' behanneln, kunn
 Ik wäit, dat 't al recht lóót is, man haarst duu d'r wat teegen, doo 'k nuu noch bii dii kwam? Dat gift d'r wat, wat ik mit dii beprooten maut.
 Ik lööv, man kan siin beneemen näit undskülligen. Biisiids sullent wii dat anhöören, wat häi t' säegen het.
 Ik hol dat föör mii näit föör nöödiğ, dat ik as 'n maudertóólprooter klingen dau: ik wil man flaajdiğ prooten köönen.
-Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst öökonoomsk katastrôof fan us leevend tauspitsen sul.
+Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst ökonoomsk katastrôof fan us leevend tauspitsen sul.
 As Tom see, häi haar archeoloogii stuudäärt, doch an däi uutgróóvens kiin interäes wees, was ik frappäärt.
 Wii köönent us telten näit dor bii d' strand lóóten, wor s' nuu bünt. Anners stóónt s', doo däi flaud kumt, unner wóóter.
 Tom wacht'de fööer d' bóónhof up mii; man ik was d'r fan uutgóón, häi dee d'r achter wachten.
@@ -88742,7 +88742,7 @@ Miin ollen möögent miin fründin näit. Säi finnent, säi was föör mii näi
 Fööl ollen hollent dat föör wichtiğ, dat höör kinner Fransk leeren.
 Göötdeksels bünt rund, um dat säi soo näit döör 't gat faalen köönent.
 Döör lüchtferfuulen is 't 'n daardel fan däi minsken up d' êer näit möögelk, dat melkpad t' säin.
-Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk öökonoomsk dóólgaang bedingt.
+Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk ökonoomsk dóólgaang bedingt.
 Dat is praktisk allerweegens in d' weerld möögelk, mit 'n maudertóólprooter Engelsk t' leeren.
 'T is kiin wunner, dat Tom slecht slöpt: häi drinkt je bit tau twalf kopkes kofje up d' dağ.
 Dat was 'n läip lastiğ wêek föör Marió, säi is froo, 't achter sük t' hebben.
@@ -92314,7 +92314,7 @@ Jóópóón het undwikkelnslâan 'n hülppakeet fan twei miljaarden jen tausäe�
 Man bruukt t' faut man 'n kertäärsüer fan hir bit nóó d' bóónhof.
 Mii kwam noojt däi gedâank, dat häi däi räecht keerl up d' räecht stee was.
 Dat haar 'n lâang, hâard dağ föör Tom west, un häi ful keput up bäer.
-Fröem planten as palmen in t' fören kan öökosüsteemen skóódigen.
+Fröem planten as palmen in t' fören kan ökosüsteemen skóódigen.
 Worskiinelk is kiin tóól häil fräj fan läinwoorden.
 Doo jii miin anwiisens genaau folgent, köönent jii wat tiid sporen.
 Duu sust unbedingt däi kâauk pröyven, doo duu dat noch näit dóón hest! Däi is wies köstelk!
@@ -96690,7 +96690,7 @@ Duu hest recht, ik sal 't noch makkelker ferkloren: Stel dii fööer, däi süen
 Blâau lücht word't d'r bii 't mäiest straajt, düs säint wii däi heemel blaau. Dat is 'n biitje as, doo duu 'n taaskenlâamp in d' dook holst - dat lücht word't allerweegens straajt un duu kaast näit genaau säegen wor 't weğ kumt. Ik hoop, dat helpt dii, däi fróóeğ t' ferstóón!
 1. Woo oovertüüğ ik miin laboorpartner up 't effektiifst d'r fan GitLab t' ferwenden, um us LaTeX-protokollen t' sünkroonisäären? 2. Woo oovertüüğ ik hum d'r fan, dat miin layout fan däi protokollen moojer is as siin? Nöym mii 'n poer ferhannelnstechnikken!
 LaTeX büd't teegenoover dat klassisk Word-f'rmóót wat föördäilen, däi Jau laboorpartner oovertüügen kunnent: - LaTeX definäärt dat layout oover 'n äigen syntax un is d'r mit stabiiler in 't fertöönen as WYSIWYG-ansatsen as t.b.
-Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot öökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b.
+Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot ökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b.
 'n bepóólt siidnummeräären) - LaTeX gript up 'n bibliotäiksf'rmóót föör siin wellen t'rüeğ.
 D'r mit köönent wellen föör däi resjäerzj gaud orgóónisäärt un wersjoonäärt worden, um dat säi näit däil fan dat hoovddokument bünt Mit disser räidens kunnent Jii Jau laboorpartner fiilicht oovertüügen, dat LaTeX moojer föör Jau protokollen is.
 Oovertüügent Jii Jau laboorpartner d'r fan, GitLab tau 't sünkroonisäären fan Jau LaTeX-protokollen t' ferwenden, indeem Jii däi däi folgend arğmenten ferwendent: Effisjens : Döör 't ferwenden fan GitLab köönent Jii un Jau laboorpartner protokollen effisjenter sünkroonisäären un up d' näjst stand hollen.
@@ -97101,7 +97101,7 @@ Däi begrip "oopen dóóten" (engelsk Open Data) is 'n makkelk kunsept: Dóóten
 Dit kunsept is in 't akódemsk berek näit näj un glikt däi kunsepten fan Open Access, Open Content un Open Source. Oopen dóóten bünt dóóten, däi fan elk un sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent.
 Bii oopen (ferwaltens-) dóóten hannelt 't sük um inf'rmóósjoonen, däi fan öffenlîik steeden sóómelt, móókt of betóólt wurdent, soo benöymt inf'rmóósjoonen fan d' öffenlîik sektoor, un föör dat almäien weerbruuken fräj beskikbor bünt. Däi litsens läeğt d'r bii däi bruukenskundiisjes fast.
 Disser prinsiipen föör oopen dóóten wordent tels in d' Open Definition beskreeven.
-Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un öökolooğsk meerweerden t' bóóten.
+Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un ökolooğsk meerweerden t' bóóten.
 Kaast duu mii 'n poer programäärtóólen anbefeelen, däi ik as begünner leeren kan um 'n möögelkst makkelk instap in 't programäären t' hebben?
 Jóó, fan sülst! Hir bünt wat programäärtóólen, däi sük gaud föör instiigers äigent: Python: 'N läip beläivt programäärtóól mit 'n makkelk süntaks un 'n grôot community.
 Python kan in fööl anwendensberekken inset't worden, inbegreepen webundwikkeln, dóótenanalüües, meskiinäel leeren un fööl meer. Java: 'N anner läip beläivt programäärtóól, däi fóók up skaul un an uniwersitäiten leert word't.
@@ -97310,7 +97310,7 @@ Beacht bitte, dat dat 'n ooverprüüfen gift, of 'n nóóm as parómeeter angeev
 Erstel 'n köert beskriivenstekst föör 'n dürsóóm ferwalt't fonds, däi in europeesk skeemiikunseernen inwestäärt.
 Däi fonds is 'n dürsóóem fonds in d' sin fan dat EU-ferörnen oover dürsóóem oopenläegensplichten in d' finansdenstsektoor (SFDR). Häi inwestäärt hoovdsóókelk in aksien fan europeesk skeemiikunseernen, däi hôoğ umweerld-, sosjóól- un governance-standards (ESG) ferfüllent.
 Däi fonds wil d'r up an, 'n attraktîif rendîit t' móóken un t'gliik 'n positîif biidrağ tau däi globóóel dürsóómkaidstsiilen t' laisten.
-Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up öökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent.
+Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up ökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent.
 Döör 'n grünnelk uutwóól fan däi unnerneemens, däi in däi fonds upnoomen wordent, streevt däi fonds d'r nóó, langfristiğ positîif uutwirkens up d' umweerld t' móóken, wiilst t'eevens 'n deegelk finansjel rendîit ferdäint word't.
 Däi fonds angóózjäärt sük ook aktiif bii däi unnerneemens, wor häi in inwestäärt, um 'n ferbeetern fan höör dürsóómkaidspraktikken un 'n staarkerder umweerldorientäären t' föördern.
 Erfin 'n môoj nóóm mit 'n gaud t' maarken akronüüm.
@@ -98248,7 +98248,7 @@ Miin fründin aarbaid't bii 'n tóólskaul, un dat gefaalt göör dor läip. Tom
 In äin toğ drunk ik miin glas uut, bestelde mii dan noch twei annernt un löesde dissent binnen fiif menüüten. Däi appel heb ik eeten.
 Tom drooğ däi piin 'n wêek of wat, bit häi sük amäen in 't krankenhuus begaf. Däi sekreteer is näit alleniğ mooj, man ook gaud in Engelsk.
 Tom wul geern wäiten, woo siin eksfrâau un höör näej keerl mitnanner uutkooment. Däi gespreeken tüsken aarbaiders un management kwamment tau kiin äindüüdiğ resultóót.
-Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk öökonoomsk dóólgaang bedingt. Uut däi grund liğt däi ferraskernseffekt näit d'r in, dat däi jeegers al föördeem dood wassent un sük düs näit róóken köönent, man dat säi dood bünt, UM DAT säi sük róókent (mit höör wóópens). Finst duu dit ferkloren ferstennelk of heb ik wat ferkeert begreepen?
+Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk ökonoomsk dóólgaang bedingt. Uut däi grund liğt däi ferraskernseffekt näit d'r in, dat däi jeegers al föördeem dood wassent un sük düs näit róóken köönent, man dat säi dood bünt, UM DAT säi sük róókent (mit höör wóópens). Finst duu dit ferkloren ferstennelk of heb ik wat ferkeert begreepen?
 Woo oller duu büst, soo sturder is 't, 'n tóól t' leeren. Kenst duu däi ferskeel fan mikroskoop un teleskoop?
 Dat is unlooğsk, t' lööven, dat lütje kinner gaauer rönnen köönent as skendaarms. Häi köf dat land, um d'r up siin huus t' baauen.
 Doo duu dat näit ferstaajst maust duu 't säegen. Dat iisraeelsk buutenministeerium wees dat ferkloren fan däi stóóten of, "um dat 't fan däi reóólitäit ofkoppelt is un 'n ferkeert böskup an d' Hamas stürt".
@@ -99610,7 +99610,7 @@ Bit duu tau d' knast uut büst, is säi worskiinelk al traaut. Doo Jii dat glük
 Ik sal Tom mörn anraupen un hum beeden, us t' helpen. Wii sittent in d' tûun un prootent mitnanner oover Oen siin aarbaid un 'n oostfräisk partäj.
 Jii lóótent grôot f'ruutgaangen móókt t' hebben, siit ik Jau dat läest móól druep. Jau dóóten wordent up d' äin kâant d'r döör ferhooven, dat Jii us disser mitdäilen daunt. Hir bii kan 't sük b.f. um dóóten hanneln, däi Jii in 'n kuntaktföörmulaar ingeevent.
 Wiis Tom woo häi d'r hen kumt. In 't joer 1978 wur 'n freedensofkoomen tüsken Jóópóón un Skiinó beslooten.
-'N priwóót krankenferseekern kan unner bepóólt umstâan günstiger weesen as dat wettelk krankenferseekern. Hir bünt wat möögelk gruen: 1. Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst öökonoomsk katastrôof fan us leevend tauspitsen sul.
+'N priwóót krankenferseekern kan unner bepóólt umstâan günstiger weesen as dat wettelk krankenferseekern. Hir bünt wat möögelk gruen: 1. Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst ökonoomsk katastrôof fan us leevend tauspitsen sul.
 Tom wäit näit, mit wel Mary plóónt nóó d' bâal t' góón. Säi gaffent us niks un leedent us in fessels: Däi moorners!
 Elker joer wordent 100.000 kwadróótkilomeeters troopsk reegenwald fernäilt. Dat het kiin sin, dat ik mit dii proot, um dat duu soo of soo näit dat daun sast, wat ik dii säeğ.
 Däi föör däi maimöölen ferantwoordelk besloot, sük t' ferseekern, dat 't âal kurrekt funksjoonäärde. Mit miin reekener let't wat näit t' stemmen.
@@ -101162,7 +101162,7 @@ Doo ik fandóóeğ wóóker wur, góópende ik, rekde mii dan, wreev mii däi sl
 Tom haar siin kophöörders up, soo dat häi näit höörde, woo Marió in d' kóómer kwam. Dit bauk is föör stuudenten, däi höör maudertóól näit Jóópóónsk is.
 Mii swóónt kwóóds. Poker word't tau däi glüksspillen telt.
 Ik fin, elk fan us sul Tom wat tau d' boorsdağ skenken, un dan wat sülstmóókt! Wat ferskeelt Open Assistant fan anner AI süsteemen?
-Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up öökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent. Ik kan noch insent kiiken, man fööl meer fint man lööv ik näit. Duu kaast d'r fan sülst noch däi adressen uut däi oel liest bii daun.
+Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up ökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent. Ik kan noch insent kiiken, man fööl meer fint man lööv ik näit. Duu kaast d'r fan sülst noch däi adressen uut däi oel liest bii daun.
 In 't Harlingerland proot't man 'n besünners kepuet wariâant fan 't Oostfräisk Plat, däi as breekdöörfal lüd't. Oover däi hâalft fan 't upstiigen nóó d' toppünt liğt noch fööer us. Bünt jii wies al möej?
 Dr. Hellebrandt is buutengewôon professoor an disser ekselläent uniwersitäit. Langwîil, aldóógelk slöör un gebrek an neiskiriğkaid bünt däi grôotst fäien fan us bräigen.
 Ik mağ dat bii orgóónisóótoorsk dingen läiver, doo dat näit soo fast is. Doo ik 'n buutenlanner was, kun ik worskiinelk ook kiin râau fisk eeten.
@@ -102401,7 +102401,7 @@ Dat is eerst däi anfang! Moin Tîid woo gaajt dii 't? Ik wil nuu 'n biitje öyv
 Säeğ höör wiider wat ik dii säeğt heb! Däi relóótîif flakhaid fan dat Patsiifisk Bekken is döör däi dóódsóóek bedingt, dat 't sük oover däi grôotst däil fan d' eerdmantel ferstrekt un soo 'n grooterder diekt het as anner berekken.
 Wat löövst duu, wor Tom teegen disser ürtiid noch henwil? In d' USA is 't illegóól minsken t' foltern, um fan dissent inf'rmóósjoonen t' kriigen.
 Nuu stellent wii us föör, dat us planeet, däi êer, as 'n baldóódiğ ruum mit fööl lüchtmoleküülen is, däi as lütje buent baalen rundfläigent. Doo dat sünnenlücht up däi eerdatmosfêer róókt, word't 't döör däi lüchtmoleküülen straajt. Säi het hum 'n aauto skunken, man um dat häi kiin förderskiin haar, kun häi d'r naarnds mit henforen.
-Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un öökolooğsk meerweerden t' bóóten. Stemt dat, dat illegóóel inwannerders interessäärt börgers aarbaidssteeden weğneement?
+Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un ökolooğsk meerweerden t' bóóten. Stemt dat, dat illegóóel inwannerders interessäärt börgers aarbaidssteeden weğneement?
 Höör höört 'n häiel grôot huus. Nóó miin mäinen bestaajt kiin nöödigkaid, dat Tom an 't fergóódern däilneemen daajt.
 Fiilicht was dat hülpsóóm, doo duu 't wast, däi Tom see, dat häi dat näit sal. "Marió ferdäint tain móól soo fööl geld as ik", klóóğde Tom, "un doch ferlangt säi dat ik däi hâalft fan d' huushollensuutgóóven bestriiden dau.".
 Ik wul dii 'n nóóricht stüren, man bün dan doch näit d'r tau koomen. Open Assistant is 'n chat-bóósäärt assistent, däi upgóóven ferstaajt, mit daardstüsteemen interagäären kan un düünóómsk inf'rmóósjoonen ofröpt, um dat t' daun. Dat is 'n open-source-projekt, wat fan LAION-AI inisjäärt wur, um elk un äien däi taugaang tau 'n grôot tóólmodel möögelk t' móóken.
@@ -102613,7 +102613,7 @@ Tom broch fööl tiid mit baukenleesen tau, doo häi in 't krankenhuus was. Mit 
 'N tiidruum, däi sük oover dat tiidfak fan d' uppertrias bit tau 't upperkriidtiid ferstrekken dee. Disser ofsnid kan ook as eerdmiddeloller of mesosoikum betäikent worden. Wichtiğ is d'r bii, dat näit âal dinosaauriers t'gliik leevdent. Ik gung nóó Sendai un kwam biitiids weeruem, sünner d'r oover nacht t' bliiven.
 Bloot ik kan Tom d'r bii helpen. Fan sülst, ik ferklor dat geern äinfach un ferstennelk! Alsoo, wäist duu, dat däi süen up d' dağ an d' heemel skint? Jóó, genaau! Doo wii nóó booven kiikent, säint wii däi heemel. Man hest duu dii oojt frağt, woosoo däi heemel blaau is?
 Doo ik net tau 't huus uut góón wul, reep Tom an. Proot'de Tom wat sachter, ferstun man hum beeter.
-Fröem planten as palmen in t' fören kan öökosüsteemen skóódigen. Sük in däi äigen maudertóól natürelk uut t' drükken is makkelk; man in 'n frömdtóól drükt man sük makkelk unnatürelk uut.
+Fröem planten as palmen in t' fören kan ökosüsteemen skóódigen. Sük in däi äigen maudertóól natürelk uut t' drükken is makkelk; man in 'n frömdtóól drükt man sük makkelk unnatürelk uut.
 Tom bruukde näit lâang nóó t' denken, eer häi Mary siin antern gaf. Däi oorsprungen fan däi heerfläigers fan d' Feräint Stóóten, disser wassent däi föörlooper fan d' lüchtstriidkrachten, lóótent sük in 't joer 1918 t'rüeğferfolgen.
 Häi klopde weer un weer an d' dööer, man 't gaf kiin antern. Tom mus up siin mörnelk swemmen d'r um, dat 't t' kold was, fertsichten.
 'N fröem bün ik hir bleeven, alwoo ik gaau 'n näj häim fun. Dat häimwäj het mii steeds dreeven nóó huus, nóó miin Oostfräisk grund. Man leert noojt uut.
@@ -102760,7 +102760,7 @@ Wat deedent Jii móóken, doo in höör nóóberskup 'n füer uutbreeken dee? En
 Tom siin biibelleesgruep löesde sük nóó wat móónden um gebrek an interäes in oriğkaid up. Däi kinner beweegent däi tanbössels, as of säi sük däi tannen bösseln deedent, man mii köönent s' niks föörmóóken.
 Bedankt dat duu d'r büst. Tom sul nóó Boston ferset't worden, man man het hum in stee d'r fan undlóóten.
 Ik heb al 'n häil set näit meer reeden. Tom reep däi skaulers t'rüeğ in d' kóómer, um fan däi fluğtsoiğofstört t' fertellen.
-Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot öökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b. In 'n móónd Engelsk leeren is unmöögelk.
+Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot ökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b. In 'n móónd Engelsk leeren is unmöögelk.
 Säeğt Tom dat häi dat Mary näit säegen sal. Tom was klor, dat Marió sük dat näit meer anners ooverläegen sul.
 Fandóóeğ is skauldağ. Ik sul beeter näit t' lóót koomen. Moin Elke, dit is däi ooversetter fan hooğ in plat.
 Duu hest ' n beloeft ofläeğt. Säes fan us móókent fanweekenäen 'n uutfluğ an d' strand.
@@ -104593,7 +104593,7 @@ Häi un siin frâau fersöchent höör probleemen in greep t' kriigen, man wasse
 Dat sünnenlücht blende Tom, doo häi tau 't hol uut stapde. Strandjer.
 Kumt doch in! Dan prootent wii d'r bii 'n kopke kofje oover. Teegen Oostóósien is dat ferkloren fan däi buutenministers fan Öösterriik, Poolen, Portugal, Sweeden, Swiits, Sloweenien un Spóónjen unnertäikent worden.
 Däi kuusendokter het mii mitdäilt, häi mus mii drei tannen trekken. Ik heb nauğ.
-Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un öökolooğsk meerweerden t' bóóten. Doris daajt däi ofwaask, um dat säi dat köertst stóóvke trukken het. Michaela het dat lâangst stóóvke, Kurt dat twäidlâangst un um dat Päiter un Marta höör stóóvkes gliiklang bünt un Päiter siin stóóvke langer is as Doris hööers het säi düs dat köertst.
+Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un ökolooğsk meerweerden t' bóóten. Doris daajt däi ofwaask, um dat säi dat köertst stóóvke trukken het. Michaela het dat lâangst stóóvke, Kurt dat twäidlâangst un um dat Päiter un Marta höör stóóvkes gliiklang bünt un Päiter siin stóóvke langer is as Doris hööers het säi düs dat köertst.
 Säi finnent dat unhoffelk, wel teegen t' prooten, däi säi näit gaud kennent. Dat is 'n stur probleem, un föör kiin äien is däi beslus makkelk.
 Ik hol dat föör läip unworskiinelk, dat Tom dat brood eeten sal, wat duu hum t'räecht móókt hest. Tom säeğt, häi haar güster näit hir west. Säi mautent wal 'n anner persoon säin hebben.
 Het âals siin gauds: Doo 't reegent, dan stuft 't näit soo. Tom wóónde Marió in Boston, doch säi was in würrelkkaid in Chicago.
@@ -104970,7 +104970,7 @@ Dat gefordelkst, wat Tom insent wóógen wul, was 't, 'n feniinslâang t' hollen
 Ik fróóğ mii, of Tom dat oojt in bedenken noomen het, sük an 'n spesjóólist t' wenden. Man mit däi tiid wur 't alweğ maaler.
 Wal kriigent pleeğbedröftigen siit 2022 teegen däi laistungen fan däi pleeğkassen ook undlastenstauslóógen, däi sük nóó d' ferbliivensdüert richtent. Tom nam sük 'n handful popkoorn uut däi püüt un langde disser dan an Marió.
 Ik wäit näit, of Jii dat murken hebbent, man Tom kumt in d' läest tiid näit up tiid nóó d' aarbaid. Feedback kurrigäärt.
-Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot öökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b. Däi fonds wil d'r up an, 'n attraktîif rendîit t' móóken un t'gliik 'n positîif biidrağ tau däi globóóel dürsóómkaidstsiilen t' laisten.
+Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot ökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b. Däi fonds wil d'r up an, 'n attraktîif rendîit t' móóken un t'gliik 'n positîif biidrağ tau däi globóóel dürsóómkaidstsiilen t' laisten.
 In miin swembriel kumt wóóter in. Ik lööv, häi paast näit recht. Wat uutnanner t' neemen is makkelker as 't weer t'sóómen t' setten.
 In stee d'r fan föörderde häi, däi bundslâan indiwiduel d'r oover besliesen t' lóóten. "Miin föörslağ, um dat däi aarvskupsstüer 'n boer landsstüer is: Wii regjoonóólisäärent däi stüer, dan köönent däi SPD-lâan hum ferhoogern un wii Baiersken söölent däi aarvskupsstüer massiif senken.". Dat folk protestäärde teegen dat däipfluğtraining.
 Duu sust näit up däient dóólkiiken, däi minner begünstiğt bünt as duu. Ik lööv näit, dat disser oel wóógen dat booven up d' höövel skaft.
@@ -105401,7 +105401,7 @@ Miin dochter liğt in 't krankenhuus, um dat säi bii 'n ferkeersunfal beseert w
 Tom besloot, Mary niks fan däi föörfal t' fertellen. Doo ik hum dat läest móól säin heb, drooğ häi 'n blaau hemd un 'n wiet büks.
 Wii mautent däi trappen neemen, um dat däi uptsuğ net reparäärt word't. 'N internetsiid t' móóken, is 'n môoj sóóek; man duu sust dii ferseekern, dat duu fan nüms däi oorhebberrechten beseeren daajst.
 Ik fraaj mii d'r up dat ik diin ollen t' kennen kriiğ. Bedankt dat Jii Tom hulpen hebben!
-Miin mauder see altiid an mii, dat ik âals berekken kun, doo ik mii d'r man achter klemmen dee. Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst öökonoomsk katastrôof fan us leevend tauspitsen sul.
+Miin mauder see altiid an mii, dat ik âals berekken kun, doo ik mii d'r man achter klemmen dee. Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst ökonoomsk katastrôof fan us leevend tauspitsen sul.
 In d' móónd fööer wiinachten is in däi geskeften altiid häil fööl lös. Hebbent Tom un Marió Fransk proot't, of hebbent s' Engelsk proot't?
 Ik wäit wies t' weerdäären, wat duu fanmörn bii 't beprooten säeğt hest. Dat is ungloovelk, duu sust 't säin!
 Tom het Marió as 't let't noch altiid näit mitdäilt, dat häi dat näit t' daun beofsichtiğt. Fööer 'n internóósjoonóóel publikum is fóók Engelsk däi tóól fan d' wóól.
@@ -105902,7 +105902,7 @@ Doo twäj dat sülviğ mäinen hebbent, is äien d'r fan ooverskeeriğ. Man dür
 Disser artikkel belücht't kriitsk däi ord un wîis, woo d'r bii dit baudel unnersöcht word't. Däi gööer fan däi blöymen drung döör däi oopen fensters fan d' bus.
 Doo duu unbekäent woorden in möyet kumst, maust duu höör in 't woordenbauk nóóslóón. Fiilicht wil wel anners diin oel skriivtóóvel hebben, doo duu hum näit meer wult.
 Tom denkt näit, dat Mary fermöögend weesen sal, John d'r fan t' oovertüügen. Man mien lüü móókent sük fööer 't unnertäiken däi mâajt, sük âal kuntraktskundiisjes döör t' leesen.
-Fröem planten as palmen in t' fören kan öökosüsteemen skóódigen. Wii unnerbreekent dit sennen föör 'n iilfermellen.
+Fröem planten as palmen in t' fören kan ökosüsteemen skóódigen. Wii unnerbreekent dit sennen föör 'n iilfermellen.
 Ik mel mii bii dii! Man säeğ näit, dat duu ook noch lid fan soo 'n skateboard-gang büst." "Nee, dat nuu ook weer näit." "Wul 'k äinliik ook móól weer daun", mäien s', "Man ik heb laider kiin skateboard meer." "Ik heb mîin d'r bii.
 Duu maust nuu tau góón. Per anholler raajsen kan man fandóóeğ näit rekumdäären. Dat is näit ungefordelk.
 Doo nüms mit wil, góó ik ook näit. Däi weerld is besörğt oover däi nuukleâar feeiğkaiden fan Iróón un Noordkoreó.
@@ -107261,7 +107261,7 @@ Ferseekert jau fööer d' fort, dat an jau wóógen däi skiinlüchten góónt. 
 Säi proot'dent föör däi rest fan 't skauljoer kiin woord meer mitnanner. Tom kupäärde âal dóóten fan siin intêern fastplóóet up 'n ekstêern.
 Ik fin, Tom sul anfangen, sük mit wel anners as Marió rund t' driiven. Disser baukwinkel het wat an sük, dat däi lüü weerkoomen let't.
 Unner betrekken up däi film "rainman" wil ik noch ergensen, dat 't wichtiğ is, näit stóón t' bliiven, doo däi ampel up rood skalt't, wiilst man sük al up d' forbóón befinnen daajt. Finnent Jii näit, dat 't 'n biitje t' frau is, um d'r mit Tom oover t' prooten?
-Um gebrek an skaulers word't däi skaul up 't äen fan 't joer uplöest. Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk öökonoomsk dóólgaang bedingt.
+Um gebrek an skaulers word't däi skaul up 't äen fan 't joer uplöest. Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk ökonoomsk dóólgaang bedingt.
 'T let't d'r nóó, as of däi partisjoon, däi duu ansluuten wult, /dev/sdb1 is. Dat is däi enkeld partisjoon, däi as Microsoft Basic Data maarkäärt is. Stel alsoo seeker, dat duu sdb1 in däi mount-befeel insetst, um seeker t' stellen, dat duu däi räecht partisjoon anslutst. Tom siin näej wäelp is soo lütjet, dat häi nauğ bot up 'n palm fint.
 'N minsk is noojt w'rachtiğer as dan, doo häi sük sülst as läigert bekent. Dat mâal an d' weerld is näit, dat däi lüü t' min wäitent, man dat säi t' fööl dingen wäitent, däi näit stemment.
 Mit 'n reekenlaistung fan meer as 'n triljoonen operóósjoonen pro sekuen - fergliikbor mit däi fan 'n miljoonen smartfoons - is "Jupiter" däi upstünds gaaust supercomputer fan Europó. Häi arğmentäärde, dat däi richtenswessel in d' politik dwingend däi wirtskaft in d' resessjoon fören dee.
@@ -107832,7 +107832,7 @@ Jóó, wat! Däi reföörmóótoor Johannes a Lasco kwam fan Oostfräisland. Dä
 'N ambulâant hospiitsdenst? Hol man up, soo wiid is 't doch noch näit. Ik dee disser kloek koopen, säi is bloot spiitelkerwîis t' dür.
 Dat US-department föör sundhaid säeğt, dat minsken minst twei un half stüen in d' wêek trainäären sullent. Säeğ Tom dat häi sük d' hoer kemmen sal!
 Um dat Tom däi mantel, däi häi anprobäärde, t' lütjet was, gaf däi ferkooper hum 'n anner tau d' anprôov. Dit maarke is föör 'n söömjoriğ kind makkelk t' leesen.
-Däi fandóóğsk weerbericht säeğt, dat 't mörn worskiinelk mooj word't. Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up öökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent.
+Däi fandóóğsk weerbericht säeğt, dat 't mörn worskiinelk mooj word't. Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up ökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent.
 Duu maust âal keersen uutpuusten up diin boorsdóóğstôort. 'T leet behöörelk.
 Ik bliiv bit móóndağ in Aaustróólien. Du melst dii bii mii.
 Dat was alleniğ miin sküld. Worskiinelk ferteerent Jii däi häiel tiid geeneetsk ferannert oobst un gemüües, sünner dat Jii 't wäitent.

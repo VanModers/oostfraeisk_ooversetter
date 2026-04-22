@@ -1538,7 +1538,7 @@ Doo duu näit ennelk anfangst, däi minsken wat respektfuller t' behanneln, kunn
 Ik wäit, dat 't al recht lóót is, man haarst duu d'r wat teegen, doo 'k nuu noch bii dii kwam? Dat gift d'r wat, wat ik mit dii beprooten maut.
 Ik lööv, man kan siin beneemen näit undskülligen. Biisiids sullent wii dat anhöören, wat häi t' säegen het.
 Ik hol dat föör mii näit föör nöödiğ, dat ik as 'n maudertóólprooter klingen dau: ik wil man flaajdiğ prooten köönen.
-Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst öökonoomsk katastrôof fan us leevend tauspitsen sul.
+Fööer acht joer wassent wii in 't anfangsstóódium fan dat, wat sük insent tau däi grôotst ökonoomsk katastrôof fan us leevend tauspitsen sul.
 As Tom see, häi haar archeoloogii stuudäärt, doch an däi uutgróóvens kiin interäes wees, was ik frappäärt.
 Wii köönent us telten näit dor bii d' strand lóóten, wor s' nuu bünt. Anners stóónt s', doo däi flaud kumt, unner wóóter.
 Tom wacht'de fööer d' bóónhof up mii; man ik was d'r fan uutgóón, häi dee d'r achter wachten.
@@ -2741,7 +2741,7 @@ Miin ollen möögent miin fründin näit. Säi finnent, säi was föör mii näi
 Fööl ollen hollent dat föör wichtiğ, dat höör kinner Fransk leeren.
 Göötdeksels bünt rund, um dat säi soo näit döör 't gat faalen köönent.
 Döör lüchtferfuulen is 't 'n daardel fan däi minsken up d' êer näit möögelk, dat melkpad t' säin.
-Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk öökonoomsk dóólgaang bedingt.
+Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk ökonoomsk dóólgaang bedingt.
 Dat is praktisk allerweegens in d' weerld möögelk, mit 'n maudertóólprooter Engelsk t' leeren.
 'T is kiin wunner, dat Tom slecht slöpt: häi drinkt je bit tau twalf kopkes kofje up d' dağ.
 Dat was 'n läip lastiğ wêek föör Marió, säi is froo, 't achter sük t' hebben.
@@ -6313,7 +6313,7 @@ Jóópóón het undwikkelnslâan 'n hülppakeet fan twei miljaarden jen tausäe�
 Man bruukt t' faut man 'n kertäärsüer fan hir bit nóó d' bóónhof.
 Mii kwam noojt däi gedâank, dat häi däi räecht keerl up d' räecht stee was.
 Dat haar 'n lâang, hâard dağ föör Tom west, un häi ful keput up bäer.
-Fröem planten as palmen in t' fören kan öökosüsteemen skóódigen.
+Fröem planten as palmen in t' fören kan ökosüsteemen skóódigen.
 Worskiinelk is kiin tóól häil fräj fan läinwoorden.
 Doo jii miin anwiisens genaau folgent, köönent jii wat tiid sporen.
 Duu sust unbedingt däi kâauk pröyven, doo duu dat noch näit dóón hest! Däi is wies köstelk!
@@ -10689,7 +10689,7 @@ Duu hest recht, ik sal 't noch makkelker ferkloren: Stel dii fööer, däi süen
 Blâau lücht word't d'r bii 't mäiest straajt, düs säint wii däi heemel blaau. Dat is 'n biitje as, doo duu 'n taaskenlâamp in d' dook holst - dat lücht word't allerweegens straajt un duu kaast näit genaau säegen wor 't weğ kumt. Ik hoop, dat helpt dii, däi fróóeğ t' ferstóón!
 1. Woo oovertüüğ ik miin laboorpartner up 't effektiifst d'r fan GitLab t' ferwenden, um us LaTeX-protokollen t' sünkroonisäären? 2. Woo oovertüüğ ik hum d'r fan, dat miin layout fan däi protokollen moojer is as siin? Nöym mii 'n poer ferhannelnstechnikken!
 LaTeX büd't teegenoover dat klassisk Word-f'rmóót wat föördäilen, däi Jau laboorpartner oovertüügen kunnent: - LaTeX definäärt dat layout oover 'n äigen syntax un is d'r mit stabiiler in 't fertöönen as WYSIWYG-ansatsen as t.b.
-Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot öökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b.
+Microsoft Word - LaTeX let't sük beeter oover 'n wersjoonsferwalten, as GitLab, wersjoonäären un fergliiken - LaTeX het 'n grôot ökosüsteem an ferwiiderns, dat bold elk anföördern an dat dokument äinfach mit LaTeX umset't worden kan. (T.b.
 'n bepóólt siidnummeräären) - LaTeX gript up 'n bibliotäiksf'rmóót föör siin wellen t'rüeğ.
 D'r mit köönent wellen föör däi resjäerzj gaud orgóónisäärt un wersjoonäärt worden, um dat säi näit däil fan dat hoovddokument bünt Mit disser räidens kunnent Jii Jau laboorpartner fiilicht oovertüügen, dat LaTeX moojer föör Jau protokollen is.
 Oovertüügent Jii Jau laboorpartner d'r fan, GitLab tau 't sünkroonisäären fan Jau LaTeX-protokollen t' ferwenden, indeem Jii däi däi folgend arğmenten ferwendent: Effisjens : Döör 't ferwenden fan GitLab köönent Jii un Jau laboorpartner protokollen effisjenter sünkroonisäären un up d' näjst stand hollen.
@@ -11100,7 +11100,7 @@ Däi begrip "oopen dóóten" (engelsk Open Data) is 'n makkelk kunsept: Dóóten
 Dit kunsept is in 't akódemsk berek näit näj un glikt däi kunsepten fan Open Access, Open Content un Open Source. Oopen dóóten bünt dóóten, däi fan elk un sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent.
 Bii oopen (ferwaltens-) dóóten hannelt 't sük um inf'rmóósjoonen, däi fan öffenlîik steeden sóómelt, móókt of betóólt wurdent, soo benöymt inf'rmóósjoonen fan d' öffenlîik sektoor, un föör dat almäien weerbruuken fräj beskikbor bünt. Däi litsens läeğt d'r bii däi bruukenskundiisjes fast.
 Disser prinsiipen föör oopen dóóten wordent tels in d' Open Definition beskreeven.
-Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un öökolooğsk meerweerden t' bóóten.
+Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un ökolooğsk meerweerden t' bóóten.
 Kaast duu mii 'n poer programäärtóólen anbefeelen, däi ik as begünner leeren kan um 'n möögelkst makkelk instap in 't programäären t' hebben?
 Jóó, fan sülst! Hir bünt wat programäärtóólen, däi sük gaud föör instiigers äigent: Python: 'N läip beläivt programäärtóól mit 'n makkelk süntaks un 'n grôot community.
 Python kan in fööl anwendensberekken inset't worden, inbegreepen webundwikkeln, dóótenanalüües, meskiinäel leeren un fööl meer. Java: 'N anner läip beläivt programäärtóól, däi fóók up skaul un an uniwersitäiten leert word't.
@@ -11309,7 +11309,7 @@ Beacht bitte, dat dat 'n ooverprüüfen gift, of 'n nóóm as parómeeter angeev
 Erstel 'n köert beskriivenstekst föör 'n dürsóóm ferwalt't fonds, däi in europeesk skeemiikunseernen inwestäärt.
 Däi fonds is 'n dürsóóem fonds in d' sin fan dat EU-ferörnen oover dürsóóem oopenläegensplichten in d' finansdenstsektoor (SFDR). Häi inwestäärt hoovdsóókelk in aksien fan europeesk skeemiikunseernen, däi hôoğ umweerld-, sosjóól- un governance-standards (ESG) ferfüllent.
 Däi fonds wil d'r up an, 'n attraktîif rendîit t' móóken un t'gliik 'n positîif biidrağ tau däi globóóel dürsóómkaidstsiilen t' laisten.
-Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up öökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent.
+Däi dürsóóm ferwalt't fonds inwestäärt in europeesk skeemiikunseernen, däi sük up ökolooğsk ferantwoordelk praktikken un technoloogiien kuntsenträärent.
 Döör 'n grünnelk uutwóól fan däi unnerneemens, däi in däi fonds upnoomen wordent, streevt däi fonds d'r nóó, langfristiğ positîif uutwirkens up d' umweerld t' móóken, wiilst t'eevens 'n deegelk finansjel rendîit ferdäint word't.
 Däi fonds angóózjäärt sük ook aktiif bii däi unnerneemens, wor häi in inwestäärt, um 'n ferbeetern fan höör dürsóómkaidspraktikken un 'n staarkerder umweerldorientäären t' föördern.
 Erfin 'n môoj nóóm mit 'n gaud t' maarken akronüüm.
