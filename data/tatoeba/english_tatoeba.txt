@@ -101,6 +101,7 @@ You are always late.
 I'd rather go for a walk than see the movie.
 I tried to reach you on the phone, but I was unable to get through.
 Some flowers bloom in spring and others in autumn.
+CO₂ has a lot to do with the so-called greenhouse effect.
 He got down on his knees and prayed for the souls of the deceased.
 He went to Italy ten years ago and has lived there ever since.
 I had been working for two hours when I suddenly felt sick.
@@ -357,6 +358,7 @@ If I don't fail, I will get my driving license before New Year.
 We are currently working to restore normal service as soon as possible.
 In legal documents, difficult words and phrases are often used.
 The introduction of the new tax is expected to affect the entire economy.
+British English differs from American English in many ways.
 The optimist looks into a mirror and becomes more optimistic, the pessimist more pessimistic.
 Since you like to write letters, why don't you drop her a line?
 Please tell me which railway line to use from the airport to downtown.
@@ -515,6 +517,7 @@ Of all the houses we've looked at, this one is by far the best.
 The nation's trade balance improved last year as exports were strong, while imports remained steady.
 Power tends to corrupt and absolute power corrupts absolutely.
 American forces announced the completion of their mission in Iraq.
+Cross off the names of the people who have paid their dues.
 This tradition has been passed down from generation to generation.
 The twins look so much alike it's next to impossible to distinguish one from the other.
 Live and learn.
@@ -544,6 +547,7 @@ They say that Firefox is downloaded over 8 million times a day.
 I'd rather stay at home than go fishing.
 The demonstration at City Hall started getting out of hand.
 That's not entirely wrong.
+Because of the rain, the audience at the concert was small.
 I had not been waiting long before I heard footsteps coming upstairs.
 Abraham Lincoln was buried in his hometown of Springfield, Illinois.
 You look very pale.
@@ -829,6 +833,7 @@ In order to get a better look at that picture, I'd like to get a little closer.
 The mountain path was under a blanket of leaves, soft and easy to walk on.
 He was found guilty of attempted murder for attacking his mother with a knife.
 She is likely to refuse to follow his advice, because she doesn't like him.
+Country life is very peaceful in comparison with city life.
 Originally, Abraham Lincoln wanted all slaves to be deported to Africa or the Caribbean.
 My grandfather went to the hospital to seek help for his stomach pain.
 You might not like this beer at first. It's an acquired taste.
@@ -854,6 +859,7 @@ In swimming pools, water is continuously pumped through a filter.
 The child protested against having to swallow the medicine.
 She gets lost really easily. She's got no sense of direction.
 It is said that global warming is directly related to carbon dioxide emissions.
+Both my father and I went to the museum for the first time.
 Can you say that again?
 The Army Air Corps, which became the U.S. Air Force, began in 1928.
 Atlanta, Georgia has one of the busiest airports in the world.
@@ -898,6 +904,7 @@ The world is worried about the nuclear capabilities of Iran and North Korea.
 Our price is considerably higher than the current market price.
 We've considered your proposal, and we've decided that we aren't able to reduce the price.
 We believe that you will be able to make a price concession.
+Demand for imported cars is increasing due to lower prices.
 The government is not doing its best to solve the housing problem.
 More than 70 percent of the inhabitants are in favor of the program.
 The people protested against the low altitude flight training.
@@ -1870,6 +1877,7 @@ It's because of you that we were able to complete this job on time.
 The girl was carrying a plastic bag stuffed full of things.
 I have fewer students in my class this year than last year.
 Though seriously injured, he managed to get to a telephone.
+CO₂ has a lot to do with the so-called greenhouse effect.
 He noticed a hole in his jacket, but he tried to ignore it.
 Mary can't make ends meet on her pension. That's why she works half-days as a cleaning lady in a restaurant.
 Lincoln's biography is read by children all around the world.
@@ -1924,6 +1932,7 @@ A friend of mine showed me all the dolls he had bought abroad.
 The man who I thought was his father proved to be a perfect stranger.
 Do you think there is another answer to this difficult problem?
 Children exhibit a low tolerance for the frustrations of learning.
+Can you imagine what life would be like without television?
 Different people believe in different things, but there is only one truth.
 If you add one hundred to one thousand, you get eleven hundred.
 If you want something to be done right, sometimes you've just got to do it yourself.
@@ -1970,6 +1979,7 @@ The authorities are striving in vain to stabilize the currency.
 Tom asked Mary to stay at home until the babysitter got there.
 Wow! What a big box!
 Tom asked Mary to marry him, but she turned down his proposal.
+Children are often very good at learning foreign languages.
 You do a great job.
 Hearing about people kidnapping little children just makes my blood boil.
 It starts around 8:30.
@@ -2047,6 +2057,9 @@ Make sure that the complaints are dealt with as quickly as possible.
 There are many things which we cannot evaluate in terms of money.
 I'm a regular at a restaurant in this neighborhood. Let's have lunch there today.
 It's a lovely day.
+Do you think our climate has an influence on our character?
+Do you think our climate has an influence on our character?
+Do you think our climate has an influence on our character?
 In the car on the way home, he was making plans for the next day.
 She knew what it was like for married women to look after houses, husbands and children.
 Tom was sad because he was the only one not invited to the party.
@@ -2234,6 +2247,7 @@ She doesn't eat cake because she doesn't want to put on any more weight.
 Japan has been sending athletes to the Olympics since 1912.
 Even though he lives next door, he doesn't even say hello to us.
 Even though he lives next door, he doesn't even say hello to us.
+Because of the storm, we had no choice but to stay at home.
 His mother said that he had been sick in bed for five weeks.
 The people of the village built a wooden bridge across the river.
 The people of the village built a wooden bridge across the river.
@@ -3112,6 +3126,9 @@ He promised me that he would be more careful in the future.
 He didn't tell a lie. As a matter of fact, he told the whole truth.
 You look surprised.
 When the chips are down, the only one you can count on is yourself.
+Because of you, I'm having problems with my blood pressure.
+Because of you, I'm having problems with my blood pressure.
+Because of you, I'm having problems with my blood pressure.
 No matter how much I think about it, I can't understand it.
 Tom likes to read English subtitles while watching movies in English.
 Sooner or later, every parent has to have a talk with their children about the birds and the bees.
@@ -3365,6 +3382,7 @@ My office is on the fourth floor of that gray six-story building.
 My office is on the fourth floor of that gray six-story building.
 It seems that they're bored of married life.
 I know that it is highly unlikely that we'll see any whales today.
+As soon as he arrived at the airport, he phoned his office.
 Last Saturday, my family went to the zoo to see the pandas.
 People have a tendency to underestimate their future needs.
 The African elephant has bigger ears than the Asian elephant.
@@ -3390,6 +3408,7 @@ Tom told Mary that he had finished the work a few days ago.
 What you're saying now has nothing to do with the question.
 You just got lucky.
 The Grand Canyon is one of the most popular places in the USA.
+Delivery of goods occurs a month after the order is placed.
 Could someone make an example sentence in German using the word "Beispiel?"
 I think we're going to need to put this project on the back burner for a little while.
 If it's okay with you, I'd like to take it slow. I really don't want to rush into things.
@@ -5643,6 +5662,7 @@ To become a professional banjo player, you need to spend thousands of hours prac
 Sound knowledge of computer systems and programming languages is integral to Tom's job.
 Travel and public speaking are integral parts of Tom's job.
 Tom drank himself into a stupor when Mary walked out on him.
+Bike helmets can protect riders from serious head injuries.
 Someone had definitely spiked Tom's drink, because he could no longer stand up and the next morning he could remember nothing.
 You may stay here for the night, but you'll have to leave in the morning.
 It didn't surprise me at all that Tom didn't do what he'd told Mary he was going to do.
@@ -5659,6 +5679,9 @@ We still have plenty of time, but let's take a taxi just in case.
 Tom had to read the sign on the door three times before he understood it.
 Some of the girls laughed.
 If I'd known what you were going to do, I'd've tried to stop you.
+Did you ever think you'd see Tom doing something like that?
+Did you ever think you'd see Tom doing something like that?
+Did you ever think you'd see Tom doing something like that?
 Mary told Tom to go easy on the ice cream if he didn't want to get fat.
 Much can be learned by observing how a child interacts at play with other children.
 Burj Khalifa is currently the tallest skyscraper in the world.
@@ -5868,6 +5891,7 @@ Tom told his teacher that he had been sick, but that wasn't true.
 Tom should be more careful not to bother Mary while she's working.
 Tom was unprepared for the scathing criticism meted out to him by his boss.
 Tom was unprepared for the scathing criticism meted out to him by his boss.
+Do we have enough time to finish this before Tom gets here?
 Those pants are much too long. They almost touch the ground.
 When Tom was a kid, he used to pretend he was playing the drums by tapping his fingers on the kitchen table, to the great irritation of his father.
 It's only when I can't sleep at night that the ticking of the clock bothers me.
@@ -7515,6 +7539,7 @@ I had to take a taxi because the heavy rain caused all the trains to stop.
 I had to take a bus from Boston because all the flights had been canceled.
 Tom can take the bus to the station. You don't need to drive him.
 You can borrow my car until you make enough money to buy your own car.
+Come on, Tom. Just do it already. What are you waiting for?
 I'd recommend cleaning your room before your mother gets home.
 Why is no one here?
 We lost the game because we were overconfident.
@@ -7990,8 +8015,10 @@ I remember the words to the song, but I can't remember the melody.
 Mary and Tom are twins, but they don't look like each other.
 Nothing I do lately seems to turn out right. I'm losing confidence in myself.
 Our electricity was cut off because we forgot to pay the bill.
+Don't eat the fruit in the bowl on the table. It's plastic.
 How old do you have to be to get married without your parents' permission?
 Have you ever drunk more than four bottles of beer in one evening?
+Did your mother use to play the piano when she was younger?
 This is a story about friendship between a young boy and an elderly woman.
 Tom stole Mary's phone and took a bunch of selfies before sneaking it back into her purse.
 Tom is worried that he won't have enough money to retire comfortably.
@@ -8701,6 +8728,7 @@ You can let Tom go.
 You can let Tom go.
 You can let Tom go.
 She turned pale with fear.
+Beer makes you feel the way you ought to feel without beer.
 You had a long day.
 You had a long day.
 You're the only person I know who doesn't take some kind of medicine at least once a week.
