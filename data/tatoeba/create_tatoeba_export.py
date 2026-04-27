@@ -10,12 +10,13 @@ Source files:
   - data/krektüren/deu copy.txt      – All German Tatoeba sentences with IDs
     (format: English_text TAB German_text TAB CC-BY attribution with sentence IDs)
 
-Output:
-  tatoeba_frs_export.tsv
-  Format: german_sentence_id TAB german_sentence_text TAB frs_translation_text
-
-  The german_sentence_id allows Tatoeba admins to link the frs translation
-  directly to the existing German sentence rather than creating a duplicate.
+Output (all written to data/tatoeba/):
+  tatoeba_frs_export.tsv    – Tatoeba bulk-import file
+                              Format: german_id TAB german_text TAB frs_text
+  eastfrisian_tatoeba.txt   – frs sentences only (one per line, aligned)
+  german_tatoeba.txt        – deu sentences only (one per line, aligned)
+  english_tatoeba.txt       – eng sentences only (one per line, aligned)
+                              (for multi-language training)
 
 Rules:
   - Only sentence pairs whose German text appears verbatim in deu copy.txt are
@@ -24,6 +25,7 @@ Rules:
     translation encountered wins).
   - Empty lines in either source file are skipped.
   - Output is sorted by German sentence ID.
+  - All plain-text files are line-aligned with each other.
 """
 
 import re
@@ -33,15 +35,20 @@ from pathlib import Path
 # Paths
 # ---------------------------------------------------------------------------
 
-BASE_DIR = Path(__file__).parent
-DATA_DIR = BASE_DIR / "data"
-FAN_TEKSTEN_DIR = DATA_DIR / "fan teksten"
-KREKTÜREN_DIR = DATA_DIR / "krektüren"
+BASE_DIR = Path(__file__).parent          # data/tatoeba/
+REPO_DIR = BASE_DIR.parent.parent         # repository root
+FAN_TEKSTEN_DIR = REPO_DIR / "data" / "fan teksten"
+KREKTÜREN_DIR   = REPO_DIR / "data" / "krektüren"
 
-GERMAN_FILE = FAN_TEKSTEN_DIR / "german.txt"
-FRISIAN_FILE = FAN_TEKSTEN_DIR / "eastfrisian.txt"
+GERMAN_FILE         = FAN_TEKSTEN_DIR / "german.txt"
+FRISIAN_FILE        = FAN_TEKSTEN_DIR / "eastfrisian.txt"
 TATOEBA_GERMAN_FILE = KREKTÜREN_DIR / "deu copy.txt"
-OUTPUT_FILE = BASE_DIR / "tatoeba_frs_export.tsv"
+
+# Output files (all in the same directory as this script)
+OUTPUT_FILE  = BASE_DIR / "tatoeba_frs_export.tsv"
+FRISIAN_OUT  = BASE_DIR / "eastfrisian_tatoeba.txt"
+GERMAN_OUT   = BASE_DIR / "german_tatoeba.txt"
+ENGLISH_OUT  = BASE_DIR / "english_tatoeba.txt"
 
 # ---------------------------------------------------------------------------
 # Step 1 – Build a lookup: german_text → german_sentence_id
@@ -57,7 +64,8 @@ OUTPUT_FILE = BASE_DIR / "tatoeba_frs_export.tsv"
 GERMAN_ID_RE = re.compile(r"& #(\d+)")
 
 print("Reading Tatoeba German reference file …")
-german_to_id: dict[str, int] = {}  # first occurrence wins
+german_to_id: dict[str, int] = {}      # german_text → sentence ID
+german_to_english: dict[str, str] = {} # german_text → english sentence
 
 with open(TATOEBA_GERMAN_FILE, encoding="utf-8") as fh:
     for raw_line in fh:
@@ -66,8 +74,9 @@ with open(TATOEBA_GERMAN_FILE, encoding="utf-8") as fh:
         if len(parts) < 3:
             continue  # malformed or empty line
 
-        german_text = parts[1]          # column 2 = German sentence
-        attribution = parts[2]
+        english_text = parts[0]         # column 1 = English sentence
+        german_text  = parts[1]         # column 2 = German sentence
+        attribution  = parts[2]
 
         m = GERMAN_ID_RE.search(attribution)
         if not m:
@@ -75,9 +84,10 @@ with open(TATOEBA_GERMAN_FILE, encoding="utf-8") as fh:
 
         german_id = int(m.group(1))
 
-        # Keep the first ID found for each unique German sentence text
+        # Keep the first occurrence for each unique German sentence text
         if german_text not in german_to_id:
-            german_to_id[german_text] = german_id
+            german_to_id[german_text]      = german_id
+            german_to_english[german_text] = english_text
 
 print(f"  Loaded {len(german_to_id):,} unique German Tatoeba sentences.")
 
@@ -133,10 +143,10 @@ print(f"  Included in output   : {len(output_pairs):,}")
 
 output_pairs.sort(key=lambda x: x[0])
 
-print(f"Writing output to: {OUTPUT_FILE}")
+print(f"Writing output files to: {BASE_DIR}")
+
+# --- Tatoeba bulk-import TSV ---
 with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
-    # Header comment (lines starting with # are ignored by Tatoeba admins
-    # but useful for humans reviewing the file)
     out.write("# East Frisian (frs) translations of German (deu) Tatoeba sentences\n")
     out.write("# Format: german_sentence_id<TAB>german_sentence_text<TAB>frs_translation_text\n")
     out.write("# Generated from: data/fan teksten/  (verified against data/krektüren/deu copy.txt)\n")
@@ -145,10 +155,23 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
     for german_id, german_text, frisian_text in output_pairs:
         out.write(f"{german_id}\t{german_text}\t{frisian_text}\n")
 
+# --- Plain-text aligned files ---
+with (
+    open(FRISIAN_OUT, "w", encoding="utf-8") as frs_out,
+    open(GERMAN_OUT,  "w", encoding="utf-8") as deu_out,
+    open(ENGLISH_OUT, "w", encoding="utf-8") as eng_out,
+):
+    for german_id, german_text, frisian_text in output_pairs:
+        frs_out.write(frisian_text + "\n")
+        deu_out.write(german_text  + "\n")
+        eng_out.write(german_to_english.get(german_text, "") + "\n")
+
 print("Done.")
 print()
 print("Summary")
 print("-------")
-print(f"  Output file : {OUTPUT_FILE}")
-print(f"  Pairs written: {len(output_pairs):,}")
-print(f"  ID range    : {output_pairs[0][0]:,} – {output_pairs[-1][0]:,}")
+print(f"  {OUTPUT_FILE.name:<30} {len(output_pairs):,} pairs")
+print(f"  {FRISIAN_OUT.name:<30} {len(output_pairs):,} lines")
+print(f"  {GERMAN_OUT.name:<30} {len(output_pairs):,} lines")
+print(f"  {ENGLISH_OUT.name:<30} {len(output_pairs):,} lines")
+print(f"  ID range: {output_pairs[0][0]:,} – {output_pairs[-1][0]:,}")
