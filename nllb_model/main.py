@@ -1,6 +1,6 @@
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-from dataset_creator import FRS_LANG, DEU_LANG, ENG_LANG, add_frs_lang
+from dataset_creator import FRS_LANG, DEU_LANG, ENG_LANG, add_frs_lang, MAX_LENGTH
 
 #MODEL_PATH = "./nllb_frs_model"
 MODEL_PATH = "VanModers114/East_Frisian_NLLB_Model"
@@ -26,12 +26,12 @@ DIRECTIONS = {
 
 def translate(text, src_lang, tgt_lang):
     tokenizer.src_lang = src_lang
-    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=256)
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=MAX_LENGTH)
     inputs = {k: v.to(device) for k, v in inputs.items()}
 
     tgt_id = tokenizer.convert_tokens_to_ids(tgt_lang)
     with torch.inference_mode():
-        out = model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=256, max_length=None, num_beams=4)
+        out = model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, max_length=None, num_beams=4)
 
     return tokenizer.decode(out[0], skip_special_tokens=True)
 

@@ -1,6 +1,6 @@
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq, EarlyStoppingCallback
-from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG
+from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG, MAX_LENGTH
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
 OUTPUT_DIR = "./nllb_frs_model_longer"
@@ -37,7 +37,12 @@ training_args = Seq2SeqTrainingArguments(
 )
 
 # Loads data/ at the project root (run as: python nllb_model/trainer.py)
-dataset = get_dataset("data", tokenizer)
+# Tatoeba ENG<->FRS and DB dictionary ENG<->FRS pairs are included when available.
+dataset = get_dataset(
+    "data", tokenizer,
+    tatoeba_path="data/tatoeba",
+    db_eng_path="data",         # loads data/english_db.txt if present (run data/create_dataset.py first)
+)
 train_ds = dataset["train"]
 val_ds = dataset["validation"]
 
@@ -56,17 +61,11 @@ class PrintTranslationTrainer(Seq2SeqTrainer):
         device = "cuda" if torch.cuda.is_available() else "cpu"
         self.model.to(device)
         self.tokenizer.src_lang = DEU_LANG
-        inputs = self.tokenizer(sentence, return_tensors="pt", truncation=True, max_length=256)
+        inputs = self.tokenizer(sentence, return_tensors="pt", truncation=True, max_length=MAX_LENGTH)
         inputs = {k: v.to(device) for k, v in inputs.items()}
         tgt_id = self.tokenizer.convert_tokens_to_ids(FRS_LANG)
-        # Debug prints
-        print('frs_Latn in vocab:', FRS_LANG in self.tokenizer.get_vocab())
-        print('frs_Latn id:', self.tokenizer.convert_tokens_to_ids(FRS_LANG))
-        print('lang_code_to_id:', getattr(self.tokenizer, 'lang_code_to_id', None))
-        print('input_ids:', inputs['input_ids'])
-        print('forced_bos_token_id:', tgt_id)
         with torch.inference_mode():
-            out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=256, num_beams=4)
+            out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, num_beams=4)
         translation = self.tokenizer.decode(out[0], skip_special_tokens=True)
         print("\n[Sample translation after epoch evaluation]")
         print(f"German: {sentence}\nOostfräisk: {translation}\n")

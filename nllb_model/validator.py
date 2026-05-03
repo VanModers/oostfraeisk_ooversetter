@@ -1,7 +1,7 @@
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, DataCollatorForSeq2Seq
 from torch.utils.data import DataLoader
-from dataset_creator import NLLBTranslationDataset, load_parallel_pairs, FRS_LANG, DEU_LANG, add_frs_lang
+from dataset_creator import NLLBTranslationDataset, load_parallel_pairs, make_lang_pairs, FRS_LANG, DEU_LANG, add_frs_lang, MAX_LENGTH
 from tqdm import tqdm
 import evaluate
 
@@ -24,7 +24,7 @@ model.eval()
 val_pairs = load_parallel_pairs(VALIDATION_PATH)
 print(f"Validation pairs: {len(val_pairs)}")
 
-val_ds = NLLBTranslationDataset(val_pairs, tokenizer, bidirectional=False)
+val_ds = NLLBTranslationDataset(make_lang_pairs(val_pairs, DEU_LANG, FRS_LANG, bidirectional=False), tokenizer)
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 val_loader = DataLoader(val_ds, batch_size=8, collate_fn=data_collator)
 
@@ -56,7 +56,7 @@ with torch.no_grad():
             input_ids=input_ids,
             attention_mask=attention_mask,
             forced_bos_token_id=frs_lang_id,
-            max_new_tokens=256,
+            max_new_tokens=MAX_LENGTH,
             max_length=None,
             num_beams=4,
         )

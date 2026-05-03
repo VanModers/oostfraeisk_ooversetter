@@ -4,7 +4,7 @@ from pathlib import Path
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
-from dataset_creator import FRS_LANG, DEU_LANG, add_frs_lang
+from dataset_creator import FRS_LANG, DEU_LANG, add_frs_lang, MAX_LENGTH
 
 
 DEFAULT_MODEL_PATH = "VanModers114/East_Frisian_NLLB_Model"
@@ -38,7 +38,7 @@ def translate_batch(texts, tokenizer, model, device):
         texts,
         return_tensors="pt",
         truncation=True,
-        max_length=256,
+        max_length=MAX_LENGTH,
         padding=True,
     )
     encoded = {k: v.to(device) for k, v in encoded.items()}
@@ -48,7 +48,7 @@ def translate_batch(texts, tokenizer, model, device):
         outputs = model.generate(
             **encoded,
             forced_bos_token_id=forced_bos_token_id,
-            max_new_tokens=256,
+            max_new_tokens=MAX_LENGTH,
             num_beams=4,
         )
 

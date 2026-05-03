@@ -2,7 +2,7 @@ import gradio as gr
 import spaces
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-from dataset_creator import add_frs_lang
+from dataset_creator import add_frs_lang, MAX_LENGTH
 
 LANG_CODES = {
     "Deutsch": "deu_Latn",
@@ -29,7 +29,7 @@ def translate(text, source_lang, target_lang):
     tgt_code = LANG_CODES[target_lang]
 
     tokenizer.src_lang = src_code
-    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=256)
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, max_length=MAX_LENGTH)
     inputs = {k: v.to(device) for k, v in inputs.items()}
 
     tgt_id = tokenizer.convert_tokens_to_ids(tgt_code)
@@ -37,7 +37,7 @@ def translate(text, source_lang, target_lang):
         out = model.generate(
             **inputs,
             forced_bos_token_id=tgt_id,
-            max_new_tokens=256,
+            max_new_tokens=MAX_LENGTH,
             max_length=None,
             num_beams=4,
         )
