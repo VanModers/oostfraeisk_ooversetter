@@ -1,13 +1,14 @@
 # East Frisian (frs) translations of German (deu) Tatoeba sentences
 # Format: german_sentence_id<TAB>german_sentence_text<TAB>frs_translation_text
 # Generated from: data/fan teksten/  (verified against data/krektüren/deu copy.txt)
-# Total pairs: 9734
+# Total pairs: 9926
 #
 97	Zum Lernen sollte man nicht gezwungen werden. Zum Lernen sollte man ermutigt werden.	Tau 't leeren sul man näit dwungen worden. Tau 't leeren sul man anmaudiğt worden.
 131	Beeil dich!	Móók tau!
 149	Es würde ewig dauern, alles zu erklären.	'T dee äiwiğ düren, âals t' ferkloren.
 168	Um das zu tun, musst du Risiken eingehen.	Um dat t' daun, maust duu risikos ingóón.
 209	Es hat mir fast Angst gemacht, dich einen ganzen Tag nicht online zu sehen.	Dat het mii hóóst bâang móókt, dii 'n häiel dağ näit online t' säin.
+291	Musst du wirklich die Frage stellen, um die Antwort zu erfahren?	Maust duu wies däi fróóeğ stellen, um dat antern t' erforen?
 298	Das würde zu lange dauern, dir zu erklären, warum das nicht funktionieren wird.	Dat dee t' lâang düren, dii t' ferkloren, woosoo dat näit funksjoonäären sal.
 301	Du könntest zumindest versuchen, ein bisschen höflicher zu sein, auch wenn das nicht in deiner Natur liegt.	Duu kust t'minst fersöyken, 'n biitje hoffelker t' weesen, ook doo dat näit in diin natüer liğt.
 308	„Wann wirst du zurückkommen?“ – „Das hängt ganz vom Wetter ab.“	"Wenner sast duu uemkoomen?" - "Dat hangt häil fan 't wêer of."
@@ -25,6 +26,7 @@
 488	Wenn du dich nicht mit Sonnencreme eincremen willst, ist das deine Sache. Aber beschwer' dich später nicht bei mir, wenn du Sonnenbrand hast.	Doo duu dii näit mit sünnenkrêem insmeeren wult, is dat diin sóóek. Man beklóóğ dii nóóderhand näit bii mii doo duu sünnenbrand hest.
 492	Es ist so heiß, dass man Eier auf den Motorhauben der Autos braten könnte.	Dat is soo häit, dat man aier up däi motoordeksels fan d' aautos bróóden kun.
 530	"Wenn du müde bist, wieso gehst du nicht schlafen?" "Weil ich zu früh aufwachen werde, wenn ich jetzt schlafen gehe."	"Doo duu möej büst, woosoo gaajst duu näit slóópen?" "Um dat ik t' frau upwóóken sal, doo 'k nuu slóópen góó."
+546	Was die Welt verändert, ist Kommunikation, nicht Information.	Wat däi weerld ferannert, is kummunikóósjoon, näit inf'rmóósjoon.
 622	Das ist die reine Wahrheit.	Dat is däi boer worhaid.
 674	Ich hatte vor, heute an den Strand zu gehen, aber dann fing es an zu regnen.	Ik haar fööer, fandóóeğ an d' strand t' góón, man dan fung 't an t' reegen.
 684	Wenn zwei Menschen immer die gleiche Meinung haben, ist einer von ihnen überflüssig.	Doo twei minsken altiid dat sülviğ mäinen hebbent, is äien fan höör ooverskeeriğ.
@@ -36,6 +38,7 @@
 926	Kannst du dir vorstellen, wie unser Leben ohne Elektrizität aussehen würde?	Kaast duu dii föörstellen, woo us leevend sünner elektrik lóóten dee?
 991	Wenn du mir das Tanzen beibringst, werde ich dir meine versteckten Narben zeigen.	Doo duu mii dat dansen biibrengst, sal ik dii miin ferstopt noren wiisen.
 1004	Es gibt viele Dinge über meine Persönlichkeit, die du nicht weißt.	Dat gift fööl dingen oover miin persöönelkkaid, däi duu näit wäist.
+1020	Man muss nicht für jede Person ein anderes Gericht vorbereiten.	Man maut näit föör elker persoon 'n anner gericht föörberäiden.
 1108	Nur die, die riskieren, zu weit zu gehen, werden erfahren, wie weit man gehen kann.	Bloot däient, däi riskäärent, t' wiid t' góón, söölent gewoer worden, woo wiid man góón kan.
 1114	Das Problem mit vielen Dingen sind die vorgefassten Ideen, die wir über sie haben!	Dat probleem mit fööl dingen bünt däi föörfóóten ideen, däi wii oover höör hebbent!
 1118	Wenn wir wüssten, was wir tun, würde man es nicht Forschung nennen, oder?	Doo wii wussent, wat wii daunt, dee man 't näit föörskern nöymen, of näit?
@@ -57,6 +60,7 @@
 139519	Dieses Buch ist sehr schwierig zu verstehen, da es mit Fachausdrücken geschrieben ist.	Dit bauk is läip stur t' begriipen, um dat 't mit fakuutdrükken skreeven is.
 139997	Wie kann man ohne eine gute Bildung Erfolg im Leben haben?	Woo kan man sünner 'n gaud bilden erfolğ in 't leevend hebben?
 140005	Die Generalversammlung der Vereinten Nationen verabschiedete die Waffenstillstandsresolution.	Dat generóólfergóódern fan däi Feräint Nóósjoonen besloot däi wóópenstielstandsresolusjoon.
+140007	Er trug eine schwarze Hose und eine wunderschönes weißes Hemd.	Häi drooğ 'n swâart büks un 'n wunnermooj wiet hemd.
 331618	Kennst du den Unterschied von Mikroskop und Teleskop?	Kenst duu däi ferskeel fan mikroskoop un teleskoop?
 331658	Eine Katze hat neun Leben.	'N kâat het neegen leevends.
 331664	Viele Japaner suchen am Neujahrstag den Shinto-Schrein auf.	Fööl Jóópóóners söykent up neijorsdağ däi Shinto-skrain up.
@@ -92,6 +96,7 @@
 348433	Kannst du mir helfen?	Kaast duu mii helpen?
 349530	Manchmal lügt man, um die Gefühle anderer nicht zu verletzen.	Mitunner lüğt man, um däi geföylen fan annernt näit t' beseeren.
 349785	Ohne den Sicherheitsgurt wäre ich heute nicht mehr am Leben.	Sünner däi seekerhaidsgörd was ik fandóóeğ näit meer an 't leevend.
+351677	Habt keine Angst, Fehler zu machen, wenn ihr Englisch sprecht.	Weest näit bâang, feelers t' móóken, doo jii Engelsk prootent.
 352523	Sie hat die ganze Nacht geweint.	Säi het däi häiel nacht bruelt.
 352571	Ich hätte nie gedacht, dass er so etwas Grausames tun könnte.	Ik haar noojt docht, dat häi soo wat graausóóms daun kun.
 353009	Du hast einen Fehler gemacht.	Duu hest 'n feeler móókt.
@@ -130,14 +135,20 @@
 361484	Ich habe ihn vielleicht schon einmal irgendwo getroffen, aber ich kann mich nicht erinnern wo.	Ik heb hum fiilicht al móól ennerwor druepen, man ik kan mii näit heerinnern wor.
 361938	Ich habe mehr als eine Woche gebraucht, um das Modellschiff zusammenzubauen.	Ik heb meer as 'n wêek bruukt, um dat modelskip t'sóómen t' baauen.
 361959	Ich möchte ihr meine Dankbarkeit ausdrücken.	Ik muğ höör miin dank bewoorden.
+362164	Was mich betrifft, ich habe keine Einwände gegen den Plan.	Wat mii anbelangt, ik heb kiin inwendsels teegen däi plóón.
 362185	Nach meinem Wissen ist das die einzige Übersetzung.	Nóó miin wäiten is dat dat enkeld ooversetten.
 362673	Ich frage mich ob er mir seine Gitarre in den Ferien borgen könnte.	Ik fróóğ mii of häi mii siin gitâar in d' feerjen börgen kun.
+362767	Du musst die Tatsache berücksichtigen, dass er zu jung ist.	Duu maust däi dóódsóóek beuemsichtigen, dat häi t' jung is.
 363327	Ich habe meinen Schirm verloren und muss einen neuen kaufen.	Ik heb miin skiirm ferlooren un maut 'n näej koopen.
+363385	Er war so verwirrt, dass seine Antwort keinen Sinn ergab.	Häi was soo ferwaart, dat siin antern kiin sin mook.
 363408	Wir haben unser Flugzeug wegen dem Stau verpasst.	Wii hebbent us fluğtsoiğ weegen däi staau ferpaast.
 363916	Seit er nach Amerika ging, hat man nichts mehr von ihm gehört.	Siit häi nóó Amerikó gung, het man niks meer fan hum höört.
 364484	Laut einer Studie sterben jährlich 53000 Amerikaner an den Folgen von Passivrauchen.	Nóó 'n stuudie staarvent jorelk 53000 Amerikóóners an däi folgen fan passiifsmooken.
 364568	Das Glücksspiel trieb ihn in den Ruin.	Däi glüksspil dreev hum in d' ruiin.
 365020	Tennis ist schwierig. Ich weiß nie, wohin der Ball fliegen wird.	Tennis is stur. Ik wäit noojt wor däi bâal hen fläigen sal.
+365023	Du hast dich so sehr verändert, dass ich dich fast nicht wiedererkenne.	Duu hest dii soo staark ferannert, dat ik dii hóóst näit weerkennen dau.
+365243	Wie oft gehst du pro Woche im Supermarkt einkaufen?	Woo fóók gaajst duu pro wêek in 't supermâarkt up böskup?
+365286	Mit deinem langen, weißen Haar kann ich dich schon von weitem sehen.	Mit diin lâang, wiet hoer kan ik dii al fan feeren säin.
 365312	Er war so nett, uns mit seinem Boot zur Insel zu bringen.	Häi was soo net, us mit siin boot nóó 't ailand t' brengen.
 365471	Als ich am Bahnhof ankam, war der Zug gerade im Begriff, abzufahren.	Doo ik bii d' bóónhof ankwam, was däi tsuğ net biidaun, of t' foren.
 365485	Er hat mit dem Rauchen aufgehört, weil seine Frau und Kinder ihn darum gebeten haben.	Häi het mit 't smooken uphollen, um dat siin frâau un kinner hum d'r um beeden hebbent.
@@ -149,6 +160,7 @@
 366483	Die Regierung ist korrupt, aber die Opposition ist kaum besser.	Dat regäären is kurrupt, man däi opposisjoon is bold näit beeter.
 366513	Ich hätte gerne einen Termin für meinen dreijährigen Sohn.	Ik haar geern 'n termiin föör miin dreijoriğ jung.
 366924	Es fällt mir schwer, vor 6 Uhr aufzustehen.	'T is stur föör mii fööer ses üer up t' stóón.
+367026	Laut der Bibel brauchte Gott sechs Tage, um die Welt zu erschaffen.	Nóó däi biibel bruukde God ses dóóeğ, um däi weerld t' ferskeppen.
 367243	Die Schulordnung sieht für Schüler das Tragen einer Schuluniform vor.	Dat skaulörnen süğt föör skaulers dat dróógen fan 'n skauluniföörm fööer.
 367341	Leider war das Hotel, das du vorgeschlagen hast, völlig ausgebucht.	Spiitelkerwîis was dat hotel, wat duu föörslóón hest, häilundal uutbaukt.
 367363	Sie spricht ziemlich schnell.	Säi proot't recht gaau.
@@ -190,6 +202,7 @@
 374378	Nachdem er drei Wochen lang nach einem Job gesucht hatte, fand er eine gut bezahlte Stelle.	Nóódeem häi drei wêek lang nóó 'n bóóntje söcht haar, fun häi 'n gaud betóólt stee.
 380249	Sie hat gegen ihn ausgesagt.	Säi het teegen hum uutsäeğt.
 380701	Hallo!	Moin!
+380702	Hab keine Angst, Fehler zu machen, wenn du Englisch sprichst.	Wees näit bâang, feelers t' móóken, doo duu Engelsk prootst.
 383171	Danke für Ihren Rat.	Bedankt föör Jau róód.
 383844	Wenn zwei Personen die gleiche Meinung haben, ist eine von ihnen überflüssig.	Doo twei lüü dat sülviğ mäinen hebbent, is äien fan höör ooverskeeriğ.
 384179	Ein alter Mensch ist eine Brücke zwischen der Vergangenheit und der Gegenwart.	'N oel minsk is 'n brüeğ tüsken 't ferleeden un 't nuu.
@@ -215,6 +228,7 @@
 401654	Gravitation ist die Naturkraft, mit der sich Gegenstände gegenseitig anziehen.	Grawitóósjoon is däi natürkracht, mit däi sük geegenstâan teegennanner antrekkent.
 401992	Kann jemand dieses Wort aussprechen?	Kan wel dit woord uutprooten?
 403683	Ich benötige einen Umschlag, Papier sowie einen Bleistift oder Füller.	Ik heb 'n umslağ nöödiğ, pepier un ook 'n potlood of 'n füller.
+403797	Ich kaufe das Silber von einem Mann, der eine Mine besitzt.	Ik koop dat sülver fan 'n man, däi 'n mîin besit't.
 403801	Obwohl sie Zwillinge sind, haben sie kaum gemeinsame Interessen.	Alwoo säi twennels bünt, hebbent s' bold kiin mäinskuppelk interessen.
 403822	Die Wahlergebnisse werden in der Abendausgabe stehen.	Däi wóólresultóóten söölent in d' óóvenduutgóóev stóón.
 403853	"Meiner Meinung nach", sagte der kleine Bruder, "hast du Unrecht."	"Nóó miin mäinen", see däi lütje brör, "hest duu unrecht."
@@ -306,6 +320,7 @@
 443083	Ein Thermometer ist ein Instrument zum Messen der Temperatur.	'N termomeeter is 'n instrument tau 't meeten fan däi temperótüer.
 443433	Gestern war Freitag, und übermorgen ist Montag.	Güster was freidağ, un oovermörn is móóndağ.
 443570	Diese Wohnung ist größer als alle anderen in diesem Gebäude.	Dit woonen is grooter as âal annernt in dit gebôojd.
+443602	Er wird zu den größten Wissenschaftlern der Welt gezählt.	Häi word't tau däi grôotst wäitenskuppers fan d' weerld telt.
 443827	Die Summe der Winkel eines Dreiecks ist 180 Grad.	Däi suem fan däi winkel fan 'n dreikâant is 180 gróód.
 443828	Vielleicht hat das gar nichts mit unserem Problem zu tun.	Fiilicht het dat häil niks mit us probleem t' daun.
 444052	Mein Vater schlug vor, heute Abend ins Kino zu gehen.	Miin fóóder slooğ fööer, fanóóvend in 't kiino t' góón.
@@ -340,6 +355,7 @@
 455333	Mein Vater kam heute Morgen wegen eines Staus zu spät zur Arbeit.	Miin fóóder kwam fanmörn um 'n staau t' lóót nóó d' aarbaid.
 455348	Da er beträchtlich mit der Miete in Verzug war, wurde er aus seiner Wohnung geworfen.	Um dat häi düğtiğ mit däi hüer in fertsuğ was, wur häi tau siin woonen uut smeeten.
 455653	Wir verbinden den Namen Einstein mit der Relativität.	Wii ferbinnent däi nóóm Einstein mit däi relóótiivitäit.
+455667	Er hat zwei Töchter, die beide mit Ärzten verheiratet sind.	Häi het twei dochters, däi bâajd mit dokters traaut bünt.
 457354	Dieser Ring ist ein magischer Gegenstand, der seinem Träger große Kräfte verleiht.	Disser ring is 'n móóğsk geegenstand, däi siin dróóger grôot krachten ferläint.
 457903	Wir verbinden den Namen Darwin mit der Evolutionstheorie.	Wii ferbinnent däi nóóm Darwin mit däi ewulusjoonsteorii.
 458892	Der Mann, den ich für seinen Vater hielt, stellte sich als völlig Fremder heraus.	Däi keerl, däi ik föör siin fóóder hul, stelde sük as 'n häilundal fröem d'r uut.
@@ -392,8 +408,10 @@
 510148	Es ist besser, dir Zeit für diese Arbeit zu nehmen, als dich zu beeilen und Fehler zu machen.	'T is beeter, dii tiid föör disser aarbaid t' neemen, as dii t' hóósten un feelers t' móóken.
 510964	Mein Vater sagte, dass er sich einen Tag reservieren wollte, um mich mit in den Zoo zu nehmen.	Miin fóóder see, dat häi sük 'n dağ reserwäären wul, um mii mit in d' tsoo t' neemen.
 511879	Wenn du zwischen den Zeilen liest, ist dieser Brief eine Geldanforderung.	Doo duu tüsken däi riigen lest, is disser bräif 'n geldanföördern.
+511907	Als sie den Bahnhof erreichten, war der Zug schon abgefahren.	Doo säi däi bóónhof berekdent, was däi tsuğ al offoren.
 513078	Wenn du unbekannten Wörtern begegnest, musst du sie im Wörterbuch nachschlagen.	Doo duu unbekäent woorden in möyet kumst, maust duu höör in 't woordenbauk nóóslóón.
 513092	Du siehst sehr blaß aus.	Duu letst läip bläik.
+513439	Demokratie ist eine Idee, die auf die alten Griechen zurückgeht.	Demokróótii is 'n idee, däi up däi oel Gräiken t'rüeğgaajt.
 514709	Am selben Tag landete die Apollo 11 erfolgreich auf der Mondoberfläche.	Up d' sülviğ dağ land'de däi Apollo 11 erfolğriik up d' móónboovenflâakt.
 516304	Ich hätte einen längeren Brief geschrieben, wenn ich mehr Zeit gehabt hätte.	Ik haar 'n langerder bräif skreeven, doo ik meer tiid hat haar.
 516344	Cesar Chavez starb 1993 im Alter von sechsundsechzig Jahren. Mehr als 40.000 Menschen wohnten seinem Begräbnis bei.	Cesar Chavez stüürv 1993 up 't oller fan sesuntsestiğ joer. Meer as 40.000 minsken wassent bii siin begrafnis.
@@ -418,6 +436,7 @@
 526503	Kinshasa ist die Hauptstadt der Demokratischen Republik Kongo.	Kinshasa is däi hoovdstad fan d' Demokróótsk Republik Kongo.
 527766	Spiel bitte die Aufnahme ab, nachdem die Aufzeichnung beendet ist.	Spööl bitte däi upnóóem of, nóódeem dat uptäiken dóón is.
 529765	Der einzige Unterschied zwischen einer schlechten Köchin und einer Giftmischerin ist die Absicht.	Däi enkeld ferskeel tüsken 'n släecht kookske un 'n giftmiskerske is däi ofsicht.
+529842	Nachdem ich meine Hausaufgaben erledigt hatte, konnte ich endlich fernsehen.	Nóódeem ik miin huusupgóóven dóón haar, kun ik ennelk feersäin.
 531055	"Warum fährst du nach Japan?" - "Um an einer Konferenz in Tokio teilzunehmen."	"Woosoo forst duu nóó Jóópóón?" - "Um an 'n kunferens in Tokio däil t' neemen."
 531304	Der einzige Unterschied zwischen einem schlechten Koch und einem Giftmischer ist die Absicht.	Däi enkeld ferskeel tüsken 'n släecht kok un 'n giftmisker is däi ofsicht.
 531901	Das wird keine Folgen haben.	Dat sal kiin folgen hebben.
@@ -535,7 +554,9 @@
 597271	Dieses Buch ist für Studenten, deren Muttersprache nicht Japanisch ist.	Dit bauk is föör stuudenten, däi höör maudertóól näit Jóópóónsk is.
 597343	Er macht niemals den Mund auf, ohne sich über etwas zu beschweren.	Häi móókt noojt däi mund oopen, sünner sük oover wat t' beklóógen.
 599295	Um Missverständnisse zu vermeiden, gingen sie den Vertrag noch einmal durch.	Um wóónbegreepen t' fermiiden, gungent s' däi kuntrakt noch insent döör.
-599299	Das Buch ist auf dem Tisch und der Stift liegt auf dem Fenster.	Dat bauk is up d' tóóvel un däi päen liğt up 't fenster.
+599299	Das Buch ist auf dem Tisch und der Stift liegt auf dem Fenster.	Dat bauk is up d' tóóvel un däi stift liğt up 't fenster.
+600508	Sei nicht schüchtern! Deine Aussprache ist mehr oder weniger korrekt.	Wees näit sköej! Diin uutprooten is meer of minner kurrekt.
+600509	Seien Sie nicht schüchtern! Ihre Aussprache ist mehr oder weniger korrekt.	Weesent Jii näit sköej! Jau uutprooten is meer of minner kurrekt.
 601432	Seit er dort angekommen war, hörte er nicht auf, den Arzt mit der Frage zu nerven, wann er nach Hause gehen könne.	Siit häi d'r ankoomen was, hul häi näit up, däi dokter mit däi fróóeğ t' nerven, wenner häi nóó huus tau góón kun.
 601444	Diese Firma stellt zweihundert Autos am Tag her.	Disser firmó daajt tweihunnert aautos up d' dağ heerstellen.
 601454	Die Gespräche zwischen Arbeitern und Management kamen zu keinem eindeutigen Ergebnis.	Däi gespreeken tüsken aarbaiders un management kwamment tau kiin äindüüdiğ resultóót.
@@ -578,9 +599,11 @@
 615396	Die amerikanischen Streitkräfte gaben den Erfolg ihrer Mission im Irak bekannt.	Däi amerikóónsk striidkrachten gaffent däi erfolğ fan höör misjoon in Iróók bekent.
 615449	Streiche die Leute, die ihre Schulden beglichen haben.	Striik däi lüü, däi höör sküllen begleeken hebbent.
 615475	Dieser Brauch wurde von Generation zu Generation weitergereicht.	Disser bruuk wur fan oller tau oller wiiderrekt.
+616065	"Dreißig Dollar sind viel Geld für das kleine Zimmer," dachte er.	"Daartiğ dullers bünt fööl geld föör däi lütje kóómer", doch häi.
 616070	Die Zwillinge sehen sich so ähnlich, dass es so gut wie unmöglich ist, den einen vom anderen zu unterscheiden.	Däi twennels säint sük soo gliik, dat 't soo gaud as unmöögelk is, däi äien fan d' anner t' ferskeelen.
 616074	Man lernt nie aus.	Man leert noojt uut.
 616345	Ich kann Ihnen eine Kopie des Berichts geben, aber ich kann nicht für seine Korrektheit garantieren.	Ik kan Jau 'n kupii fan däi bericht geeven, man ik kan näit föör siin kurrekthaid grantäären.
+616374	Glück ist nicht das Ziel, Glück ist der Weg.	Glük is näit dat tsiil, glük is dat pad.
 616876	Philosophen neigen dazu, wenig Kontakt mit der Außenwelt zu haben.	Filosoofen hebbent däi hang d'r tau, min kuntakt mit däi buutenweerld t' hebben.
 616909	Das Paar gab viel Geld aus, um sein Haus einzurichten.	Dat poer gaf fööl geld uut, um siin huus in t' richten.
 617868	Als er das Geld annahm, verlor er den Respekt der Leute.	Doo häi dat geld annam, ferloor häi däi respekt fan däi lüü.
@@ -620,6 +643,7 @@
 641187	Ich warte schon seit zwei Uhr auf Sie.	Ik wacht al siit twei üer up Jau.
 641740	Mein Fahrrad hatte einen Platten, deshalb verpasste ich den 7-Uhr-Zug.	Miin fîits was plat, düs ferpaasde ik däi 4-üer-tsuğ.
 641742	Während ich auf den Bus wartete, sah ich einen Verkehrsunfall.	Wiilst ik up d' bus wacht'de, sağ ik 'n ferkeersunfal.
+641796	Du musst die Schuhe ausziehen, bevor du dieses Zimmer betrittst.	Duu maust däi skau uuttrekken, eer duu disser kóómer betreeden daajst.
 642032	Sie redete über Paris, als ob sie häufig dort gewesen wäre.	Säi proot'de oover Priis, as of säi fóók d'r west haar.
 642078	Wir müssen versuchen, die Überbleibsel alter Zivilisationen zu bewahren.	Wii mautent fersöyken, däi ooverbliivsels fan oel tsiwiilisóósjoonen t' beworen.
 642082	Ich habe eintausend Dollar in Reiseschecks und fünfhundert in bar.	Ik heb äinduusend dullers in raajsskeks un fiifhunnert in bor.
@@ -679,6 +703,7 @@
 662131	Sie sind an einer Laufbahn im Auswärtigen Amt interessiert, nicht wahr?	Jii bünt an 'n loopbóón in 't Uuthäimsk Amt interessäärt, näit woer?
 662133	Es ist nicht schwer zu glänzen, wenn man von Idioten umgeben ist.	'T is näit stur t' glinsten, doo man fan idiooten umgeeven is.
 662134	Es ist nicht schwer, sich abzuheben, wenn man von Idioten umgeben ist.	'T is näit stur, sük of t' heeven, doo man fan idiooten umgeeven is.
+662208	Du musst die Schuhe ausziehen, bevor du das Zimmer betrittst.	Duu maust däi skau uuttrekken, eer duu däi kóómer betreeden daajst.
 662332	Ich konnte kaum den Eingang des Gebäudes finden.	Ik kun bold näit däi ingaang fan dat gebôojd finnen.
 663545	Zuerst fand er Englisch sehr schwer, aber jetzt findet er es einfach.	Eerst fun häi Engelsk läip stur, man nuu fint häi 't makkelk.
 663956	Er erklärte Mary, warum er zu spät zu ihrer Geburtstagsfeier kam.	Häi ferklorde Mary, woosoo häi t' lóót tau höör boorsdóóğsfier kwam.
@@ -723,6 +748,7 @@
 678188	Ich habe so viele Klamotten, ich weiß nicht, was ich morgen anziehen soll.	Ik heb soo fööl kläär, ik wäit näit, wat ik mörn antrekken sal.
 678826	Wenn ich genug Geld hätte, würde ich das Buch kaufen.	Doo 'k nauğ geld haar, dee 'k dat bauk koopen.
 679707	Bevor Manet dieses Bild malte, waren seine weiblichen Akte auf Göttinnen beschränkt.	Eer Manet dit bild móólde, wassent siin wiivelk nóókenden up goodinnen beskrenkt.
+682595	Passen Sie auf, dass Sie in einer Einbahnstraße nicht in die falsche Richtung fahren.	Paasent Jii up, dat Jii in 'n äinbóónstróóet näit ferkeert kâant an forent.
 682730	Ein Samurai, selbst wenn er nichts gegessen hat, benutzt einen Zahnstocher wie ein Lord.	'N samurai sülst doo häi niks eeten het, bruukt 'n kuuspröökel as 'n Lord.
 682752	Die Pyramiden von Ägypten sind eines der sieben Weltwunder.	Däi pürómiiden fan Eegüpten bünt äien fan däi sööm weerldwunners.
 682782	Es ist eine amerikanische Tradition, sich an seinem Geburtstag etwas zu wünschen.	Dat is 'n amerikóónsk tradisjoon, sük up siin boorsdağ wat t' wünskern.
@@ -742,6 +768,7 @@
 690591	Wenn du nicht weißt, was das Wort bedeutet, schau im Wörterbuch nach!	Doo duu näit wäist, wat dat woord bedüd't, kiik in 't woordenbauk nóó!
 690668	Wegen technischer Probleme wurde anstelle der angekündigten Sendung ein Film gezeigt.	Um technisk probleemen wur in stee fan dat ankünniğt sennen 'n film weesen.
 690693	Zu meiner Überraschung heiratete er eine sehr schöne Schauspielerin.	Tau miin ferraskern traaude häi 'n häil môoj skaauspöölerske.
+690698	Er ist bei der Bank verschuldet, weil er dieses große Haus gekauft hat.	Häi is bii d' bank ferskült, um dat häi dit grôot huus köft het.
 690701	Ich schaue nie auf dieses Bild, ohne an diese glücklichen Tage zu denken.	Ik kiik noojt up dit bild, sünner an disser glükkelk dóógen t' denken.
 691685	Wenn du ihn Französisch sprechen hörtest, würdest du ihn für einen Franzosen halten.	Doo duu hum Fransk prooten höörst, deest duu hum föör 'n Fransk hollen.
 691689	Wenn ich reich wäre, würde ich das tun. So, wie es ist, kann ich nichts machen.	Doo ik riik was, dee ik dat daun. Soo, as 't is, kan ik niks daun.
@@ -782,6 +809,7 @@
 702845	Die Familienmitglieder stimmten darüber ab, in was für einem Restaurant sie zu Abend essen sollten.	Däi femiiljenleeden deedent d'r oover ofstemmen, in wat föör 'n restaaurant säi eeten sullent.
 703373	Es war weniger als ein Kilometer bis zu dem Dorfpostamt.	Dat was minner as 'n kilomeeter bit nóó 't lauğspostamt.
 703391	Die Reduzierung des Haushaltsdefizits ist ein wichtiges Anliegen der Regierung.	Dat redusäären fan dat huushollensdefisiit is 'n wichtiğ anliegen fan 't regäären.
+703744	Schon lange wolltest du dorthin gehen, nicht wahr?	Al lâang wulst duu d'r hen góón, näit woer?
 703780	Warum liebst du mich?	Woosoo läivst duu mii?
 704271	Eine Frau schrieb 30 Bücher darüber, wie man glücklich wird, und beging dann Selbstmord.	'N frâau skreev d'r 30 bauken oover, woo man blîid word't, un begung dan sülstmoord.
 705151	Ist das der richtige Ort um sich für fremdsprachliche Kurse einzuschreiben?	Is dat däi räecht stee um sük föör frömdtóóliğ kursen in t' skriiven?
@@ -903,6 +931,7 @@
 745993	Ich erwarte schon die Wiederkehr des Frühlings.	Ik ferwacht al däi weerkumst fan 't fö'joer.
 747032	Japan ist eine der größten Wirtschaftsmächte der Welt.	Jóópóón is äien fan däi grôotst wirtskaftsmachten fan d' weerld.
 747090	Wenn ein Restaurant Parkservice hat, ist es wahrscheinlich ziemlich teuer.	Doo 'n restaaurant parkservice het, is 't worskiinelk recht dür.
+747169	Was geschah mit dem Buch, das ich vor ein paar Minuten hier hergelegt habe?	Wat geböörde mit dat bauk, wat ik fööer 'n poer menüüten hir henläeğt heb?
 747469	Erst wenn du krank wirst, lernst du den Wert einer guten Gesundheit schätzen.	Eerst doo duu krank worst, leerst duu däi weerd fan 'n gâaud sundhaid t' weerdäären.
 747962	Unser Urlaub hat so viel Spaß gemacht, dass wir uns entschieden haben eine weitere Woche zu bleiben.	Us uurlaaub het soo fööl spóós móókt, dat wii us undsked't hebbent noch 'n wêek t' bliiven.
 748354	Es war ein trockenes Jahr, und viele Tiere verhungerten.	'T was 'n drööeğ joer, un fööl däären fersmacht'dent.
@@ -921,6 +950,7 @@
 750304	Manche Schlangen sind giftig.	Menniğ slangen bünt giftiğ.
 750313	Das nennt man in manchen Ländern 'Geschenk' und in anderen 'Bestechung'.	Dat nöymt man in menniğ lâan 'geskenk' un in anner 'bekooperäj'.
 750966	Es ist leicht, etwas zu planen aber schwer, es auszuführen.	'T is makkelk, wat t' plóónen man stur, 't uut t' fören.
+751263	Als ich kein Geld hatte, hatte ich nur einen Teppich als Bett.	Doo ik kiin geld haar, haar ik man 'n teppiğ as bäer.
 752152	Da du jetzt 18 bist, kannst du deinen Führerschein machen.	Um dat duu nuu 18 büst, kaast duu diin förderskiin móóken.
 752283	Jedes Mal wenn ich dieses Lied höre, denke ich an meine Tage im Gymnasium.	Elker móól doo ik dit läid höör, denk ik an miin dóógen up 't gümnóósium.
 752292	Damit ich einen besseren Blick auf dieses Bild habe, würde ich gern ein bisschen dichter herangehen.	Dat ik 'n beeterder blik up dit bild heb, dee ik d'r geern 'n biitje dichter angóón.
@@ -976,6 +1006,7 @@
 759264	Möchtet ihr gerne zur Mardi Gras-Parade in New Orleans?	Willent jii geern nóó d' Mardi Gras-paróóed in New Orleans?
 759265	Möchten Sie gerne zur Mardi Gras-Parade in New Orleans?	Willent Jii geern nóó d' Mardi Gras-paróóed in New Orleans?
 759270	Es dauerte drei Tage, das ganze Haus zu streichen.	Dat dürs drei dóóeğ dat häiel huus t' striiken.
+759408	Wie viel Bier man trinkt, hängt meistens vom Wetter ab.	Woo fööl bäär man drinkt, hangt mäisttiids fan 't wêer of.
 759473	In keinem anderen Land kommen Erdbeben so häufig vor wie in Japan.	In kiin anner land kooment eerdbeevens soo fóók fööer as in Jóópóón.
 759786	Ich bin dir sehr dankbar, was du für meine Familie getan hast.	Ik bün dii läip dankbor, wat duu föör miin femiilje dóón hest.
 761236	Wenn du auf diesen Hocker steigst, kannst du auf den Schrank fassen.	Doo duu up disser hukker stiğst, kaast duu up dat skap fóóten.
@@ -1020,6 +1051,7 @@
 772669	Stadtausrufer sagten den Leute früher, was sie gemäß den Anordnungen des Königs tun sollten.	Staduutraupers seedent däi lüü waleer, wat säi nóó däi anörnens fan d' köönenk daun sullent.
 772875	Sie renovierten das Haus ihrer Großmutter und statteten es mit modernen Möbeln aus.	Säi renowäärdent dat huus fan höör bäep un deedent 't mit modêern mööbels inrichten.
 773876	Sie ist nicht hier, um sich gegen diese Anschuldigungen zu verteidigen.	Säi is näit hir, um sük teegen disser ferwiiten t' ferdeegen.
+773927	Eine Stunde hat sechzig Minuten, und eine Minute hat sechzig Sekunden.	'N stüen het tsestiğ menüüten, un 'n menüüet het tsestiğ sekunnen.
 773929	Es ist verboten, Zigaretten an Minderjährige zu verkaufen.	'T is ferbooden tsigretten an minnerjoriğ lüü tau ferkoopen.
 773931	In Amerika ist man minderjährig, wenn man jünger als 18 Jahre ist.	In Amerikó is man minnerjoriğ, doo man junger is as 18 joer is.
 774300	Mir schwant nichts Gutes.	Mii swóónt niks gauds.
@@ -1041,6 +1073,7 @@
 777878	Ich habe gerade eine Nachricht erhalten, dass die Besprechung abgesagt wurde.	Ik heb net 'n nóóricht kreegen, dat dat beprooten ofsäeğt wur.
 777880	Das Vietnam Veterans Memorial ehrt die Mitglieder der US-Streitkräfte, die im Vietnamkrieg kämpften.	Dat Vietnam Veterans Memorial eert däi leeden fan däi US-striidkrachten, däi in d' Wjetnamoorlauğ streedent.
 778366	Laut Zeitung gab es heute Nacht ein großes Feuer.	Nóó d' bladje gaf dat fannacht 'n groot füer.
+779227	Prüfungen behindern den wahren Zweck von Bildung.	Prüüfens behinnernt däi woer tswek fan 't bilden.
 779308	Lichtwellen durchdringen den Raum und verschiedene Materialien.	Lüchtwellen döördringent däi ruum un ferskeelend materióólen.
 779867	Weißt du, wie viele Menschen auf der Welt jährlich verhungern?	Wäist duu, woo fööl minsken in d' weerld jorelk fersmachtent?
 779925	Der Lehrer wies auf die Grammatikfehler hin, die die Schüler gemacht haben.	Däi mester wees up däi gramóótikfeelers hen, däi däi skaulers móókt hebbent.
@@ -1049,6 +1082,7 @@
 781907	Diese Vogelart soll vom Aussterben bedroht sein.	Disser föögeltsoord sal fan 't uutstaarven bedraiğt weesen.
 781931	Niemand trug zum Verständnis der Träume so viel bei wie Freud.	Nüms drooğ tau 't ferstennis fan däi dröömen soo fööl bii as Freud.
 781941	Ich vermutete, dass er eine Lüge erzählte, aber das wunderte mich nicht.	Ik fermaud'de, dat häi 'n löögen fertelde, man dat ferwunnerde mii näit.
+781947	Seine Ideen sind den meisten Leuten zu radikal.	Siin ideen bünt däi mäiest lüü t' radikóól.
 781973	Er kann überhaupt nicht schwimmen, aber beim Skifahren ist er der Beste.	Häi kan häilundal näit swemmen, man bii 't skiiforen is häi däi bäest.
 781995	Warum erhöhen sich die Erträge bei herbizidresistenten Sorten?	Woosoo ferhoogernt sük däi erdróógen bii herbisiidresistäent tsoorden?
 782000	Die Zahl der Schüler, die zu spät in die Schule kommen, hat in der letzten Zeit zugenommen.	Däi tóól fan däi skaulers, däi t' lóót in d' skaul kooment, het in d' läest tiid taunoomen.
@@ -1077,12 +1111,16 @@
 783036	Die Zahl der Schüler, die zu spät zur Schule kamen, war viel geringer, als ich erwartet hatte.	Däi tóól fan däi skaulers, däi t' lóót nóó d' skaul kwamment, was fööl minner, as ik ferwacht haar.
 783159	Die Bevölkerung von Tōkyō ist etwa fünfmal so groß wie die unserer Stadt.	Dat befolken fan Tōkyō is ruuğweğ fiif móól soo groot as dat fan us stad.
 783177	Das ist ein sehr wichtiges Meeting. Sie sollten es nicht verpassen.	Dat is 'n häil wichtiğ meeting. Jii sullent dat näit ferpaasen.
+783270	Er ist von Hause aus Franzose, aber jetzt ist er ein US-Bürger.	Häi is fan huus uut Fransôos, man nuu is häi 'n US-börger.
 783303	Er hatte das Auto repariert und sah müde aus, als ich zu Hause ankam.	Häi haar dat aauto reparäärt un leet möej, doo ik in huus ankwam.
 783354	Ohne deinen Regenmantel wäre ich nass bis auf die Haut geworden.	Sünner diin reegenmantel was 'k nat bit up d' huud worden.
 783360	Die Besucher warteten in einer langen Schlange, um in das Museum zu kommen.	Däi besöykers wacht'dent in 'n lâang slâang, um in 't museum t' koomen.
 783364	Die Stahlproduktion wird diesen Monat gegenüber dem letzten Monat um 2 % zunehmen.	Däi stóólproduksjoon sal fanmóónd teegenoover ferleeden móónd um 2 % tauneemen.
 783375	Das Unternehmen ging an die Börse und war ab 1990 börsennotiert.	Dat unnerneemen gung an d' bööers un was fan 1990 of an böörsennotäärt
+783428	Vergiss nicht, das Gas abzustellen, bevor du aus dem Haus gehst.	Fergeet näit, dat gas of t' stellen, eer duu tau 't huus uut gaajst.
+783431	Vergessen Sie nicht, den Gashahn zu schließen, bevor Sie das Haus verlassen.	Fergeetent Jii näit, däi gashóón t' sluuten, eer Jii dat huus ferlóótent.
 783443	Dieser alte Mann hatte seit fünfzig Jahren Whisky selbst gebrannt.	Disser oel keerl haar siit fiiftiğ joer whisky sülst braant.
+783454	Sie müssen Sich entscheiden, ob Sie mit dem Zug oder mit dem Flugzeug reisen.	Jii mautent Jau undskäiden, of Jii mit däi tsuğ of mit dat fluğtsoiğ raajsent.
 783457	Es ist wichtig, dass wir an die Zukunft der Welt denken.	Dat is wichtiğ, dat wii an däi taukumst fan d' weerld denkent.
 783709	Mein Gatte ist ein Experte, wenn es um das Zubereiten chinesischen Essens geht.	Miin keerl is 'n ekspäert doo 't um 't räiden fan skiineesk eeten gaajt.
 783890	Tauben finden den Heimweg mithilfe des Magnetfeldes der Erde.	Duuven finnent däi häimweğ middels 't mağneetfeld fan d' êer.
@@ -1137,6 +1175,7 @@
 792453	Der Unfall schien etwas mit dem tiefen Schnee zu tun zu haben.	Dat melöör leet wat mit däi däiep snäj t' daun t' hebben.
 792472	Gibt es irgendein anderes Land, das so sehr den Patriotismus anfacht wie Amerika?	Gift dat enner 'n anner land, wat soo staark däi póótriootismus upböt't as Amerikó?
 792604	Das Flugzeug fliegt mit einer Geschwindigkeit von fünfhundert Kilometern pro Stunde.	Dat fluğtsoiğ flüğt mit 'n gaauiğkaid fan fiifhunnert kilomeeter pro stüen.
+792628	Jede Verbindung mit jenem Flugzeug war plötzlich wie abgeschnitten.	Elker ferbinnen mit dat fluğtsoiğ was t'móól as ofsneeden.
 792772	Er hob das Glas an seine Lippen und leerte es in einem Zuge.	Häi tielde dat glas nóó siin lippen un löesde 't in äin tsuğ.
 792909	Auf all meinen Reisen habe ich nie einen schöneren Berg gesehen als den Mt. Everest.	Up âal miin raajsen heb ik noojt 'n moojerder baarğ säin as däi Mt. Everest.
 793441	Vom Flugzeug aus gesehen sieht die Insel aus wie eine riesige Spinne.	Fan 't fluğtsoiğ uut säin let't dat ailand as 'n baldóódiğ spien.
@@ -1198,6 +1237,7 @@
 817173	Um die Kokosmilch zu erhalten, müssen Sie zuerst die Kokosnuss aufknacken.	Um däi kóókernööten melk t' kriigen, mautent Jii eerst däi kóókernööet oopenknakken.
 817524	Ich arbeite bis Ende September Vollzeit in einer Buchhandlung.	Ik aarbaid bit äen september fultiid in 'n baukwinkel.
 817889	Das Gewitter gestern hat die Postzustellung behindert.	Dat unwêer güster het dat posttaustellen behinnert.
+818312	Er sagt, er muss die Mäuse auf dem Dachboden loswerden.	Häi säeğt, häi maut däi muusen up d' böön kwiitworden.
 819016	Es waren die hungrigen Bären, vor denen sich die Dorfbewohner fürchteten.	Dat wassent däi smachtiğ boren, fööer däi däi lauğsters bâang wassen.
 819490	Schließlich wird die Raumfahrt für die ganze Menschheit nützlich sein.	Amäen sal däi ruumfort föör däi häiel minskhaid nütselk weesen.
 820521	Der Pressesprecher erklärte der Presse den Inhalt des Vertrags.	Däi präesspreeker ferklorde däi präes däi inhold fan däi kuntrakt.
@@ -1208,11 +1248,14 @@
 824511	Als ich meine Heimatstadt diesen Sommer besuchte, fand ich die Innenstadt anders vor, als sie vor zehn Jahren gewesen war.	Doo ik miin häimóótstad fansömmer besöch, fun 'k däi binnenstad anners fööer, as häi fööer tain joer west haar.
 824583	Es war ein schrecklicher Tag.	Dat was 'n biister dağ.
 824596	Seine Firma ging Pleite und zu allem Übel hatte er einen Verkehrsunfall.	Siin firmó gung unner un bii âal kwóód haar häi 'n ferkeersunfal.
+824598	Und zu allem Übel hatte er einen Verkehrsunfall.	Un as of dat näit nauğ was haar häi 'n ferkeersunfal.
 824710	Tom schätzt, wie viel Geld er brauchen wird, um das Haus fertigzustellen.	Tom skat't, woo fööl geld häi bruuken sal, um dat huus klor t' kriigen.
 824734	Wie lange braucht ein Tierarzt, um ein Pferd zu untersuchen?	Woo lâang bruukt 'n däärendokter, um 'n peerd t' unnersöyken?
 825589	Die von ihnen durchgeführte Untersuchung zeigt, dass Amerikaner sich nicht für Japan interessieren.	Dat fan höör döörfört unnersöyken wist, dat Amerikóóners sük näit föör Jóópóón interessäärent.
+825620	Blondinen verdienen 7% mehr als Frauen mit anderen Haarfarben.	Blondiinen ferdäinent 7% meer as fraaulüü mit anner horklöören.
 825722	Wenn du weniger reden und mehr zuhören würdest, würdest du wahrscheinlich etwas lernen.	Doo duu minner prooten un meer tauhöören deest, deest duu worskiinelk wat leeren.
 825939	Reiche und arme Menschen haben eine andere Sichtweise.	Rîik un âarm minsken hebbent 'n anner sichtwîis.
+828090	Er ist an allem interessiert, was mit Religion zu tun hat.	Häi is an âals interessäärt, wat mit religjoon t' daun het.
 828451	Sir Winston Churchill war nicht nur ein großer Staatsmann, sondern auch ein großartiger Schriftsteller.	Sir Winston Churchill was näit alleniğ 'n grôot stóótsman, man ook 'n grôot skriiver.
 828798	Schnallen Sie sich bitte an, und halten Sie sich an das Rauchverbot, bis das Signal erlischt!	Snaalent Jii Jau bitte an, un hollent Jii Jau an dat smookferbod, bit dat siğnóól uut gaajt!
 829033	Ich war gerade dabei ins Bett zu gehen, als das Telefon zu läuten begann.	Ik was net an 't up bäer góón, doo dat telefoon anfung t' lüüden.
@@ -1276,6 +1319,7 @@
 899805	Du hast vielleicht recht.	duu hest meskiin wal recht.
 900220	Mit zwölf Jahren habe ich angefangen unseren Traktor zu fahren, um meinem Vater in der Erntezeit zu helfen.	Mit twalf joer heb ik anfangen, us trekker t' foren, um miin fóóder in d' arnttiid t' helpen.
 903004	Es wäre schön, wenn ich nach Japan reisen könnte.	Dat was mooj doo 'k nóó Jóópóón raajsen kun.
+903914	Ich kam bei der Buchhandlung vorbei und kaufte ein interessantes Buch.	Ik kwam bii d' baukwinkel f'rbii un köf 'n interessant bauk.
 905378	Mein Opa starb im gleichen Zimmer, in dem er geboren wurde.	Miin besfóóer stüürv in d' sülviğ kóómer, wor häi in booren wur.
 905645	Es tut mir aufrichtig leid, aber ich glaube, ich habe Ihren Schal verlegt.	Dat spit't mii uprecht, man ik lööv, ik heb Jau sjóól ferläeğt.
 907106	Wenn man keine eigenen Ideen hat, muss man halt welche klauen.	Doo man kiin äigen ideen het, maut man halt wekker klaauen.
@@ -1313,6 +1357,8 @@
 924222	Wann immer du dich auf der Seite der Mehrheit befindest, ist der Zeitpunkt da, an dem du innehalten und nachdenken solltest.	Doo duu dii up d' siid fan d' meerderhaid befinnen daajst, is d'r däi tiidpunkt, wor duu uphollen un nóódenken sust.
 925082	Wenn du in den Supermarkt gehst, kannst du mir bitte ein paar Orangen mitbringen?	Doo duu in d' supermâarkt gaajst, kaast duu mii bitte 'n poer appelsiinen mitbrengen?
 925496	Er arbeitete Tag und Nacht, damit seine Familie es gut hatte.	Häi aarbaid'de dağ un nacht, dat siin femiilje dat gaud haar.
+925580	Erfahrung ist der Name, den viele für ihre Fehler verwenden.	Erforen is däi nóóm, däi fööl lüü föör höör feelers ferwendent.
+925693	Weißt du, wie man ein Feuer macht nur mit Holzstecken?	Wäist duu, woo man 'n füer móókt bloot mit takjes?
 925697	Ich glaube, wir haben vorhin, einen falschen Weg eingeschlagen, wenn ich mich nicht irre.	Ik lööv, wii hebbent net 'n ferkeert weğ inslóón, doo ik mii näit fersäi.
 925698	Es ist eine lange Zeit vergangen, seitdem ich eine so angenehme Überraschung hatte.	D'r is 'n lâang tiid fergóón, siitdeem ik soo 'n angeneem ferraskern haar.
 925701	Mehr Studenten melden sich an der Universität an, als angenommen werden können.	Meer stuudenten mellent sük an d' uniwersitäit an, as annoomen worden köönent.
@@ -1371,6 +1417,7 @@
 948974	„Gib mir etwas zum Schreiben.“ „Ist das recht?“ „Ja, das ist gut.“	"Gif mii wat tau 't skriiven." - "Is dat recht?" - "Jóó, dat is gaud."
 948978	„Gib mir etwas zum Schreiben.“ „Ist das in Ordnung?” „Ja, das geht.“	"Gif mii wat tau 't skriiven." - "Is dat up stee?" - "Jóó, dat gaajt."
 949230	Erst als sie das Buch zu Ende gelesen hatte, fiel ihr auf, wer sein Autor war.	Eerst as säi dat bauk t'äen leesen haar, ful höör up, wel siin aautoor was.
+949241	Du hast kein Recht, dich in die Angelegenheiten anderer Leute einzumischen.	Duu hest kiin recht, dii in däi angeleegenhaiden fan anner lüü in t' miskern.
 949374	Soba werden aus Buchweizenmehl, Udon und Kishimen aus normalem Weizenmehl gemacht.	Soba wordent uut baukwaiten meel, Udon un Kishimen uut n'rmóóel waiten meel móókt.
 949528	Können Sie mir den Unterschied zwischen schwarzem und grünem Tee erklären?	Köönent Jii mii däi ferskeel tüsken swâart un gröyen tee ferkloren?
 950978	Im Winter liegt die Insel unter Eis und Schnee.	'S winters liğt dat ailand unner iis un snäj.
@@ -1517,6 +1564,7 @@
 1047767	Tom versicherte Maria, dass er ihr beim Streichen der Küchendecke helfen würde.	Tom ferseekerde Marió, dat häi höör bii 't striiken fan d' köökenböön helpen sul.
 1047978	Tom nimmt an, dass Mary bereit sein wird, beim Kuchenverkauf mitzuhelfen.	Tom nimt an, dat Mary sins weesen sal, bii d' kaukenferkoop mit t' helpen.
 1048884	Ich habe einen Freund, dessen Vater Kapitän eines großen Schiffes ist.	Ik heb 'n fründ, däi siin fóóder kaptain fan 'n groot skip is.
+1048907	Verglichen mit dem alten Modell, ist dieses viel leichter zu bedienen.	Fergleeken mit dat oel model, is dit fööl makkelker t' bedäinen.
 1051012	Meiner Meinung nach sollte eine gut aufgebaute Website kein horizontales Scrollen erfordern.	Nóó miin mäinen sul 'n gaud upbaaut websiid kiin horisontóól scrollen ferlangen.
 1051106	Meinst du, dass es eine gute Idee ist, deinen Hund mit Tischabfällen zu füttern?	Mäinst duu, dat 't 'n gâaud idee is, diin hund mit tóóvelofgefallen t' fauern?
 1051509	Er ist dermaßen verrückt nach Filmen, dass er sich so viele Filme reinzieht, wie er kann.	Häi is soo maal nóó films, dat häi sük soo fööl films inflaiten daajt, as häi kan.
@@ -1578,6 +1626,7 @@
 1102116	Ich habe gute Gründe zu glauben, dass er an dem Verbrechen unschuldig ist.	Ik heb gâaud räidens t' lööven, dat häi an dat ferbreeken unskülliğ is.
 1102119	Ich habe Tom gerade gesagt, dass er rausgehen und etwas zu essen kaufen soll.	Ik heb Tom net säeğt, dat häi d'r uut góón un wat t' eeten koopen sal.
 1103242	Ich habe mit deinem Arzt geredet und er sagte, dass du mindestens eine Woche im Bett bleiben musst.	Ik heb mit diin dokter proot't un häi see, dat duu t'minst 'n wêek up bäer bliiven maust.
+1103333	Ein Vogel kann durch die Lüfte gleiten, ohne seine Flügel zu bewegen.	'N föögel kan döör d' lücht gliiden, sünner siin flöögels t' röögen.
 1104017	Tom versteckte die Waffe in der Keksdose auf dem Kühlschrank.	Tom ferstopde dat wóópen in 't truem up 't köylskap.
 1105444	Leute, die Gabeln oder Stäbchen benutzen, denken oft, dass die, die das nicht tun, unzivilisiert sind.	Lüü, däi góóbels of stóóvkes bruukent, denkent fóók, dat däi, däi dat näit daunt, unbeskóóvt bünt.
 1105447	Es ist sehr unwahrscheinlich, dass das wirklich der gleiche Mann ist, den du vor zehn Jahren getroffen hast.	Dat is läip unworskiinelk, dat dat wies däi sülviğ man is, däi duu fööer tain joer druepen hest.
@@ -1585,6 +1634,7 @@
 1105530	Tom weiß nicht genau, wann Marys Zug die Station verließ.	Tom wäit näit genaau, wenner Mary höör tsuğ däi stóósjoon ferleet.
 1105652	Der Schmerz ließ nach, während die Salbe in seinen Fuß einmassiert wurde.	Däi piin leet nóó, wiilst däi sâalv in siin faut inmessäärt wur.
 1105670	Du brauchst oft mehr Zeit für etwas, als du gedacht hättest.	Duu bruukst fóók meer tiid föör wat, as duu docht haarst.
+1105824	Wie so oft war sie nicht pünktlich da.	As soo fóók was säi d'r näit up tiid.
 1105851	Sie schienen ein sehr wichtiges Thema zu besprechen.	Säi leetent 'n häil wichtiğ teemó t' beprooten.
 1105864	Ich denke, es ist Zeit, dass ich ein bisschen Zeit mit meinen Kindern verbringe.	Ik denk, 't is tiid, dat ik 'n biitje tiid mit miin kinner ferbrengen dau.
 1105874	Da ich ihn morgen sehe, kann ich ihm eine Nachricht überbringen, wenn Sie möchten.	Um dat ik hum mörn säi, kan ik hum 'n nóóricht ooverbrengen, doo Jii willent.
@@ -1604,6 +1654,7 @@
 1112957	Der Premierminister sprach ausführlich über die Finanzkrise.	Däi premjeeminister proot'de uutförelk oover däi finanskrîis.
 1115162	Der Regen fügte der Ernte eher einen großen Schaden zu, als dass er irgendetwas Gutes tat.	Däi reegen dee däi âarnt eer 'n grôot skóó taufaugen, as dat häi wat gauds dee.
 1115874	Mir geht es schlecht.	Mii is nor tau.
+1117867	Flugzeuge ermöglichen den Menschen, große Entfernungen schnell zurückzulegen.	Fluğtsoigen fermöögelkent däi minsk, grôot distansen gaau t'rüeğ t' läegen.
 1119117	Je mehr wir lernen, desto bewusster wird uns, wie wenig wir wissen.	Woo meer wii leerent, soo bewuster word't us, woo min wii wäitent.
 1126657	Wissenschaftler kämpfen dafür, die Ausbreitung des Aids-Virus aufzuhalten.	Wäitenskuppers striident d'r föör, dat uutbräiden fan dat aids-wiirus up t' hollen.
 1127593	Ich würde ihm schreiben, wenn ich seine Adresse wüsste.	Ik dee hum skriiven, doo 'k siin adräes wus.
@@ -1634,6 +1685,7 @@
 1179270	Du hast doch vorgeschlagen, diesen Film zu sehen.	Duu hest doch föörslóón, disser film t' kiiken.
 1179553	Regelmäßig die Hände zu waschen ist ein guter Weg, sich vor Krankheiten zu bewahren.	Reegelmóótiğ däi hâan t' waaskern is 'n gâaud weğ, sük fööer krankhaiden t' beworen.
 1179837	Es erschien mir deutlich, dass der Plan einige Verbesserungen nötig hatte.	Dat leet mii düüdelk, dat däi plóón wat ferbeeterns nöödiğ haar.
+1181810	Er verschwand in einer dunklen Ecke hinten im Laden.	Häi ferdween in 'n dunker hauk achter in d' winkel.
 1183135	Tom kann nicht über dreißig sein. Er sieht wie um die achtzehn aus.	Tom kan näit oover daartiğ weesen. Häi let't as um däi achttain.
 1183773	Die Weltgeschichte ist voll von Geschichten verkannter Genies.	Däi weerldhistoorje is ful fan geskichten fan ferkent zjeeniis.
 1184678	Sterne funkelten am Himmel.	Steerns tinkeldent an d' heemel.
@@ -1651,6 +1703,7 @@
 1187775	Je alberner ein Kind ist, um so goldiger erscheint es seinen Eltern.	Woo albernder 'n kind is, soo golliger skint 't föör siin ollen.
 1188523	Ich besuche gerade meine Großmutter im Krankenhaus.	Ik bün net akróót up fersîit bii miin bäep in 't krankenhuus.
 1189298	Ich werde morgen nicht kommen können. Ich hoffe, ihr schafft es ohne mich.	Ik sal mörn näit koomen köönen. Ik hoop, jii skaffent dat sünner mii.
+1190291	Isst du gewöhnlich mehr als fünf Pizzaschnitten pro Monat?	Eetst duu döörgóóns meer as fiif pitsósneeden pro móónd?
 1190293	Es war ungemein aufregend, zu dieser Zeit in Boston zu sein.	Dat was häil upreegend teegen disser tiid in Boston t' weesen.
 1190311	Es ist sehr nett von Ihnen, mich zu Ihrer Geburtstagsfeier einzuladen.	Dat is läip net fan Jau, mii tau Jau boorsdóóğsfier t' nöygen.
 1192554	Als ich das Café betrat, sahen sich gerade zwei junge Männer Catchen im Fernsehen an.	Doo ik dat kafee betrad, sağğent sük net akróót twei jueng manlüü catchen up 't feersäin an.
@@ -1717,6 +1770,7 @@
 1234854	Tom kennt nicht den Unterschied zwischen einem Maultier und einem Esel.	Tom kent näit däi ferskeel tüsken 'n muuldäär un 'n eesel.
 1234858	Tom kennt nicht den Unterschied zwischen einem Diamanten und einem Smaragd.	Tom kent näit däi ferskeel tüsken 'n dióómant un 'n smeragd.
 1236128	Da sie selbst keine Kinder hatten, beschlossen sie, ein Mädchen zu adoptieren.	Um dat säi sülst kiin kinner haarent, beslootent s', 'n wicht t' adoptäären.
+1238015	Ein Atomkrieg wird die Vernichtung der Menschheit mit sich bringen.	'N atoomoorlauğ sal dat fernichten fan d' minskhaid mit sük brengen.
 1238017	Mit dem Werden des Frühlings kommt schrittweise alles wieder zum Leben.	Mit dat worden fan 't fö'joer kumt äingóól âals weer tau 't leevend.
 1239547	Die stetigen Grenzkämpfe zwischen England und Schottland hörten auf.	Däi stóódiğ grensstriiden tüsken Engelland un Skotland hullent up.
 1239556	Das ist so ein leichtes Problem, dass es jeder Student lösen kann.	Dat is soo 'n makkelk probleem, dat 't elker stuudent löesen kan.
@@ -1726,6 +1780,7 @@
 1248007	Es ist unmöglich für mich, meine Semesterarbeit bis morgen fertig zu haben.	Dat is unmöögelk föör mii, miin seemesterwaark bit mörn klor t' hebben.
 1248011	Ich möchte diesen Brief bis morgen ins Englische übersetzt haben.	Ik wil disser bräif bit mörn in 't Engelsk ooverset't hebben.
 1248066	Schimpansen haben gewöhnlich ihr erstes Kind mit 13, Menschen mit 19 Jahren.	Skimpansen hebbent döörgóóns höör êerst kind mit 13, minsken mit 19 joer.
+1251350	Du kannst mich besuchen kommen, wann immer es dir passt.	Duu kaast bii mii up fersîit koomen, soo as dii 't paast.
 1251402	Wenn Sie das Buch ausgelesen haben, bringen Sie es in die Bibliothek zurück.	Doo Jii dat bauk uutleesen hebbent, brengent Jii 't t'rüeğ in d' bibliotäik.
 1251405	Wenn du das Buch ausgelesen hast, bring es in die Bibliothek zurück.	Doo duu dat bauk uutleesen hest, breng 't in d' bibliotäik t'rüeğ.
 1251423	Mein Großvater machte es sich zur Regel, vor dem Frühstück spazieren zu gehen.	Miin besfóóer mook sük dat tau d' reegel, fööer 't früüstük kaiern t' góón.
@@ -1754,6 +1809,7 @@
 1293511	Er ist der Typ Mann, der lieber Topflappen häkelt als Abenteuer zu suchen.	Häi is däi tüüp keerl, däi läiver potlappen heekelt as eeventüren t' söyken.
 1293643	Die Telefonnummer für die Telefonkonferenz am Donnerstagabend ist 415-904-8873.	Däi telefoonnummer föör däi telefoonkunferens up d' dönnerdóóğóóvend is 415-904-8873.
 1293718	Ich habe dieses Lied so oft im Radio gehört, dass ich es zunehmend gehasst habe.	Ik heb dit läid soo fóók up 't róódio höört, dat ik 't meer un meer hóót't heb.
+1294593	Ich dachte mir, dass es nicht wehtun würde, ein paar Minuten mehr zu warten.	Ik doch mii, dat 't näit seer daun sul, 'n poer menüüten meer t' wachten.
 1294624	Ich habe vor, alles hier wegzuschmeißen. Du kannst nehmen, was du willst.	Ik heb fööer, âals hir weğ t' smiiten. Duu kaast neemen wat duu wult.
 1295395	Das Lehrbuch zeigt die Bedeutung jedes einzelnen Wortes mit einem Bild.	Dat leerbauk wist dat bedüüden fan elker enkeld woord mit 'n bild.
 1295487	Ich würde es vorziehen, Leute anzustellen, nur um in ihre Muttersprache zu übersetzen.	Ik dee dat föörtrekken, lüü an t' stellen, bloot um in höör maudertóól t' ooversetten.
@@ -1784,6 +1840,7 @@
 1329597	Da ich ihn vorher schon einmal getroffen hatte, erkannte ich ihn gleich.	Um dat ik hum föördeem al móól druepen haar, erkende ik hum fut.
 1329772	Da das Licht in seinem Zimmer an ist, muss er heimgekommen sein.	Um dat dat lücht in siin kóómer an is, maut häi häimkoomen weesen.
 1331194	Da die Heizung kaputt zu sein scheint, lass ich ihn sie reparieren.	Um dat däi haitsung köt let't t' weesen, lóót ik hum 't reparäären.
+1331269	Als ich aus dem Gefängnis kam, haben meine Ex-Frau und ich wieder geheiratet.	Doo ik tau 't gefangenis uut kwam, hebbent miin eks-frâau un ik weer traaut.
 1331317	Sie sollten Meinungen nicht das gleiche Gewicht geben, wie Sie es bei Fakten tun.	Jii sullent mäinens näit dat sülviğ gewicht geeven, as Jii 't bii fakten daunt.
 1331321	Entschuldigung, aber ich habe nicht verstanden, was Sie auf Englisch gesagt haben.	Perdong, man ik heb näit begreepen, wat Jii up Engelsk säeğt hebbent.
 1331323	Er übt jeden Tag Klavier, damit er Pianist werden kann.	Häi öyvt elker dağ klewäär, dat häi pióónist worden kan.
@@ -1819,6 +1876,7 @@
 1361910	Es ist mir absolut nicht möglich, die Arbeit an einem Tag zu erledigen.	Dat is mii absluut näit möögelk, däi aarbaid up äin dağ t' daun.
 1362480	Sie blieb dem Unterricht fern.	Säi bleev weğ fan d' unnerricht.
 1366166	Spezialisten sind Leute, die nur eine Saite auf ihrer Fiedel haben.	Spesjóólisten bünt lüü, däi man äin snoer up höör fiidel hebbent.
+1368486	Benjamin Franklin war ein amerikanischer Politiker und Erfinder.	Benjamin Franklin was 'n amerikóónsk politikker un erfinner.
 1370550	Eine Lüge kann um die halbe Welt reisen, während die Wahrheit noch ihre Schuhe anzieht.	'N lööeğ kan um däi hâalf weerld raajsen, wiilst däi worhaid noch höör skau antrekt.
 1372201	Ich gehe heute Nachmittag mit meinem Sohn in den Zoo.	Ik góó fannóómiddağ mit miin jung in d' tsoo.
 1385560	George Washington wurde am zweiundzwanzigsten Februar des Jahres siebzehnhundert zweiunddreißig geboren.	George Washington wur up d' tweiuntwintiğst feeberwoi fan 't joer söömtainhunnert tweiundaartiğ booren.
@@ -1834,6 +1892,7 @@
 1390613	Sie behandelte ihn sehr gut.	Säi bejeegende hum läip gaud.
 1391788	Mary ist 21 Jahre jünger als Tom, aber Tom ist 22-mal reicher als Mary.	Mary is 21 joer junger as Tom, man Tom is 22-móól riiker as Mary.
 1392412	Wenn der Zug durch den Bahnhof fährt, klirren laut die Fenster und das ganze Haus zittert.	Doo däi tsuğ döör d' bóónhof fort, klingent fäel däi fensters un dat häiel huus trielt.
+1392668	"Was möchten Sie kaufen?" "Ich möchte einen Hund kaufen."	"Wat willent Jii koopen?" "Ik wul 'n hund koopen."
 1393225	Sie sagte gegen ihn aus.	Säi see teegen hum uut.
 1393276	Sie läuft schneller als ich.	Säi löpt gaauer as ik.
 1393288	Ich weiß, dass du schon lange wartest, aber könntest du noch ein bisschen länger warten?	Ik wäit, dat duu al lâang wachtst, man kust duu noch 'n biitje langer wachten?
@@ -1881,6 +1940,7 @@
 1445859	Leider wirst du in diesem Büro nichts gemacht bekommen, falls du nicht jemanden schmierst.	Spiitelkerwîis sast duu in dit büro niks móókt kriigen, doo duu näit wel smeerst.
 1447800	Tom und Mary sind seit dreizehn Jahren glücklich verheiratet.	Tom un Mary bünt siit daartain joer glükkelk traaut.
 1447874	Tom hat sich entschieden, kein Völkerball zu spielen, weil es ihm nicht gut ging.	Tom het sük undsked't, kiin folkenbâal t' spöölen, um dat hum 't näit gaud gung.
+1448290	Außer ihm kam sonst niemand zur Party.	Buuten hum kwam anners nüms nóó d' fier.
 1448402	Übersetzer leisten die beste Arbeit dann, wenn sie in ihre Muttersprache übersetzen.	Ooversetters laistent däi bäest aarbaid dan, doo säi up höör maudertóól ooversettent.
 1448510	Wenn ich ihre Adresse wüsste, würde ich ihr schreiben.	Doo ik höör adräes wus, dee 'k höör skriiven.
 1450374	Die Stahlproduktion erreichte im vergangenen Jahr schätzungsweise 100 Millionen Tonnen.	Däi stóólproduksjoon kwam in 't ferleeden joer up ruuğweğ 100 miljoonen tünnen.
@@ -1932,6 +1992,7 @@
 1494670	Der Junge sammelte eine Handvoll Erdnüsse und legte sie in eine kleine Schachtel.	Däi jung sóómelde 'n handful eerdnööten un lee höör in 'n lütje skachtel.
 1494675	Was passiert, wenn eine unwiderstehliche Kraft auf ein unbewegliches Objekt trifft?	Wat geböört, doo 'n unweerstóónboer kracht up 'n unbeweegelk objekt róókt?
 1494932	Dass ich erwachsen wurde, merkte ich daran, dass ich anfing, Ratschläge von meinen Eltern zu befolgen.	Dat ik groot wur, murk ik d'r an, dat ik begun, róódslóógen fan miin ollen t' befolgen.
+1497812	Ich kann es mir nicht leisten, dieses Wochenende zum Onsen zu fahren. Ich bin pleite.	Ik kan mii dat näit laisten, dit weekenäen nóó d' onsen t' foren. Ik bün plâajt.
 1497816	Ich hatte Probleme mit dem neuen Auto. Es ließ sich schwer steuern.	Ik haar probleemen mit dat näej aauto. Dat leet sük stur stüren.
 1497817	Ich hatte Probleme mit dem neuen Wagen. Er ließ sich schwer steuern.	Ik haar probleemen mit däi näej wóógen. Häi leet sük stur stüren.
 1498408	In der Bibel steht: "Der Mensch lebt nicht vom Brot allein."	In d' biibel staajt: "Däi minsk leevt näit fan 't brood alleniğ."
@@ -1945,6 +2006,7 @@
 1501513	Würden Sie mich bitte am Freitag, dem 11. Juli um 10:00 Uhr morgens am Hotel abholen?	Deedent Jii mii bitte up d' freidağ, däi 11. julii teegen 10:00 üer 's mörns bii 't hotel ofhóólen?
 1501516	Als Daumenregel sollten Sie ein Pfund Rindfleisch für jeweils zwei Gäste rechnen.	As duumreegel sullent Jii 'n pund bäistfläisk föör twei gasten reeken.
 1501522	Wann immer du in Schwierigkeiten oder niedergeschlagen bist, werde ich für dich da sein.	Doo duu in d' breedulje of dóólslóón büst, sal ik d'r föör dii weesen.
+1501542	Du bist der einzige Mensch, der mich jemals nach zehn Uhr abends anruft.	Duu büst däi enkeld minsk, däi mii oojt nóó tain üer 's óóvends anröpt.
 1505071	Was meinst du, wie viele Selbstmorde jedes Jahr in Japan geschehen?	Wat mäinst duu, woo fööl sülstmoorden elker joer in Jóópóón geböörent?
 1506059	Ganz gleich wie sehr ich mich bemühe, ich werde es nie schaffen, ihn einzuholen.	Häil ne'ğeliik woo düğtiğ ik mii bemai, ik sal dat noojt skiren, hum in t' hóólen.
 1506102	Wir griffen zu Notmaßnahmen, um den Patienten mit Herzstillstand wiederzubeleben.	Wii greepent tau noodmóótreegels, um däi pasjent mit haartstielstand weer t' beleeven.
@@ -1955,6 +2017,7 @@
 1511444	Hört auf, mich zu nerven. Ich bin beschäftigt.	Holt up mii t' nerven. Ik heb 't drok.
 1511446	Hören Sie auf, mich zu nerven. Ich bin beschäftigt.	Hollent Jii up mii t' nerven. Ik heb 't drok.
 1511769	Flexibilität ist einer der vielen Vorteile der Heimarbeit.	Fleksibilitäit is äien fan däi fööl föördäilen fan d' häimaarbaid.
+1511814	Als sie in ihr Zimmer zurückkehrte, war der Diamantring weg.	Doo säi in höör kóómer t'rüeğkwam, was däi dióómantring weğ.
 1511840	Mir kam nie der Gedanke, dass Tom nicht die Wahrheit sagen könnte.	Mii kwam noojt däi gedâank, dat Tom näit däi worhaid säegen kun.
 1511872	Bitte stornieren Sie meine Bestellung und schicken Sie mir darüber eine Bestätigung.	Bitte stornäärent Jii miin bestellen un stürent Jii mii d'r oover 'n besteedigen.
 1511922	Letzten Endes überredete mich der Verkäufer, die teuere Maschine zu kaufen.	Lesserhand beproot'de mii däi ferkooper, däi dürderder meskîin t' koopen.
@@ -1985,9 +2048,11 @@
 1516815	Sobald du eine schlechte Angewohnheit entwickelt hast, ist es nicht einfach, sie wieder loszuwerden.	Soo dróó duu 'n slecht anwensel undwikkelt hest, is 't näit makkelk, hum weer kwiit t' worden.
 1517625	Eine aktualisierte Ausgabe der Enzyklopädie wird im nächsten Monat erscheinen.	'N aktuóólisäärt uutgóóev fan däi ensüklopedii sal anner móónd ferskiinen.
 1517626	Eine aktualisierte Ausgabe des Lexikons wird im nächsten Monat erscheinen.	'N aktuóólisäärt uutgóóev fan 't leksikon sal anner móónd ferskiinen.
+1519659	Wie lange dauert es von hier zu Fuß bis zum Hilton-Hotel?	Woo lâang dürt dat fan hir t' faut bit nóó 't Hilton-hotel?
 1520089	Viele Amerikaner hatten noch Geld, das sie während des Krieges gespart hatten.	Fööl Amerikóóners haarent noch geld, wat säi in d' oorlauğ sport haarent.
 1520182	Wir frühstücken um sieben, wenn du dich zu uns setzen möchtest.	Wii früüstükkent teegen sööem, doo duu dii tau us setten wult.
 1521097	Ich höre, dass es in ihrer Ehe kriselt und sie wahrscheinlich bald die Scheidung einreichen werden.	Ik höör, dat höör äecht teegenlöpt un säi worskiinelk bold dat skäiden inlangen söölent.
+1522487	Antonio Guzmán Blanco kam 1870 in Venezuela an die Macht.	Antonio Guzmán Blanco kwam 1870 in Wenetsueeló an d' macht.
 1522578	Ich kann mir kein neues Auto leisten, also werde ich mit diesem auskommen müssen.	Ik kan mii kiin näj aauto laisten, alsoo sal ik mit dit aauto uutkoomen mauten.
 1522611	Nicht weniger als dreihundert Dollar wurden für die Arbeit benötigt.	Näit minner as dreihunnert dullers wurdent föör däi aarbaid benöödiğt.
 1523159	Ich hätte nicht gedacht, dass es so schwer ist, einen Picknicktisch zu bauen.	Ik haar näit docht, dat 't soo stur is, 'n pikniktóóvel t' baauen.
@@ -2070,6 +2135,7 @@
 1562757	Lincolns Biographie wird von Kindern auf der ganzen Welt gelesen.	Lincoln siin biogróófii word't fan kinner up d' häiel weerld leesen.
 1562823	Früh zu Bett, früh wieder auf macht gesund und reich in Kauf.	Frau up bäer, frau weer up móókt sund un riik in koop.
 1562868	Die Menschen halten es nicht mehr seltsam für Männer, ihre Haare lang wachsen zu lassen.	Däi minsken hollent dat näit meer ror föör manlüü, höör hoer lang waasen t' lóóten.
+1563155	Angestellte, die lange Finger machen, werden ihre Jobs nicht lange behalten.	Anstelten, däi steelent, söölent höör jobs näit lâang hollen.
 1564824	Früh zu Bett und früh aufstehen macht den Menschen gesund, reich und klug.	Frau up bäer un frau upstóón móókt däi minsk sund, riik un klauk.
 1565089	Tom wagte nicht zu verweigern, was Mary ihn bat zu tun.	Tom wóóğde näit t' ferwäigern, wat Mary hum beed'de t' daun.
 1566027	Tom sprach mit Marys Nachbarn und fragte sie, ob sie wüssten, wohin sie gegangen sei.	Tom proot'de mit Mary höör nóóbers un frooğ höör, of säi wussent, wor säi hen góón was.
@@ -2094,6 +2160,7 @@
 1586257	Bieten Sie mir wirklich eine Roflex für 5 Dollar an?	Bäident Jii mii wies 'n Roflex föör 5 dullers an?
 1586841	Ich suche ein Buch über das mittelalterliche Spanien.	Ik söyk 'n bauk oover 't middelollersk Spóónjen.
 1588063	Wir ernähren uns häufig von Dingen, die, ohne dass wir es wissen, unserer Gesundheit schädlich sind.	Wii erneerent us fóók fan dingen, däi, sünner dat wii dat wäitent, us sundhaid skóódelk bünt.
+1588288	Was hast du mit meinem Stift gemacht? Er war vor einer Minute hier.	Wat hest duu mit miin stift móókt? Häi was fööer 'n menüüet hir.
 1589513	Eine kleine Taschenlampe in der Tasche zu haben kann ganz praktisch sein.	'N lütje taaskenlâamp in d' taaske t' hebben kan häil praktisk weesen.
 1589658	Das ganze Büro war beeindruckt davon, wie Tom das Problem anging.	Dat häiel büro was d'r beindrükt fan, woo Tom dat probleem angung.
 1589773	Ich würde lieber herinnen bleiben als an so einem kalten Tag hinauszugehen.	Ik muğ läiver binnen bliiven as up soo 'n koel dağ in buuten t' góón.
@@ -2106,6 +2173,7 @@
 1597405	Deine Mutter wird es so oft für dich wiederholen, wie nötig ist.	Diin mauder sal 't soo fóók föör dii weerhóólen, as 't nöödiğ is.
 1597406	Deine Mutter wird es dir so oft wie nötig wiederholen.	Diin mauder sal dii 't soo fóók weerhóólen as nöödiğ.
 1597407	Deine Mutter wird es dir so viele Male, wie nötig ist, wiederholen.	Diin mauder sal dii 't soo fööl móólen, as 't nöödiğ is, weerhóólen.
+1597886	Er nahm einen Hut in die Hand und setzte ihn sich auf, um zu sehen, wie er damit aussah.	Häi nam 'n haud in d' hand un set'de sük däi up, um t' säin, woo häi d'r mit leet.
 1597892	Nimm einen Schirm mit, denn es ist für den Nachmittag Regen angesagt.	Nim 'n skiirm mit, dan föör däi nóómiddağ is d'r reegen ansäeğt.
 1599666	Er freute sich darauf, das Wochenende mit ihr in ihrem gemeinsamen Landhaus in Somerset zu verbringen.	Häi fraajde sük d'r up, dat weekenäen mit höör in höör mäinsóóem landhuus in Somerset t' ferbrengen.
 1599785	Rational nennt man Zahlen, die sich als Bruch zweier ganzer Zahlen schreiben lassen.	Róósjoonóól nöymt man tóólen, däi sük as bröök fan twei häiel tóólen skriiven lóótent.
@@ -2117,6 +2185,8 @@
 1602271	Ich verstehe nicht, warum den Kindern bei so schönem Wetter nicht erlaubt wird, draußen zu spielen.	Ik begriip näit, woosoo 't däi kinner bii soo môoj wêer näit ferloovt word't, up buuten t' spöölen.
 1602285	Sie kann nicht einmal eine Sekunde lang den Mund halten.	Säi kan näit móól 'n sekuen lang däi mund hollen.
 1604821	Einer meiner Freunde zeigte mir alle Puppen, die er im Ausland gekauft hatte.	Äien fan miin früen wees mii âal puppen, däi häi in 't buutenland köft haar.
+1607583	Nicht Information, sondern Kommunikation ist es, was die Welt verändert.	Näit inf'rmóósjoon, man kummunikóósjoon is 't, wat däi weerld ferannert.
+1607586	Nicht Information ist es, was die Welt verändert, sondern Kommunikation.	Näit inf'rmóósjoon is 't, wat däi weerld ferannert, man kummunikóósjoon.
 1608878	Der Mann, von dem ich dachte, er sei sein Vater, erwies sich als jemand völlig Fremdes.	Däi keerl, wor ik fan doch, häi was siin fóóder, ferwees sük as wel häilundal frömds.
 1610746	Glaubst du, dass es auf diese schwierige Frage noch eine andere Antwort gibt?	Mäinst duu, dat 't up disser stuer fróóeğ noch 'n anner antern gift?
 1611258	Dieses ist ein Satz, der so viele Silben zählt wie ein Haiku.	Dit is 'n sats, däi soo fööl sülven telt as 'n haiku.
@@ -2130,6 +2200,7 @@
 1619097	Wenn Sie Ihren Atem sehen können, wenn Sie ausatmen, wissen Sie, dass es kalt ist.	Doo Jii Jau óóm säin köönent, doo Jii uutóóment, wäitent Jii, dat 't kold is.
 1620526	Sollte es mich mal ins Ausland ziehen, würde ich wahrscheinlich nach Frankreich gehen.	Sul 't mii insent in 't buutenland trekken, dee ik worskiinelk nóó Frankriik tau góón.
 1620565	Mary bat Tom, den Rechner auszuschalten und das Abendessen zu bereiten.	Mary beed'de Tom, däi reekener uut t' skalten un dat óóvendeeten t' móóken.
+1627294	Ich verzeihe dir, weil du nicht wusstest, was du tatest.	Ik fergeev dii, um dat duu näit wust, wat duu deest.
 1630131	Das war ein Riesenerfolg.	Dat was 'n grôot tsukses.
 1630303	Das Buch ist sowohl mit festem als auch mit flexiblem Einband verfügbar.	Dat bauk is soo wal mit fâast as ook mit fleksiibel inband beskikbor.
 1630305	Das Buch ist gebunden und als Taschenbuch erhältlich.	Dat bauk is bunnen un as taaskenbauk t' ferkriigen.
@@ -2156,6 +2227,7 @@
 1648296	Das Einzige auf dem Tisch, das ich normalerweise nicht essen würde, ist das Zeug auf dem gelben Teller.	Dat enkeld up d' tóóvel, dat ik n'rmóól näit eeten dee, is dat tüüğ up 't gêel teller.
 1648305	Wenn mein Vater nicht im Krieg gefallen wäre, wäre er jetzt über sechzig Jahre alt.	Doo miin fóóder näit in d' oorlauğ faalen was, was häi nuu oover tsestiğ joer old.
 1649560	Es wäre sicherlich nicht allzu schwierig, herauszufinden, wer in unser System eingedrungen ist.	Dat was seeker näit al t' stur, uut t' finnen, wel in us süsteem indrungen is.
+1654122	In der Sommerzeit verwendet man einen Sonnenschirm, um dem Gesicht Schatten zu spenden.	In d' sömmertiid bruukt man 'n sünnenskiirm, um dat gesiecht in d' skâar t' hollen.
 1657261	Zwischen beiden Ländern bestehen bedeutsame Unterschiede.	Tüsken bâajd lâan bestóónt wichtiğ ferskeelen.
 1657263	Zwischen diesen zwei Ländern gibt es wichtige Unterschiede.	Tüsken disser twei lâan gift dat wichtiğ ferskeelen.
 1658709	Sagtest du mir gestern nicht, du kämest heute nicht zu spät?	Seest duu mii güster näit, duu kwamst fandóóeğ näit t' lóót?
@@ -2220,6 +2292,7 @@
 1691128	Tom sagte zwar, dass Maria gut Klavier spielen könne, aber ich glaubte ihm nicht so recht — bis ich sie spielen hörte.	Tom see wal, dat Marió gaud klewäär spöölen kun, man ik löövde hum näit soo recht - bit ik höör spöölen höörde.
 1691144	Wir müssen die Möglichkeit in Betracht ziehen, dass Tom an dem Raubüberfall beteiligt war.	Wii mautent däi möögelkkaid in bedenken neemen, dat Tom an dat roofooverfal bedäiliğt was.
 1691196	Ich versuchte sie aufzumuntern, aber sie wollte einfach nur allein sein.	Ik fersöch höör t' fermuntern, man säi wul man bloot alleniğ weesen.
+1691214	Wenn du erst einmal in meinem Alter bist, wirst du verstehen, was ich meine.	Doo duu eerst móól up miin oller büst, sast duu ferstóón, wat ik mäin.
 1691218	Es war kein Zufall, dass Tom und Maria beide zur gleichen Zeit in der Cafeteria waren.	Dat was kiin taufal, dat Tom un Marió bâajd t' gliiker tiid in d' Cafeteria wassent.
 1691229	Tom sah auf seine Uhr und bemerkte, dass ihm nur noch fünf Minuten bis zum Mittagessen blieben.	Tom sağ up siin kloek un wur gewoer, dat hum bloot noch fiif menüüten bit tau 't middóóğeeten bleevent.
 1691233	Tom hielt es nicht für angebracht, dass Johannes Maria eine Perlenhalskette schenke.	Tom hul dat näit föör recht, dat Hannes Marió 'n parrelhalskäed skunk.
@@ -2234,6 +2307,8 @@
 1691486	Endlich habe ich Zeit, die Post zu beantworten, die ich in den letzten drei Wochen erhalten habe.	Ennelk heb ik tiid, up däi post t' antern, däi ik in däi ferleeden drei wêek ferkreegen heb.
 1691523	Ohne deine Ermutigung hätte ich dieses Vorhaben aufgegeben.	Sünner diin anmaudigen haar 'k dit föörhebben taugeeven.
 1691526	Hätte sich der Unfall in einer Stadt ereignet, hätte er zu einer Katastrophe geführt.	Haar sük dat melöör in 'n stad taudróógen, haar 't tau 'n katastrôof fört.
+1691544	Solange du dich ruhig verhältst, kannst du, wenn du möchtest, hierbleiben.	Soo lâang duu dii rüstiğ ferholst, kaast duu, doo duu wult, hir bliiven.
+1691547	Du darfst hierbleiben, wenn du möchtest — solange du ruhig bleibst.	Duu dürst hir bliiven, doo duu wult - soo lâang duu rüstiğ blifst.
 1691567	Vergiss bitte nicht, Marken auf die Briefe zu kleben, die ich dir zum Verschicken gab.	Fergeet bitte näit, maarken up däi bräiven t' kleeven, däi ik dii tau 't ferstüren gaf.
 1691570	Vergessen Sie bitte nicht, Marken auf die Briefe zu kleben, die ich Ihnen zum Verschicken gab.	Fergeetent Jii bitte näit, maarken up däi bräiven t' kleeven, däi ik Jau tau 't ferstüren gaf.
 1691587	Ich muss gehen, weil draußen jemand auf mich wartet.	Ik maut góón, um dat up buuten wel up mii wacht't.
@@ -2398,6 +2473,7 @@
 1731478	Wissenschaftler können leicht den Abstand zwischen zwei Planeten berechnen.	Wäitenskuppers köönent makkelk däi ofstand tüsken twei planeeten bereeken.
 1731481	Wissenschaftler werden neue Methoden erdenken, um die Lebensmittelversorgung der Welt zu erhöhen.	Wäitenskuppers söölent näej metooden bedenken, um 't leevendsmiddelfersörgen fan d' weerld t' ferhoogern.
 1732415	Es könnte regnen. Wir nehmen besser einen Regenschirm mit.	Dat kun reegen. Wii neement beeter 'n reegenskiirm mit.
+1732417	Mich fröstelte noch immer, wenngleich ich in der Sonne saß.	Ik klöömde noch altiid, alwoo ik in d' süen sat.
 1733115	Wenn Sie diesen Knopf drücken, wird sich die Tür öffnen.	Doo Jii disser knôop drükkent sal däi dööer oopengóón.
 1734696	Mein knausriger Ehemann ging zu unserem Jahrestag mit mir zu McDonald’s.	Miin kniiperğ echtkeerl gung tau us ferjorsdağ mit mii nóó McDonald’s.
 1734731	Er wäre nicht verunglückt, wenn er an jenem Tage zu Hause geblieben wäre.	Häi was näit t' melöör koomen, doo häi up disser dağ in huus bleeven was.
@@ -2414,6 +2490,7 @@
 1750677	Sie war so darin vertieft, die Beatles zu hören, dass sie das Stelldichein mit ihm versäumte.	Säi was d'r soo in ferdäipt, däi Beatles t' höören, dat säi dat runnewuu mit hum fersüümde.
 1751844	Unser Lehrer hat versucht, eine neue Methode des Englischunterrichts anzuwenden.	Us mester het fersöcht, 'n näej metôod fan d' Engelskunnerricht an t' wenden.
 1753073	Es ist sehr gefährlich, auf den Zug zu springen, während er in Bewegung ist.	Dat is häil gefordelk up d' tsuğ t' springen, wiilst häi in fort is.
+1754320	Denkt ihr, dass es wichtig ist, jeden Tag zu frühstücken?	Mäinent jii, dat 't wichtiğ is, aldóóeğ t' früüstükken?
 1755865	Der Zweite Weltkrieg endete im Jahre zwanzig der Shōwa-Zeit.	Däi Twäied Weerldoorlauğ ende in 't joer twintiğ fan däi Shōwa-tiid.
 1755999	Erst lange nachdem sie geheiratet hatten fand Tom heraus, dass Mary wegen Mordes gesucht wurde.	Eerst lâang nóódeem säi traaut haarent fun Tom d'r uut, dat Mary weegen moord söcht wur.
 1756984	Bist du sicher, dass du nicht auf die Toilette musst, bevor du gehst?	Büst duu seeker dat duu näit up 't gemak maust, eer duu gaajst?
@@ -2432,6 +2509,7 @@
 1766618	Ohne deine Mithilfe hätte ich diese Arbeit sicher nicht fristgerecht erledigen können.	Sünner diin mithüelp haar ik disser aarbaid wal näit fristgerecht klorkriigen kunt.
 1767097	„Weißt du, wo diese Kamera hergestellt wurde?“ – „Ich glaube, in China, aber ich bin mir nicht sicher.“	"Wäist duu, wor disser kameró heerstelt wur?" - "Ik lööv, in Skiinó, man ik bün mii näit seeker."
 1767700	Wenn zwei die gleiche Meinung haben, ist deren eine überflüssig.	Doo twäj dat sülviğ mäinen hebbent, is äien d'r fan ooverskeeriğ.
+1767949	Vergessen Sie nicht, Ihr Foto dem Antragsformular beizufügen.	Fergeetent Jii näit, Jau footo an dat andrağsföörmulaar bii t' faugen.
 1768615	Wie lange willst du mich noch mit Schweigen strafen?	Woo lâang wult duu mii noch mit swiigen stróófen?
 1768625	Ich weiß zwar nicht, was hier vor sich geht, aber ich gedenke es herauszufinden.	Ik wäit wal näit, wat hir fööer sük gaajt, man ik plóón dat uut t' finnen.
 1768639	Ich versuche einfach nur dahinterzukommen, warum jemand so etwas tut.	Ik fersöyk äinfach bloot d'r achter koomen, woosoo äien soo wat daajt.
@@ -2450,6 +2528,7 @@
 1783441	Tom war betrübt, als er herausfand, dass Maria ein Geldegel war, und Maria war betrübt, als sie herausfand, dass Tom ein armer Schlucker war.	Tom was bedröyvt, doo häi d'r uut fun, dat Marió 'n geldengel was, un Marió was bedröyvt, doo säi d'r uut fun, dat Tom 'n âarm blaud was.
 1783740	Tom ist reich genug, um sich, wo auch immer er es wünscht, ein Haus zu kaufen.	Tom is riik nauğ, um sük, wor häi dat ook wul, 'n huus t' koopen.
 1784769	Ich bin zur nächsten Bibliothek gegangen, um ein paar Bücher zu diesem Thema zu finden.	Ik bün nóó d' tauken bibliotäik góón, um 'n poer bauken tau dit teemó t' finnen.
+1788280	Nachdem ich den Hügel hinaufgerannt war, war ich völlig außer Atem.	Nóódeem ik däi höövel anhooğ loopen was, was ik häil uut d' pûust.
 1789958	Ungeachtet der Tatsache, dass sie beschäftigt war, kam sie, um sich mit mir zu treffen.	Alwoo säi 't drok haar, kwam säi, um sük mit mii t' dräepen.
 1790147	Die Summe aller Winkel eines Dreiecks beträgt hundertachtzig Grad.	Däi suem fan âal winkels fan 'n dreikâant bedrağt hunnerttachentiğ gróód.
 1790683	Selbst wenn ich beide Hände nehme, kann ich kein Ei aufschlagen, ohne den Dotter zu verletzen.	Sülst doo ik bâajd hâan neemen dau, kan ik kiin âaj upslóón, sünner däi dööel t' beseeren.
@@ -2506,6 +2585,7 @@
 1809349	Die Mormonen haben die Polygamie verboten, aber einige Anhänger praktizieren sie immer noch.	Däi mormoonen hebbent däi poligóómii ferbooden, man wat anhengers praktisäärent hum altiid noch.
 1809393	Tom hat einen Bart, genau wie sein Vater, seine Großväter und seine Brüder.	Tom het 'n bord, net as siin fóóder, siin besfóóers un siin brörs.
 1809803	Zum Teil ist die Abnahme der Entwicklungshilfeleistungen Japans auf einen heimischen ökonomischen Abschwung zurückzuführen.	Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk ökonoomsk dóólgaang bedingt.
+1811071	Ich kann Tom nicht finden. Er ist doch noch nicht fort, oder?	Ik kan Tom näit finnen. Häi is doch noch näit weğ of näit?
 1811151	Mein älterer Bruder ist wirklich groß — etwa einen Meter achtzig.	Miin ollerder brör is wies groot - ruuğweğ 'n meeter tachentiğ.
 1811235	Ich weiß, dass es mir nur höchst unwahrscheinlich gelingen wird, dich davon zu überzeugen, dass du dich irrst.	Ik wäit, dat mii 't man hooğst unworskiinelk lingen sal, dii d'r fan t' oovertüügen, dat duu dii fersinst.
 1811237	Ich weiß, dass es höchst unwahrscheinlich ist, dass es mir gelingen wird, dich zu überzeugen, dass du dich irrst.	Ik wäit, dat 't hooğst unworskiinelk is, dat 't mii lingen sal, dii t' oovertüügen, dat duu dii fersinst.
@@ -2561,6 +2641,7 @@
 1823134	Danke für das Kompliment!	Bedankt föör dat kumpelment!
 1823376	Er rüstete sich mit allem aus, was er zur Besteigung des Berges benötigte.	Häi rüst'de sük mit âals uut, wat häi tau 't bestallen fan däi baarğ benöödiğde.
 1823542	Es ist so gut wie unmöglich, dass du die Arbeit in einem Tag schaffst.	Dat is soo gaud as unmöögelk, dat duu däi aarbaid in äin dağ skirst.
+1824054	Was immer er für Fehler haben mag, Geiz gehört nicht dazu.	Wat häi ook föör feelers hebben mağ, gits höört d'r näit tau.
 1824101	Es fiel ihm schwer, seinen Stolz über seinen Erfolg zu verstecken.	Dat was stur föör hum, siin stolt oover siin erfolğ t' ferstoppen.
 1824478	Ich hätte gerne das billigste Zimmer, das Sie haben, für vier Nächte.	Ik haar geern däi billiğst kóómer, däi Jii hebbent, föör fäär nachten.
 1824559	Es ist sinnlos zu versuchen, ihn davon zu überzeugen.	Dat is sinlös t' fersöyken hum d'r fan tau oovertüügen.
@@ -2589,7 +2670,9 @@
 1832898	In Alaska kann man Naturphänomene wie das Polarlicht sehen, stimmt's?	In Alaskó kan man natürfenoomeenen as dat poolaarlücht säin, ne?
 1832901	Wie viel Tage dauert es, wenn ich das als Einschreiben schicke?	Woo fööl dóóeğ dürt 't, doo ik dat as inskriiven stüren dau?
 1832967	Das britische Schiff wurde aufgebracht und in die Vereinigten Staaten gebracht.	Dat briitsk skip wur upbrocht un in däi Feräint Stóóten brocht.
+1832968	Ich möchte besonders unserem rekordverdächtigen Verkaufsteam danken.	Ik wul besünners us rekordferdechtiğ ferkoopsteam danken.
 1833012	Da dieser Brief zu hastig geschrieben worden war, war er voller Fehler.	Um dat disser bräif t' hóóstiğ skreeven worden was, was häi ful feelers.
+1833029	Mir ist egal, wo wir essen. Das überlasse ich ganz dir.	Mii is ne'ğeliik, wor wii eetent. Dat ooverlóót ik häil dii.
 1833060	Ich hielt mich am Seil fest so lange ich konnte, aber schließlich musste ich loslassen.	Ik hul mii an 't taau fast soo lâang as ik kun, man amäen mus ik löslóóten.
 1833455	Bitte ersetzen Sie die leere Tintenpatrone im Drucker.	Bitte ersettent Jii däi löes enktpetrôon in d' drükker.
 1833534	Wenn du dich zu sehr auf das Team verlässt, könnte es deine individuellen Konkurrenzinstinkte negativ beeinflussen.	Doo duu dii d'r t' fööl up dat team ferlóóten daajst, kun dat diin indiwiduäel kunkurrensinstinkten negótiif beinflauden.
@@ -2702,6 +2785,7 @@
 1865004	Politiker in Japan kommen manchmal mit illegalen Aktivitäten davon.	Politikkers in Jóópóón kooment d'r of un an mit illegóóel aktiivitäiten weğ.
 1865011	Tom wird nie zugeben, dass er sich irrt, selbst wenn er weiß, dass es so ist.	Tom sal noojt bekennen, dat häi sük fersüğt, sülst doo häi wäit, dat 't soo is.
 1865048	Niemand kann die Tatsache bestreiten, dass es keinen Rauch ohne Feuer gibt.	Nüms kan däi dóódsóóek bestriiden, dat 't kiin rook sünner füer gift.
+1865116	Ich verlange keine leichtere Bürde, sondern breitere Schultern.	Ik ferlang kiin lichterder last, man bräiderder skullers.
 1865309	Der Bau einer Autobahn wird zum Wachstum der Vororte beitragen.	Däi baau fan 'n aautobóón sal tau 't waasdaum fan däi fööroorden biidróógen.
 1865377	Englisch ist nur eine von heute über 2.700 Sprachen in der Welt.	Engelsk is man äien fan fandóóeğ oover 2.700 tóólen in d' weerld.
 1865382	Ihr könnt mir glauben.	Jii köönent mii lööven.
@@ -2735,6 +2819,7 @@
 1881165	Kaum hatte die Klingel geläutet, kam der Lehrer ins Klassenzimmer.	Knap haar däi klingel lüd't, kwam däi mester in d' klassenruum.
 1881274	Tom scheint nicht willens, Ratschläge von Muttersprachlern anzunehmen, die ihm bei seinen Übersetzungen zu helfen versuchen.	Tom let't näit sins t' weesen, róódslóógen fan maudertóólprooters an t' neemen, däi hum bii siin ooversettens fersöykent t' helpen.
 1881476	Ich kenne ihn vom Sehen, aber ich habe nie mit ihm gesprochen.	Ik ken hum fan 't säin, man ik heb noojt mit hum proot't.
+1883142	Willst du mir wieder einen Streich spielen, du unartiger Bengel?	Wult duu mii weer fersküünen, duu läelk bengel?
 1883712	Toms bevorzugter Ausspruch ist: „Du kannst nicht zwei Sättel auf ein Pferd schnallen. “	Tom siin beföördäilt uutspröök is: "Duu kaast näit twei sóódels up 'n peerd snaalen."
 1884047	Tom glaubt, dass diese Quarzkristalle Heilkräfte haben.	Tom löövt, dat disser kwartskristallen häilkrachten hebbent.
 1885233	Tom bat mich, auf dem Weg von der Arbeit nach Hause ein Dutzend Eier einzukaufen.	Tom beed'de mii, up d' weğ fan d' aarbaid nóó huus 'n duts aier in t' koopen.
@@ -2801,6 +2886,7 @@
 1898794	Es sieht so aus, als hättest du recht gehabt: Tom ist der Kerl, der Marias Geige gestohlen hat.	'T let't net as of duu recht hat haarst: Tom is däi keerl, däi Marió höör fjôol stoolen het.
 1898850	Als ich ein kleines Kind war, hat mir meine Mutter immer Geschichten vorgelesen.	Doo ik 'n lütjet kind was, het mii miin mauder altiid fertelsels föörleesen.
 1899366	Auch wenn viele Plätzchen in der Schüssel waren, ich aß nur drei.	Ook doo fööl pletskes in d' kuem wassent, ik at bloot dräj.
+1899969	Er behauptete, dass der riesige Grundbesitz ihm zur freien Verfügung stehe.	Häi beweerde, dat däi baldóódiğ grundbesit hum fräj tau beskikken stun.
 1899972	Die Möglichkeit kann nicht ausgeschlossen werden, dass die Explosion durch Fahrlässigkeit verursacht wurde.	Däi möögelkkaid kan näit uutslooten worden, dat däi eksplosjoon döör nóólóótiğkaid feroorsóókt wur.
 1900529	Sie wusste selbst, dass es sehr schwierig würde, den Auftrag auszuführen.	Säi wus sülst, dat 't läip stur worden sul, däi updrağ uut t' fören.
 1900561	Das Feuer, das von einem Ostwind angefacht wurde, zerstörte das Zentrum der Stadt.	Dat füer, wat fan 'n ooster wind anböt't wur, fernäilde dat tsentrum fan d' stad.
@@ -2887,6 +2973,7 @@
 1913515	Wenn ich nur gewusst hätte, wie Tom zumute war, wäre ich nicht mit Maria ausgegangen.	Doo ik man wust haar, woo Tom t'mâaud was, was ik näit mit Marió uutgóón.
 1913544	Das ist ein angesehener Laden.	Dat is 'n ansäin winkel.
 1913545	Das ist ein seriöses Geschäft.	Dat is 'n seeriöös geskeft.
+1916333	Es gibt niemals eine zweite Chance für den ersten Eindruck.	Dat gift noojt 'n twäied kâans föör däi êerst indrük.
 1916376	Die Ausstellung bietet tiefe Einsichten in antike Kulturstufen.	Dat uutstellen büd't däip insicht in antîik kultürstuufen.
 1916532	Ich habe gehört, dass ein südamerikanischer Camper von einer Anakonda gefressen wurde.	Ik heb höört, dat 'n süüdamerikóónsk camper fan 'n anakundó freeten wur.
 1916787	Dieser Vorschlag könnte bedeuten, zwei Fliegen mit einer Klappe zu schlagen, aber wir müssen auch vorsichtig sein, nicht gierig zu werden und alles zu verderben.	Disser föörslağ kun bedüüden, twei müegen mit äin klâap t' slóón, man wii mautent ook f'rsichtiğ weesen, näit t' gitsiğ t' worden un âals t' ferdaarven.
@@ -2970,6 +3057,7 @@
 1927698	Tom und Maria beklagten sich häufig darüber, nie Zeit ohne die Kinder miteinander verbringen zu können.	Tom un Marió beklóóğdent sük fóók d'r oover, noojt tiid sünner däi kinner mitnanner ferbrengen t' köönen.
 1927700	Ich verbrächte sehr gerne mehr Zeit mit dir, aber ich muss zurück an die Arbeit.	Ik ferbroch läip geern meer tiid mit dii, man ik maut t'rüeğ an d' aarbaid.
 1927896	In dieser Region ist es für Menschen, Waren und Geld gestattet, sich frei über nationale Grenzen hinweg zu bewegen, bzw. transferiert zu werden.	In disser regjoon is 't föör minsken, wooren un geld ferloovt, sük fräj oover nóósjoonóóel grensen weğ t' röögen, resp. transferäärt t' worden.
+1927897	Hunderte von Menschen verhungerten in diesem Bezirk.	Hunnerten fan minsken fersmacht'dent in disser betsirk.
 1928536	Tom hatte einen Splitter im Finger, also bat er Mary, ihm beim Herausholen zu helfen.	Tom haar 'n spinter in d' finger, alsoo bad häi Mary, hum bii 't uuthóólen t' helpen.
 1928540	Mein Vater, der jetzt in Amerika arbeitet, schrieb uns letzte Woche einen Brief.	Miin fóóder, däi nuu in Amerikó aarbaid't, skreev us ferleeden wêek 'n bräif.
 1928799	Tom wollte nicht in den Kampf verwickelt werden, aber er hatte keine Wahl.	Tom wul näit in däi striid ferfangen worden, man häi haar kiin wóól.
@@ -3155,6 +3243,7 @@
 1952711	Ich kann mich des Verdachtes nicht erwehren, dass Tom mir nicht die ganze Wahrheit sagte.	Ik kan mii d'r näit fan däi ferdacht freimóóken, dat Tom mii näit däi häiel worhaid see.
 1953446	Als ich heute aufwachte, gähnte ich, streckte mich dann, rieb mir den Schlaf aus den Augen und zog meine Hausschuhe an.	Doo ik fandóóeğ wóóker wur, góópende ik, rekde mii dan, wreev mii däi slóóp tau d' oogen uut un truk miin sluren an.
 1953462	Alle Studenten der Universität haben Zugang zur Universitätsbibliothek.	Âal stuudenten fan d' uniwersitäit hebbent taugaang tau d' uniwersitäitsbibliotäik.
+1953530	Ich kann nicht umhin, mich zu fragen, ob Tom morgen zur Schule kommen wirst.	Ik kan d'r näit umtau, mii t' fróógen, of Tom mörn nóó d' skaul koomen sal.
 1953567	Ich kann nicht garantieren, dass wir bis zum nächsten Montag mit der Arbeit fertig sind.	Ik kan näit grantäären, dat wii bit tau d' tauken móóndağ mit däi aarbaid klor bünt.
 1953577	Wir können an einem Tag wie diesem nicht ohne Mantel nach draußen gehen.	Wii köönent up 'n dağ as disser näit sünner mantel nóó buuten góón.
 1953602	Ich kann nicht zurück nach Australien. Ich werde dort von der Polizei gesucht.	Ik kan näit weeruem nóó Aaustróólien. Ik wor d'r fan d' skendaarms söcht.
@@ -3386,6 +3475,8 @@
 2055382	Japan unterhält freundschaftliche Beziehungen mit den Vereinigten Staaten.	Jóópóón daajt frünnelk betrekkens mit däi Feräint Stóóten unnerhollen.
 2055903	Irgendwie rettete er sich.	Ennerwoo red'de häi sük.
 2060855	„Kannst du heute Nachmittag vorbeikommen?“ „Ja, ich glaube, das könnte ich.“	"Kaast duu fannóómiddağ f'rbiikoomen?" - "Jóó, ik lööv, dat kun ik."
+2060876	Du bist ein guter Schüler, aber du musst noch viel lernen.	Duu büst 'n gâaud skauler, man duu maust noch fööl leeren.
+2060877	Sie sind ein guter Student, aber Sie müssen noch eine Menge lernen.	Jii bünt 'n gâaud stuudent, man Jii mautent noch 'n büelt leeren.
 2060881	Selbst die sorgfältigst erstellten Pläne scheitern häufig.	Sülst däi akróótst móókt plóónen skaajternt fóók.
 2061214	Die Übereinkunft war eine Kompromisslösung der beiden Regierungen.	Däi ooveräinkumst was 'n kumpromislöesen fan däi bâajd regäärens.
 2061223	Ein Säugling kann nicht sprechen, also schreit er so lange, bis er das bekommt, was er will.	'N puep kan näit prooten, alsoo skräiwt häi soo lâang, bit häi dat kriğt, wat häi wil.
@@ -3438,7 +3529,10 @@
 2091624	Der Bankräuber schrie: „Bleibt alle, wo ihr seid!“	Däi bankroover bölkde: "Bliivt âal, wor jii bünt!"
 2092085	Tom bemerkte alsbald, dass ihn niemand beachtete.	Tom wur bold gewoer, dat hum nüms beacht'de.
 2092116	Du hast doch immer gesagt, dass du Wissenschaftler werden willst. Warum bist du’s nicht geworden?	Duu hest doch altiid säeğt, dat duu wäitenskupper worden wult. Woosoo büst duu 't näit worden?
+2092121	Ich mache mir vor allem um die Gesundheit meiner Tochter große Sorgen.	Ik móók mii f'râal um däi sundhaid fan miin dochter grôot sörgen.
 2092770	Wäre das okay für dich mit ein paar belegten Broten zum Frühstück?	Was dat ok föör dii mit 'n poer beläeğt brooden tau 't früüstük?
+2094030	Sie sollten aufrichtig sein, und sie werden Sie als Freund behandeln.	Jii sullent uprecht weesen, un säi söölent Jau as fründ behanneln.
+2094033	Du solltest aufrichtig sein, und sie werden dich als Freund behandeln.	Duu sust uprecht weesen, un säi söölent dii as fründ behanneln.
 2095147	Eine Sache, die ich immer mal machen wollte, ist, ein Kinderbuch zu schreiben.	Äin sóóek, däi ik altiid móól móóken wul, is, 'n kinnerbauk t' skriiven.
 2095250	Sie fahren zu schnell.	Säi forent t' gaau.
 2097144	Du kannst mich nicht verlassen.	Duu kaast mii näit ferlóóten.
@@ -3497,6 +3591,7 @@
 2137271	Tom stand einfach da und sah zu, wie Mary sich im Spiegel anstarrte.	Tom stun äinfach d'r un keek tau, woo Mary sük in d' späigel anstorde.
 2137294	Es ist sehr unwahrscheinlich, dass Toms Kinder in irgendeiner Weise von ihm erblich belastet wurden.	Dat is läip unworskiinelk, dat Tom siin kinner in enner 'n wîis fan hum aarvelk belast't wurdent.
 2138878	Am Morgen grüße ich mit „Guten Morgen“. Das ist eine Abkürzung von „Ich wünsche dir einen guten Morgen" oder „Habe einen guten Morgen“.	Up d' mörn gröyt ik mit "Gâaud mörn". Dat is 'n ofkörten fan "Ik wünsker dii 'n gâaud mörn" of "Heb 'n gâaud mörn".
+2140642	Entschuldigen Sie! Könnten Sie noch einmal wiederholen, was Sie gerade gesagt haben?	Neement Jii mii dat näit kwóód! Kunnent Jii noch insent weerhóólen, wat Jii net säeğt hebbent?
 2141542	Du beeilst dich besser, wenn du noch vor Einbruch der Nacht zu Hause sein willst!	Duu daajst beeter taumóóken, doo duu noch fööer d' inbröök fan d' nacht in huus weesen wult!
 2141806	Der gesunde Menschenverstand sagt uns jedoch, dass es hierfür keine einfache Lösung gibt.	Man däi suen minskenferstand säeğt us, dat 't d'r kiin makkelk löesen föör gift.
 2142536	„Du bist ziemlich gut im Englischen, oder?“ — „Das will ich meinen.“	"Duu büst recht gaud in Engelsk, of näit?" - "Dat wil ik mäinen."
@@ -3540,6 +3635,7 @@
 2160397	Wohin man auch sieht, überall sieht man die Schäden, die das Erdbeben angerichtet hat.	Wor hen man ook kikt, allerweegens süğt man däi skóóden, däi dat eerdbeeven anricht't het.
 2161529	Tom nahm eine Decke vom Bett und hüllte sich darin ein.	Tom nam 'n deeken fan 't bäer un hülde sük d'r in.
 2161759	Ich musste lange auf Toms Antwort warten, doch es hat sich gelohnt.	Ik mus lâang up Tom siin antern wachten, doch 't het sük loont.
+2162241	Ich spare Geld, um mir einen neuen Computer zu kaufen.	Ik spor geld, um mii 'n näej computer t' koopen.
 2162246	Der Lehrer hat den Schüler beim Schummeln in der Klausur erwischt.	Däi mester het däi skauler bii 't bedräigen in d' klaausüer betrapt.
 2162251	Tom griff nach einem Wörterbuch, das ganz oben im Regal stand.	Tom greep nóó 'n woordenbauk, wat häil booven in 't regóól stun.
 2162309	Es ist eine Sache, sich Pläne auszudenken, aber eine andere, sie auch zu verwirklichen.	Dat is äin sóóek, sük plóónen uut t' denken, man 'n anner, höör ook t' ferwürrelken.
@@ -3573,6 +3669,7 @@
 2188886	Das ist ein banales Problem.	Dat is 'n benóóel probleem.
 2188897	Das ist ein belangloses Problem.	Dat is 'n belanglös probleem.
 2189007	Es war ein sehr langsamer Zug. Er hielt an jeder kleinen Station.	'T was 'n häil sâacht tsuğ. Häi hul an elker lütje stóósjoon.
+2190105	Was macht es schon aus, wenn uns die Leute ansehen?	Wat móókt dat al uut, doo us däi lüü ankiikent?
 2190134	Wenn das hier die beste aller Welten ist, wie sind dann erst die anderen?	Doo dat hir däi bäest fan âal weerlden is, woo bünt dan eerst däi annernt?
 2190174	Das kommt davon, wenn man sich nicht bei der Sache ist!	Dat kumt d'r fan of doo man sük näit bii d' sóóek is!
 2192639	Was tätest du, wenn du eine Million Yen gewännest?	Wat deest duu, doo duu 'n miljoonen Jen winnen deest?
@@ -3648,6 +3745,7 @@
 2228211	Es war echt harte Arbeit.	Dat was wies hâard aarbaid.
 2228422	Jemand war im Haus.	Wel was in dat huus.
 2228423	Es war jemand im Haus.	D'r was wel in huus.
+2228501	Du willst schon seit langem dahin, oder?	Duu wult al siit lâang d'r hen, of näit?
 2228545	„Befand sich in dem Zimmer eine Leiche?“ — „Nein, da war keine Leiche.“	"Befun sük in däi kóómer 'n lîik?" - "Nee, dor was kiin lîik."
 2230515	Wegen des dichten Nebels konnten wir kaum die Straße vor uns sehen.	Um däi diecht dook kunnent wii bold näit däi stróóet fööer us säin.
 2230517	Nachdem er aus der Dusche gestiegen war, wischte Tom den beschlagenen Spiegel und rasierte sich.	Nóódeem häi tau d' duuske uut steegen was, wiskerde Tom däi beslóón späigel un skoor sük.
@@ -3771,6 +3869,7 @@
 2305055	Verbringst du mehr Zeit mit deiner Familie oder mit deinen Freunden?	Ferbrengst duu meer tiid mit diin femiilje of mit diin früen?
 2305214	Mein Lehrer sagte, ich hätte mehr Zeit auf die Vorbereitung meines Vortrages verwenden sollen.	Miin mester see, ik haar meer tiid up 't föörräiden fan miin föördrağ besteeden sult.
 2306857	Ich glaube nicht, dass sie darüber erfreut sein wird, mit ihrer Schwiegermutter zusammenzuleben.	Ik lööv näit, dat säi d'r fan ferhöyğt weesen sal, mit höör sweegermauder t'sóómen t' leeven.
+2306969	Er musste sich gleich nach seinem Sturz einer Operation unterziehen.	Häi mus fut nóó siin fal 'n operóósjoon unnergóón.
 2307034	Er füttert den Hund nur, wenn seine Frau verreist ist.	Häi fauert däi hund bloot, doo siin frâau ferraajst is.
 2307035	Er füttert den Hund nur, wenn seine Frau gerade auf Reisen ist.	Häi fauert däi hund bloot, doo siin frâau net up râajs is.
 2307071	Mein Auto hatte eine Panne heute Morgen und wird nicht vor Freitag repariert sein.	Miin aauto haar 'n pâan fanmörn un sal näit fööer freidağ reeperäärt weesen.
@@ -3861,6 +3960,7 @@
 2377322	Sie sollten das Problem überdenken, bevor Sie eine Entscheidung treffen.	Jii sullent dat probleem ooverdenken, eer Jii 'n beslus móókent.
 2377325	Ihr solltet das Problem überdenken, bevor ihr eine Entscheidung trefft.	Jii sullent dat probleem ooverdenken, eer jii 'n beslus móókent.
 2378606	Das Problem ist nicht so einfach, wie es auf den ersten Blick erscheinen mag.	Dat probleem is näit soo makkelk, as 't up d' êerst blik ferskiinen mağ.
+2381466	Er zerbricht sich den Kopf darüber, wie er mit der Angelegenheit umgehen soll.	Häi brekt sük däi kop d'r oover, woo häi mit däi angeleegenhaid umgóón sal.
 2384668	Je mehr ich über das Problem nachdachte, um so schwieriger schien es zu sein.	Woo meer ik oover dat probleem nóódoch, um soo sturder leet 't t' weesen.
 2384707	Einerlei, ob das Problem von Wichtigkeit ist oder nicht: Sie müssen es lösen.	Äinerlai, of dat probleem fan belang is of näit: Jii mautent 't löesen.
 2384715	Wenn Sie das Problem nicht lösen können, sollten Sie besser eine andere Methode probieren.	Doo Jii dat probleem näit löesen köönent, sullent Jii beeter 'n anner metôod fersöyken.
@@ -3978,6 +4078,8 @@
 2444348	Ist dir bewusst, dass Okinawa näher als Honshū an China liegt?	Is dii bewust, dat Okinawa dichter as Honshū an Skiinó liğt?
 2447377	„Wie war das Überleben in der Wildnis?“ — „Schrecklich! Ich habe nur zwei Tage durchgehalten.“	"Woo was dat ooverleeven in d' willernis?" - "Ferskrikkelk! Ik heb man twei dóóeğ döörhollen."
 2447392	Tom hielt es für keine gute Idee, Maria ohne Aufpasser allein zu Hause zu lassen.	Tom hul dat föör kiin gâaud idee, Marió sünner uppaaser aläien in huus t' lóóten.
+2448457	Wie alt warst du, als du dich zum ersten Mal verliebt hast?	Woo old wast duu, doo duu dii föör 't êerst móól ferläivt hest?
+2448462	Wie alt waren Sie, als Sie sich das erste Mal verliebten?	Woo old wassent Jii, doo Jii Jau dat êerst móól ferläivdent?
 2448523	Tut mir leid, dass ich dich nicht treffen konnte, als du vorbeigekommen bist.	Dat spit't mii, dat ik dii näit dräepen kun, as duu f'rbiikoomen büst.
 2448524	Tut mir leid, mich nicht mit euch treffen gekonnt zu haben, als ihr vorbeigekommen seid.	Dat spit't mii, mii näit mit jau dräepen kunt t' hebben, as jii f'rbiikoomen bünt.
 2448558	Ich muss alle diese Äpfel tragen, von dem Sack Kartoffeln gar nicht zu reden.	Ik maut âal disser appels dróógen, fan däi sak tuffels häil näit t' prooten.
@@ -4028,6 +4130,7 @@
 2481934	Heute haben Automobile die Pferde als Haupttransportmittel abgelöst.	Fandóóeğ hebbent aautomobiilen däi pêer as hoovdtransportmiddel oflöest.
 2484183	Würde euch das gefallen?	Dee jau dat gefaalen?
 2484273	Tom kaufte ein paar in China hergestellte Moskitonetze für seine Freunde.	Tom köf 'n poer in Skiinó móókt moskitonetten föör siin früen.
+2485004	Ob es dir nun gefällt oder nicht: du musst deine Hausaufgaben machen.	Of dii 't nuu gefaalt of näit: duu maust diin huusupgóóven móóken.
 2485010	Dieses Düsenflugzeug fliegt ungefähr mit dreifacher Schallgeschwindigkeit.	Dit düüsenfluğtsoiğ flüğt ruuğweğ mit dreifolliğ skalgaauiğkaid.
 2485034	Seine gestrigen Aussagen decken sich nicht mit dem, was er letzte Woche sagte.	Siin güsterğ woorden dekkent sük näit mit dat, wat häi ferleeden wêek see.
 2485460	Vergiss bitte nicht, eine Briefmarke auf den Brief zu kleben, bevor du ihn einwirfst.	Fergeet bitte näit, 'n bräifmâark up däi bräif t' kleeven, eer duu hum insmitst.
@@ -4130,6 +4233,7 @@
 2574103	Wäre mir deine Telefonnummer bekannt gewesen, so hätte ich dich angerufen.	Haar mii diin telefoonnummer bekent west, soo haar 'k dii anraupen.
 2575775	Kommt sie von der Agentur, die die letzte Aushilfe geschickt hat, die ich hatte?	Kumt säi fan däi agentüer, däi däi läest uuthüelp stürt het, däi ik haar?
 2575778	Ich möchte die Quelle dieses unverantwortlichen Gerüchts herausfinden.	Ik wil däi wäel fan dit unferantwoordelk gerücht d'r uut finnen.
+2576734	Mit Ausnahme Toms sah die ganze Familie schweigend fern.	Mit uutnóóem fan Tom keek däi häiel femiilje swiigend feersäin.
 2577063	Findest du, deine Eltern haben genügend Zeit mit dir zugebracht, als du Teenager warst?	Finst duu, diin ollen hebbent nauğ tiid mit dii taubrocht, as duu 'n teenager wast?
 2580788	Als Tom mir Marias Aussehen beschrieb, erwähnte er nicht, wie dick sie ist.	Doo Tom mii Marió höör lóóten beskreev, dee häi d'r näit fan uphóólen, woo dik säi is.
 2580893	Die Vereinigten Staaten sind der größte Käseproduzent der Welt.	Däi Feräint Stóóten bünt däi grôotst käisprodusent fan d' weerld.
@@ -4168,6 +4272,7 @@
 2596990	Er gab keine spezielle Erklärung für sein merkwürdiges Verhalten.	Häi gaf kiin spesjäel ferkloren föör siin roer ferhollen.
 2597376	Anfangs war es nicht einfach für mich, mit meiner neuen Umgebung klar zu kommen.	An anfang was 't näit äinfach föör mii, mit miin näej umfeld klor t' koomen.
 2597382	Ich will mich um diesen Brief kümmern, ehe ich etwas anderes tu.	Ik wil mii um disser bräif kümmern, eer ik wat anners dau.
+2597392	Man sollte im Umgang mit Kindern nicht seine Geduld verlieren.	Man sul in d' umgaang mit kinner näit siin gedür ferläisen.
 2597397	Sie bringt viel Zeit damit zu, ihren Kindern dabei zu helfen, mit Geld umgehen zu lernen.	Säi brengt fööl tiid d'r mit tau, höör kinner d'r bii t' helpen, mit geld umgóón t' leeren.
 2597652	Du solltest vielleicht in Erwägung ziehen, dir neue Autoreifen zuzulegen.	Duu sust fiilicht in bedenken neemen, dii näej aautoraifens tau t' läegen.
 2599371	Tom hatte nicht genug Erfahrung im Umgang mit Problemen dieser Art.	Tom haar näit nauğ erforen in d' umgaang mit probleemen fan disser ord.
@@ -4235,6 +4340,7 @@
 2657476	Wir mussten unsere Pläne abändern, da wir nicht genug Geld hatten.	Wii mussent us plóónen ofannern, um dat wii näit nauğ geld haarent.
 2658812	Ich habe gehört, dass Tom, bevor er gefasst wurde, jahrelang Rauschgift in die Vereinigten Staaten geschmuggelt haben soll.	Ik heb höört, dat Tom, eer häi fóóten wur, jorenlang ruuskgift in däi Feräint Stóóten smukkelt hebben sal.
 2658814	Er ist gerade in eine Wohnung gezogen, die er von seinen Eltern geerbt hat.	Häi is net in 'n woonen trukken, däi häi fan siin ollen aarvt het.
+2659838	Ist dir je in den Sinn gekommen, dass Tom vielleicht gar nicht hier sein will?	Is dii oojt in d' sin koomen, dat Tom fiilicht häil näit hir weesen wil?
 2659844	Von uns Fünfen spricht sie zweifellos die meisten Sprachen.	Fan us fîiv proot't säi sünner twiivel däi mäiest tóólen.
 2659875	Das schöne Herbstwetter dieser Tage macht den regenreichen Sommer wieder gut.	Dat môoj haarstwêer fan disser dóógen móókt däi reegenrîik sömmer weer gaud.
 2659933	Höflich tat Tom so, als bemerke er nicht, dass Maria geweint hatte.	Hoffelk dee Tom soo, as murk häi näit, dat Marió bruelt haar.
@@ -4253,6 +4359,7 @@
 2671567	Sag Tom, dass ich nicht da sein werde.	Säeğ Tom dat ik d'r näit bii weesen sal.
 2672266	Statistiken zeigen, dass die Weltbevölkerung zunimmt.	Stóótistikken wiisent, dat dat weerldbefolken taunimt.
 2672315	Der Weltgesundheitsorganisation zufolge ist Alkoholmissbrauch die dritthäufigste Ursache von Tod und Behinderung auf der Welt.	Nóó däi weerldsundhaidsorgóónisóósjoon is kurmisbruuk däi daardfóókst oorsóóek fan dood un behinnern in d' weerld.
+2673814	Ich glaube nicht, dass ich mich irgendwo bewerben kann. Ich bin zu alt.	Ik lööv näit, dat ik mii ennerwor bewaarven kan. Ik bün t' old.
 2674493	Ich stimmte ihrem Vorschlag zu, dass wir uns in fünf Jahren wiedersehen wollten.	Ik stemde höör föörslağ tau, dat wii us in fiif joer weersäin wullent.
 2675772	Ich spare, um nach Australien fahren zu können.	Ik spor um nóó Aaustróólien foren t' köönen.
 2676975	Wenn du pfleglich mit deinen Kleidern umgehst, dann halten sie länger.	Doo duu sörğsóóm mit diin kläär umgaajst, dan hollent s' langer.
@@ -4264,6 +4371,7 @@
 2688413	Tom öffnete den Medizinschrank in der Hoffnung, Aspirin zu finden.	Tom mook dat medsiinskap oopen in d' hôop, aspiriin t' finnen.
 2688474	Erst nach einer viertelstündigen Google-Suche fand Tom das Gewünschte.	Eerst nóó 'n kertäärke Google-söyken fun Tom dat, wat häi söyken dee.
 2688498	Sie konnte ihren Traum, ins Ausland zu reisen, nicht ganz aufgeben.	Säi kun höör drööm, in 't buutenland t' raajsen, näit häil upgeeven.
+2688541	Warum rufst du nicht einfach Tom an und sagst ihm, dass du außerstande dazu bist?	Woosoo röpst duu näit äinfach Tom an un säeğst hum, dat duu d'r näit feeiğ tau büst?
 2688553	Wird es nicht langsam mal Zeit, dass ihr euren Streit beendet und das Vergangene vergangen sein lasst?	Word't 't näit sâacht móól tiid, dat jii jau skäel beennent un dat ferleeden ferleeden weesen lóótent?
 2689267	Der Grund für dein Versagen ist, dass du dich nicht genug angestrengt hast.	Däi grund föör diin fersäegen is, dat duu dii näit nauğ anstrengt hest.
 2689269	Der Grund für euer Versagen ist, dass ihr euch nicht genug angestrengt habt.	Däi grund föör jau fersäegen is, dat jii jau näit nauğ anstrengt hebbent.
@@ -4310,6 +4418,7 @@
 2717324	Es dauerte nicht lange, bis Tom eingesehen hatte, dass er dort nicht willkommen war.	Dat dürs näit lâang, bit Tom insäin haar, dat häi d'r näit wilkoomen was.
 2717348	Siehst du lieber synchronisierte Fernsehsendungen oder solche mit Untertiteln?	Süğst duu läiver sünkroonisäärt feersäisennens of sükker mit unnertittels?
 2718597	Tom hätte Maria zum Valentinstag Blumen oder etwas Ähnliches schenken sollen.	Tom haar Marió tau d' Wallentiinsdağ blöymen of wat eenelks skenken sult.
+2718724	Alkoholkonsum während der Schwangerschaft kann zu Geburtsfehlern führen.	Alkohoolkunsuum bii d' swangerskup kan tau boorsfeelers fören.
 2718838	Ich hätte vorher etwas sagen sollen, aber ich befürchtete, du würdest dich ärgern.	Ik haar föördeem wat säegen sult, man ik freesde, duu deest dii aargern.
 2718839	Ich hätte vorher etwas sagen sollen, aber ich befürchtete, ihr würdet euch ärgern.	Ik haar föördeem wat säegen sult, man ik freesde, jii deedent jau aargern.
 2718840	Ich hätte vorher etwas sagen sollen, aber ich befürchtete, Sie würden sich ärgern.	Ik haar föördeem wat säegen sult, man ik freesde, Jii deedent Jau aargern.
@@ -4333,6 +4442,7 @@
 2727051	Maria wollte das Frühstück zubereitet haben, bevor Tom aufwachen würde.	Marió wul dat früüstük t'räecht móókt hebben, eer Tom upwóóken sul.
 2727130	Die Wikinger sollen Amerika noch vor Kolumbus entdeckt haben.	Däi Wiikingers söölent Amerikó noch fööer Kolumbus unddekt hebben.
 2727141	Es ist kein Geheimnis, dass Tom nicht deiner Meinung ist.	Dat is kiin gehäimnis, dat Tom näit fan diin mäinen is.
+2727770	Er tastete nach seinen Streichhölzern und fand sie in seiner Gesäßtasche.	Häi taast'de nóó siin riitstikken un fun höör in siin büksentaaske.
 2727862	Ich dachte, Tom würde damit fertig, wenn ich ihm nur eine Chance gäbe.	Ik doch, Tom dee d'r mit klorworden, doo ik hum man 'n kâans gaf.
 2729103	Wir alle hoffen, dass dieser Waffenstillstand zum Weltfrieden beiträgt.	Wii hoopent âal, dat disser wóópenstielstand tau d' weerldfree biidrağt.
 2735549	Ich finde, Eheleute sollten voreinander keine Geheimnisse haben.	Ik fin, echtlüü sullent föörnanner kiin gehäimnissen hebben.
@@ -4416,6 +4526,8 @@
 2770743	Geh schlafen, Tom! Du musst morgen früh raus!	Góó slóópen, Tom! Duu maust mörn frau d'r uut!
 2770744	Geh schlafen, Tom! Du musst morgen früh aufstehen!	Góó slóópen, Tom! Duu maust mörn frau upstóón!
 2770786	Ich merke es gewöhnlich, wenn mir jemand etwas verheimlicht.	Ik maark dat döörgóóns, doo mii äien wat ferswiigen daajt.
+2770838	Hast du Tom und Maria je zusammen im selben Raum gesehen?	Hest duu Tom un Marió oojt t'sóómen in d' sülviğ kóómer säin?
+2770839	Ich fragte Tom, ob er etwas essen wolle, und er bejahte dies.	Ik frooğ Tom, of häi wat eeten wul, un häi see fan jóó.
 2770840	Ich habe gehört, dass Tom und du heiraten wollt.	Ik heb höört, dat Tom un duu traauen willent.
 2770843	Es fiel Tom schwer, Maria mitzuteilen, dass er die Scheidung wollte.	Dat was stur föör Tom, Marió mit t' däilen, dat häi dat skäiden wul.
 2770844	Tom und Maria hatten beide keine Ahnung, wovon Johannes redete.	Tom un Marió haarent bâajd kiin óónen, wor Johannes fan proot'de.
@@ -4799,6 +4911,7 @@
 2884654	Um diese Tageszeit ist viel Verkehr auf den Straßen.	Teegen disser dóóğstiid is fööl ferkeer up d' stróóten.
 2884656	Es ist merkwürdig, dass das Büro um diese Zeit beleuchtet ist.	Dat is ror dat dat büro um disser tiid belücht't is.
 2884665	In diesem Büro sind die üblichen Geschäftszeiten von neun bis fünf Uhr.	In dit büro bünt däi gewôon geskeftstiiden fan neegen bit fiif üer.
+2885128	Vergesst nicht, das Licht auszuschalten, bevor ihr schlafen geht!	Fergeet't näit, dat lücht uut t' skalten, eer jii slóópen góónt!
 2886153	Der betrunkene Autofahrer fuhr zu schnell durch die Kurve, verlor die Kontrolle über sein Fahrzeug und streifte sechs parkende Autos.	Däi dûun aautoforder fur t' gaau döör d' kuerw, ferloor däi kuntruel oover siin fortüüğ un skampde ses parkend aautos.
 2886169	Ich will einfach nur sicherstellen, dass du deinen Teil der Vereinbarung einhältst.	Ik wil mii äinfach bloot ferseekern, dat duu diin däil fan 't feräinboren inhollen daajst.
 2886255	Warum lächeln die Menschen? Das ist eine sehr schwer zu beantwortende Frage.	Woosoo laagent däi minsken? Dat is 'n häil stur t' beanternd fróóeğ.
@@ -4863,6 +4976,7 @@
 2931982	In Toms hektischem Geschäftsführerdasein war ihm seine abgeschiedene Waldhütte eine Zuflucht.	In Tom siin droek bedriifsläiderbestóón was hum siin ofleegen waldhüet 'n tauflüğt.
 2932148	Das Mädchen, in das er sich verliebt hatte, verließ ihn nach einigen Monaten.	Dat wicht, wor häi sük in ferläivt haar, ferleet hum nóó wat móónden.
 2932153	Gestern sah ich ein Mädchen, das ich einen Monat zuvor in der Bibliothek getroffen hatte.	Güster sağ ik 'n wicht, wat ik 'n móónd föördeem in d' bibliotäik druepen haar.
+2932172	Was ist der Unterschied zwischen einem Igel und einem Stachelschwein?	Wat is däi ferskeel tüsken 'n stiikelswiin un 'n gnóóğstiikelswiin?
 2932337	Während seiner Regierungszeit wurden viele neue Gesetze beschlossen.	In siin regäärenstiid wurdent fööl näej wetten beslooten.
 2932344	Vier der sechs Aufgaben auf meinem Tagesplan für heute habe ich bereits erledigt.	fäär fan däi ses upgóóven up miin dóóğplóón föör fandóóeğ heb ik al dóón.
 2932382	Das Schlechte an den Minderwertigkeitskomplexen ist, dass sie die falschen Leute haben.	Dat släecht an däi minnerweerdiğkaidskumpleksen is, dat s' däi ferkeert lüü hebbent.
@@ -4870,12 +4984,14 @@
 2932412	Bestrafe ihn nicht, weil er das Fenster zerbrochen hat. Er kann nichts dafür.	Bestróóf hum näit, um dat häi dat fenster kötbrooken het. Häi kan d'r niks föör.
 2932423	Sofort, als sie am Bahnhof ankam, rief sie ihre Mutter an.	Fut, doo säi bii d' bóónhof ankwam, reep säi höör mauder an.
 2932480	Vor einem Konzert werden die Zuhörer gewöhnlich in einer Ansage darum gebeten, ihre Telefone entweder aus oder auf stumm zu schalten.	Fööer 'n kunsert wordent däi tauhöörders döörgóóns in 'n ansäegen d'r um beeden, höör telefoons of uut of up stum t' skalten.
+2932524	Am Ende einer Frage muss man ein Fragezeichen setzen.	Up 't äen fan 'n fróóeğ maut man 'n fróóğtäiken setten.
 2932543	Dr. Schmidt gab mir Beruhigungsmittel, aber die habe ich nicht genommen.	Dr. Schmidt gaf mii bedorensmiidels, man däi heb ik näit noomen.
 2933053	Elektronische Bauteile können unter Verwendung reinen Isopropylalkohols gereinigt werden.	Elektroonsk baaudäilen köönent unner ferwenden fan süüver Isopropüülalkohool skoonmóókt worden.
 2933098	Du brauchst mich nicht um vier Uhr früh zu wecken. Ich habe nicht vor, morgen angeln zu gehen.	Duu bruukst mii näit teegen fäär üer frau wóóker móóken. Ik heb näit fööer, mörn angeln t' góón.
 2933162	Wenn wir nicht in den nächsten drei Tagen Antwort von Tom erhalten, sollten wir ihm, denke ich, noch einmal schreiben.	Doo wii näit in däi tauken drei dóóeğ 'n antern fan Tom kriigent, sullent wii hum, denk ik, noch insent skriiven.
 2933248	Ein vierteljährlicher Zuwachs von 1,2 % bedeutet eine jährliche Zuwachsrate von 4,8 %.	'N färjorelk tauwaas fan 1,2 % bedüd't 'n aljorelk tauwaasróóet fan 4,8 %.
 2934588	Diesen akrobatischen Akt ohne ein Sicherheitsnetz durchzuführen, ist gefährlich.	Disser akrobóótsk akt sünner 'n seekerhaidsnet döör t' fören, is gefordelk.
+2935488	Du konntest mit zwei Jahren bis zehn zählen.	Duu kust mit twei joer bit tâajn tellen.
 2935571	Es ist besser, ungefähr richtig als völlig daneben zu liegen.	Dat is beeter ruuğweğ räecht as häilundal ferkeert t' liegen.
 2935679	Die meisten sagen, dass man eine Fremdsprache am besten von einem Muttersprachler lernen kann.	Däi mäiest lüü säegent, dat man 'n frömdtóól best fan 'n maudertóólprooter leeren kan.
 2935957	Mein Freund hier ist nicht nur Pianist, sondern auch Komponist.	Miin fründ hir is näit alleniğ pióónist, man ook kumponist.
@@ -4899,9 +5015,11 @@
 2949207	Braucht man ein Visum für Australien, wenn man einen britischen Reisepass hat?	Bruukt man 'n wiisum föör Aaustróólien, doo man 'n briitsk raajspas het?
 2949748	Wenn Sie das Glück haben, jünger auszusehen als 25, fassen Sie es bitte nicht als Beleidigung auf, wenn wir Sie bitten, sich auszuweisen.	Doo Jii dat glük hebbent, junger t' lóóten as 25, begriipent Jii dat näit as beläidigen, doo wii Jau beedent, Jau uut t' wiisen.
 2950157	Der Polizeikommissar sagte, er würde in keiner Weise auf Einzelheiten dieser Angelegenheit eingehen, da sie Gegenstand laufender Untersuchungen sei.	Däi skendaarmkummissaar see, häi dee häilmóóls näit up enkelhaiden bii dit baudel ingóón, um dat s' pâart fan 'n loopend unnersöyken wassent.
+2950620	So jemand mit dem Schwert tötet, der muss mit dem Schwert getötet werden.	Wel mit 't sweerd dood't, däi maut mit 't sweerd dood't worden.
 2962915	Tom bekam zu hören, dass er es nie zu etwas bringen würde, und er versuchte verzweifelt zu beweisen, dass dies ein Irrtum war.	Tom kreeğ t' höören, dat häi 't noojt tau wat brengen sul, un häi fersöch fertwiivelt t' bewiisen, dat dit 'n fersinnen was.
 2962931	Die Leute sagten Tom, er werde nie etwas zu Stande bringen, und er versuchte verzweifelt, ihnen zu beweisen, dass sie im Irrtum waren.	Däi lüü seedent an Tom, häi sul noojt wat t'stâan brengen, un häi fersöch fertwiivelt, um höör t' bewiisen, dat s' sük fersinnen deedent.
 2964577	Wenn die Kälber entwöhnt sind, werden sie zur Gewichtszunahme in die üppigen Flussniederungen gebracht.	Doo däi kalver ofsöyğt bünt, wordent säi föör d' gewichtstaunóóem in 't weeldiğ neerland brocht.
+2965849	Lässt du deinen Hund frei laufen oder führst du ihn an der Leine aus?	Letst duu diin hund fräj loopen of först duu hum an d' lîin uut?
 2966282	Sie arbeitet hier, aber eigentlich befindet sich ihr Büro im ersten Stock.	Säi aarbaid't hir, man äinliik befind't sük höör büro in d' êerst stok.
 2966304	Tom gehört zu den Menschen, die immer das letzte Wort haben müssen.	Tom höört tau däi minsken, däi altiid dat läest woord hebben mautent.
 2966428	Dem Duft nach zu urteilen, trägt Tom das gleiche Parfum wie Maria.	Nóó däi gööer t' oordäilen, drağt Tom dat sülviğ parfüüm as Marió.
@@ -5050,6 +5168,7 @@
 3012702	Tom sagte, er habe heute Morgen keine Zeit zum Zeitunglesen gehabt.	Tom see, häi haar fanmörn kiin tiid tau 't bladjeleesen hat.
 3012908	Mir gefällt der Geruch des Parfums nicht, das Maria heute trägt.	Mii gefaalt däi gööer fan dat perfüüm näit, wat Marió fandóóeğ drağt.
 3012938	Tom und Maria sind ein paarmal zusammen schwimmen gegangen.	Tom un Marió bünt 'n poer móól mitnanner hen t' swemmen góón.
+3015460	Was veranlasst dich zu glauben, Tom sei daran interessiert, uns zu helfen?	Wat daajt dii feranlóóten t' lööven, Tom was d'r an interessäärt, us t' helpen?
 3016210	Selbst eine stehengebliebene Uhr zeigt die Zeit zweimal am Tag richtig an.	Sülst 'n stóónbleeven kloek wist däi tiid twei móól up d' dağ recht an.
 3016308	Tom hört während des Frühstücks immer im Radio die Nachrichten.	Tom höört bii d' früüstük altiid up 't róódio däi nóórichten.
 3016310	Ich schäme mich, dass mein Sohn ein solcher Faulpelz ist.	Ik skóóm mii dat miin fent soo 'n laajwams is.
@@ -5058,10 +5177,13 @@
 3016523	Ich halte es für höchst unwahrscheinlich, dass uns die Flucht aus diesem Gefängnis gelingen wird.	Ik hol dat föör läip unworskiinelk, dat us däi flüğt uut dit gefangenis lingen sal.
 3016524	Ich halte es für höchst unwahrscheinlich, dass es uns gelingen wird, aus diesem Knast auszubrechen.	Ik hol dat föör läip unworskiinelk, dat 't us lingen sal, uut disser knast uut t' breeken.
 3016533	Du solltest dich bei Papa dafür entschuldigen, dass du nicht pünktlich zum Mittagessen wieder zu Hause warst.	Duu sust dii bii bâab d'r föör undskülligen, dat duu näit up tiid tau 't middóóğeeten weer in huus wast.
+3016921	Was macht dich glauben, dass Tom daran gelegen ist, uns zu helfen?	Wat let't dii lööven, dat Tom d'r an geleegen is, us t' helpen?
 3017104	Ich würde lieber mit den Sündern lachen, als mit den Heiligen zu weinen.	Ik muğ läiver mit däi sünders laagen, as mit däi hilgen t' bruelen.
+3017287	Was gibt dir den Glauben ein, Tom könnte Interesse daran haben, uns zu helfen?	Wat gift dii däi glôov, Tom kun interäes d'r an hebben, us t' helpen?
 3017863	Wenn er dich nicht heiraten will, warum hat er sich dann mit dir verlobt?	Doo häi dii näit traauen wil, woosoo het häi sük dan mit dii fersprooken?
 3019764	Die Quantenphysik ist zu schwer, als dass ein Normalsterblicher sie verstehen könnte.	Däi kwantenfüüsik is t' stur, as dat 'n n'rmóólstaarvelk hum ferstóón kun.
 3022033	Ich lasse mich nicht zu etwas drängen, was ich nicht will.	Ik lóót mii näit tau wat dwingen, wat ik näit wil.
+3022053	Warum machst du dich nicht nützlich und holst mir einen Kaffee?	Woosoo móókst duu dii näit nütselk un hóólst mii 'n kofje?
 3023016	In diesem Gebäude wohnen Männer vom Dienstgrad eines Hauptmanns oder niedriger.	In dit gebôojd woonent manlüü fan d' denstgróód fan 'n kumdöör of leeger.
 3024523	Tom wird weniger Fehler machen, wenn er erst mal weiß, wie der Hase läuft.	Tom sal minner feelers móóken, doo häi eerst móól wäit, wor däi hóóes hen löpt.
 3025890	Tom hat beim Streichen des Zauns Farbe ans Hemd bekommen.	Tom het bii 't striiken fan d' sküt klööer an 't hemd kreegen.
@@ -5097,6 +5219,7 @@
 3034332	Vielleicht sollten Sie sich bei anderen Leuten umhören, um zu sehen, was sie denken.	Fiilicht sullent Jii Jau bii anner lüü umhöören, um t' säin, wat säi denkent.
 3036144	Ist es nicht schade, dass Tom und Maria nicht miteinander auskommen?	Is 't näit skóó, dat Tom un Marió näit mitnanner uutkooment?
 3036175	Er sagte, sie wollten kämpfen, bis jeder Schwarze befreit sei.	Häi see, säi wullent striiden, bit elker swâart befräjt was.
+3036826	Bis zum Abzug der Sturmfront gilt eine Windwarnung.	Bit tau d' fertrek fan d' stöörmfrunt gelt 'n windworskaauen.
 3036837	Böige Winde machen Fahrten für Fahrzeuge mit hohem Schwerpunkt gefährlich.	Böjiğ wien móókent forten föör fortüügen mit hôoğ sworpunkt gefordelk.
 3037356	Dies ist der erste Band einer Reihe über die moderne Philosophie.	Dat is däi êerst band fan 'n rîiğ oover däi modêern filosoofii.
 3037469	Ein Künstler kann genauso wenig über seine Kunst sprechen, wie eine Pflanze Gartenbau erörtern kann.	'N künstler kan net soo min oover siin künst prooten, as 'n plâant tuunbaau beprooten kan.
@@ -5191,6 +5314,7 @@
 3082744	Sie ging gleich ans Telefon, als sie es klingeln hörte.	Säi gung fut an 't telefoon, doo säi 't klingeln höörde.
 3083221	Sie sagte, ihr Ehemann habe sie geschlagen, in Wirklichkeit war es aber umgekehrt.	Säi see, höör keerl haar höör slóón, man in würrelkkaid was 't anners um.
 3086315	Tom saß auf der Veranda, trank Kaffee, rauchte eine Zigarette und sah zu, wie die Welt an ihm vorüberzog.	Tom sat up d' weerandó, drunk kofje, smookde 'n tsigräet un keek tau, woo däi weerld an hum f'roover truk.
+3086542	Er ist ein Mann seines Wortes. Wenn er also sagte, dass er hülfe, wird er’s tun.	Häi is 'n man fan siin woord. Doo häi alsoo see, dat häi helpen dee, sal häi dat daun.
 3086556	Wenn du über ein Schwimmbecken im Haus verfügst, bist du sicher ziemlich reich.	Doo duu oover 'n swembekken in 't huus beskikst, büst duu seeker recht riik.
 3087380	Tom legte die Gabel beiseite und nahm die Hähnchenkeule mit den Fingern.	Tom lee däi góóbel biisiid un nam däi hóóntjeboelt mit däi fingers.
 3087383	Tom schob seinen Teller weg und sagte, dass er satt sei.	Tom skoov siin teller weğ un see, dat häi sad was.
@@ -5218,6 +5342,7 @@
 3102967	Ich habe erfahren, dass Tom inzwischen dreimal wegen Trunkenheit am Steuer vorgeladen wurde.	Ik bün gewoer worden, dat Tom unnerwiilst drei móól um drunkenhaid an 't stüer föörlóóden wur.
 3103492	Tom sollte sich ganz sicher langsam Sorgen machen, dass er seine Arbeit verliert.	Tom sul sük häil seeker mit läiverlóó sörgen móóken, dat häi siin aarbaid ferlüst.
 3103543	Du verbringst zu viel Zeit damit, dich um Dinge zu kümmern, die nicht wichtig sind.	Duu ferbrengst t' fööl tiid d'r mit, dii um dingen t' kümmern, däi näit wichtiğ bünt.
+3103583	Du brauchst dir wegen solcher Dinge keine Sorgen mehr zu machen.	Duu bruukst dii um sükker dingen kiin sörgen meer t' móóken.
 3103870	Ist es richtig, dass ein Arzt entscheide, wann jemand sterben muss?	Is 't recht, dat 'n dokter undskäiden daajt, wenner äien staarven maut?
 3103884	Tom führt am Rande der Stadt einen kleinen Freizeitbauernhof, auf dem er ein paar Schafe und Rinder hält.	Tom het up d' rand fan d' stad 'n lütje freitiidplóóets, wor häi 'n poer skóópen un bäisten hollen daajt.
 3103885	Der Serienmörder war während seines Prozesses kalt und distanziert und schien unberührt von der Tatsache, dass er so viele Menschen ermordet hatte.	Däi seerienmoorner was bii siin proses kold un distansäärt un leet unróókt fan däi dóódsóóek dat häi soo fööl minsken fermoord't haar.
@@ -5275,6 +5400,7 @@
 3116554	„Kennst du Tom schon länger?“ – „Nein, ich habe ihn eben erst kennengelernt.“	"Kenst duu Tom al langer?" - "Nee, ik heb hum net eerst kennen leert."
 3116601	Es wird mit Hilfe von Satellitenbildern versucht, den Bereich im Indischen Ozean einzugrenzen, in dem treibende Trümmerteile gesichtet wurden.	D'r word't mit hüelp fan satelliitenbiller fersöcht däi berek in d' Indisk Oseóón in t' grensen, in däi trümmerdäilen sicht't wurdent.
 3117433	Tom hat so viel abgenommen, dass ein Freund von ihm auf der Straße glatt an ihm vorbeiging, ohne ihn zu erkennen.	Tom het soo fööl ofnoomen dat 'n fründ fan hum up d' stróóet raajn an hum f'rbiigung, sünner hum t' kennen.
+3117779	Wie viele Hörbücher hast du auf deinem tragbaren MP3-Spieler?	Woo fööl höörbauken hest duu up diin dróóğboer MP3-spööler?
 3118209	Das riecht nach einer Falle.	Dat let't as 'n fâal.
 3118585	Toms Augen hatten sich noch nicht an die Dunkelheit gewöhnt, deshalb konnte er rein gar nichts sehen.	Tom siin oogen haarent sük noch näit an 't düüster went, düs kun häi häilundal niks säin.
 3118666	Er versuchte mit aller Kraft, den Bogen zu spannen und den Pfeil so weit wie möglich zu schießen.	Häi fersöch mit âal kracht, däi bôoğ t' spannen un däi piil soo wiid as möögelk t' skäiten.
@@ -5569,6 +5695,7 @@
 3251295	Es ist am besten, Beziehungsprobleme gleich mit deinem Partner zu besprechen.	'T is best, betrekkensprobleemen fut mit diin partner t' beprooten.
 3251301	So lange es nicht zu beschwerlich ist, sind die Menschen gerne freundlich zu anderen Menschen.	Soo lâang as 't näit t' besworelk is, bünt däi minsken geern frünnelk mit anner minsken.
 3252094	Maria war angenehm überrascht, als sie von der Arbeit nach Hause kam und sah, dass Tom schon das Abendessen zubereitet hatte.	Marió was angeneem ferraskert doo säi fan d' aarbaid nóó huus tau kwam un sağ dat Tom al 't óóvendeeten t'räecht móókt haar.
+3252763	Es ist jetzt wichtig, dass du auf das hörst, was Tom sagt.	Dat is nuu wichtiğ, dat duu up dat höörst, wat Tom säeğt.
 3252766	Weißt du noch, wie der Sanitäter hieß, der mir das Leben rettete?	Wäist duu noch, woo däi sanitäiter heet, däi mii dat leevend red'de?
 3252767	Wir hätten Tom noch retten können, wenn wir nur ein paar Minuten eher hier gewesen wären.	Wii haarent Tom noch redden kunt, doo wii man 'n poer menüüten eerder hir west haarent.
 3252769	Du hättest mir viel Ärger ersparen können, wenn du mir das früher gesagt hättest.	Duu haarst mii fööl aarger besporen kunt, doo duu mii dat frauer säeğt haarst.
@@ -5672,6 +5799,7 @@
 3311907	Tom und Maria haben sich getrennt. Daher kommen sie am Freitag nicht zusammen zum Tanz.	Tom un Marió hebbent sük trent. Düs kooment säi up d' freidağ näit mitnanner nóó d' dans.
 3312321	Tom ist intelligenter und gebildeter als die meisten Jungen in seinem Alter.	Tom is intelligenter un beskóóvter as däi mäiest jungse up siin oller.
 3314681	Öl spielte eine wichtige Rolle in der Entwicklung der Zivilisation.	Ölje spöölde 'n wichtiğ ruel in 't undwikkeln fan d' tsiwiilisóósjoon.
+3314751	Ich glaube nicht, dass sich ein Muttersprachler je so ausdrücken würde.	Ik lööv näit, dat sük 'n maudertóólprooter oojt soo bewoorden dee.
 3315554	Tom war froh, dass er eine Weinflasche mit Schraubverschluss gekauft hatte, denn er konnte seinen Korkenzieher nicht finden.	Tom was blîid, dat häi 'n wiinfläes mit skruuvferslus köft haar, dan häi kun siin körktrekker näit finnen.
 3315649	Ich will nicht, dass du denkst, dass ich nicht glücklich mit deiner Entscheidung bin.	Ik wil näit, dat duu denkst, dat ik näit blîid mit diin beslus bün.
 3316056	Tom nahm den Korkenzieher aus der Schublade und öffnete die Flasche Wein, die Maria mitgebracht hatte.	Tom nam däi körktrekker uut d' lóó un mook däi fläes wiin oopen, däi Marió mitbrocht haar.
@@ -5813,6 +5941,7 @@
 3407343	Sollte ich jemand anderen fragen?	Sul ik wel anners fróógen?
 3407419	Das war ein bisschen unheimlich.	Dat was 'n biitje unhäimelk.
 3407581	Vor nicht allzu langer Zeit konnte ich noch gar nicht Gitarre spielen.	Fööer näit al t' lâang tiid kun ik noch häil näit gitâar spöölen.
+3409547	Wusstest du, dass es an dieser Schule noch einen anderen Tom Johannsen gibt?	Hest duu wust, dat 't up disser skaul noch 'n anner Tom Johannsen gift?
 3410060	Yokohama ist eine Stadt, in der mehr als drei Millionen Menschen leben.	Yokohama is 'n stad, wor meer as drei miljoonen minsken in leevent.
 3410528	Ich glaube, dass solche Spiele wie Candy Crush Zeitverschwendung sind.	Ik lööv, dat sükker spöölen as Candy Crush tiidferklaajen bünt.
 3410587	Die Frage ist nicht so leicht zu beantworten, wie es zunächst den Anschein haben mag.	Däi fróóeğ is näit soo makkelk t' beantern, as 't eerst däi anskiin hebben mağ.
@@ -5840,6 +5969,7 @@
 3433913	Das ist gewiss möglich.	Dat is wies möögelk.
 3433939	„Wo ist meine Brille?“ – „Die hast du auf dem Küchentisch liegenlassen.“	"Wor is miin briel?" - "Däi hest duu up d' köökentóóvel liegen lóóten."
 3433941	Tom war als Kind ein langsamer Schüler und besuchte eine Sonderschule.	Tom was as kind 'n sâacht skauler un gung nóó d' sünnerskaul tau.
+3434056	Hier ist der Brief, in dem sie uns bittet, dass wir uns ihres einzigen Sohnes annehmen mögen.	Hir is däi bräif, wor säi us in beeden daajt, dat wii us höör enkeld söön anneemen möögent.
 3434470	Er hat sich beim Streichen des Zimmers von seiner älteren Schwester helfen lassen.	Häi het sük bii 't striiken fan d' kóómer fan siin ollerder süster helpen lóóten.
 3434486	Tom hatte nicht die Absicht, so viel Zeit beim Streichen des Zaunes zuzubringen.	Tom haar näit däi ofsicht, soo fööl tiid bii 't striiken fan d' sküt tau t' brengen.
 3435846	Übersetzen ist nicht annähernd so einfach, wie viele Leute vielleicht glauben.	Ooversetten is näit half soo makkelk, as fööl lüü fiilicht löövent.
@@ -5854,6 +5984,7 @@
 3440252	Tom weiß auch nicht, was los ist, aber er will es nicht zugeben.	Tom wäit ook näit, wat d'r lös is, man häi wil dat näit taugeeven.
 3440521	Sie beschloss, ihn zu heiraten, wenngleich ihre Eltern dies nicht wollten.	Säi besloot, hum t' traauen, alwoo höör ollen dit näit wullent.
 3441820	So machen es die Profis.	Soo móókent dat däi profiis.
+3442681	Ich weiß ja nicht, was Tom mit dem Fernseher angestellt hat, aber der läuft jetzt.	Ik wäit je näit, wat Tom mit däi feersäier anstelt het, man däi löpt nuu.
 3447839	Mit ein paar Bier intus wird Tom überaus streitlustig.	Mit 'n poer bäär intus word't Tom häil kiiviğ.
 3447842	Tom schwieg, da er keinen Streit anfangen wollte.	Tom sweeğ, um dat häi kiin skäel anfangen wul.
 3449579	Jedem Kapitel des Lehrbuchs folgen etwa ein Dutzend Verständnisfragen.	Elker kapittel fan 't leerbauk folgent ruuğweğ 'n duts ferstennisfróógen.
@@ -5917,6 +6048,7 @@
 3490158	Die Eroberung Englands durch die Normannen hatte großen Einfluss auf die englische Sprache.	Dat feroovern fan Engelland döör däi noordlüü haar grôot inflaud up däi engelsk tóól.
 3493986	Tom hat so viel Geld, dass er nicht weiß, was er damit anfangen soll.	Tom het soo fööl geld, dat häi näit wäit, wat häi d'r mit anfangen sal.
 3494949	Das ist Altweibergeschwätz.	Dat is olwiivengekaauel.
+3496089	Ich vergaß, den Fernseher vor dem Schlafengehen auszuschalten.	Ik fergat, däi feersäier fööer 't slóópengóón uut t' skalten.
 3497294	Der Arzt riet Tom, wenigstens drei alkoholfreie Tage pro Woche einzuhalten.	Däi dokter rood Tom, t'minst drei kurfräej dóógen pro wêek in t' hollen.
 3497932	Vier meiner Lieblingsweihnachtslieder sind „Stille Nacht“, „Joy to the World“, „The First Noel“ und „Away in the Manger“.	Fäär fan miin läiefst wiinachtsläiden bünt "Stiel nacht", "Joy to the World", "The First Noel" un "Away in the Manger".
 3498603	Tom wacht gewöhnlich jeden Morgen auf, bevor sein Wecker klingelt.	Tom wóókt döörgóóns elker mörn up, eer siin wekker klingelt.
@@ -5941,6 +6073,7 @@
 3518941	Entschuldige! Könntest du mir wohl zeigen, wie man die Waschmaschine benutzt?	Perdong! Kust duu mii wal wiisen, woo man däi waaskmeskîin bruukt?
 3519484	Das war ein gutes Beispiel.	Dat was 'n gaud biispil.
 3519562	Fällt dir sonst noch jemand ein, der eventuell bereit wäre, uns zu helfen?	Faalt dii anners noch wel in, däi eeventuel sins was, us t' helpen?
+3520566	„Wer ist der Typ auf dem Foto?“ – „Ich weiß nicht, wer das ist.“	"Wel is däi keerl up dat footo?" - "Ik wäit näit, wel dat is."
 3522783	Ich schlage vor, dass du nicht länger bleibst, als unbedingt notwendig ist.	Ik slóó fööer, dat duu näit langer blifst, as 't absluut noodsóókelk is.
 3522784	Ich schlage vor, dass ihr nicht länger bleibt, als unbedingt notwendig ist.	Ik slóó fööer, dat jii näit langer bliivent, as 't absluut noodsóókelk is.
 3522785	Ich schlage vor, dass Sie nicht länger bleiben, als unbedingt notwendig ist.	Ik slóó fööer, dat Jii näit langer bliivent, as 't absluut noodsóókelk is.
@@ -6033,6 +6166,7 @@
 3596679	Ich habe heute viel zu tun. Daher zöge ich es vor, diese Diskussion ein andermal fortzuführen, falls du nichts dagegen hast.	Ik heb fandóóeğ fööl t' daun. Düs dee ik dat föörtrekken, disser diskusjoon 'n anner móól wiider t' fören, doo duu d'r niks teegen hest.
 3596729	Stimmt es wirklich, dass 30 % der Menschen, die hier leben, noch nie den Ozean gesehen haben?	Stemt dat wies, dat 30 % fan däi minsken, däi hir leevent, noch noojt däi oseóón säin hebbent?
 3598344	Die Wirtschaft hat sich noch immer nicht vollständig von der Finanzkrise erholt.	Däi wirtskaft het sük noch altiid näit kumpleet fan däi finanskrîis ferhóólt.
+3607921	Du hättest es früher tun sollen. Jetzt ist nichts mehr zu machen.	Duu haarst dat eerder daun sult. Nuu is niks meer t' daun.
 3608163	Tom war nicht das beliebteste Kind der Schule, aber er hatte einige Freunde.	Tom was näit dat beläivst kind fan d' skaul, man häi haar wat früen.
 3608227	Ihr seid sehr klug.	Jii bünt läip klauk.
 3608693	Das liegt in der Familie.	Dat liğt in d' femiilje.
@@ -6151,6 +6285,7 @@
 3746089	Maria empfahl Tom, sich beim Speiseeis zurückzuhalten, wenn er nicht dick werden wolle.	Marió undfool Tom, sük bii 't iis t'rüeğ t' hollen, doo häi näit dik worden wul.
 3747997	Man kann viel lernen, indem man ein Kind dabei beobachtet, wie es beim Spielen mit anderen Kindern interagiert.	Man kan fööl leeren, indeem man d'r 'n kind bii belurt, woo 't bii 't spöölen mit anner kinner interagäärt.
 3748828	Heute ist der Burj Khalifa der höchste Wolkenkratzer der Welt.	Fandóóeğ is däi Burj Khalifa däi hôoğst wulkenkraaber fan d' weerld.
+3751885	Mit so viel Geld könnte ich einen sehr ordentlichen Gebrauchtwagen kaufen.	Mit soo fööl geld kun ik 'n häil örnelk bruuktwóógen koopen.
 3752374	Bis Mitternacht wurde gefeiert, und danach gab es viel aufzuräumen.	Bit middernacht wur firt, un d'r nóó gaf dat fööl tau uprüümen.
 3752779	Was ihr an Charisma fehlt, macht sie durch harte Arbeit wett.	Wat höör an karismó feelt, glikt säi döör hâard aarbaid uut.
 3752799	Mutter Teresa war eine katholische Nonne, die in Kalkutta in Indien lebte und arbeitete.	Mauder Teresa was 'n ketoolsk nuen, däi in Kalkuttó in Injen leevde un aarbaid'de.
@@ -6232,6 +6367,9 @@
 3792427	Wenn du willst, bleibe ich hier bei dir, bis Tom zurückkommt.	Doo duu wult, bliiv ik hir bii dii, bit Tom t'rüeğ kumt.
 3794419	Tom beschloss auf der Stelle, es nicht noch einmal dazu kommen zu lassen.	Tom besloot fut up stee, dat näit noch insent d'r tau koomen t' lóóten.
 3794432	Toms neuer Welpe ist so klein, dass er Platz auf einer Handfläche findet.	Tom siin näej wäelp is soo lütjet, dat häi nauğ bot up 'n palm fint.
+3794958	Du musst gar nichts sagen, wenn dir nicht danach ist.	Duu maust häil niks säegen, doo dii d'r näit nóó is.
+3794960	Du musst überhaupt nichts sagen, wenn dir nicht danach ist.	Duu maust häilundal niks säegen, doo dii d'r näit nóó is.
+3794963	Du musst überhaupt nichts sagen, wenn du dich nicht danach fühlst.	Duu maust häilundal niks säegen, doo duu dii d'r näit nóó föylst.
 3795022	Ich wünschte, ich könnte mein Leben nur damit verbringen, was ich tun möchte.	Ik wul, dat ik miin leevend bloot d'r mit ferbrengen kun, wat ik daun wil.
 3798181	Es wäre schade, wenn du es dir entgehen ließest, Tom zu sehen, während du in Boston bist.	Dat was skóó, doo duu dii dat undgóón leetst, Tom t' säin, wiilst duu in Boston büst.
 3798183	Es wäre schade, wenn du dir ein Treffen mit Tom entgehen ließest, während du in Boston bist.	Dat was skóó, doo duu dii 'n dräepen mit Tom undgóón leetst, wiilst duu in Boston büst.
@@ -6293,6 +6431,9 @@
 3847650	Wenn alles nach Plan verläuft, sollte ich morgen Abend wieder zuhause sein.	Doo 't âal nóó plóón ferlöpt, sul ik mörn óóvend weer in huus weesen.
 3847652	Wenn alles planmäßig verläuft, sollte ich morgen Abend wieder zuhause sein.	Doo 't âal plóónmóótiğ ferlöpt, sul ik mörn óóvend weer in huus weesen.
 3847983	Mein Vater machte meiner Mutter eine Tasse Kaffee, gerade so, wie sie es mag.	Miin fóóder mook miin mauder 'n kopke kofje, net soo as säi 't mağ.
+3849854	Seine einzigartige Sichtweise half, die Situation zu erhellen.	Siin besünner sichtwîis hulp, däi situóósjoon t' ferlechten.
+3849866	Seine einzigartige Sichtweise half, Licht auf die Situation zu werfen.	Siin besünner sichtwîis hulp, lücht up däi situóósjoon t' smiiten.
+3849870	Seine einzigartige Sichtweise half, Aufschluss über die Situation zu geben.	Siin besünner sichtwîis hulp, upslus oover däi situóósjoon t' geeven.
 3850296	Tom brauchte nicht lange nachzudenken, bevor er Mary seine Antwort gab.	Tom bruukde näit lâang nóó t' denken, eer häi Mary siin antern gaf.
 3851222	Ein anonymer Wohltäter hat einem Tierheim mehrere hunderttausend Dollar vermacht.	'N anonüüem gauddóóder het 'n däärhäim meerder hunnertduusend dullers fermóókt.
 3851237	Dies ist das einzige Bild, das ich von meinem Ururgroßvater habe.	Dat is dat enkeld bild wat ik fan miin betooverbesfóóer heb.
@@ -6379,6 +6520,7 @@
 3897464	Folge dieser Straße bis zur Ampel und biege dann links ab.	Folğ disser stróóet bit nóó d' ampel un buuğ dan links of.
 3897580	Meine Frau geht jeden Tag zum Dorfmarkt, um Lebensmittel zu kaufen.	Miin frâau gaajt aldóóeğ nóó 't lauğmâarkt, um leevendsmiddels t' koopen.
 3897755	Man hätte eine Stecknadel im Restaurant fallen hören können, nachdem Mary Tom eine Ohrfeige verpasst hatte, Wein über ihn geschüttet hatte und hinausgestürmt war.	Man haar d'r 'n späel in 't restaaurant faalen höören kunt, nóódeem Mary Tom 'n oorbats ferpaast haar, wiin oover hum sküd't haar un d'r fandöör góón was.
+3897839	Kommt doch beide her und seht selbst!	Kumt doch bâajd heer un süüt sülst!
 3897859	In der Automobilindustrie der 1970er schlug Japan die Vereinigten Staaten mit deren eigenen Waffen.	In däi aautomobiilindustrii fan däi 1970er slooğ Jóópóón däi Feräint Stóóten mit däi höör äigen wóópen.
 3897896	Tom schloss den Fernseher an die Antenne an, welche der vorherige Besitzer seines Hauses auf dem Dach montiert hatte.	Tom sloot däi feersäier an däi antäen an, däi däi fööriğ besitter fan siin huus up 't dak muntäärt haar.
 3898526	Es ist wichtig Kindern so früh wie möglich gesundes Essverhalten beizubringen.	Dat is wichtiğ kinner soo frau as möögelk suen eetferhollen bii t' brengen.
@@ -6503,6 +6645,7 @@
 4046031	Tom und Maria gingen zur Feier ihres Hochzeitstages in ein nobles Restaurant.	Tom un Marió gungent tau d' fier fan höör hochtiidsdağ in 'n noobel restaaurant.
 4048964	Wenn sie noch lebte, wäre Billie Holiday heute hundert Jahre alt geworden.	Doo säi noch leevde, was Billie Holiday fandóóeğ hunnert joer old worden.
 4048974	Was du geschrieben hast, ist zwar nicht falsch, doch einige wichtige Tatsachen bleiben unerwähnt.	Wat duu skreeven hest, is wal näit ferkeert, doch wat wichtiğ dóódsóóken wordent näit fan uphóólt.
+4049208	Warum hast du mir von deinem Vorhaben, nach Boston zu fahren, nichts gesagt?	Woosoo hest duu mii fan diin föörhebben, nóó Boston t' foren, niks säeğt?
 4049219	Wenn ich Hausaufgaben zu erledigen habe, hilft mir mein Bruder stets dabei.	Doo ik huusupgóóven t' daun heb, helpt mii miin brör steeds d'r bii.
 4049338	Tom hat mir gesagt, dass er am Tag mindestens drei Tassen Kaffee trinkt.	Tom het mii säeğt, dat häi up d' dağ minst drei kopkes kofje drinkt.
 4051462	Tom stieg aus der Badewanne und trocknete sich mit dem neuen Handtuch ab, das Maria ihm geschenkt hatte.	Tom stapde tau d' bóólje uut un drööğde sük mit dat näej handdauk of, dat Marió hum skunken haar.
@@ -6563,6 +6706,7 @@
 4130225	Es hätte in der Macht des Präsidenten gestanden, die Männer mit einer einfachen Unterschrift vor der Hinrichtung zu bewahren.	Dat haar in d' macht fan däi president stóón, däi manlüü mit 'n enkeld unnerskrift fööer 't henrichten t' beworen.
 4131066	Tom hat endlich den Mut aufgebracht, Maria zu sagen, dass er sie liebt.	Tom het ennelk däi maud upbrocht, Marió t' säegen, dat häi höör läivt.
 4134633	Tom und ich haben uns lange unterhalten, während wir auf Maria warteten.	Tom un ik heb us lâang unnerhollen, wiilst wii up Marió wacht'dent.
+4134743	Es ist mir egal, wie arm du bist. Ich will dich trotzdem heiraten.	Dat is mii ne'ğeliik, woo aarm duu büst. Ik wil dii doch traauen.
 4134748	Tom hat mich vor etwa einer halben Stunde angerufen und gesagt, dass er unterwegs sei.	Tom het mii fööer ruuğweğ 'n hâalf stüen anraupen un säeğt, dat häi unnerweegens was.
 4135975	Ich habe einige Fehler begangen, die ich vermeiden hätte können sollen.	Ik heb wat feelers móókt, däi ik fermiiden kunt haaren sult.
 4136218	Wie viele Löffel Zucker tust du normalerweise in deinen Tee?	Woo fööl leepels tsukker daajst duu n'rmóólerwîis in diin tee?
@@ -6646,6 +6790,7 @@
 4215929	Tom konnte keinen Beweis zur Untermauerung seiner Aussage erbringen.	Tom kun kiin bewiis tau 't stöön fan siin beweeren föörläegen.
 4217858	Tom kaufte eine Zeitung und las sie auf dem Weg zur Arbeit im Zug.	Tom köf 'n bladje un las 't up d' weğ nóó d' aarbaid in d' tsuğ.
 4220086	Die regenreichsten Monate sind der Mai, der Juni, der Juli und der August.	Däi reegenriikst móónden bünt däi mâaj, däi junii, däi julii un däi aaugust.
+4220131	Ehrlichkeit zahlt sich nicht immer aus. So ist das auf der Welt.	Eerelkkaid betóólt sük näit altiid uut. Soo is dat in d' weerld.
 4224049	Ich bin wohl einfach zu blöd, um das zu verstehen, was du sagst.	Ik bün wal äinfach t' blööd, um dat t' ferstóón, wat duu säeğst.
 4225636	Irgend jemand will mich umbringen.	Ennerwel wil mii fermoorden.
 4226602	Tom ließ ein paar Pillen aus einem Arzneifläschchen purzeln und in seinem Mund verschwinden.	Tom leet 'n poer pillen uut 'n aartsneifleske küükeln un in siin bek ferdwiinen.
@@ -6752,6 +6897,7 @@
 4534715	Du musst gründlich lernen, wenn du die Prüfung bestehen willst.	Duu maust grünnelk leeren, doo duu dat prüüfen bestóón wult.
 4534716	Ihr müsst viel lernen, um die Prüfung zu bestehen.	Jii mautent fööl leeren, um dat prüüfen t' bestóón.
 4534728	Sie müssen ernsthaft studieren, damit Sie die Prüfung bestehen können.	Jii mautent eernstachtiğ stuudäären, dat Jii dat prüüfen bestóón köönent.
+4537440	Ich verstehe nicht, warum du dich die ganze Zeit mit Tom herumtreibst.	Ik begriip näit, woosoo duu dii däi häiel tiid mit Tom runddrifst.
 4543565	Tom legte zwei Scheiben Brot in den Toaster und schob den Hebel nach unten.	Tom lee twei sneeden brood in d' toaster un skoov däi heevel nóó unner.
 4545787	Warum fiel die Wahl auf Tom?	Woosoo hebbent s' Taum koosen?
 4558983	Wenn es hart auf hart kommt, dann rückt eine Familie zusammen, um einen der Ihrigen in Schutz zu nehmen.	Doo 't haard up haard kumt, dan kumt 'n femiilje t'sóómen, um äien fan höör in skuts t' neemen.
@@ -6773,6 +6919,7 @@
 4596737	Haben wir irgendwas in Französisch auf, das wir morgen vorlegen müssen?	He' wii wat in Fransk up, wat wii mörn föörläegen mautent?
 4599607	Tom wurde vom Auswahlkomitee als alle Kriterien für den Job erfüllend befunden.	Tom wur fan 't uutwóólkumitee as an âal kriteerien föör 't bóóntje fuldaund befunnen.
 4601216	Wegen Schülermangels wird die Schule am Ende des Jahres aufgelöst.	Um gebrek an skaulers word't däi skaul up 't äen fan 't joer uplöest.
+4606791	Man sollte nicht über seine Freunde hinter deren Rücken reden!	Man sul näit oover siin früen achter höör rüegen prooten!
 4613126	„Tom hat nach dem Abendessen drei Tassen Kaffee getrunken.“ – „Kein Wunder, dass er nicht schlafen konnte.“	"Tom het nóó 't óóvendeeten drei taasen kofje drunken." - "Kiin wunner dat häi näit slóópen kun."
 4613135	Die Schule wird Ende des Jahres wegen Schülermangels geschlossen.	Däi skaul word't up 't äen fan 't joer um gebrek an skaulers diechtmóókt.
 4613143	Obwohl ich zum Frühstück drei Schüsseln Müsli gegessen habe, bin ich noch immer hungrig.	Alwoo ik tau 't früüstük drei sköddels müüslii eeten heb, bün ik noch altiid smachtiğ.
@@ -6791,6 +6938,7 @@
 4655098	Alle Suchtmittel steigern die Freisetzung von Dopamin im Gehirn.	Âal süchtmiddels stiigernt dat freilóóten fan d' dopóómiin in d' breegen.
 4655103	Alle Suchtmittel bewirken eine vermehrte Freisetzung von Dopamin im Gehirn.	Âal süchtmiddels bewirkent 'n fermeerdert freilóóten fan dopóómiin in d' breegen.
 4679953	Je niedriger das Selbstwertgefühl, desto mehr gibt man sich mit negativen Sachen ab.	Woo leeger dat sülstweerdgeföyl, soo meer gift man sük mit negótîif sóóken of.
+4682977	Was wirst du mit deinem Teil des Schatzes anfangen?	Wat sast duu mit diin däil fan d' skat anfangen?
 4683030	Erst stritten sie, und dann im nächsten Moment küssten sie sich.	Eerst haarent s' skendóól, un dan up d' tauken moment tuutjedent säi sük.
 4685290	Tom geriet als Teenager oft in Konflikt mit dem Gesetz.	Tom róókde as teenager fóók in kunflikt mit 't wet.
 4685293	Als Teenager geriet Tom oft mit dem Gesetz in Konflikt.	As teenager róókde Tom fóók mit 't wet in kunflikt.
@@ -6845,6 +6993,7 @@
 4807131	Meine Mutter spricht besser Französisch als mein Vater Englisch. Deshalb sprechen sie üblicherweise auf Französisch miteinander.	Miin mauder proot't beeter Fransk as miin fóóder Engelsk. Düs prootent säi gewoon up Fransk mitnanner.
 4807141	Wenn dein Vater deine Mutter etwas auf Französisch fragt, antwortet sie dann auf Französisch oder auf Englisch?	Doo diin fóóder diin mauder wat up Fransk frağt, antert säi dan up Fransk of up Engelsk?
 4807144	Sprichst du mit deinem Vater in derselben Sprache wie mit deiner Mutter?	Prootst duu mit diin fóóder in däi sülviğ tóól as mit diin mauder?
+4807147	Welche Sprache benutzt du, wenn du mit deinen Eltern sprichst?	Wekker tóól bruukst duu, doo duu mit diin ollen prootst?
 4807912	Der gebrechliche alte Mann weigerte sich standhaft, einen Rollstuhl zu benutzen.	Däi gebrekkelk oel keerl wäigerde sük standfast, 'n rulstaul t' bruuken.
 4810395	Wahrscheinlich wäre es anderswo billiger.	Worskiinelk was 't annerswor billiger.
 4834029	Österreich ist einer der größten Stromproduzenten Europas.	Öösterriik is äien fan däi grôotst stroomprodusenten fan Europó.
@@ -7074,6 +7223,7 @@
 5312293	Tom überlegte, ob er zulassen sollte, dass Maria mit Johannes nach Boston fährt.	Tom dee ooverläegen, of häi taulóóten sul, dat Marió mit Johannes nóó Boston fort.
 5313343	Wenn Tom die Pilze, die er im Walde fand, nicht gegessen hätte, wäre er jetzt noch am Leben.	Doo Tom däi pilsen, däi häi in d' wald fun, näit eeten haar, was häi nuu noch an 't leevend.
 5314550	Sie können gerne unser Haus benutzen, während wir auf Urlaub sind.	Säi köönent geern us huus bruuken, wiilst wii in d' uurlaaub bünt.
+5315324	Ich kann mich gar nicht so genau daran erinnern, was passiert ist.	Ik kan mii d'r häil näit soo genaau up besinnen, wat geböört is.
 5316168	Das ist ein Riesenquatsch.	Dat is 'n grôot kwatsk.
 5316784	Es regnet schon seit drei Stunden stark.	'T reegent al siit drei stüen düğtiğ.
 5320093	Sie weiß anscheinend nicht, was sie mit ihrer Freizeit anfangen soll.	Säi wäit as 't let't näit, wat säi mit höör freitiid anfangen sal.
@@ -7100,7 +7250,7 @@
 5328752	Wer Angst davor hat, Fehler zu machen, dem werden keine Fortschritte in englischer Konversation gelingen.	Wel bâang d'r fööer is, feelers t' móóken, däi söölent kiin f'ruutgaangen in d' engelsk kunwersóósjoon föörnanner lingen.
 5328754	Trotz dieser Gefahren ist die Bergsteigerei sehr beliebt.	Trots disser geforden is dat baarğstiigen läip beläivt.
 5328756	Lincoln ist eine der größten Figuren der amerikanischen Geschichte.	Lincoln is äien fan däi grôotst figüren fan d' amerikóónsk histoorje.
-5328757	Ich spreche von diesem Stift, nicht jenem dort auf dem Schreibtisch.	Ik proot fan disser päen, näit däi dor up d' skriivtóóvel.
+5328757	Ich spreche von diesem Stift, nicht jenem dort auf dem Schreibtisch.	Ik proot fan disser stift, näit däi dor up d' skriivtóóvel.
 5329200	Das ist mindestens 500 km von hier entfernt.	Dat is minst 500 km fan hir weğ.
 5329736	Tom überzeugte erfolgreich viele Menschen, dass er über paranormale Fähigkeiten verfügte.	Tom oovertüüğde erfolğriik fööl minsken, dat häi oover parón'rmóóel feeiğkaiden beskikken dee.
 5331403	Tom und Maria gaben bei dem Test exakt dieselben Antworten, und das kam dem Lehrer verdächtig vor.	Tom un Marió gaffent bii däi test eksakt däi sülviğ anterns, un dat kwam däi mester ferdechtiğ fööer.
@@ -7217,6 +7367,7 @@
 5606769	Tom will wissen, was man mit dem ganzen Zeug machen soll, das du in seiner Garage gelassen hast.	Tom wil wäiten, wat man mit dat häiel tüüğ móóken sal, wat duu in siin garóózje lóóten hest.
 5607723	Es gibt für alles eine Zeit und einen Ort. Jetzt ist aber weder die Zeit, noch ist hier der Ort.	Dat gift föör âals 'n tiid un 'n stee. Man nuu is näit däi tiid, noch is hir däi stee.
 5608450	Man muss kein Genie zu sein, um das zu kapieren.	Man maut kiin zjenii weesen, um dat t' begriipen.
+5610333	Als ich ein Junge war, dachte ich, dass ich Arzt werden will	Doo ik 'n fent was, doch ik, dat ik dokter worden wil
 5614068	Wenn du noch einmal ganz von vorne anfangen müsstest, was würdest du anders machen?	Doo duu noch insent häil fan fööer anfangen must, wat deest duu anners móóken?
 5615796	Ich verspreche dir, du wirst diesen Film mögen.	Ik beloov dii, duu sast disser film möögen.
 5625137	Wir müssen das ganze Zeug verbrennen, bevor die Polizei hier auftaucht.	Wii mautent dat häiel tüüğ ferbraanen, eer däi skendaarms hir upduukent.
@@ -7252,6 +7403,7 @@
 5702355	Die Menschen, die in dieser Gegend leben, sterben an dem Wassermangel.	Däi minsken, däi in dit gewest leevent, staarvent an dat wóótergebrek.
 5702356	Fast eine Milliarde Menschen auf der Welt haben keinen Zugang zu sicherem, sauberem Wasser.	Hóóst 'n miljâard minsken in d' weerld hebbent kiin taugaang tau seeker, skôon wóóter.
 5708240	Tom war anscheinend bereits vor Veröffentlichung jenes Albums berühmt.	Tom was as 't let't al fööer d' publikóósjoon fan dat album beraumt.
+5708459	Ihr Nachbar wird sich während ihrer Abwesenheit um die Kinder kümmern.	Höör nóóber sal sük bii höör ofweesenhaid um däi kinner kümmern.
 5708622	Tom hört gerne Musik, während er Hausaufgaben macht.	Tom höört geern musik, wiilst häi huusupgóóven móókt.
 5711491	Ich fahre nicht oft nach Boston, aber ich fühle mich immer, wenn ich dort bin, sehr wohl.	Ik for näit fóók nóó Boston, man ik föyl mii altiid, doo ik d'r bün, häil gaud.
 5711501	Trotz seines vollen Terminkalenders findet Tom immer Zeit für seine Kinder.	Trots siin fuel termiinklenner fint Tom altiid tiid föör siin kinner.
@@ -8137,6 +8289,7 @@
 6023175	Es ist praktisch überall auf der Welt möglich, mit einem Muttersprachler Englisch zu lernen.	Dat is praktisk allerweegens in d' weerld möögelk, mit 'n maudertóólprooter Engelsk t' leeren.
 6023306	Ich habe gehört, dass die schönsten Frauen der Welt in Boston leben.	Ik heb höört, dat däi môojst fraaulüü fan d' weerld in Boston leevent.
 6023307	Ich hörte, der Welt schönste Frauen wohnten in Boston.	Ik höörde, däi môojst fraaulüü fan d' weerld woondent in Boston.
+6024286	Die Einleitung ist mir unbekannt, aber ich kann den Kehrvers singen.	Dat inläiden is mii unbekent, man ik kan däi keerfers singen.
 6024681	Es ist besser, geliebt und verloren zu haben, als niemals geliebt zu haben.	'T is beeter, läivt un ferlooren t' hebben, as noojt läivt t' hebben.
 6032466	Tom glaubte sich aus seinem Traum erwacht, doch träumte er wahrlich noch immer.	Tom löövde, dat häi uut siin drööm upwóókt was, doch dröömde häi wies noch altiid.
 6032722	Bei einer Silberhochzeit feiert man 25 Jahre Ehe.	Bii 'n sülvern hochtiid firt man 25 joer äecht.
@@ -8179,6 +8332,7 @@
 6117794	Als Tom einen Blick auf seine Armbanduhr warf, war er überrascht, wie spät es war.	Doo Tom 'n blik up siin aarmaloozje smeet, was häi ferraskert, woo lóót 't was.
 6128279	Tom wollte ein eigenes Haus bauen, aber nachdem ihm klar geworden war, wie viel Arbeit das bedeuten würde, gab er auf.	Tom wul 'n äigen huus baauen, man nóódeem hum klorworden was, woo fööl aarbaid dat bedüüden sul, gaf häi 't tau.
 6128755	Tom gibt nie zu, unrecht zu haben, weil er glaubt, das sei ein Zeichen von Schwäche.	Tom gift noojt tau, unrecht t' hebben, um dat häi löövt, dat was 'n täiken fan swâakt.
+6128852	Du musst anfangen, Verantwortung für deine Taten zu übernehmen.	Duu maust anfangen, ferantwoorden föör diin dóóden t' ooverneemen.
 6129891	Ich weiß, das ist nicht, was du vorgeschlagen hast, aber das war alles, was ich tun konnte.	Ik wäit, dat is näit, wat duu föörslóón hest, man dat was âals wat ik daun kun.
 6130293	Ich habe ein wichtiges Treffen, an dem ich heute Nachmittag teilnehmen muss.	Ik heb 'n wichtiğ dräepen wor ik fannóómiddağ bii däilneemen maut.
 6131665	Es war für fast alle eine neue Erfahrung.	'T was föör hóóst âal 'n näj erforen.
@@ -8194,6 +8348,7 @@
 6140592	Tausende von toten Fischen sind im See treibend gefunden worden.	Duusenden fan dôod fisken bünt in 't meer driivend funnen worden.
 6144107	Du hast eine Nachricht.	Duu hest 'n böskup.
 6144228	Bildung besteht nicht nur aus dem Lernen vieler Fakten.	Bilden bestaajt näit alleniğ uut 't leeren fan fööl fakten.
+6144339	Wir haben vor, heute nach dem Mittagessen im Park spazieren zu gehen.	Wii hebbent fööer, fandóóeğ nóó 't middóóğeeten in d' park kaiern t' góón.
 6144341	Wenn ich für dich eine Ausnahme mache, werden alle die gleiche Behandlung erwarten.	Doo ik föör dii 'n uutnóóem móók, söölent âal dat sülviğ behanneln ferwachten.
 6144367	Anfangs fand Tom Französisch schwer, doch jetzt hält er es für leicht.	An anfang fun Tom Fransk stur, doch nuu holt häi 't föör makkelk.
 6144776	Freunde haben Tom und Maria beim Umzug in die neue Wohnung geholfen.	Früen hebbent Tom un Marió bii 't umtrekken in dat näej woonen hulpen.
@@ -8229,6 +8384,7 @@
 6218441	Tom erklärte dem Polizisten, wie es zu dem Unfall gekommen war.	Tom ferklorde däi skendaarm, woo 't tau dat melöör koomen was.
 6287489	Tom und Maria wollen ein Haus mit mindestens drei Schlafzimmern kaufen.	Tom un Marió willent 'n huus mit minst drei slóópkóómers koopen.
 6287700	Die Patienten, die an dem Arzneimitteltest teilnehmen, wissen nicht, ob sie das Medikament oder ein Placebo bekommen.	Däi pasjenten, däi an däi aartsneimiddeltest däilneemen daunt, wäitent näit, of säi dat meedkóment of 'n plaseebo kriigent.
+6288204	Ob wir eine Zugabe spielen oder nicht, hängt vom Publikum ab.	Of wii 'n taugift spöölent of näit, hangt fan 't publikum of.
 6289597	Tom und Maria umarmten sich und gaben sich gegenseitig einen Kuss auf die Wange.	Tom un Marió umaarmdent sük un gaffent nanner 'n tuutje up d' wâang.
 6294066	Ich bin seit mehr als zwanzig Jahren mit ihm befreundet.	Ik bün siit meer as twintiğ joer mit hum befründjet.
 6294103	Sie hat die Kunst, mit schwierigen Kunden umzugehen, perfektioniert.	Säi het däi künst, mit stuer kunnen um t' góón, perfeksjoonäärt.
@@ -8247,6 +8403,7 @@
 6328663	Unser Team hat in der ersten Halbzeit dreißig Punkte gemacht.	Us team het in d' êerst halftiid daartiğ punkten móókt.
 6333173	Lass dich zu nichts provozieren, was du später bereust!	Lóót dii tau niks prowosäären, wat duu lóóterweğ beraust!
 6358765	Tom und Maria verliebten sich während einer wissenschaftlichen Expedition ineinander.	Tom un Marió ferläivdent sük bii 'n wäitenskuppelk ekspedisjoon innanner.
+6358894	Ich bin erst nach zwei Uhr morgens eingeschlafen.	Ik bün eerst nóó twei üer 's mörns inslóópen.
 6363060	Tom wurde eilends ins Krankenhaus gebracht, nachdem er bei sich zu Hause bewusstlos aufgefunden worden war.	Tom wur rad in 't krankenhuus brocht, nóódeem häi bii sük in huus bewustlös upfunnen worden was.
 6370887	Das Zusehen schmerzte.	Dat taukiiken beseerde.
 6373862	Der Neptun ist über 30-mal so weit von der Sonne entfernt wie die Erde.	Däi Neptuun is oover 30 móól soo wiid fan d' süen weğ as däi Êer.
@@ -8356,6 +8513,7 @@
 6555359	Der Lkw, den Tom fuhr, geriet auf der glatten Straße ins Schleudern und fuhr gegen einen Baum.	Däi lastwóógen, däi Tom fur, róókde up d' glâad stróóet in 't slingern un fur teegen 'n boom.
 6555360	Wir fällten den größten Baum, den wir finden konnten; denn wir wollten ein Kanu bauen.	Wii faalent däi grôotst boom, däi wii finnen kunnent; dan wii wullent 'n kanu baauen.
 6555362	Tom stellte sich in der Hoffnung, nicht allzu nass zu werden, unter einen Baum.	Tom stelde sük in d' hôop, näit al t' nat t' worden, unner 'n boom.
+6556050	In diesem Park wurden bei dem Orkan Hunderte von Bäumen umgeweht.	In disser park wurdent bii d' orkóón hunnerten fan boomen umwaajt.
 6560125	„Ich fragte Tom, ob er schon einmal ein Mädchen geküsst habe.“ – „Und was sagte er?“	"Ik frooğ Tom, of häi al insent 'n wicht tuutjet haar." - "Un wat see häi?"
 6562244	Tom war sehr unglücklich darüber, Weihnachten im Krankenhaus verbringen zu müssen.	Tom was läip unglükkelk d'r oover, wiinachten in 't krankenhuus ferbrengen t' mauten.
 6562251	Tom sagt, dass er und Mary den Weihnachtstag gemeinsam verbringen werden.	Tom säeğt, dat häi un Mary däi wiinachtsdağ mäinsóóm ferbrengen söölent.
@@ -8459,6 +8617,7 @@
 6703588	Tom hofft, dass Maria weiß, dass sie alles tun muss, was Johannes ihr aufgetragen hat.	Tom hoopt, dat Marió wäit, dat säi âals daun maut, wat Johannes höör updróógen het.
 6712509	Tom meinte, dass Maria zum Kauf des Nötigen mindestens 300 Dollar brauchen würde.	Tom mäinde, dat Marió tau d' koop fan dat nöödiğst minst 300 dullers bruuken sul.
 6714690	Du stellst mir Fragen, deren Antwort du bereits kennst.	Duu stelst mii fróógen, däi höör antern duu al kenst.
+6724897	Ich wusste nicht, wie das geht, doch ich versuchte es trotzdem.	Ik wus näit, woo dat gaajt, doch ik fersöch 't trotsdeem.
 6728977	Ich wünschte, ich könnte eine gute Antwort auf die Frage finden.	Ik wul, dat ik 'n gaud antern up däi fróóeğ finnen kun.
 6731060	Es gefällt mir nicht, derjenige zu sein, der immer den Müll nach draußen bringen muss.	Dat gefaalt mii näit, däien t' weesen, däi altiid däi mül nóó buuten brengen maut.
 6731061	Es gefällt mir nicht, diejenige zu sein, die immer den Müll nach draußen bringen muss.	Dat gefaalt mii näit, däien t' weesen, däi altiid däi mül nóó buuten brengen maut.
@@ -8620,6 +8779,7 @@
 6967669	Irgendwas stimmt nicht an dieser Übersetzung.	Ennerwat stemt näit an dit ooversetten.
 6968610	Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.	Alwoo Tom miin nóóber is, ken ik hum näit al t' gaud.
 6968640	Tom meinte, Maria müsse das noch erledigen, bevor sie gehe.	Tom mäinde, Marió mus dat noch klorkriigen, eer säi gung.
+6968808	Erinnerst du dich an das erste Mal, dass wir gemeinsam nach Boston fuhren?	Heerinnerst duu dii an dat êerst móól, dat wii mäinsóóm nóó Boston tau furent?
 6969784	Tom spricht ausgezeichnet Französisch; mit seinem Englisch aber ist es nicht weit her.	Tom proot't best Fransk; man siin Engelsk is näit soo gaud.
 6970219	Um die Jahrhundertwende arbeiteten noch immer Kinder in Fabriken.	Teegen däi jorhunnertwäen aarbaid'dent noch altiid kinner in fabrikken.
 6970778	Ich kann Tom nicht ändern, aber das hält mich nicht davon ab, es zu versuchen.	Ik kan Tom näit annern, man dat holt mii näit d'r fan of, um 't t' fersöyken.
@@ -8630,6 +8790,7 @@
 6971715	Tom tat, was die meisten in dieser Situation getan hätten.	Tom dee, wat däi mäiest in disser situóósjoon dóón haarent.
 6971717	Das ist unsere Verantwortung.	Dat is us ferantwoorden.
 6971720	Das ist ziemlich bedeutend.	Dat is recht belangriik.
+6971725	Wahrscheinlich denkst du, das müssten wir nicht tun.	Worskiinelk denkst duu, dat mussent wii näit daun.
 6972084	Deine Kleidung ist für den Anlass nicht angemessen.	Diin kläär bünt föör däi anlóót näit paaselk.
 6972146	Tom musste eine Halskrause tragen, nachdem Maria ihn die Treppe hinabgestoßen hatte.	Tom mus 'n halskróóeğ dróógen, nóódeem Marió hum däi trappen dóólstöt't haar.
 6972187	Mücken werden vom Geruch menschlicher Füße und von Limburger angezogen.	Müegen wordent fan däi gööer fan minskelk fauten un fan Limburger antrukken.
@@ -8654,6 +8815,7 @@
 6999104	Ich finde, du bist eine der interessantesten Frauen, die ich je kennengelernt habe.	Ik fin, duu büst äien fan däi interessâantst fraaulüü, däi ik oojt kennen leert heb.
 6999119	Es ist Freitag; morgen muss ich also nicht aufstehen, um zur Schule zu gehen.	Dat is freidağ; mörn maut ik alsoo näit upstóón, um nóó d' skaul t' góón.
 6999446	Er war bei den Mädchen beliebt, weil er in der Fußballmannschaft war.	Häi was bii däi wichter beläivt, um dat häi in d' fautbaalmanskup was.
+7004155	Das Ebolafieber breitet sich über die Körperflüssigkeiten von einem Menschen zum anderen aus.	Dat ebolófäiver spred't sük oover däi körperflüssiğkaiden fan äin minsk nóó d' anner uut.
 7004590	Wir haben nie Familienurlaub gemacht, weil wir zu arm waren.	Wii hebbent noojt femiiljenuurlaaub móókt, um dat wii t' aarm wassent.
 7004617	Ich hoffe, dass dir das Lesen dieses Buches ebenso viel Spaß gemacht hat wie mir das Schreiben!	Ik hoop, dat dii dat leesen fan dit bauk net soo fööl plesäär móókt het as mii dat skriiven!
 7004618	Ich hoffe, dass Ihnen das Lesen dieses Buches ebenso viel Spaß gemacht hat wie mir das Schreiben!	Ik hoop, dat Jau dat leesen fan dit bauk net soo fööl plesäär móókt het as mii dat skriiven!
@@ -8753,6 +8915,8 @@
 7277924	Haben Sie sich schon entschlossen, wen Sie auf Ihre Geburtstagsfeier einladen wollen?	Hebbent Jii Jau al undslooten, wel Jii up Jau boorsdóóğsfier nöygen willent?
 7280790	Tom wurde von der National Science Foundation ein Forschungsstipendium zugesprochen.	Tom wur fan däi National Science Foundation 'n föörskernsstipendium tausprooken.
 7280795	Tom erhielt ein Stipendium von der National Science Foundation.	Tom ferkreeğ 'n stipendium fan däi National Science Foundation.
+7281442	Was glauben Sie, wie lange Sie dafür brauchen werden, das Haus zu streichen?	Wat löövent Jii, woo lâang Jii d'r föör bruuken söölent, dat huus t' striiken?
+7281443	Was glaubst du, wie lange du dafür brauchen wirst, das Haus zu streichen?	Wat löövst duu, woo lâang duu d'r föör bruuken sast, dat huus t' striiken?
 7281456	Es braucht viel Zeit, eine Fremdsprache gut zu erlernen.	Dat bruukt fööl tiid, 'n frömdtóól gaud t' leeren.
 7286081	Maria schloss die Augen und wartete auf Toms Kuss. Als sie die Augen öffnete, war Tom verschwunden.	Marió sloot däi oogen un wacht'de up Tom siin tuutje. Doo säi däi oogen oopen dee, was Tom ferdweenen.
 7286114	Tom und Maria unternehmen einen romantischen Spaziergang bei Mondlicht am Strand.	Tom un Marió unnerneement 'n romantisk kaierpad bii móónlücht bii d' strand.
@@ -8769,6 +8933,7 @@
 7302806	Tom versuchte zu ergründen, warum er anders als die anderen war.	Tom fersöch uut t' sinnen, woosoo häi anners was as däi annernt.
 7302845	Ich hab’s lieber und brauch’ es nicht, als dass ich’s brauche und nicht habe.	Ik heb dat läiver un bruuk 't näit, as dat ik 't bruuk un näit heb.
 7302871	Tom und Maria griffen zum Kauf des ersten Hauses auf die Ersparnisse zurück.	Tom un Marió greepent föör d' koop fan dat êerst huus up däi bespornissen t'rüeğ.
+7305711	„Was hast du denn heute Abend vor?“ – „Nichts Besonderes.“	"Wat hest duu dan fanóóvend fööer?" - "Niks besünners."
 7317018	Warum ist das meine Aufgabe?	Woosoo is dat miin upgóóev?
 7319791	Rasen verursacht Unfälle.	Róósen feroorsóókt unfallen.
 7321856	„Was sollen wir Tom sagen?“ – „Keine Sorge! Da fällt mir schon was ein.“	"Wat söölent wii Tom säegen?" - "Kiin söerğ! D'r faalt mii al wat in."
@@ -8800,6 +8965,7 @@
 7331801	Woher weiß man, ob man die Richtige für die Aufgabe gefunden hat?	Wor fan wäit man, of man däi räecht föör däi upgóóev funnen het?
 7331840	Tom und Johannes haben mir gestern ihre neuen Freundinnen vorgestellt.	Tom un Johannes hebbent mii güster höör näej fründinnen föörstelt.
 7331949	Auf wen können Tom und ich bauen, wenn raue Zeiten kommen?	Up wel köönent Tom un ik baauen, doo rûuğ tiiden kooment?
+7332089	Ich weiß nicht, wem Tom diese Flasche Wein schenken will.	Ik wäit näit, wel Tom disser fläes wiin skenken wil.
 7333445	Toms Lehrer hat angerufen, um mitzuteilen, dass Tom einige Kinder an der Schule drangsaliert habe.	Tom siin mester het anraupen, um mit t' däilen, dat Tom wat kinner bii d' skaul kujoonäärt haar.
 7333446	Toms Lehrerin hat angerufen, um mitzuteilen, dass Tom einige Kinder an der Schule drangsaliert habe.	Tom siin mesterske het anraupen, um mit t' däilen, dat Tom wat kinner bii d' skaul kujoonäärt haar.
 7333465	Jetzt bist du am Zug.	Nuu büst duu an d' tsuğ.
@@ -8844,6 +9010,7 @@
 7346842	Das Baby schlief tief und fest.	Dat pupke sleep däip un fast.
 7347317	Tom versprach, mir auf dem Heimweg etwas zu essen zu kaufen.	Tom beloovde, mii up d' häimweğ wat t' eeten t' koopen.
 7349709	Wir wurden vom Gezwitscher der Vögel in den Bäumen außerhalb unseres Zimmers geweckt.	Wii wurdent fan 't gekwitter fan däi föögels in d' boomen buuten us kóómer wóóker móókt.
+7349821	Chinesisch und Japanisch sind sehr schwer zu lesende Sprachen.	Skiineesk un Jóópóónsk bünt läip stur t' leesend tóólen.
 7352448	Ich kann recht gut Französisch, aber nicht so gut wie Englisch.	Ik kan recht gaud Fransk, man näit soo gaud as Engelsk.
 7352683	Tom fragte Maria, ob sie wisse, wann mit Johannes’ Erscheinen zu rechnen sei.	Tom frooğ Marió, of säi wus, wenner mit Johannes siin ferskiinen t' reeken was.
 7352701	Bei solchem Wetter gehe ich nicht nach draußen, wenn ich es nicht muss.	Bii sük wêer góó ik näit in buuten doo ik 't näit maut.
@@ -8901,6 +9068,7 @@
 7431032	Ich reise nächsten Monat nach Australien.	Ik râajs anner móónd nóó Aaustróólien.
 7431035	Ich bleibe bis Montag in Australien.	Ik bliiv bit móóndağ in Aaustróólien.
 7431558	Tom hat Maria anscheinend noch immer nicht mitgeteilt, dass er das nicht zu tun gedenkt.	Tom het Marió as 't let't noch altiid näit mitdäilt, dat häi dat näit t' daun beofsichtiğt.
+7431585	Wirst du mir je verraten, was in jener Nacht vorgefallen ist?	Sast duu mii oojt ferróóden, wat in däi nacht föörfaalen is?
 7432512	Ich hatte keine Ahnung, dass du so gut Gitarre spielst.	Ik haar kiin óónen, dat duu soo gaud gitâar spöölst.
 7441646	Warum ist Tom aufgeregt?	Woosoo is Taum soo upreeğt?
 7448257	Warum wurdest du gefeuert?	Wat wurst duu fürt?
@@ -8937,6 +9105,8 @@
 7485878	Sie haben sich das Bein gebrochen.	Säi hebbent sük dat bäin brooken.
 7495808	In der Vergangenheit gab es nie so viel Schnee.	In 't ferleeden gaf dat noojt soo fööl snäj.
 7495839	Wusstest du nicht, dass sich im Untergeschoss des Gebäudes hier ein Kiosk befindet?	Hest duu näit wust, dat sük in 't needenhuus fan dat gebôojd hir 'n kiosk befinnen daajt?
+7525281	Jeder weiß, dass Tom derjenige war, der die Fensterscheibe eingeworfen hat.	Elkäien wäit, dat Tom däien was, däi däi fensterrûud insmeeten het.
+7525282	Jeder weiß, dass Tom derjenige war, der die Fensterscheibe eingeschlagen hat.	Elkäien wäit, dat Tom däien was, däi däi fensterrûud inslóón het.
 7525682	Meine Großmutter benutzte ihre Nähmaschine viel, als sie jünger war.	Miin bäep bruukde höör naajmeskîin fööl, as säi junger was.
 7526647	Findest du nicht, dass dein Französisch gut genug ist, um das Problem zu erklären?	Finst duu näit, dat diin Fransk gaud nauğ is, um dat probleem t' ferkloren?
 7526649	Finden Sie nicht, dass Ihr Französisch gut genug ist, um das Problem zu erklären?	Finnent Jii näit, dat Jau Fransk gaud nauğ is, um dat probleem t' ferkloren?
@@ -8964,6 +9134,7 @@
 7536341	Tom logiert nächsten Monat im Hilton.	Tom loozjäärt anner móónd in 't Hilton.
 7536390	Ich arbeite schon seit drei Jahren in Boston.	Ik aarbaid al siit drei joer in Boston.
 7547266	Das kommt immer wieder vor.	Dat kumt altiid weer fööer.
+7547273	Ich vermute, so etwas kommt in Australien immer wieder vor.	Ik fermaud, soo wat kumt in Aaustróólien altiid weer fööer.
 7547274	Es gibt Orte, an denen so etwas immer wieder vorkommt.	Dat gift steeden, wor soo wat altiid weer föörkumt.
 7550150	Unsere Aufgabe war bisher sehr leicht, aber wird von nun an sehr schwer werden.	Us upgóóev was bit nuu tau läip makkelk, man sal fan nuu of an läip stur worden.
 7551469	Sie hat keine Freunde oder Verwandten, die sich um sie kümmern könnten.	Säi het kiin früen of ferwanten, däi sük um höör kümmern kunnent.
@@ -8997,6 +9168,7 @@
 7636173	Tom macht niemals den Mund auf, ohne sich über etwas zu beschweren.	Tom móókt noojt däi mund oopen, sünner sük oover wat t' beklóógen.
 7637085	Tom behauptete, dass der riesige Grundbesitz ihm zur freien Verfügung stehe.	Tom beweerde, dat däi baldóódiğ grundbesit hum tau 't fräej beskikken stun.
 7637152	Für Tom war es nicht so schwierig, eine Arbeit zu finden, wie er dachte.	Föör Tom was 't näit soo stur, 'n aarbaid t' finnen, as häi doch.
+7646500	In der Handtasche fand man unter anderem das Bild eines Mannes.	In däi handtaaske fun man unner anner dat bild fan 'n man.
 7664465	Ich bin heiser; daher weiß ich nicht, ob ich singen kann.	Ik bün häisterğ; düs wäit ik näit, of ik singen kan.
 7664475	Mir kam zu Ohren, Tom arbeite jetzt bei derselben Firma wie Maria.	Mii kwam tau ooren, Tom aarbaid'de nuu bii d' sülviğ firmó as Marió.
 7664514	Tom sagte, er könne uns morgen Nachmittag dabei helfen.	Tom see, häi kun us mörn nóómiddağ d'r bii helpen.
@@ -9013,6 +9185,7 @@
 7716686	Ich beobachtete die Vögel auf dem Balkon, während ich meinen Kaffee trank.	Ik abserwäärde däi föögels up d' balkong, wiilst ik miin kofje drunk.
 7724404	Das Zuhause ist nicht dort, wo man wohnt, sondern wo man mit Menschen zusammen ist, die einen verstehen.	Dat häim is näit dor, wor man woont, man wor man mit minsken t'sóómen is, däi äien ferstóónt.
 7724454	Obgleich die Argumente sehr vernünftig waren, war er nicht überzeugt.	Alwoo däi arğmenten läip fernüftiğ wassent, was häi näit oovertüüğt.
+7724478	Ich glaube, dass Tom sich nicht bewusst ist, dass er das heute tun muss.	Ik lööv, dat Tom sük näit bewust is, dat häi dat fandóóeğ daun maut.
 7725681	Ich bezweifle, dass Tom je im Leben ein Buch von vorne bis hinten durchgelesen hat.	Ik betwiivel, dat Tom oojt in 't leevend 'n bauk fan fööer bit achter döörleesen het.
 7725682	Ich bezweifle, dass Tom je im Leben ein Buch von Anfang bis Ende durchgelesen hat.	Ik betwiivel, dat Tom oojt in 't leevend 'n bauk fan anfang bit äen döörleesen het.
 7727241	Maria weiß, hofft Tom, dass sie Johannes’ Weisung besser nicht Folge leistet.	Marió wäit, hoopt Tom, dat säi Johannes siin föörslağ beeter näit foelğ laist't.
@@ -9104,6 +9277,7 @@
 7813066	Ich werde nicht Kopf und Kragen für dich riskieren, denn du hast mir früher nie geholfen.	Ik sal näit kop un króóeğ föör dii riskäären, dan duu hest mii frauer noojt hulpen.
 7813890	Ich weiß nicht, wo Tom seine Sommerferien verbringen will.	Ik wäit näit, wor Tom siin sömmerfeerjen ferbrengen wil.
 7818422	Als mitten in der Nacht das Telefon klingelte, wusste ich gleich, dass etwas nicht stimmte.	Doo midden in d' nacht dat telefoon klingelde, wus ik fut, dat wat näit stemde.
+7818423	Als Tom zu sich kam, war er im Keller an einen Stuhl gefesselt.	Doo Tom biikwam, was häi in d' keller an 'n staul fesselt.
 7819746	Wenn es im Himmel keine Hunde gibt, dann will ich, wenn ich sterbe, dahin, wo diese hinkommen.	Doo 't in d' heemel kiin huen gift, dan wil ik, doo ik dood góó, hen, wor dissent hen kooment.
 7819823	Ich wollte dir nur Bescheid sagen, dass ich morgen früh später komme.	Ik wul dii man beskäid säegen, dat ik mörnfrau lóóter koom.
 7819824	Ich denke, du solltest wissen, dass ich dich trotzdem liebe, ganz egal, was passiert.	Ik denk, duu sust wäiten, dat ik dii trotsdeem läiv, häil ne'ğeliik, wat geböört.
@@ -9115,6 +9289,7 @@
 7819904	Als Kind bin ich im Sommer immer an den Strand gegangen.	As kind bün ik up sömmerdağ altiid nóó d' strand góón.
 7820083	Als ich die Frage nicht beantworten konnte, gab Tom mir einen Hinweis.	Doo ik däi fróóeğ näit beantern kun, gaf Tom mii 'n henwiis.
 7820088	Als ich noch jünger war, ging ich an jedem Wochenende wandern.	Doo ik noch junger was, gung ik up elker weekenäen wannern.
+7820094	Als Tom den Brief bekam, verbrannte er denselben, ohne ihn gelesen zu haben.	Doo Tom däi bräif kreeğ, ferbraande häi däi, sünner hum leesen t' hebben.
 7820111	Als ich gerade aus dem Haus gehen wollte, rief Tom an.	Doo ik net tau 't huus uut góón wul, reep Tom an.
 7823049	Ich frage mich, warum ich immer schläfrig werde, wenn ich anfange zu lernen.	Ik fróóğ mii, woosoo ik altiid slóópiğ wor, doo ik anfangen dau t' leeren.
 7823054	Bei einem solchen Lärm bekommt man doch kein Auge zu!	Bii sükker gedrüüs kriğt man doch kiin ôoğ diecht!
@@ -9223,6 +9398,9 @@
 7927369	Das hat schon jemand getan.	Dat het al wel dóón.
 7932977	Das Schiff, auf dem Toms Großvater war, wurde von einem Torpedo versenkt.	Dat skip, wor Tom siin besfóóer up was, wur fan 'n torpedo fersenkt.
 7935679	Der schwerverletzte Mann war bei der Ankunft im Krankenhaus schon gestorben.	Däi sworbeseert keerl was bii d' ankumst in 't krankenhuus al stüürven.
+7935721	Wenn du das Buch zu Ende gelesen hast, gib es bitte wieder zurück.	Doo duu dat bauk t'äen leesen hest, gif 't bitte weer t'rüeğ.
+7935722	Wenn Sie das Buch zu Ende gelesen haben, geben Sie es bitte wieder zurück.	Doo Jii dat bauk t'äen leesen hebbent, geevent Jii 't bitte weer t'rüeğ.
+7935723	Wenn ihr das Buch zu Ende gelesen habt, gebt es bitte wieder zurück.	Doo jii dat bauk t'äen leesen hebbent, gift dat bitte weer t'rüeğ.
 7941085	Ich bin extra vorsichtig, weil ich Angst habe, noch einen Fehler zu machen.	Ik bün ekstró f'rsichtiğ, um dat ik bâang bün, noch 'n feeler t' móóken.
 7941117	Tom schrieb Maria einen Liebesbrief, den er ihr aber nie übergab.	Tom skreev Marió 'n läiftsbräif, däi häi höör bloot noojt oovergeeven dee.
 7941155	Tom wollte reisen und Menschen von überallher kennenlernen.	Tom wul raajsen un minsken fan allerweegens kennen leeren.
@@ -9238,6 +9416,7 @@
 7982768	Meine Lieblingsstelle im Film ist die, wo der Affe den Knochen in die Luft wirft.	Miin läiefst stee in d' film is däi, wor däi óóep däi buenk in d' lücht smit't.
 7983851	Müssten Sie nicht gerade studieren?	Mussent Jii näit net akróót stuudäären?
 7987091	Tom ist nicht gewalttätig und fängt mit niemandem einen Streit an.	Tom is näit gewaltdóódiğ un fangt mit nüms skendóól an.
+7987132	Wie kamst du dazu, Englischhorn lernen zu wollen?	Woo büst duu d'r tau koomen, Engelskhoorn leeren t' willen?
 7987796	Weil er nichts Besseres zu tun hatte, fing Tom an, sein Zimmer sauber zu machen.	Um dat häi niks beeters t' daun haar, fung Tom an, siin kóómer skoon t' móóken.
 7993857	Es ist schlimmer, einen Unschuldigen ins Gefängnis zu stecken, als einen Verbrecher laufenzulassen.	'T is läiper, 'n unskülliğ in 't gefangenis t' steeken, as 'n ferbreeker loopen t' lóóten.
 7993859	Es ist schlimmer, dass ein Unschuldiger ins Gefängnis kommt, als dass ein Missetäter ungeschoren bleibt.	Dat is läiper, dat 'n unskülliğ in 't gefangenis kumt, as dat 'n misdóóder unstróóft blift.
@@ -9257,9 +9436,11 @@
 8049356	An meiner Schule wurde nur Französisch als Fremdsprache unterrichtet.	Up miin skaul wur bloot Fransk as frömdtóól unnerricht't.
 8049357	An meiner Schule gab es nur Französisch als Fremdsprache.	Up miin skaul gaf dat man Fransk as frömdtóól.
 8052071	Wenn ihr sagt, ihr könnt die Arbeit nicht machen, weil ihr zu viel zu tun habt, ist das nur eine faule Ausrede.	Doo jii säegent, jii köönent däi aarbaid näit móóken, um dat jii t' fööl t' daun hebbent, is dat man 'n lâaj uutwendsel.
+8052159	Jede gerade Zahl, die größer als 2 ist, ist die Summe zweier Primzahlen.	Âal lîik tóólen, däi grooter as 2 bünt, bünt däi suem fan twei primtóólen.
 8053112	Ein Freund hat mich beraten, wie man ein einfaches, aber beeindruckendes Mittagessen zubereitet.	'N fründ het mii beróóden, woo man 'n äinfolliğ, man beindrükkend middóóğeeten t'räecht móókt.
 8053396	Warum muss ich das lernen? Das brauche ich doch sowieso nie.	Woosoo maut ik dat leeren? Dat bruuk ik doch soowiisoo noojt.
 8054133	Tom kann jetzt viel besser Französisch als noch vor drei Monaten.	Tom kan nuu fööl beeter Fransk as noch fööer drei móónd.
+8057347	Jede gerade Zahl, größer als zwei, ist die Summe zweier Primzahlen.	Âal lîik tóólen, grooter as twäj, bünt däi suem fan twei primtóólen.
 8059130	Jemand hat an der Tür geklingelt.	Wel het an d' dööer pingelt.
 8059133	Es hat jemand an der Tür geklingelt.	D'r het wel an d' dööer pingelt.
 8060308	Ihr habt es verpatzt.	Jii hebbent 't ferbröydelt.
@@ -9287,6 +9468,9 @@
 8089604	Vielleicht wäre es hilfreich, wenn du es wärst, der Tom sagte, dass er das nicht soll.	Fiilicht was dat hülpsóóm, doo duu 't wast, däi Tom see, dat häi dat näit sal.
 8091196	Es reicht nicht, nur zu sagen, man wolle wählen. Man muss es auch tun!	Dat langt näit, bloot t' säegen, man wul weelen. Man maut 't ook daun!
 8091941	Hast du Interesse, dich an dieser Diskussion zu beteiligen, Tom?	Hest duu interäes, dii an disser diskusjoon t' bedäiligen, Tom?
+8093211	Ich habe keine Zeit, um Ihnen das im Detail zu erklären.	Ik heb kiin tiid, um Jau dat in 't detail t' ferkloren.
+8093212	Ich habe keine Zeit, um dir das im Detail zu erklären.	Ik heb kiin tiid, um dii dat in 't detail t' ferkloren.
+8093213	Ich habe keine Zeit, um euch das im Detail zu erklären.	Ik heb kiin tiid, um jau dat in 't detail t' ferkloren.
 8093239	Der Chirurg überredete mich zu einer Organtransplantation.	Däi sjirôoğ hool mii oover tau 'n orgóóntransplantóósjoon.
 8096475	Das Haus brannte nieder, bevor der Feuerwehrwagen kam.	Dat huus braande dóól, eer däi fürweerwóógen kwam.
 8098837	Tom wusste nicht, aus welchem Grunde Maria seine Einladung nicht annahm.	Tom wus näit, uut wekker grund Marió siin nöygen näit annam.
@@ -9305,6 +9489,7 @@
 8115901	Tom hätte Maria womöglich umgebracht, wenn Johannes nicht dazwischengegangen wäre.	Tom haar Marió meskiin umbrocht, doo Johannes d'r näit tüsken góón was.
 8120703	Tom betrachtete Marias Foto ein letztes Mal und warf es dann ins Feuer.	Tom bekeek Marió höör footo 'n läest móól un smeet 't dan in 't füer.
 8120836	Sobald sie mich erblickt hatte, fing sie an in meine Richtung zu rennen.	Soo dróó säi mii blauken dee, fung säi an up mii dóól t' rönnen.
+8123469	In diesem Lande leben viele Kinder von der Hand in den Mund.	In dit land leevent fööl kinner fan d' hand in d' mund.
 8123783	Nach dem Unfall wurde er an eine ganze Reihe Maschinen angeschlossen.	Nóó dat melöör wur häi an 'n häiel rîiğ meskiinen anslooten.
 8131918	Der Blitz funktionierte nicht, so dass er kein Bild im Dunkeln machen konnte.	Däi blits funksjoonäärde näit, soo dat häi kiin bild in 't düüstern móóken kun.
 8131951	Er hat mich heute Nachmittag über eine Stunde dort warten lassen.	Häi het mii fannóómiddağ oover 'n stüen dor wachten lóóten.
@@ -9314,6 +9499,9 @@
 8132359	Eine ausgezeichnete Beziehung fußt auf zwei Hauptgrundsätzen: Schätzt zum einen eure Gemeinsamkeiten und achtet zum anderen eure Unterschiede!	'N besünner betrekken grunt up twei grundbegünsels: Weerdäärt up d' äin kâant jau mäinsóómkaiden un acht't up d' anner kâant jau ferskeelen.
 8132434	Ich weiß, dass ich mindestens acht Stunden am Tag schlafen sollte, aber ich schlafe gewöhnlich weniger.	Ik wäit, dat ik minst acht stüen fan d' dağ slóópen sul, man ik slóóp döörgóóns minner.
 8132451	Der Arzt sagte, Tom müsse die nächsten Wochen im Bett bleiben.	Däi dokter see, Tom mus däi tauken wêek up bäer bliiven.
+8132667	Ich bin Ihnen sehr zu Dank verpflichtet für alles, was Sie für mich getan haben.	Ik bün Jau läip dankbor föör âals, wat Jii föör mii dóón hebbent.
+8132668	Ich bin dir sehr zu Dank verpflichtet für alles, was du für mich getan hast.	Ik bün dii läip dankbor föör âals, wat duu föör mii dóón hest.
+8132670	Ich bin euch sehr zu Dank verpflichtet für alles, was ihr für mich getan habt.	Ik bün jau läip dankbor föör âals, wat jii föör mii dóón hebbent.
 8134578	Die Geschichte ist wie ein Walzer: sie folgt ewig den drei Schritten Krieg, Frieden und Revolution.	Däi histoorje is as 'n walser: häi folğt äiwiğ däi drei stappen oorlauğ, free un rewulusjoon.
 8135111	Mein Großvater weiß nicht, wie er aus einem Geldautomaten Geld herausbekommt.	Miin besfóóer wäit näit, woo häi uut 'n geldaautomóót geld d'r uut kriğt.
 8135155	Tom war nicht der einzige, der preisgab, anderer Meinung zu sein als Maria.	Tom was näit däi enkeld, däi düüdelk mook, fan 'n anner mäinen t' weesen as Marió.
@@ -9354,6 +9542,7 @@
 8194106	Sie hatten einen langen Tag.	Jii haarent ' n lâang dağ.
 8194109	Ihr hattet einen langen Tag.	Jii haarent 'n lâang dağ.
 8194249	Welches Buch fandest du am interessantesten?	Wat föör 'n bauk funst duu interessantst?
+8194265	Du musst dir einen neuen Anzug kaufen, den du zu dem Vorstellungsgespräch tragen kannst.	Duu maust dii 'n näj pakje koopen, dat duu tau dat föörstellensgesprek dróógen kaast.
 8195518	Du bist der einzige, den ich kenne, der nicht mindestens einmal in der Woche irgendein Medikament einnimmt.	Duu büst däi enkeld, däi ik ken, däi näit t'minst insent in d' wêek enner 'n meedkóment inneemen daajt.
 8195519	Du bist die einzige, die ich kenne, die nicht mindestens einmal in der Woche irgendein Medikament einnimmt.	Duu büst däi enkeld, däi ik ken, däi näit t'minst insent in d' wêek enner 'n meedkóment inneemen daajt.
 8198074	Ich empfehle, muttersprachliche Sätze beizutragen, denn bei diesen kann man auch davon ausgehen, dass sie natürlich klingen.	Ik undfeel, maudertóóliğ satsen bii t' dróógen, dan bii dissent kan man d'r ook fan uutgóón dat säi natürelk klingent.
@@ -9549,6 +9738,7 @@
 8606872	Jetzt bin ich zwar mit Tom befreundet, am Anfang aber mochten wir uns nicht.	Nuu bün ik wal mit Tom befründjet, man an anfang muğğent wii us näit.
 8606874	Jetzt bin ich zwar mit Tom befreundet, am Anfang aber konnten wir uns nicht riechen.	Nuu bün ik wal mit Tom befründjet, man an anfang kunnent wii us näit uutstóón.
 8607116	Ich denke, ich habe jetzt genug Geld, um mir das Auto zu kaufen, das ich haben will.	Ik denk, ik heb nuu nauğ geld, um mii dat aauto t' koopen, wat ik hebben wil.
+8613187	Ein Kind, das beide Eltern verloren hat, nennt man Waise.	'N kind, wat bâajd ollen ferlooren het, nöymt man wäies.
 8619780	Tom und Maria waren in der Schule befreundet, und einige Jahre nach dem Abschluss wurden sie ein Paar.	Tom un Marió wassent in d' skaul befründjet, un wat joren nóó d' ofslus wurdent s' 'n poer.
 8622289	Tom und Maria wollen heiraten, sobald sie mit dem Studium fertig sind.	Tom un Marió willent traauen, soo dróó säi mit dat stuudium klor bünt.
 8624100	Ich denke, dass es Tom nicht nur beiläufig interessiert, was mit mir geschieht.	Ik denk, dat 't Tom näit alleniğ biiloopiğ interessäärt, wat mit mii geböört.
@@ -9586,6 +9776,7 @@
 8688324	Tom zahlt fast immer mit Kreditkarte, wenn er einkaufen geht.	Tom betóólt hóóst altiid mit krediitkoert, doo häi up böskup gaajt.
 8688882	Ich war gerade in der Nachbarschaft unterwegs, also kam ich kurz rein ,um zu sehen, wie es Tom gerade ging.	Ik was net in d' nóóberskup unnerweegens, alsoo kwam ik eeven in, um t' säin, woo 't Tom net gung.
 8689816	Sie halfen sich gegenseitig, das Schulfest zu einem Erfolg zu machen.	Säi hulpent sük teegennanner, dat skaulfest tau 'n erfolğ t' móóken.
+8692241	Hätte ich das eher gewusst, hätte ich da etwas tun können.	Haar 'k dat eerder wust, haar 'k d'r wat daun kunt.
 8696510	Ich glaube, dass Skateboards normalerweise billiger sind als Rollschuhe.	Ik lööv, dat skateboards n'rmóólerwîis billiger bünt as rulskau.
 8696814	Die Beziehung zwischen Tom und Maria verlief nach einigen Monaten im Sande.	Dat betrekken tüsken Tom un Marió leep nóó wat móónden uut.
 8697923	Tom denkt nicht, dass Mary in der Lage sein wird, John davon zu überzeugen.	Tom denkt näit, dat Mary kumpóóbel weesen sal, John d'r fan t' oovertüügen.
@@ -9731,6 +9922,7 @@
 8960703	Zu Fuß dauert es keine fünf Minuten vom Bahnhof bis zur Schule.	T' faut dürt 't kiin fiif menüüten fan d' bóónhof bit nóó d' skaul.
 8962573	Um 8.15 Uhr vormittags, dem genauen Zeitpunkt, da von dem US-Kampfflugzeug „Enola Gay“ eine Atombombe mit dem Spitznamen „Little Boy“ abgeworfen wurde, legte die kleine Menge im Park des Gedenkens an den Frieden in Hiroshima einen Moment des Schweigens ein.	Teegen 8:15 üer s' föörmiddóóğs, däi genâau tiidpunkt, doo fan dat US-kamffluğtsoiğ "Enola Gay" 'n atoombuemb mit däi spitsnóóm "Little Boy" ofsmeeten wur, dee dat lütje koppel in d' paark fan 't heerdenken an d' free in Horishima 'n moment fan swiigen hollen.
 8966225	Deshalb ist Tom nicht hier.	Düs is Tom näit hir.
+8970183	Müssen wir für diesen Kurs ein Lehrbuch kaufen?	Mautent wii föör disser kurs 'n leerbauk koopen?
 8975684	Es bestand kein Zweifel, dass der Moment für mich gekommen war, die Führung zu übernehmen.	D'r bestun kiin twiivel, dat däi moment föör mii koomen was, dat fören t' ooverneemen.
 8975690	Maria reservierte anlässlich des Geburtstages ihres Freundes einen Tisch in einem guten Restaurant.	Marió dee up d' boorsdağ fan höör fründ 'n tóóvel in 'n gâaud restaaurant reserwäären.
 8980000	Der Rettungssanitäter riss Toms T-Shirt auf und sah sich die Wunde an.	Däi reddenssanitäiter reet Tom siin t-shirt oopen un keek sük däi wuen an.
