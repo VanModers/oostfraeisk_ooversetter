@@ -333,7 +333,7 @@ Bii disser lâamp eksistäärt kiin gefoer, dat häi däi föörhangen ansteeken
 D'r günt 'n frâau, däi Jau prooten wil.
 D'r günt 'n frâau, däi dii prooten wil.
 Dat gaajt dat gerücht um, duu haarst Tom güster óóvend tuutjet.
-'N bauk, 'n päen un 'n blad pepier bünt up d' tóóvel.
+'N bauk, 'n stift un 'n blad pepier bünt up d' tóóvel.
 Dat gaf fööl, däi hum in siin ferkläären näit erkennen kunnent.
 Dat gaf tweihunnertfiiftain stemmen föör un fiiftain stemmen teegen däi andrağ.
 Dat let't man mien minsken t' geeven, däi dit matemóótsk probleem löesen köönent.
@@ -816,7 +816,7 @@ Tom mäint, dat kinner in skaulen biibrocht worden sul, däi ooverhaid t' gehoor
 Tom löövt, Mary dee d'r niks fan óónen, wat d'r lös is.
 Tom proot'de mit Marió oover dingen, däi häi n'rmóólerwîis föör sük sülst hul.
 Tom erkende t'móól, dat dat, wat häi doo dee, läip gefordelk was.
-Tom unnerskreev mit dat näej päen, däi häi fan Marió kreegen haar.
+Tom unnerskreev mit däi näej stift, däi häi fan Marió kreegen haar.
 Tom nam up Marió höör geföylen kiinerlai uemsicht.
 Tom däilde sük däi kóómer mit Marió un drei anner früen.
 Tom sat in d' skâar fan 'n boom un keek siin kinner bii 't spöölen tau.
@@ -1708,7 +1708,7 @@ Däi blössems ooversweedent dat mâarkt up 't weekenäen.
 Däi kuntrakt is in drööeğ dauken, alsoo lóót't us dat begäiten.
 Däi skipsafläider was däi läest persoon, däi dat unnergóónd skip ferleet.
 Däi kaptain was däi läest persoon, däi dat sinkend skip ferleet.
-Dat bauk is up d' tóóvel un däi päen liğt up 't fenster.
+Dat bauk is up d' tóóvel un däi stift liğt up 't fenster.
 Däi blien krankenswester dedisäärde sük däi plêeğ fan däi ollerders.
 Däi bankoover skräiwde: "Kiin äien rööğt sük!"
 Däi bankoover skräiwde: "Bläivt âal, wor jii bünt!"
@@ -2190,7 +2190,7 @@ Wat gift dii däi glôov in, Tom kun interäes d'r an hebben, us t' helpen?
 Wat móókt dii lööven, dat Tom d'r an geleegen is, us t' helpen?
 Wat feranlóót't dii t' lööven, Tom was d'r an interessäärt, us t' helpen?
 Wekker tóól bruukst duu, doo duu mit diin ollen prootst?
-Wat hest duu mit miin päen móókt? Häi was fööer 'n menüüet hir.
+Wat hest duu mit miin stift móókt? Häi was fööer 'n menüüet hir.
 Wor is dan dat bauk hengróókt, wat ik net hir dóólläeğt haar?
 Wat geböörde mit dat bauk, wat ik fööer 'n poer menüüten hir heerläeğt heb?
 Wat móókt dat al uut, doo us däi lüü bekiikent?
@@ -6987,8 +6987,8 @@ Kende ik höör nóóm un höör adräes, soo kun ik höör skriiven.
 Doo ik diin hüelp wult haar, soo haar 'k d'r um beeden.
 Doo ik diin hüelp wult haar, dan haar ik d'r um beeden.
 Doo ik höör adräes wust haar, haar ik höör besöyken kunt.
-Doo ik meer geld hat haar, soo haar 'k mii däi päen köft.
-Haar 'k meer geld hat, soo haar 'k däi päen köft.
+Doo ik meer geld hat haar, soo haar 'k mii däi stift köft.
+Haar 'k meer geld hat, soo haar 'k däi stift köft.
 Doo ik fööl geld haar, dee ik döör d' weerld raajsen.
 Doo ik fööl geld haar, dee ik 'n weerldrâajs móóken.
 Doo ik up däi fier góó, sal ik 'n poer flessen wiin mitneemen.
