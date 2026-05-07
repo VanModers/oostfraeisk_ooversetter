@@ -15319,7 +15319,7 @@ wat 'n wunnerlîik kaauter
 wat näit begreepen hebben
 wat näit begriipen köönen
 wat näit fulhollen köönen
-wat nib un naau beskaauen
+wat nip un naau beskaauen
 wat stek dii in d' kroep?
 wat 't daajt dat daajt 't
 wat 't daajt dat 't daajt
@@ -21465,7 +21465,7 @@ häi het 't beeter
 häi het uutskaajt
 häi holt hum kört
 häi hoont mii uut
-häi höört nib tau
+häi höört nip tau
 häi hüpket d'r up
 häi is al wat hen
 häi is bold groot
@@ -24692,7 +24692,7 @@ na woo is 't?
 näit ... näit
 nauğ is nauğ!
 nervelk keput
-nib tauhöören
+nip tauhöören
 noch ... noch
 nöchtern späj
 nóó gedachten
@@ -25877,7 +25877,7 @@ nâat baudel
 nâat hóógel
 näit ... of
 nat hóógeln
-nib un naau
+nip un naau
 niks rechts
 noch insent
 noch kennen
