@@ -162,6 +162,7 @@ Sie spricht ziemlich schnell.
 "Danke schön, ich hätte gerne noch ein Stück Kuchen", sagte der schüchterne junge Mann.
 Das wird dich in Gefahr bringen.
 Gestern Nacht brach jemand in den kleinen Laden in der Nähe meines Hauses ein.
+Leider hatte ich keine Gelegenheit das Schloss zu sehen.
 Unser Lehrer erlaubte es uns, während der Arbeit ein Wörterbuch zu benutzen.
 Als Mary an der Haltestelle ankam, war der Bus schon weg.
 Gestern sagte unser Lehrer, wir würden heute einen Test schreiben.
@@ -372,6 +373,7 @@ Die Karten gelten nur zwei Tage, inklusive dem Tag, an dem sie gekauft wurden.
 Sag mir, warum sie weint.
 Je älter du bist, desto schwieriger ist es, eine Sprache zu lernen.
 Wir hatten nicht erwartet, dass er die Aufgabe in so kurzer Zeit bewältigt.
+Wir hören oft, dass gesagt wird, die Japaner seien gute Arbeiter.
 Wie spät ist es?
 Neulich ging ich zum ersten Mal in meinem Leben fischen.
 Sie ist eine sehr gute Lehrerin.
@@ -462,6 +464,7 @@ Der Apfel ist noch nicht reif.
 Er stellte klar, dass er mit der Sache nichts zu tun hatte.
 Frauen reden gerne.
 Wenn ich Ihre Telefonnummer gekannt hätte, hätte ich Sie angerufen.
+Ohne es zu merken, sagte er ihr genau das, was sie wissen wollte.
 Nach dem Gewinn der Meisterschaft war die gesamte Fußballmannschaft auf Wolke sieben.
 Wegen dem schlechten Wetter hatte das Flugzeug drei Stunden Verspätung.
 Wegen des schlechten Wetters hatte das Flugzeug drei Stunden Verspätung.
@@ -679,6 +682,7 @@ Die Granate explodierte, bevor der Terrorist sie werfen konnte; es zerfetzte ihm
 Sie versprach, dass sie mich diese Woche bezahlen würde, aber sie hielt nicht Wort.
 Er kehrte in sein Heimatdorf zurück, wo er die letzten Jahre seines Lebens verbrachte.
 Ich kann dieses Bild nicht sehen, ohne an meine Kindheit erinnert zu werden.
+Wir freuen uns alle darauf, dich und deine Familie zu sehen.
 Das neue Bahnhofsgebäude ist im Bau und wird bald fertiggestellt sein.
 Er kleidet sich wie ein Gentleman, aber er redet und benimmt sich wie ein Clown.
 Es ist auch viel so genannte Arbeit hinter den Kulissen dabei.
@@ -754,6 +758,7 @@ Ich wollte das Buch kaufen, aber ich stellte fest, dass ich nicht mehr als 200 Y
 Das Buch handelt von den Gesetzen.
 Charles Moore entwickelte Forth in einem Versuch, die Produktivität des Programmierers zu steigern, ohne Rechenleistung zu opfern.
 Bei der Firmenweihnachtsfeier schlugen wir uns alle die Bäuche voll, besonders mit dem Roastbeef.
+Wir sollten anfangen, Weihnachtsgeschenke für die Kinder zu besorgen.
 Die Vereinigten Staaten heißen Einwanderer aus vielen Ländern willkommen.
 Es wäre das Beste, es jemandem zu überlassen, der weiß, wie die Sache läuft.
 Der Kaffeefleck war schwer zu entfernen.
@@ -1158,6 +1163,7 @@ Eine Art Party im oberen Geschoss hielt mich gestern Abend bis um eins wach.
 Wir gehen in die Berge. Warum kommst du nicht mit?
 Ich glaube, Beethoven ist der größte Komponist, der je gelebt hat.
 Das Gesicht des Feuerwehrmannes war erbittert, als er aus dem brennenden Haus kam.
+Tsunamis fegten durch Reisfelder und überfluteten die Städte.
 Es war solch ein schöner Tag, dass viele Kinder im Park spielten.
 Ich kann mich damit abfinden, wenn ein Haus unordentlich ist, aber ich mag es nicht, wenn es schmutzig ist.
 Man kann sein Geld lieber gleich wegschmeißen, als es zu verspielen.
@@ -1357,6 +1363,7 @@ Weißt du, wie man ein Feuer macht nur mit Holzstecken?
 Ich glaube, wir haben vorhin, einen falschen Weg eingeschlagen, wenn ich mich nicht irre.
 Es ist eine lange Zeit vergangen, seitdem ich eine so angenehme Überraschung hatte.
 Mehr Studenten melden sich an der Universität an, als angenommen werden können.
+Wir suchen einen Assistenten, bevorzugt jemanden mit Erfahrung.
 Sie sieht jung aus, aber tatsächlich ist sie älter als du.
 Sie sind sehr tapfer.
 Keine Sorge! Selbst wenn ich trinke, hat das keinerlei Einfluss auf meine Fahrtüchtigkeit.
@@ -1625,6 +1632,7 @@ Ein Vogel kann durch die Lüfte gleiten, ohne seine Flügel zu bewegen.
 Tom versteckte die Waffe in der Keksdose auf dem Kühlschrank.
 Leute, die Gabeln oder Stäbchen benutzen, denken oft, dass die, die das nicht tun, unzivilisiert sind.
 Es ist sehr unwahrscheinlich, dass das wirklich der gleiche Mann ist, den du vor zehn Jahren getroffen hast.
+Wir haben aufmerksam zugehört, um nicht ein einziges Wort zu verpassen.
 Es wird geschätzt, dass es im Englischen über eine halbe Million Wörter gibt.
 Tom weiß nicht genau, wann Marys Zug die Station verließ.
 Der Schmerz ließ nach, während die Salbe in seinen Fuß einmassiert wurde.
@@ -1708,6 +1716,8 @@ Kreativität ist die Fähigkeit, bekannte Elemente in neuer, ungewohnter Weise z
 Hast du dich entschieden, ob du dein Haus verkaufst oder nicht?
 Sollte er zu spät kommen, können Sie mit der Konferenz ohne ihn anfangen.
 Während schwerer Zeiten könnten die Leute nicht auf Reisen gehen, aber es könnte sein, dass sie bereit sind, für guten Kaffee zuzuzahlen.
+Tom sagt, dass er in letzter Zeit nicht in der Lage ist, genug Schlaf zu bekommen.
+Tom sagt, dass er heute Abend keine Lust auf Bier hat.
 Sollte er später kommen, können Sie mit der Konferenz ohne ihn anfangen.
 Der letzte Sommer war außergewöhnlich kalt und die Reisernte war die schlechteste in zehn Jahren.
 Das Kaufen und Verkaufen persönlicher Daten von Leuten wird eine wichtige Angelegenheit.
@@ -2242,6 +2252,7 @@ Wenn ich höre, dass Menschen kleine Kinder entführen, das lässt mein Blut koc
 Es geht etwa um acht Uhr dreißig los.
 Man muss die Schuhe ausziehen, wenn man ein japanisches Haus betritt.
 Die Zeit reicht nie, um das zu tun, was man eigentlich will.
+Tom hat seine alte Kamera mit seiner neuen fotografiert.
 Ich weiß einfach nicht, was in den Köpfen von Leuten, die in Foren herumtrollen, vorgeht.
 Tom versteht nicht den Unterschied zwischen einer Kathode und einer Anode.
 Dieser Artikel äußert sich kritisch über die Art, auf die diese Angelegenheit untersucht wird.
@@ -2382,6 +2393,7 @@ Dadurch, dass die Protestrufe immer lauter wurden, konnte man seine Rede nicht m
 Aufgrund des schlechten Wetters verspätete sich das Flugzeug um zwei Stunden.
 Tom glaubt, dass die Reichen es verdienen, reich zu sein, wie die Armen es verdienen, arm zu sein.
 Tom glaubt, dass die Reichen es verdienen, reich zu sein, und dass die Armen es verdienen, arm zu sein.
+Tom hat mit seiner neuen Kamera ein Bild seiner alten aufgenommen.
 Ich sehe voraus, dass sie auf ihrer Expedition Probleme haben werden.
 Es ist abzusehen, dass sie während ihrer Expedition auf Probleme stoßen werden.
 Das Flugzeug aus Chicago kam spät in der Nacht auf dem Flughafen an.
@@ -2643,6 +2655,7 @@ Es ist sinnlos zu versuchen, ihn davon zu überzeugen.
 Ich werde ihn um ein Autogramm bitten. Hast du etwas zum Schreiben dabei?
 Als ich ihn darum bat, mir etwas Geld zu leihen, schlug er es mir ab.
 Louis Braille, der seit seinem vierten Lebensjahr blind war, hat eine Methode erfunden, mit der Blinde lesen können.
+Tom wird wahrscheinlich morgen aus dem Krankenhaus entlassen werden.
 Was würden Sie machen, wenn in ihrer Nachbarschaft ein Feuer ausbräche?
 Was würdest du machen, wenn in deiner Nachbarschaft ein Feuer ausbräche?
 Ich liebe meine neue Wohnung, weil sie sehr nahe am Bahnhof liegt.
@@ -2844,6 +2857,7 @@ Tom braucht einfach nur etwas Zeit, um sich an den Gedanken zu gewöhnen, dass M
 Tom hoffte, dass das Video, das er soeben auf „YouTube“ hochgeladen hatte, in Windeseile von sich reden machen würde.
 Ich glaube, ich habe aus Versehen Tom bezichtigt, obwohl es eigentlich Maria war.
 Wir können es uns nicht leisten, so weiterzumachen wie bisher.
+Wir wissen nicht einmal, ob sie überhaupt die Absicht haben, uns zu helfen.
 Wir wissen nicht, wo Tom ist, aber wir müssen ihn so schnell wie möglich finden.
 Wir wissen nicht, wo Tom steckt, aber wir müssen ihn, so schnell es geht, ausfindig machen.
 Wir haben nicht die Zeit, um alles zu erledigen, worum sie uns gebeten haben.
@@ -2854,6 +2868,8 @@ Wir müssen feststellen, warum die Maschine nicht richtig funktioniert.
 Wir müssen ermitteln, wer das Feuer gelegt hat, durch das Toms Haus niederbrannte.
 Wir müssen uns überlegen, wie wir Tom dazu ermutigen könnten, das Richtige zu tun.
 Wir müssen uns eine Möglichkeit überlegen, wie wir erreichen könnten, dass diese Maschine unter Wasser funktioniert.
+Wir müssen uns so lange weiterbemühen, bis wir eine Methode finden, die funktioniert.
+Wir müssen es Tom sagen, bevor er es von jemand anderem erfährt.
 Wir konnten nicht in Erfahrung bringen, warum es uns nicht gestattet war, jenes Gebäude zu betreten.
 Wir konnten nicht in Erfahrung bringen, wer die ganzen Rechnungen für uns bezahlt hat.
 Wir konnten nicht in Erfahrung bringen, wo Tom seinen Abschluss machte.
@@ -2920,6 +2936,7 @@ Tom verziehe es sich nie, wenn Maria etwas zustieße.
 Ich freue mich zu sehen, dass du emsiger lernst als sonst.
 Maria probierte erneut alle Kleidung an, die sie am Tag zuvor erstanden hatte.
 Was glaubst du, wie man deren Argument am besten entschärfen könnte?
+Es gibt da etwas sehr Wichtiges, über das wir sprechen müssen.
 Die Ergebnisse der Umfrage werden zu gegebener Zeit bekannt gegeben.
 Zu jener Zeit war Nordamerika noch nicht unabhängig vom Vereinigten Königreich.
 Als ich die Türe öffnete, stand dort Tom, der einen Anzug trug.
@@ -3034,6 +3051,7 @@ Tom sagte, dass er nie zuvor ein derart köstliches Mahl zu sich genommen habe.
 Tom saß schweigend da und sah zu, wie Maria die letzten Lebensmittel aß.
 Tom hätte mehr Gemüse und weniger Fleisch essen sollen.
 Tom isst Reis mit dem Löffel; Maria hingegen nimmt lieber Stäbchen.
+Tom isst für gewöhnlich alles, was Maria ihm vorsetzt.
 Tom begab sich zu einem nahegelegenen Nachbarschaftsladen, um sich etwas zu essen zu kaufen.
 Du solltest Proviant einpacken, damit du während deiner Wanderung etwas zu essen hast.
 Jeder Mensch hat ein psychisches Bedürfnis, mitzubekommen, dass das, was er macht, eine gewisse Bedeutung hat.
@@ -3067,6 +3085,7 @@ Das Geräusch hat mich zuerst gestört, aber jetzt habe ich mich daran gewöhnt.
 Das erste Verbot gegen Sklaverei wurde in der Mitte des 19. Jahrhunderts ausgesprochen.
 Toms Frau verließe ihn wohl, wenn sie die Wahrheit wüsste.
 Toms dritte Ehe war unglücklich, und er zog eine weitere Scheidung in Erwägung.
+Toms Mutter jagte Tom, der nackt durch die Eingangshalle rannte.
 Es bereitet Unmut, mit Tom zusammenzuarbeiten, weil er die Fehler, die er macht, nie zugibt.
 Tomme hätte nichts dagegen, an jedem Wochentag Fleisch und Kartoffeln zu essen.
 Tom hätte nichts gegen Fleisch und Kartoffeln an jedem Wochentag.
@@ -3110,7 +3129,11 @@ Tom spricht fünf Sprachen, aber in keiner hiervon versteht er es, höflich zu s
 Tom schlüpfte leise in seine Sachen und schlich auf Zehenspitzen aus dem Raum.
 Tom sollte auf jeden Fall das eine oder andere Kunstmuseum besuchen, während er in Frankreich ist.
 Tom scheint immer das Richtige zur rechten Zeit zu sagen.
+Tom sagt, dass er in letzter Zeit keinen ausreichenden Schlaf finden könne.
+Tom sagt, dass er es sich nicht vorstellen könne, bei diesem Wetter auszugehen.
 Tom sagt, er könne eine ganze Flasche Whiskey trinken, ohne dass er davon betrunken wird.
+Tom sagt, dass es Zeitverschwendung sei, jedem zu Gefalle zu sein sich zu bemühen.
+Tom sagt, dass er die Spur seiner Vorfahren etwa dreihundert Jahre zurückverfolgen könne.
 Tom sagte, dass wir in diesem Museum keine Fotos schießen dürften.
 Tom sagte, dass seine Eltern beide noch in Boston gewesen seien.
 Tom sagte, dass er mir dreißig Dollar gäbe, wenn ich dafür einen Regenwurm äße.
@@ -3226,6 +3249,7 @@ Tom hatte keine Lust mehr zu lesen und wollte nach draußen gehen, um zu spielen
 Der Millionär hatte die Absicht, das Meisterwerk zu erwerben, ganz gleich, was es kosten würde.
 Der Minister berief einen seiner Kumpane in eine Schlüsselposition.
 Der Minister setzte einen seiner Amigos in eine Schlüsselposition ein.
+Wir können nicht weiterhin so tun, als hätte Tom kein Problem.
 Du kannst deinen Wagen nicht einfach vor einem Hydranten abstellen.
 Sie können Ihre Auto nicht einfach vor einem Hydranten parken.
 Ich kann mir nicht vorstellen, warum jemand etwas Derartiges stehlen sollte.
@@ -3250,6 +3274,8 @@ Die Polizei kann niemanden ausfindig machen, der sich erinnert, dich in der Mord
 Es tut mir leid, dass ich nicht hier sein konnte für dich, wie ich es hätte sein sollen.
 Die Schweiz ist ein schönes Land und ein Besuch lohnt sich.
 Das schlechte Wetter verzögerte den Abflug um zwei Stunden.
+Wir können nicht beweisen, dass Tom lügt, aber wir sind uns dessen ziemlich sicher.
+Wir können es zwar nicht beweisen, aber wir sind uns ziemlich sicher, dass Tom lügt.
 Im Wartezimmer war es so laut, dass ich das Ausrufen meines Namens nicht hören konnte.
 Die Dorfbewohner kamen lange Zeit ohne Elektrizität aus.
 Ich weiß nur, dass ich sterben werde, wenn ich dieses Medikament nicht täglich einnehme.
@@ -3423,6 +3449,9 @@ In der Regel kommt er morgens gegen halb zehn ins Büro.
 Tom gab einem berühmten Sänger zehntausend Dollar, damit dieser zum Restaurant komme, um „Zum Geburtstag viel Glück“ zu singen.
 Tom gab einem berühmten Sänger zehntausend Dollar, damit dieser zu einem Geburtstagsständchen zum Gasthaus käme.
 Tom sah, dass Maria nicht glücklich war, und ging zu ihr hin, um sie aufzuheitern.
+Tom weckte Maria um 6.30 Uhr, und sie war davon nicht begeistert.
+Tom weckte Maria um sechs Uhr dreißig, und sie war davon nicht begeistert.
+Tom weckte Maria um halb sieben, wovon sie nicht begeistert war.
 Es hing ein Transparent an der Wand, auf dem „Herzlichen Glückwunsch zum Geburtstag“ stand.
 Die sind nicht eher zufrieden, bis sie uns alles genommen haben, was wir besitzen.
 Tom war nicht damit zufrieden, wie die Maler sein Büro strichen.
@@ -3664,6 +3693,7 @@ Nichts ist schlimmer, als etwas halbherzig zu tun.
 Das ist ein banales Problem.
 Das ist ein belangloses Problem.
 Es war ein sehr langsamer Zug. Er hielt an jeder kleinen Station.
+Unsere Dienstrechner sind derzeit schwer ausgelastet.
 Was macht es schon aus, wenn uns die Leute ansehen?
 Wenn das hier die beste aller Welten ist, wie sind dann erst die anderen?
 Das kommt davon, wenn man sich nicht bei der Sache ist!
@@ -3704,6 +3734,7 @@ Einer der Nachteile, wenn man alleine lebt, besteht darin, dass man niemanden zu
 Tom saß allein in einer Sitzecke und nahm sein Mittagessen zu sich.
 Ich saß einfach nur da und versuchte, nicht daran zu denken, wie einsam ich mich fühlte.
 Ich kann mich nicht mehr an die Bedeutung des Wortes erinnern, das ich gestern nachgeschlagen habe.
+Wir zogen vor Gericht, als sie sich weigerten, den Schaden zu bezahlen.
 Sobald ich es mir leisten kann, habe ich vor, eine Weltreise zu machen.
 Hätte Tom zunächst Maria um Rat gefragt, dann hätte er dieses Problem nicht gehabt.
 Sein Eingeständnis, dass er das Geld gestohlen habe, erstaunte seine Familie.
@@ -3756,6 +3787,7 @@ Es ist besser, sich Zeit zu lassen, als sich zu beeilen und Fehler zu begehen.
 Tom begriff nicht, warum sich die Produkte seiner Firma so schlecht verkauften.
 Vielleicht begegnest du Tom.
 Er ist jetzt schon ein Guter; dann wird er in Zukunft auch ein guter Gatte sein.
+Wir nutzten das sonnige Wetter aus, um picknicken zu gehen.
 Tom lebt schon seit zwei Monaten aus einem Koffer.
 Mein Großvater väterlicherseits wird morgen seinen achtundachtzigsten Geburtstag feiern.
 Ich habe letzte Woche eine interessante Schachpartie gegen den Computer gespielt.
@@ -3932,6 +3964,7 @@ Ich habe neulich jemanden kennengelernt, von dem ich meine, dass ich mich in ihn
 Ich habe neulich jemanden kennengelernt, in den ich mich, glaube ich, verlieben könnte.
 Ich weiß, dass es höchst unwahrscheinlich ist, dass du je mit mir würdest ausgehen wollen, aber ich muss doch wenigstens einmal fragen.
 Bevor ich in die Niederlande reiste, hatte ich noch nie Windmühlen gesehen.
+Wir sollten uns besser früh fertig machen; denn der Zug wartet nicht.
 Gib auf die Funken acht, die aus dem Kamin stieben!
 Eine Menschenmenge stand am Eingang des Theaters.
 Die Firma hat mehrere Vertreter zur Besprechung der Angelegenheit entsandt.
@@ -4238,6 +4271,7 @@ Tom kann in dreißig Sprachen „Ich spreche nur Französisch“ sagen.
 Tom und Maria unterhielten sich erst auf Französisch, sprachen dann aber auf Englisch weiter, als Johannes den Raum betrat.
 Dieses Buch wird dir eine klare Vorstellung der amerikanischen Lebensweise vermitteln.
 Ist es korrekt zu sagen, dass der Koran die Bibel der Muslime sei?
+Tom hatte nicht die Erlaubnis seinen Vater, der im Gefängnis saß, zu besuchen.
 Tom verpasste den letzten Zug und verbrachte die Nacht in einem Internetcafé.
 Du musst nicht den ganzen Tag lang studieren. Du solltest ausgehen, um dich zu amüsieren.
 Ich habe schon eine ganze Weile nicht mehr geritten.
@@ -4444,6 +4478,7 @@ Ich finde, Eheleute sollten voreinander keine Geheimnisse haben.
 Tom ging an den drei Polizisten vorbei, die an der Ecke standen.
 Tom steckte den 20-Dollar-Schein, den Maria ihm gegeben hatte, in seine Hemdtasche.
 Tom und seine Freunde gingen singend die Straße entlang.
+Tom trug eine Tüte mit Lebensmitteln in die Küche.
 „UdSSR“ steht für „Union der Sozialistischen Sowjetrepubliken“.
 Es wird zwar etwas dauern, aber letzten Endes wird Tom schon über Maria hinwegkommen.
 Sein jüngerer Bruder hat sich vorgestern nach Schanghai begeben.
@@ -4515,12 +4550,17 @@ Wie viele Schüler sind dieses Jahr an der Schule aufgenommen worden?
 Tom stellte Maria einige Fragen, die sie nicht beantworten konnte.
 Da in dieser Organisation nur Häuptlinge sind und keine Indianer, ist es ein Wunder, dass überhaupt Entscheidungen getroffen werden.
 Hältst du es für unziemlich, mit einem Mann auszugehen, der acht Jahre älter ist?
+Tom zog seinen Ehering vom Finger und warf ihn in den Teich.
+Tom nahm seinen Ehering ab und warf ihn in den Teich.
+Tom versuchte sich an den Namen des Arztes zu erinnern, aber es gelang ihm nicht.
+Tom wartete, bis Maria sich gesetzt hatte, und setzte sich dann neben sie.
 Diese junge Frau konnte kein Diktat in Schreibschrift aufnehmen, ganz zu schweigen von Stenographie.
 Du brauchst mich an gar nichts erinnern. Ich weiß, was ich zu tun habe.
 Sie brauchen mich an nichts zu erinnern. Ich weiß, was ich zu tun habe.
 Geh schlafen, Tom! Du musst morgen früh raus!
 Geh schlafen, Tom! Du musst morgen früh aufstehen!
 Ich merke es gewöhnlich, wenn mir jemand etwas verheimlicht.
+Tom war der erste Sanitäter am Unfallort.
 Hast du Tom und Maria je zusammen im selben Raum gesehen?
 Ich fragte Tom, ob er etwas essen wolle, und er bejahte dies.
 Ich habe gehört, dass Tom und du heiraten wollt.
@@ -4687,6 +4727,7 @@ Tom stellte Maria einige sehr persönliche Fragen, die sie sich zu beantworten w
 Tom wollte mit uns Poker spielen, doch Maria ließ ihn nicht.
 Tom teilte den Männern, die um den Tisch herum saßen, mit, dass er noch nie Poker gespielt habe.
 Lasst uns noch eine Runde Poker spielen! Ich will eine Chance haben, mein Geld zurückzugewinnen.
+Es wird erwartet, dass wir versuchen, unsere Probleme selbst zu lösen.
 Ich kann es kaum erwarten, dass der Frühling kommt und wir unter den Kirschbäumen sitzen können.
 Wäre das denn klug?
 Wenn ich mich richtig erinnere, hat Tom sein Auto an Maria für nur 500 Dollar verkauft.
@@ -4817,6 +4858,7 @@ Ich kaufe dir sogar ein neues Auto, wenn du eins willst.
 Ich kaufe euch sogar ein neues Auto, wenn ihr eins wollt.
 Das ist nur einmal passiert.
 Tom saß alleine am Tisch, eine halbleere Weinflasche vor sich.
+Tom nahm Maria die Flasche aus der Hand und goß sich ein Glas ein.
 Ich freue mich, dass du am Skifahren Spaß hast, aber es ist wohl einfach nicht mein Ding.
 Dieses handgefertigte italienische Titaniumrad ist unglaublich leicht.
 Ich treffe mich mit Tom zum Essen. Kommst du mit?
@@ -5011,6 +5053,7 @@ Braucht man ein Visum für Australien, wenn man einen britischen Reisepass hat?
 Wenn Sie das Glück haben, jünger auszusehen als 25, fassen Sie es bitte nicht als Beleidigung auf, wenn wir Sie bitten, sich auszuweisen.
 Der Polizeikommissar sagte, er würde in keiner Weise auf Einzelheiten dieser Angelegenheit eingehen, da sie Gegenstand laufender Untersuchungen sei.
 So jemand mit dem Schwert tötet, der muss mit dem Schwert getötet werden.
+Wir warten noch darauf, dass die Hochzeitstorte geliefert wird.
 Tom bekam zu hören, dass er es nie zu etwas bringen würde, und er versuchte verzweifelt zu beweisen, dass dies ein Irrtum war.
 Die Leute sagten Tom, er werde nie etwas zu Stande bringen, und er versuchte verzweifelt, ihnen zu beweisen, dass sie im Irrtum waren.
 Wenn die Kälber entwöhnt sind, werden sie zur Gewichtszunahme in die üppigen Flussniederungen gebracht.
@@ -5020,6 +5063,7 @@ Tom gehört zu den Menschen, die immer das letzte Wort haben müssen.
 Dem Duft nach zu urteilen, trägt Tom das gleiche Parfum wie Maria.
 Mein Vater soll so alt wie ich gewesen sein, als er nach Tōkyō kam.
 Er ist vor einer Woche, also am zehnten Mai, nach Europa abgereist.
+Wir hörten aufmerksam zu, auf dass uns nicht ein einziges Wort entgehe.
 Ich denke, dass es nicht allzu schwierig wäre, ein besseres System zu entwickeln.
 Ich versuche schon seit Stunden, Tom zu erreichen, aber es ist ständig besetzt.
 Ich hatte keine Ahnung, warum ich diesen Teil der Stadt nicht besuchen sollte.
@@ -5032,6 +5076,7 @@ Es heißt zwar, Golf ähnele dem Leben, aber das glaube man ja nicht. Golf ist k
 Toms Glück bedeutet mir mehr als alles andere auf der Welt.
 Tom wünschte, er hätte den Mut gehabt, in den Fluss zu springen und den hineingestürzten Säugling zu retten.
 Tom wird seiner Mutter wahrscheinlich Blumen zum Muttertag schenken.
+Tom fuhr hin, um seine Großmutter im Seniorenheim zu besuchen.
 Übergewichtigkeit wird als das bei weitem schwerwiegendste Gesundheitsproblem angesehen, welches auf die entwickelte Welt zukommt.
 Mein Herz klopft so heftig, es fühlt sich an, als ob es gleich explodiert.
 Die Bombe wurde, wenige Augenblicke ehe sie in die Luft gegangen wäre, entschärft.
@@ -5330,6 +5375,7 @@ Tom aß etwas von dem Schinken und legte den Rest dann in den Kühlschrank.
 Tom und ich haben auf der Südseite des Hauses ein paar Bäume gepflanzt.
 Ich habe fünf Hennen, die mir jeden Tag um die drei Eier legen.
 Maria hat mit ihrem Telefon ein Foto von sich geschossen und es Tom geschickt.
+Tom sagte Maria alles, was er über den Vorfall wusste.
 Tom teilte seinem befehlshabenden Offizier mit, dass er nicht bereit sei, jemanden zu töten.
 Ich habe gehört, dass sich Pflanzen besser als Menschen für Weltraumreisen eigneten.
 Ich war schon mal betrunken und werde es sicherlich noch viele weitere Male sein.
@@ -5423,6 +5469,8 @@ Wenn du später vorbeikommen willst, dann ruf mich vorher an, damit ich auch auf
 Tom findet seine neue Stelle sehr fordernd, und es fällt ihm oft schwer, Zeit für seine Familie zu finden.
 Der Polizei ging ein anonymer Hinweis zu, dass der Banküberfall aus den eigenen Reihen begangen wurde.
 Toms Großmutter ist ganz schwach und benötigt Hilfe bei allem, was sie tagsüber tut.
+Tom war der erste, der Marias Begabung für Musik erkannte.
+Toms Handschrift ist nicht sehr gut, aber sie ist leicht zu lesen.
 Tom, deine Handschrift ist nicht sehr gut, aber sie ist leicht zu lesen.
 Tom griff in seine Schreibtischschublade und nahm eine Medizinflasche heraus.
 Du sollst Tom in ungefähr einer Stunde vor seinem Hotel treffen.
@@ -5434,6 +5482,7 @@ Tom schenkte Maria zum Hochzeitstag ein Diamantenarmband.
 Als ich den Bahnhof erreichte, war der Zug schon weg.
 Die Flüchtlinge in jenem Lager leben schon seit einem Monat von der Hand in den Mund.
 Es ist unwahrscheinlich, dass Tom allzu bald aus dem Gefängnis kommt.
+Toms Wagen sprang nicht an. Er musste eine neue Batterie besorgen.
 Tom und Maria spielten zusammen im Sandkasten und bauten Sandburgen.
 Seit seinem Schulabschluss versucht Tom, Mary dazu zu bringen, ihn zu heiraten.
 Ich denke, dass du es bereuen wirst, wenn du die Gitarre deines Vaters verkaufst.
@@ -5634,6 +5683,7 @@ Tom war im Begriff, den wichtigsten Anruf seines Lebens zu tätigen.
 So nahe wir uns auch stehen – das kann ich nicht von ihm verlangen.
 Tom sagte, er sei nicht davon ausgegangen, dass Maria den Ort aufsuchen wollte, an dem ihr Vater Selbstmord beging.
 Als die Ampel auf Grün umschaltete, würgte Tom seinen Wagen ab und das nachfolgende Fahrzeug fuhr ihm hinten rein.
+Toms Bein war eingeschlafen, und so konnte er nicht aufstehen.
 Beeile dich mal lieber, sonst kommst du nicht mehr an, bevor es dunkel wird!
 Wenn wir nicht bald gehen, kommen wir nicht mehr an, solange es noch hell ist.
 Tom behauptet immer, die beste Methode, eine gute Tasse Kaffee zu verderben sei es, Zucker und Sahne hineinzukippen.
@@ -5685,6 +5735,7 @@ Wie würden Sie diesen Satz umformulieren, dass er natürlicher klingt?
 Das heutige Baseballspiel der Tigers gegen die Giants wurde wegen starken Regens abgesagt.
 Ich war gerade dabei, das Haus zu verlassen, als ein alter Freund von mir auf einen Sprung vorbeikam.
 Es ist inzwischen fast 4 Jahre her, seitdem Tom bei einem Verkehrsunfall getötet wurde.
+Wir müssen uns etwas ausdenken, um Tom davon abzuhalten, Maria zu sehen.
 Ich soll dir von Tom ausrichten, dass er für alles, was du für ihn getan hast, sehr dankbar ist.
 Es wäre schön gewesen, wenn Tom etwas besser auf das gehört hätte, was ich ihm sagte.
 Es ist am besten, Beziehungsprobleme gleich mit deinem Partner zu besprechen.
@@ -5757,6 +5808,7 @@ Tom war nicht in der Lage ein Alibi vorzuweisen, deshalb wurde er verhaftet.
 Da Tom kein Alibi vorweisen konnte, nahm die Polizei ihn fest.
 Tom ist total geistesabwesend und vergisst manchmal, die Kinder von der Schule abzuholen.
 Toms Computer stürzte ab, und er verlor etliche wichtige Dateien.
+Toms Arzt gab ihm den Rat, seinen Zuckerkonsum einzuschränken.
 Tom war nicht bei der Sache und nervös, und Maria wusste, dass da etwas war, was ihm Sorgen bereitete.
 Tom bekommt Verdauungsbeschwerden und Sodbrennen, wenn er übermäßig schwere Speisen zu sich nimmt.
 Der Lehrer schrieb etwas an die Tafel in einer Sprache, die ich nicht kannte.
@@ -5772,6 +5824,7 @@ Tom glaubte sich im Paradies, als er das köstliche Mahl einnahm.
 In den Vereinigten Staaten ist es üblich, Schecks zu schreiben, statt bar zu bezahlen.
 Ich habe dir eigentlich nichts gesagt, was du nicht bereits hättest wissen müssen.
 Wie viel musstest du Tom zahlen, damit er freiwillig den Schnee von deinem Dach schippt?
+Wir müssen etwas tun, um Tom davon abzuhalten, sich zu verletzen.
 Wir müssen etwas tun, damit das nicht wieder passiert.
 Hast du etwas Besonderes an Toms Geburtstag geplant?
 Ich habe etwas über Tom herausgefunden, was du meiner Meinung nach wissen solltest.
@@ -5899,6 +5952,7 @@ Es regnete so stark, dass wir entschieden, ihn ein andermal zu besuchen.
 Der Mensch unterscheidet sich von den Tieren durch die Tatsache, dass er denken und sprechen kann.
 Ich würde es sehr begrüßen, wenn ich ein Exemplar des Buches bekommen könnte.
 So gefällt uns das.
+Tom möchte nichts mehr, als Maria alles zu sagen.
 Wenn Tom das kann, dann kann ich das bestimmt auch.
 Ich möchte dieses Lied meiner Mutter widmen.
 Tom hat sich den Zeh gestoßen, als er in der Nacht aufstand, um sich zur Toilette zu begeben.
@@ -6003,6 +6057,7 @@ Tom wird das Geschenk bestimmt gefallen, das ihr ihm besorgt habt.
 Tom wird das Geschenk bestimmt gefallen, das Sie ihm besorgt haben.
 Versuch’s auf Spanisch zu verstehen, ohne es ins Englische zu übersetzen!
 Ich habe jede Menge gefrühstückt; daher habe ich jetzt keinen allzu großen Hunger.
+Tom wird sich um die Kinder kümmern, während ich arbeite.
 Wenn du nicht lernst, wirst du die Prüfung nicht bestehen.
 Es stört mich nicht, dass Tom mit seiner neuen Freundin kommt.
 Ich habe gerade von einem meiner Kunden einen schönen Blumenstrauß bekommen.
@@ -6335,6 +6390,7 @@ Ich werde mich um den Hund kümmern, während du weg bist.
 Ich werde mich um den Hund kümmern, während Sie weg sind.
 Als Kind hat Tom immer die Zigarettenstummel seines Vaters gesammelt, bis er genug Tabak hatte, um sich selbst eine Zigarette zu drehen.
 Schichtarbeiter haben oft Schlafstörungen, weil es schwerfällt, am Tag ein ruhiges, dunkles Umfeld zu schaffen.
+Tom setzte sich auf einen Felsen nieder und entfernte einen Stein aus seinem Schuh.
 Einige Leute denken, dass es zu viele Anwälte in diesem Land gibt.
 Vor drei Monaten konnte ich nicht einmal ein Wort Französisch.
 Tom fand keine Worte, um auszudrücken, wie ihm zumute war.
@@ -6409,6 +6465,7 @@ Ohne deine Mithilfe wäre ich mit dieser Arbeit nicht rechtzeitig fertig geworde
 Tom und Maria haben schon drei Monate, nachdem sie sich kennengelernt hatten, geheiratet.
 Warum bist du gestern nicht gekommen? Ich habe lange auf dich gewartet.
 Ihr wisst, dass ich unrecht habe.
+Tom sollte sich besser um seine Kinder kümmern.
 Das ist immer ein gutes Zeichen.
 Tom dachte, dass Mary gerne nach Boston gehen würde, um John zu sehen.
 Tom hatte nie erwartet, dass sich Mary in John verlieben würde.
@@ -6441,6 +6498,7 @@ Ich gehe in die gleiche Richtung. Kommen Sie mit mir. Ich bringe Sie dorthin.
 Ich gehe in die gleiche Richtung. Kommt mit mir. Ich bringe euch dorthin.
 Etwas unvollendet zu lassen ist das Schlimmste, was man machen kann.
 Tom wird am Morgen für ein Verbrechen sterben, das er nicht begangen hat.
+Tom wollte lügen, aber schließlich hat er alles ausgeplaudert.
 Die nichtverbale Kommunikation ist ebenso wichtig wie das, was tatsächlich gesagt wird.
 Wie hieß das Hotel, in dem du letztes Jahr in Boston untergekommen bist?
 Nach einer Weile bemerkte ich, dass wir nicht mehr auf dem Wege gingen.
@@ -6637,6 +6695,7 @@ Tom hätte nie gedacht, dass Maria je ihren Abschluss an der Universität machen
 Warum magst du mich?
 Ich habe gerade gehört, dass Tom und Maria zu Weihnachten nach Boston zurückkommen.
 Tom versuchte, Maria zu etwas zu überreden, wovon sie wusste, dass sie es besser ließe.
+Tom sagte Maria, dass sie sich nicht die Schuld an dem Geschehenen geben solle.
 Tom und Maria gingen zur Feier ihres Hochzeitstages in ein nobles Restaurant.
 Wenn sie noch lebte, wäre Billie Holiday heute hundert Jahre alt geworden.
 Was du geschrieben hast, ist zwar nicht falsch, doch einige wichtige Tatsachen bleiben unerwähnt.
@@ -6888,6 +6947,7 @@ Ich weiß nicht, wann Tom angerufen hat, aber es war entweder gestern oder vorge
 Es gibt mehrere gute Abwehrmittel gegen die Versuchung, das sicherste jedoch ist Feigheit.
 Weintrauben oder Wassermelonen ohne Kerne gibt es ja. Ob es wohl auch Mangos ohne Kern gibt?
 Wir brauchen noch einmal drei Millionen Dollar, um dieses Projekt zu Ende zu führen.
+Tom versuchte, das Feuer mit einem Feuerlöscher zu löschen.
 Das Steigen der Hauspreise ermöglichte ihm, sein Haus mit großem Gewinn zu verkaufen.
 Du musst gründlich lernen, wenn du die Prüfung bestehen willst.
 Ihr müsst viel lernen, um die Prüfung zu bestehen.
@@ -6932,7 +6992,9 @@ Wir hatten damals über etwas gesprochen, aber ich erinnere mich nicht mehr, üb
 Es ist schwer eine Frau zu sein. Man muss wie ein Mann denken, sich wie eine Dame benehmen, wie ein Mädchen aussehen und wie ein Pferd arbeiten.
 Alle Suchtmittel steigern die Freisetzung von Dopamin im Gehirn.
 Alle Suchtmittel bewirken eine vermehrte Freisetzung von Dopamin im Gehirn.
+Tom war entschlossen, die Aufgabe zu beenden, bevor er nach Hause ging.
 Je niedriger das Selbstwertgefühl, desto mehr gibt man sich mit negativen Sachen ab.
+Was hast du mit deinem Teil des Schatzes vor?
 Was wirst du mit deinem Teil des Schatzes anfangen?
 Erst stritten sie, und dann im nächsten Moment küssten sie sich.
 Tom geriet als Teenager oft in Konflikt mit dem Gesetz.
@@ -6942,6 +7004,7 @@ Ich habe gerade die Teller gewaschen, und jetzt muss ich den Müll hinausbringen
 Diese Schere kann von Links- sowie Rechtshändern gut angewandt werden.
 Tom lauschte dem Geräusch der gegen den Strand brandenden Wellen.
 Das war nicht gerade sehr romantisch.
+Wir sind über die Entscheidung der Kommission noch nicht informiert worden.
 Jemand hat das Geld von Tom gestohlen.
 Jemand hat Toms Geld gestohlen.
 Jemand hat Tom sein Geld gestohlen.
@@ -7007,6 +7070,7 @@ Ich habe dich schon lange nicht mehr gesehen. Komm mich doch gelegentlich mal be
 Im 19. Jahrhundert wuchs die Zahl der Einwanderer stark an.
 Im 19. Jahrhundert erhöhte sich die Anzahl der Immigranten schnell.
 Tom versuchte, durch Rückgabe des von ihm gestohlenen Geldes Wiedergutmachung zu leisten.
+Tom machte Maria den Vorschlag, sich zu entschuldigen und Wiedergutmachung zu leisten.
 Was für eine Art von Beziehung hatten Tom und Maria?
 Würden Sie mir bitte schön sagen, was Sie in meiner Wohnung zu suchen haben?
 Wie oft soll ich denn für dich in dubio pro reo entscheiden?
@@ -7092,6 +7156,7 @@ Hier habe ich viele Fische gefangen. Das ist ein hervorragender Angelplatz.
 Soziale Netze ermöglichen es, eine Vielzahl von Informationen über jemanden zu finden, bevor man sich mit ihm trifft.
 Das war alles Toms Idee.
 Meine Eltern mögen meine Freundin nicht. Sie sagen, dass sie nur aufs Geld aus ist.
+Wir hoffen, dass wir mit dem Bepflanzen des Feldes fertig werden, bevor die Sonne untergeht.
 Zeig mir, wo der Schmerz ist.
 Ich fühle mich bedrückt, da ich viele Dinge zu erledigen habe.
 Es bedrückt mich, dass ich eine Menge Sachen zu erledigen habe.
@@ -7173,6 +7238,7 @@ Sie ist durch harte Arbeit und einen guten Geschäftssinn reich geworden.
 Sie ist durch harte Arbeit und einen guten Sinn fürs Geschäft reich geworden.
 Sie ist durch harte Arbeit und einen guten Sinn fürs Geschäftliche reich geworden.
 Tom ist mit dem falschen Fuß zuerst aufgestanden und hat schon den ganzen Tag schlechte Laune.
+Tom setzte sich an die Theke und aß ein Thunfischbrot.
 Vor dem Zweiten Weltkrieg lag die finnisch-sowjetische Grenze nahe Leningrad.
 Tom ist nicht mehr mit Maria zusammen, weil ihm ihre Art von Humor nicht gefiel.
 Warum schwimmt Eis?
@@ -7351,6 +7417,7 @@ Ich meine es durchaus ernst, dass ich dich, wenn du kochen lernst, heirate.
 Die Vereinigten Staaten waren am Anfang des zwanzigsten Jahrhunderts mit einer Beulenpest-Epidemie konfrontiert.
 Der Erfolg ihres Mannes hat nichts an ihrer Einstellung alten Freunden gegenüber geändert.
 Als ich den Raum betrat, wusste ich sofort, dass etwas nicht stimmte.
+Tom schlich auf Zehenspitzen ins Schlafzimmer, um seine Frau nicht zu wecken.
 Wir sind jetzt gute Freunde, aber früher mal mochten wir uns gar nicht.
 Hätte er damals das Rauchen aufgegeben, würde er vielleicht nicht an so einer Krankheit leiden.
 Tom schüttete für seine Katze ein bisschen Milch aus der Flasche in eine Schüssel.
@@ -8184,6 +8251,7 @@ Sieh zu, dass man sich so schnell wie möglich um die Beschwerden kümmert.
 Das einzige, was Tom wichtig war, war, dass wir zu seinem Chef nicht unhöflich waren.
 Tom glaubt, Maria solle sich bei John dafür entschuldigen, dass sie nicht getan hat, was sie versprochen hatte.
 Könntest du es bitte unterlassen, hier so herumzutigern, und dich mal kurz hinsetzen?
+Tom war froh, als Mary anbot ihm im Garten zu helfen.
 Ich hätte nie gedacht, dass man Butter für einen so niedrigen Preis kaufen könnte.
 Tom betrat, umgeben von Polizisten, den Gerichtssaal.
 Durch Lichtverschmutzung ist es einem Drittel der Menschen auf der Erde nicht möglich, die Milchstraße zu sehen.
@@ -8304,6 +8372,7 @@ Für die blaugrüne Färbung des Uranus ist kaltes Methangas verantwortlich.
 Tom wollte nicht, dass man dächte, er turtele mit Maria.
 Tom wollte mit der Presse nicht über sein Privatleben sprechen.
 Tom heftete seinen Einkaufszettel mit einem Magneten an den Kühlschrank.
+Tom fing an, ein Stück Papier, das Maria ihm gegeben hatte, auseinanderzufalten.
 Tom wurde nach seiner Entlassung von Wachleuten der Sicherheit aus dem Gebäude eskortiert.
 Die Gabel legt man links neben den Teller, das Messer rechts daneben.
 Tom machte die Klimaanlage an, und die Wohnung kühlte sich langsam ab.
@@ -8350,6 +8419,7 @@ Freunde haben Tom und Maria beim Umzug in die neue Wohnung geholfen.
 Im Monat vor Weihnachten ist in den Geschäften immer sehr viel los.
 Der Tod seiner einzigen Tochter setzte Tom schwer zu.
 Bei einem Frontalzusammenstoß zweier Züge in Italien kamen 22 Menschen ums Leben.
+Tom sagte mir, er habe keine Geschwister.
 Im Monat vor Weihnachten ist in den Geschäften immer Hochbetrieb.
 Der Tōkyōter Himmelsbaum („Tokyo Skytree“) ist nach dem Chalifa-Turm („Burdsch Chalifa“) das zweithöchste Bauwerk der Welt.
 Wer ist der gitarrespielende, hochgewachsene, dunkelhaarige Mann?
@@ -8371,6 +8441,7 @@ Mehr kann man keinesfalls erwarten.
 Der Tadsch Mahal ist vermutlich das berühmteste Gebäude Indiens.
 Tom wollte seine Freunde beeindrucken, aber er machte sich nur lächerlich.
 Tom wollte seine Freundin beeindrucken, aber die lachte nur über ihn.
+Tom hält den Charakter für wichtiger als das Aussehen.
 Viele Soldaten starben während des Rückzugs Napoleons aus Russland im Winter 1812 an Unterkühlung.
 Tom wollte seine Freundschaft mit Maria nicht durch den Versuch aufs Spiel setzen, eine Liebschaft draus zu machen.
 Tom verirrte sich im Wald und landete schließlich in jemandes Hinterhof.
@@ -8671,6 +8742,7 @@ Welche zehn Nachrichtenmeldungen waren deiner Meinung nach die wichtigsten des J
 Tom sagte, er habe mit dem, was geschehen sei, nichts zu tun.
 Mit 13 Jahren beherrschte Tom bereits drei Sprachen.
 Ich bin hundemüde; deswegen gehe ich heute früher ins Bett.
+Tom meinte, ich müsse mehr Zeit mit meiner Familie verbringen.
 Tom sah Maria auf der anderen Seite des Zimmers und ging hin, um mit ihr zu sprechen.
 Ich bin mir ziemlich sicher, Tom sagen gehört zu haben, dass er nicht bereit sei, das zu tun.
 Ich frage mich, ob Tom es je in Erwägung gezogen hat, sich an einen Spezialisten zu wenden.
@@ -8708,6 +8780,7 @@ Tom sagte, dass nicht nur er es hasse, das zu tun.
 Tom meinte, die Statue müsse etwa 140 kg wiegen.
 Ich mag nicht so viel Zeit wie du dafür haben, aber ich lese doch so oft, wie sich mir die Gelegenheit bietet.
 Vor wichtigen Entscheidungen geht Tom immer erst zu seiner Astrologin.
+Tom wollte auspacken, konnte aber seinen Koffer nicht aufbekommen.
 Glaubst du, dass Kinder, die heute geboren werden, besser leben werden als ihre Eltern?
 Tom wusste, dass etwas in der Kiste war, aber er wusste nicht, was.
 Wenn du das für mich tust, stehe ich in deiner Schuld.
@@ -8773,6 +8846,7 @@ Infolge von Umweltverschmutzung sterben im Jahr mehr Menschen als durch Krieg un
 Ich bin fassungslos, dass Tom gekündigt hat, ohne vorher mit Maria darüber zu sprechen.
 Irgendwas stimmt nicht an dieser Übersetzung.
 Obwohl Tom mein Nachbar ist, kenne ich ihn nicht allzu gut.
+Tom fand Marias Vorschlag gut.
 Tom meinte, Maria müsse das noch erledigen, bevor sie gehe.
 Erinnerst du dich an das erste Mal, dass wir gemeinsam nach Boston fuhren?
 Tom spricht ausgezeichnet Französisch; mit seinem Englisch aber ist es nicht weit her.
@@ -8893,6 +8967,7 @@ Meine Großmutter betreut die Kinder tagsüber.
 Würdest du meine Kinder betreuen, während ich auf Urlaub bin?
 Würden Sie meine Kinder betreuen, während ich auf Urlaub bin.
 Würdet ihr meine Kinder betreuen, während ich auf Urlaub bin?
+Tom betreut die Kinder, während ich bei der Arbeit bin.
 Ich bin derjenige, der Tom für diesen Job empfohlen hat.
 Ich bin derjenige, welcher Tom für diese Arbeit empfohlen hat.
 Du hättest Toms Gesichtsausdruck sehen müssen, als ich es ihm sagte.
@@ -8935,6 +9010,7 @@ Rasen verursacht Unfälle.
 Von Tom zu Hause kann man zu Fuß den nächsten Bahnhof erreichen.
 Tom sagte, er wolle lieber in einem Hotel nahe dem Flughafen unterkommen.
 Tom wartet darauf, dass seine Tochter vom Tanzabend nach Hause kommt.
+Tom war der allererste, der mir je Hilfe angeboten hat.
 Tom sagte, er wisse nicht, was Maria tun solle.
 Tom fragte sich, wie oft er Maria wohl noch würde auffordern müssen, ihr Zimmer aufzuräumen, bis sie’s denn endlich täte.
 Tom hofft, dass Maria weiß, dass sie tun muss, worum Johannes sie gebeten hat.
@@ -9078,11 +9154,14 @@ Sagt Tom, er soll einen Salat mitbringen!
 Sagen Sie Tom, er soll einen Salat mitbringen!
 Wenn du die Bedeutung eines Worts nicht kennst, schlag es im Wörterbuch nach!
 Die Kinder gingen zu Bett, aber die Erwachsenen feierten weiter.
+Wir müssen doch nicht gerade jetzt darüber reden, oder?
 Ich würde gerne meine Aussprache des Französischen verbessern.
 Ich besuche nächsten Monat meinen Onkel in Australien.
 Tom, Maria, Johannes und Elke spielen oft zusammen Streichquartette.
 Tom und Maria unterhielten sich über die Beziehung von Johannes und Elke.
+Tom sagte, Maria glaube nicht, dass Johannes das mit Elke getan habe.
 Der Stuhl gab nach, als sich Tom daraufsetzte, und er fiel krachend auf den Boden, wobei er sich den Rücken verletzte.
+Tom wollte, dass Maria Johannes und Elke zum Abendessen einlade.
 Sie sagte, sie sei krank.
 Sie sagte, dass sie krank sei.
 Der Alligator fraß den Hund.
@@ -9123,6 +9202,8 @@ Ich denke nicht, dass du Tom sagen musst, was Maria vorhat.
 Ich denke nicht, dass ihr Tom sagen müsst, was Maria vorhat.
 Ich denke nicht, dass Sie Tom sagen müssen, was Maria vorhat.
 Tom war ziemlich überrascht, als Maria ihr Vorhaben ankündigte.
+Wir fliegen nicht nach Australien, sondern nach Neuseeland.
+Wir fahren nicht nach Australien, sondern nach Neuseeland.
 Der Arzt sagte, Tom brauche nicht im Krankenhaus zu bleiben.
 Der Arzt hat gesagt, Tom brauche nicht im Krankenhaus zu bleiben.
 Tom hielte es nicht für ratsam, das zu tun.
@@ -9210,6 +9291,7 @@ Es wunderte Tom, dass Maria auf Johannes’ Beerdigung nicht in Schwarz gekleide
 Ich musste feststellen, dass ich mir das Gewünschte gar nicht leisten konnte.
 Ich habe eine Tochter, die in einem Restaurant in der Parkstraße als Köchin arbeitet.
 Tom ließ vom Tankwart den Ölstand überprüfen.
+Obwohl wir uns in vielem uneinig sind, so sind wir doch gute Freunde.
 Tom spricht so fließend Französisch, dass viele ihn für einen Muttersprachler halten.
 In diesem Buch steht, dass Elefanten über hundert Jahre alt werden können.
 Es war unwahrscheinlich einfach.
@@ -9261,6 +9343,7 @@ Tom bat an der Rezeption, dass man ihn um halb sieben Uhr telefonisch wecken mö
 Was glaubst du, wie viele Stunden Tom brauchen wird, um den Rasen zu mähen?
 Was glaubt ihr, wie viele Stunden Tom brauchen wird, um den Rasen zu mähen?
 Was glauben Sie, wie viele Stunden Tom brauchen wird, um den Rasen zu mähen?
+Tom wollte seinen Wagen verkaufen, aber er fand keinen Käufer.
 Mein Bruder hat sich einen Gebrauchtwagen gekauft; der war also nicht allzu teuer.
 Mit meinem Rechner scheint etwas nicht zu stimmen.
 Tom und ich konnten als einzige kein Französisch.
@@ -9335,6 +9418,7 @@ Tom wird Maria wahrscheinlich bitten, baldmöglichst heimzukommen.
 Tom wartete vor dem Bahnhof auf mich; ich war jedoch davon ausgegangen, er würde dahinter warten.
 Gehst du heute Abend irgendwo hin, oder bleibst du zu Hause?
 In letzter Zeit trinke ich viel mehr Kaffee als gewöhnlich.
+Tom sagte, er habe vor, im nächsten Oktober nach Australien zu reisen.
 Du hast mir nicht geholfen.
 Ihr habt mir nicht geholfen.
 Sie haben mir nicht geholfen.
@@ -9409,6 +9493,7 @@ Der erste Schritt der Lösung eines Problems besteht darin, das Problem zu erken
 Soll ich Tom das geben?
 Es ist schade, dass Tom kaum Französisch versteht.
 Meine Lieblingsstelle im Film ist die, wo der Affe den Knochen in die Luft wirft.
+Tom versuchte, ein Feuer zu entfachen, indem er zwei Stöcke gegeneinander rieb.
 Müssten Sie nicht gerade studieren?
 Tom ist nicht gewalttätig und fängt mit niemandem einen Streit an.
 Wie kamst du dazu, Englischhorn lernen zu wollen?
@@ -9468,6 +9553,7 @@ Ich habe keine Zeit, um dir das im Detail zu erklären.
 Ich habe keine Zeit, um euch das im Detail zu erklären.
 Der Chirurg überredete mich zu einer Organtransplantation.
 Das Haus brannte nieder, bevor der Feuerwehrwagen kam.
+Wir haben Wichtigeres zu erledigen.
 Tom wusste nicht, aus welchem Grunde Maria seine Einladung nicht annahm.
 Ihr habt euch wohl verirrt.
 Hierzulande sieht man Zärtlichkeiten in der Öffentlichkeit gemeinhin nicht gern.
@@ -9485,6 +9571,7 @@ Tom hätte Maria womöglich umgebracht, wenn Johannes nicht dazwischengegangen w
 Tom betrachtete Marias Foto ein letztes Mal und warf es dann ins Feuer.
 Sobald sie mich erblickt hatte, fing sie an in meine Richtung zu rennen.
 In diesem Lande leben viele Kinder von der Hand in den Mund.
+Tom sagte, er hoffe, Maria werde auf seine Feier kommen.
 Nach dem Unfall wurde er an eine ganze Reihe Maschinen angeschlossen.
 Der Blitz funktionierte nicht, so dass er kein Bild im Dunkeln machen konnte.
 Er hat mich heute Nachmittag über eine Stunde dort warten lassen.
@@ -9632,6 +9719,7 @@ Ich frage mich, ob es dieses Jahr mehr Schnee gibt als im letzten Jahr.
 Tom ist ganz bestimmt der einzige, der das kann.
 Tom sucht jemanden, der seinen Kindern Französisch beibringen kann.
 Es war die richtige Entscheidung.
+Tom wartete bis zum Ende des Abends, ehe er auf Maria zuging.
 Das ist meins. Gib es zurück.
 Ich denke nicht, dass es fair war, dass Tom das ganze Geld bekommen hat.
 Tom dachte, dass Mary morgens wahrscheinlich nicht beschäftigt sein würde.
@@ -9651,6 +9739,7 @@ Ich ging nach unten und trug den Hund in meinen Armen nach oben.
 Tom zog die Gesellschaft seiner Hunde der seiner Mitmenschen vor.
 Nach vielen gescheiterten Beziehungen lernte Tom endlich Maria kennen.
 „Tom spricht nicht gern über Boston.“ – „Warum tut er es dann immer wieder?“
+Tom weinte jedesmal, wenn sein Vater aus dem Zimmer ging.
 Tom weinte immer, wenn seine Schwester ihm sein Spielzeug wegnahm, und aus ebendiesem Grunde tat sie das sehr gern.
 Tom sagte, es würde ihn sehr überraschen, wenn Maria das Turnier nicht gewänne.
 Da die Vorhänge bei mir zugezogen waren, sah ich nicht, was draußen vor sich ging.
@@ -9871,6 +9960,7 @@ Du wirst dich elektrisieren, wenn du nicht vorsichtiger bist.
 Glaubst du, dass die Leute verstehen, was du zu sagen versuchst, wenn du Französisch sprichst?
 Ich schrieb alles, was ich einkaufen wollte, auf ein Stück Papier.
 Was auch immer du tust, du wirst mich nicht zum Lachen bringen.
+Tom schrieb ein Buch über seine Fahrradtour durch Australien.
 Meine Nachbarn haben vor drei Stunden zu streiten begonnen, und sind noch immer nicht fertig damit.
 Du weißt doch, dass Tom und ich nicht sehr gut miteinander auskommen, oder?
 Vor dem ersten Kaffee ist Tom morgens immer leicht gereizt.
@@ -9916,6 +10006,7 @@ Ich hätte nicht erwartet, dass Tom so fließend Französisch spricht.
 Wozu brauchst du das?
 Zu Fuß dauert es keine fünf Minuten vom Bahnhof bis zur Schule.
 Um 8.15 Uhr vormittags, dem genauen Zeitpunkt, da von dem US-Kampfflugzeug „Enola Gay“ eine Atombombe mit dem Spitznamen „Little Boy“ abgeworfen wurde, legte die kleine Menge im Park des Gedenkens an den Frieden in Hiroshima einen Moment des Schweigens ein.
+Tom sagte, er sei sehr müde und wolle zu Bett gehen.
 Deshalb ist Tom nicht hier.
 Müssen wir für diesen Kurs ein Lehrbuch kaufen?
 Es bestand kein Zweifel, dass der Moment für mich gekommen war, die Führung zu übernehmen.
