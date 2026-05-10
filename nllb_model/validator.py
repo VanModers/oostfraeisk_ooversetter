@@ -7,7 +7,7 @@ import evaluate
 
 bleu_metric = evaluate.load("sacrebleu")
 
-MODEL_PATH = "./nllb_frs_model"
+MODEL_PATH = "./nllb_frs_model_longer"
 VALIDATION_PATH = "validation data"
 RESULTS_PATH = "validation_results.txt"
 
