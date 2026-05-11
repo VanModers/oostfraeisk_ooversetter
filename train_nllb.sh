@@ -7,34 +7,31 @@
 #SBATCH --mem=32G
 #SBATCH --partition=aihg.p
 #SBATCH --time=2-00:00
-# logs/ must exist before submitting: mkdir -p logs
-#SBATCH --output=logs/nllb_frs_%j.log
-#SBATCH --error=logs/nllb_frs_%j.log
+#SBATCH --output=/dev/null
 
 set -euo pipefail
 
 # Run from your submitted repository root.
 REPO_DIR="${SLURM_SUBMIT_DIR:-$PWD}"
-ENV_NAME="pytorch"
 
 module load hpc-env/13.1 CUDA Anaconda3 git GCC/13.1.0
 
-# Initialise conda shell integration and activate the training environment
-source "$(conda info --base)/etc/profile.d/conda.sh"
+mkdir -p "${LOG_DIR}"
+VENV_DIR="${REPO_DIR}/../oostfraeisk_llm/venv"
 
-if ! conda env list | grep -qE "^${ENV_NAME}[[:space:]]"; then
-	echo "ERROR: conda environment '${ENV_NAME}' not found."
-	echo "Set up the environment first."
-	exit 1
+if [[ ! -f "${VENV_DIR}/bin/activate" ]]; then
+  echo "ERROR: venv not found at ${VENV_DIR}"
+  echo "Expected the venv from the oostfraeisk_llm project at that path."
+  exit 1
 fi
-conda activate "${ENV_NAME}"
+source "${VENV_DIR}/bin/activate"
 export PYTHONNOUSERSITE=1
 
 echo "=========================================="
 echo "Job ID:      ${SLURM_JOB_ID}"
 echo "Node:        ${SLURMD_NODENAME:-unknown}"
 echo "Working dir: ${REPO_DIR}"
-echo "Conda env:   ${ENV_NAME}"
+echo "Venv dir:    ${VENV_DIR}"
 echo "GPU:         $(nvidia-smi --query-gpu=name --format=csv,noheader | head -n 1)"
 echo "Python:      $(which python)"
 echo "Started at:  $(date)"
