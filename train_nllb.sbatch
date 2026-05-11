@@ -11,11 +11,10 @@
 
 set -euo pipefail
 
-# Run from your submitted repository root.
-REPO_DIR="${SLURM_SUBMIT_DIR:-$PWD}"
-
 module load hpc-env/13.1 CUDA Anaconda3 git GCC/13.1.0
 
+REPO_DIR="${SLURM_SUBMIT_DIR:-$PWD}"
+LOG_DIR="${REPO_DIR}/logs"
 mkdir -p "${LOG_DIR}"
 VENV_DIR="${REPO_DIR}/../oostfraeisk_llm/venv"
 
@@ -27,14 +26,20 @@ fi
 source "${VENV_DIR}/bin/activate"
 export PYTHONNOUSERSITE=1
 
+LOG_FILE="${LOG_DIR}/nllb_frs_${SLURM_JOB_ID:-manual}_$(date +%Y%m%d_%H%M%S).log"
+exec > >(tee -a "${LOG_FILE}") 2>&1
+
 echo "=========================================="
-echo "Job ID:      ${SLURM_JOB_ID}"
-echo "Node:        ${SLURMD_NODENAME:-unknown}"
-echo "Working dir: ${REPO_DIR}"
-echo "Venv dir:    ${VENV_DIR}"
-echo "GPU:         $(nvidia-smi --query-gpu=name --format=csv,noheader | head -n 1)"
-echo "Python:      $(which python)"
-echo "Started at:  $(date)"
+echo "Job ID   : ${SLURM_JOB_ID:-manual}"
+echo "Node     : ${SLURMD_NODENAME:-unknown}"
+echo "Repo dir : ${REPO_DIR}"
+echo "Venv     : ${VENV_DIR}"
+echo "Python   : $(which python)"
+echo "Started  : $(date)"
+if command -v nvidia-smi >/dev/null 2>&1; then
+  echo "GPU(s):"
+  nvidia-smi --query-gpu=name,memory.total --format=csv,noheader
+fi
 echo "=========================================="
 
 cd "${REPO_DIR}"
@@ -46,5 +51,6 @@ echo "--- Validating ---"
 python nllb_model/validator.py
 
 echo "=========================================="
-echo "Finished at: $(date)"
+echo "Finished : $(date)"
+echo "Log file : ${LOG_FILE}"
 echo "=========================================="
