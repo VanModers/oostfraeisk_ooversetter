@@ -25,6 +25,7 @@ if [[ ! -f "${VENV_DIR}/bin/activate" ]]; then
 fi
 source "${VENV_DIR}/bin/activate"
 export PYTHONNOUSERSITE=1
+export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
 
 LOG_FILE="${LOG_DIR}/nllb_frs_${SLURM_JOB_ID:-manual}_$(date +%Y%m%d_%H%M%S).log"
 exec > >(tee -a "${LOG_FILE}") 2>&1
