@@ -2,7 +2,7 @@
 #SBATCH --job-name=nllb_frs
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --gres=gpu:L40S:1
+#SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=8
 #SBATCH --mem=128G
 #SBATCH --partition=aihg.p
