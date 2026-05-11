@@ -99,4 +99,5 @@ model.tie_weights()
 
 model.save_pretrained(OUTPUT_DIR)
 tokenizer.save_pretrained(OUTPUT_DIR)
+tokenizer.save_pretrained(OUTPUT_DIR)
 print(f"Model saved to {OUTPUT_DIR}")
