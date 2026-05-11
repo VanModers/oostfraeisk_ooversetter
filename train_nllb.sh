@@ -2,11 +2,11 @@
 #SBATCH --job-name=nllb_frs
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
-#SBATCH --gres=gpu:1
+#SBATCH --gres=gpu:L40S:1
 #SBATCH --cpus-per-task=8
-#SBATCH --mem=128G
+#SBATCH --mem=32G
 #SBATCH --partition=aihg.p
-#SBATCH --time=21-00:00
+#SBATCH --time=7-00:00
 #SBATCH --output=/dev/null
 
 set -euo pipefail
