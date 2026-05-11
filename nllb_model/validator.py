@@ -58,7 +58,7 @@ with torch.no_grad():
             forced_bos_token_id=frs_lang_id,
             max_new_tokens=MAX_LENGTH,
             max_length=None,
-            num_beams=4,
+            num_beams=6,
         )
         decoded_preds = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
 

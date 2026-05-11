@@ -55,8 +55,13 @@ class PrintTranslationTrainer(Seq2SeqTrainer):
     def evaluate(self, *args, **kwargs):
         results = super().evaluate(*args, **kwargs)
         # Print translation of the provided sentence
-        sentence = ("Die Energiepreise sind seit Beginn des Iran-Kriegs drastisch gestiegen - mit Folgen für Verbraucher und Wirtschaft. "
-                    "Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig fordert im Bericht aus Berlin deshalb sofortige Entlastungen.")
+        sentence = ("Die Energiepreise sind seit Beginn des Iran-Kriegs drastisch gestiegen - mit Folgen für Verbraucher und Wirtschaft."
+                    "Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig fordert im Bericht aus Berlin deshalb sofortige Entlastungen."
+                    "Vizekanzler Klingbeil will dort Deutschlands Unterstützung für die Ukraine unterstreichen - und der Union die Außenpolitik nicht komplett überlassen."
+                    "Ausgerechnet Polen war beim Ukraine-Gipfel in Washington nicht dabei."
+                    "Vor zehn Jahren prägte die damalige Kanzlerin Merkel den Satz \"Wir schaffen das\"."
+                    "Das Rotkehlchen ist von rundlicher Gestalt mit langen, dünnen Beinen."
+                    )
         self.model.eval()
         device = "cuda" if torch.cuda.is_available() else "cpu"
         self.model.to(device)
@@ -65,7 +70,7 @@ class PrintTranslationTrainer(Seq2SeqTrainer):
         inputs = {k: v.to(device) for k, v in inputs.items()}
         tgt_id = self.tokenizer.convert_tokens_to_ids(FRS_LANG)
         with torch.inference_mode():
-            out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, num_beams=4)
+            out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, max_length=None, num_beams=6)
         translation = self.tokenizer.decode(out[0], skip_special_tokens=True)
         print("\n[Sample translation after epoch evaluation]")
         print(f"German: {sentence}\nOostfräisk: {translation}\n")

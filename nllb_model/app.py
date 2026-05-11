@@ -39,7 +39,7 @@ def translate(text, source_lang, target_lang):
             forced_bos_token_id=tgt_id,
             max_new_tokens=MAX_LENGTH,
             max_length=None,
-            num_beams=4,
+            num_beams=6,
         )
 
     return tokenizer.decode(out[0], skip_special_tokens=True)

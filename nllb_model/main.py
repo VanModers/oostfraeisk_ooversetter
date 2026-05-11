@@ -31,7 +31,7 @@ def translate(text, src_lang, tgt_lang):
 
     tgt_id = tokenizer.convert_tokens_to_ids(tgt_lang)
     with torch.inference_mode():
-        out = model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, max_length=None, num_beams=4)
+        out = model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, max_length=None, num_beams=6)
 
     return tokenizer.decode(out[0], skip_special_tokens=True)
 
