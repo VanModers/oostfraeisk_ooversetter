@@ -7,18 +7,15 @@
 #SBATCH --mem=32G
 #SBATCH --partition=aihg.p
 #SBATCH --time=2-00:00
-#SBATCH --output=/dev/null
+# logs/ must exist before submitting: mkdir -p logs
+#SBATCH --output=logs/nllb_frs_%j.log
+#SBATCH --error=logs/nllb_frs_%j.log
 
 set -euo pipefail
 
 # Run from your submitted repository root.
 REPO_DIR="${SLURM_SUBMIT_DIR:-$PWD}"
-LOG_DIR="${REPO_DIR}/logs"
 ENV_NAME="pytorch"
-mkdir -p "${LOG_DIR}"
-
-LOG_FILE="${LOG_DIR}/nllb_train_${SLURM_JOB_ID}.log"
-exec > >(tee -a "${LOG_FILE}") 2>&1
 
 module load hpc-env/13.1 CUDA Anaconda3 git GCC/13.1.0
 
@@ -35,7 +32,7 @@ export PYTHONNOUSERSITE=1
 
 echo "=========================================="
 echo "Job ID:      ${SLURM_JOB_ID}"
-echo "Node:        ${SLURMD_NODENAME}"
+echo "Node:        ${SLURMD_NODENAME:-unknown}"
 echo "Working dir: ${REPO_DIR}"
 echo "Conda env:   ${ENV_NAME}"
 echo "GPU:         $(nvidia-smi --query-gpu=name --format=csv,noheader | head -n 1)"
