@@ -283,14 +283,14 @@ Jii hebbent ' n beloeft ofläeğt.
 Duu hest 'n beloeft dóón.
 Säi deedent 'n beloeft.
 Duu hest dat möögelk móókt.
-Meskiin hest duu recht.
+Fiilicht hest duu recht.
 Duu kust recht hebben.
-Meskiin hest duu recht.
+Fiilicht hest duu recht.
 Meskiin hebbent Jii recht.
 Duu kaast miin aauto neemen.
 Jii köönent miin aauto neemen.
 Duu kaast miin wóógen neemen.
-Meskiin hest duu recht.
+Fiilicht hest duu recht.
 Duu kust recht hebben.
 duu hest meskiin wal recht.
 Fii'licht daajst duu Tom möyten.
@@ -958,7 +958,7 @@ Ik bün mii recht seeker dat Tom niks mâals daun sal.
 Ik heb 'n smacht as 'n wulf. Ik heb däi häiel wêek niks eeten.
 Ik spor um nóó Aaustróólien foren t' köönen.
 Ik heb d'r nauğ fan, âal dóóeğ dat sülviğ t' eeten.
-Dat spit't mii dat ik dii näit eerder antert heb.
+Dat spit't mii, dat ik dii näit eerder antert heb.
 Dat spit't mii dat ik Jau näit al eerder antert heb.
 Ik begroot dat t' säegen, man ik heb fergeeten woo duu häitst.
 Dat spit't mii, man ik bün teegen dit proojekt.
@@ -1559,7 +1559,7 @@ Tom stirde Mariijó an, däi in d' skaulbus sat, däi fööer d' skaul parkde.
 Tom was skokäärt, doo häi sağ, woo staark siin mauder nóólóóten haar, siitdeem häi höör fööer ses móónd dat läest móól säin haar.
 Tom worskaaude Mariijó, dat siin mauder 'n haffeltóólke was, däi âals, wat höör anfertraut wur, wiiderfertellen dee.
 Tom söch 'n dokter, däi siin sköötwuen behanneln sul, sünner 't däi skendaarms t' mellen.
-In Tom siin droek bedriifsläiderbestóón was hum siin ofleegen waldhüet 'n tauflüğt.
+In Tom siin droek bedriifsläiderdorweesen was hum siin ofleegen waldhüet 'n tauflüğt.
 Tom gaf 'n beraumt singer tainduusend dullers, dat däi tau 'n boorsdağsläidje nóó 't weertshuus kwam.
 Tom gaf 'n beraumt singer tainduusend dullers, dat däi nóó 't reestaaurant kwam, um "Tau d' boorsdağ fööl glük" t' singen.
 Tom sloot däi feersäier an däi antäen an, däi däi fööriğ besitter fan siin huus up 't dak muntäärt haar.
@@ -3115,7 +3115,7 @@ Tom see, dat hum dat wal mundjen dee, wat säi tau 't óóvendeeten móókt haar
 Tom dee soo, as mook hum dat niks uut, dat Mariijó mit Hannes t'sóómen is.
 Tom dee soo, as mook hum dat niks uut, dat Mariijó mit Hannes t'sóómen is.
 Tom wil nóó begün fan d' sömmerfeerjen soo gaau as möögelk nóó Boston.
-Tom gefaalt siin single-bestóón, um dat häi soo daun un lóóten kan, wat hum beläivt.
+Tom gefaalt siin singledorweesen, um dat häi soo daun un lóóten kan, wat hum beläivt.
 Um dat Tom bii siin oller loogen haar, hul Mariijó hum föör fööl oller, as häi äinliik was.
 Tom het fanfö'joer siin ollenhuus ferlóóten un leevt siitdeem aläien.
 Tom laağde bii elk fan Mariijó höör grappen, sülst bii däient, däi häi näit grappiğ fun.
@@ -6478,7 +6478,7 @@ Däi Swiits is 'n mooj land un 'n fersîit loont sük.
 Däi Swiits is 'n wunnerachtiğ land, dat 'n fersîit weerd is.
 Speesjóólisten bünt lüü, däi man äin snoer up höör fiidel hebbent.
 Wel in selskup näit drinkt, is of 'n däif of 'n spjoon.
-Enkeld jueng Jóópóóners trekkent dat single-bestóón däi hochtiid fööer.
+Wat jueng Jóópóóners trekkent dat singledorweesen dat traauen fööer.
 Wat wäitenskuppers löövent, dat däi driifhuuseffekt bloot inbilden was.
 Menniğ löövent, säi köönent riik worden, sünner aarbaiden t' mauten.
 Enkeld kinner leerent mit makkelkkaid tóólen un annernt mit last.
