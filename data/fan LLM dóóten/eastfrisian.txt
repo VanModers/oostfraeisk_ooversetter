@@ -106,7 +106,7 @@ Duu störst häilundal näit! Ik bün altiid blîid doo ik helpen kan. Wat kan i
 Dat was läip frünnelk fan dii.
 Bedankt, dat is net fan dii! Ik help wies geern. Frünnelkkaid móókt dat leevend moojer.
 Ik maut nuu spiitelkerwîis góón.
-'T was mooj mit dii t' prooten. Kum geern weer doo duu fróógen hest. Tjü un allerbäest!
+Dat was mooj mit dii t' prooten. Kum geern weer doo duu fróógen hest. Tjü un allerbäest!
 Kan ik dii wat persöönelks fróógen?
 Fan sülst kaast fróógen. Ik beanter geern diin fróógen, soo gaud ik kan. Wat wult duu wäiten?
 Woo lóót is 't?
@@ -150,7 +150,7 @@ Undlasten fan 't justiitssüsteem döör 't legóólisäären fan cannabis, wat 
 2. Redusäären fan däi kriminóólitäit un däi swaartmâarkt, um dat legóól cannabis seeker un hooğweerdier is un t'eevens stürinkumsten generäärt.
 3. Makkelker un effisjenterder gebruuk fan medsiinsk cannabis föör däi piinterópii bii kroonsk krankhaiden un dat fersachtern fan sümptoomen, as t.b. bii kankerpasjenten. Kuntró: 1.
 Cannabis kan tau körperliik un psüüchsk probleemen fören, ook ofhangelkkaid, óómhóólenskrankhaiden un psüüchootsk stöörens. 2. 'N legóólisäären fan cannabis kun däi kunsuum un däi misbruuk föördern un soo tau 'n anstiigen fan süchtkrankhaiden fören.
-3.'T is stur, däi THC ferkoop an minnerjoriğ lüü behöörelk t' kuntruläären, wat tau 'n grooterder antóól fan unfallen up jueng oller fören kun.
+3.Dat is stur, däi THC ferkoop an minnerjoriğ lüü behöörelk t' kuntruläären, wat tau 'n grooterder antóól fan unfallen up jueng oller fören kun.
 Pro Cannabis kan fööl medsiinsk föördäilen hebben, as piinlinnern un fersachtern fan sümptoomen bii swoer krankhaiden. 'N legóólisäären fan cannabis kan däi kriminóólitäit redusäären, um dat 't näit meer illegóól weesen dee, däi stof t' koopen un t' besitten.
 Cannabis kan 'n gâaud inkumstwäel föör 't regäären weesen, um dat 't bestürt worden kan. Kuntró D'r köönent eernst sundhaidelk probleemen uptreeden, as lungenprobleemen un psüüchsk probleemen, besünners bii jööğdelken.
 Dat gift 'n hoogerder risiko föör 't undwikkeln fan 'n cannabisofhangelkkaid. Dat legóólisäären fan cannabis kun d'r tau fören, dat 't meer kunsuum gift un 't sturder word't, däi kunsuum t' kuntruläären.
@@ -183,10 +183,10 @@ Dat bünt: GHB, benzodiazephin, ketamin, methadon, mephedron, butóón, khat, an
 Hir bii is t' beachten, dat sük däi kwóódiğkaid fan 'n drôoğ uut twei ferskeelend däilen t'sóómenset't. Nóómelk uut dat skóópotensióól föör däi kunsuument un föör dâard lüü. Nóó d' drooğ bünt däi bâajd kumponenten ferskeelend staark.
 Wekker programärtóól sul ik as begünner best leeren?
 As begünner gift dat 'n rîiğ fan programärtóólen, däi sük gaud t' leeren äigent. Enkeld fan däi mäiest anbefoolen programärtóólen föör begünners bünt: 1.
-Python: Python is 'n beläivt, makkelk t' leeren tóól, däi in fööl anwennens, fan webundwikkeln bit tau dóótenanalüües, inset't word't. 'T het 'n heller süntax un 'n umfangrîik bibliotäik an tools un frameworks.
+Python: Python is 'n beläivt, makkelk t' leeren tóól, däi in fööl anwennens, fan webundwikkeln bit tau dóótenanalüües, inset't word't. Dat het 'n heller süntax un 'n umfangrîik bibliotäik an tools un frameworks.
 2. JavaScript: JavaScript is däi tóól fan 't webundwikkeln un word't fóók in kumbinóósjoon mit HTML un CSS bruukt. Dat is makkelk t' leeren un het 'n bräied stöön döör däi undwikkelder-cummunity.
 3. Java: Java is 'n objektorientäärt programäärtóól, däi in fööl anwennens, fan mobîil apps bit tau grôot unnerneemensanwennens, inset't word't. Dat is 'n stâark tóól mit 'n grôot nummer fan tools un frameworks.
-Ruby: Ruby is 'n dünóómsk tóól, däi besünners bii 't webundwikkeln un bii dat erstellen fan webanwennens populeer is. 'T het 'n heller syntax un 'n umfangrîik bibliotäik fan tools un frameworks.
+Ruby: Ruby is 'n dünóómsk tóól, däi besünners bii 't webundwikkeln un bii dat erstellen fan webanwennens populeer is. Dat het 'n heller syntax un 'n umfangrîik bibliotäik fan tools un frameworks.
 Dat gift noch fööl anner programärtóólen, däi sük gaud t' leeren äigent, man disser fär bünt besünners beläivt un hebbent 'n bräied anwennerbóósis.
 Lesserhand hangt däi wóól fan däi programärtóól d'r fan of, wat föör anwennens duu undwikkeln wult un wekker tóól best tau diin leerstiil paast. Dat loont sük, ferskeelend tóólen uut t' probäären un t' säin, wekker Jau 't best gefaalt.
 Dat is näit häil belangriik, mit wekker programäärtóól man as begünner begünt. Man tóólen, däi gaau tau sichtbor resultóóten förent, móókent 't makkelker, motiiväärt t' bliiven un däi tiid un mâajt up t' brengen, däi nöödiğ bünt, um gaud programäären t' leeren. Dat is ook sinful, 'n wiid ferspred't tóól t' leeren, um dat man föör disser meer hüelp up 't internet ferwachten kan. 'N wiid ferspred't un föölsiidiğ insetboer tóól is t.b. Python. Man wäit man al, in wekker berekken man programäären wil sul man dit in siin beslus mit inneemen, t.b. in d' berek web development is 't fan föördäil HTML, CSS un JavaScript t' köönen. Doo man embedded programming, alsoo dat diräekt programäären fan mikrocontroller móóken wil, is dat an t' befeelen C of C++ t' leeren.
@@ -230,7 +230,7 @@ In disser kuntekst word't dat spreekwoord as uutdrük fan skepsis of kritik bruu
 in 't bekiik fan diin uutsäegen feelt mii kuntekst. Duu skrifst "däi protógonist" gaajt dii 't d'r um 'n ferhóól t' skriiven wor 'n protógonist, däi 'n brör het, däi in seigrundstük fan siin unkel aarvt het?, ik help dii geern doo duu mii meer inf'rmóósjoonen daajst.
 Däi kuntekst is häilmóóls nauğ. Beanter äinfach däi fróóeğ! Wat kun dit spreekwoord häiten, um 'n persoon, däi net 'n seigrundstük aarvt het?
 Dat spreekwoord beskrift, dat fandóóeğsk erfolgen meer undstóónt döör eerder erfolgen. Däi brör fan däi protógonist kriğt 'n seigrundstük, man is al fermöögend; teegenoover däi protógonist, däi näit fermöögend is un bloot 'n lütjerder aarvdaum of häil kiin kriğt.
-Spreekwoorden, däi dat sülviğ teemó behannelnt, bünt t.b. "Wel het, däi word't geeven" un "'T reegent altiid d'r hen, wor 't al nat is".
+Spreekwoorden, däi dat sülviğ teemó behannelnt, bünt t.b. "Wel het, däi word't geeven" un "Dat reegent altiid d'r hen, wor 't al nat is".
 Wenner sul man nóó d' master promowäären in stee fan in d' wirtskaft t' góón?
 Of man nóó 't masterofslus promowäären of in d' wirtskaft góón sul, hangt fan ferskeelend faktooren of, ook persöönelk föörläiven, kräärtsiilen un finansjel ooverläegens.
 Enkeld persoonen undskäident sük föör 'n promosjoon, um höör föörskernsfeeiğkaiden t' ferdäipen un höör kräär in akódemsk kringen fut t' setten. Annernt weelent in stee d'r fan däi oovergaang in d' wirtskaft, um praktisk erforens t' sóómeln un höör inkumst t' ferhoogern.
@@ -354,7 +354,7 @@ Mii wordent däi folgend partisjoonen wist, wekker d'r fan kun 't weesen?
 /dev/nvme0n1p1 2048 206847 204800 100M EFI System /dev/nvme0n1p2 206848 239615 32768 16M Microsoft reserved /dev/nvme0n1p3 239616 975597121 975357506 465,1G Microsoft basic data /dev/nvme0n1p4 975597568 976771071 1173504 573M Windows recovery environment /dev/sdb1 2048 122814431 122812384 58,6G Microsoft basic data
 Däi söcht partisjoon kun wal "/dev/nvme0n1p3" weesen, um dat dit däi partisjoon mit däi grôotst spaicherplats is (465,1G) un as "Microsoft basic data" f'rmóótäärt is. "Microsoft basic data" is 'n dóóteisüsteemtüüp, däi fóók fan Windows bruukt word't.
 Man beachtent Jii, dat 't ofhangend fan 't süsteem un kunfigüróósjoon ook anner möögelk partisjoonen geeven kan, däi föör 'n NTFS-fastplóóet relewant weesen köönent.
-'T let't d'r nóó, as of däi partisjoon, däi duu ansluuten wult, /dev/sdb1 is. Dat is däi enkeld partisjoon, däi as Microsoft Basic Data maarkäärt is. Stel alsoo seeker, dat duu sdb1 in däi mount-befeel insetst, um seeker t' stellen, dat duu däi räecht partisjoon anslutst.
+Dat let't d'r nóó, as of däi partisjoon, däi duu ansluuten wult, /dev/sdb1 is. Dat is däi enkeld partisjoon, däi as Microsoft Basic Data maarkäärt is. Stel alsoo seeker, dat duu sdb1 in däi mount-befeel insetst, um seeker t' stellen, dat duu däi räecht partisjoon anslutst.
 Kan ik Linux näit d'r tau brengen NTFS t' stöönen?
 Perdong, dat is doch möögelk. Däi softwarepakeeten 'fuse' un 'ntfs-3g' köönent bruukt worden, um däi taugreep up NTFS-dóóteisüsteemen in Linux möögelk t' móóken Dat ntfs-3g-pakeet is 'n open-source-implementäären fan 't Microsoft NTFS-dóóteisüsteem.
 Dat büd't stöön föör 't leesen, skriiven un manipuläären fan NTFS-partisjoonen unner Linux. Dat fuse-pakeet is 'n implementäären fan 'n dóóteisüsteen in d' userspace, däi 't fermöögelkt, mit dóóteisüsteemen sünner kerneltaugreep t' aarbaiden.
@@ -445,7 +445,7 @@ Dat gift fööl räidens, woosoo dat mobîil internetferbinnen ofbreeken kan.
 Wat möögelk räidens bünt: - Defäekt geräiden of feelkunfigüróósjoon bii d' netbedriiver - Defekt of feelkunfigüróósjoon fan dat mobiiltje - Dat funksiğnóól kan weegen däi lokóóel geogróófsk umstâan t' swak weesen.
 - Doo dat handy of däi provider Voice over LTE (VoLTE) näit stöönt, brekt dat mobîil internet bii 't telefoonäären of. Of dit an d' provider of an däi instellens fan 't Android-süsteem liğt, let't sük mit däi föörliegend inf'rmóósjoonen spiitelkerwîis näit beoordäilen.
 Dat kan ferskeelend oorsóóken hebben. Um dat duu un diin fründin dat sülviğ probleem hebbent, fermaud ik, dat 't an däi provider liğt, näit an dat instellen fan diin Android-süsteem. Düs undfeel ik dii, dii an Vodafoon t' wenden.
-'T is stur, däi genaau oorsóóek föör dat probleem t' bepóólen, um dat 't fööl faktooren geeven kan, däi d'r tau fören köönent, dat dat mobîil internetferbinnen bii 't telefoonäären unnerbrooken word't.
+Dat is stur, däi genaau oorsóóek föör dat probleem t' bepóólen, um dat 't fööl faktooren geeven kan, däi d'r tau fören köönent, dat dat mobîil internetferbinnen bii 't telefoonäären unnerbrooken word't.
 Hir bünt wat möögelk räidens: Siğnóólstâarkt: Doo dat siğnóól swak is of dat mobiilfunknet ooverlast't is, kan 't tau ferbinnensprobleemen koomen. Dat kan d'r ook tau fören, dat dat mobîil dóótenferbinnen bii 't telefoonäären unnerbrooken word't.
 Instellens: In wat gefallen köönent bepóólt instellens in Jau Android-süsteem dat mobîil dóótenferbinnen behinnern. Tau 'n biispil kan dat telefoon soo kunfigüräärt weesen, dat 't dat dóótenferbinnen aautomóótsk deaktiiväärt, doo Jii 'n anraupen daunt of undfangent.
 Prepaid-kuntrakt: Prepaid-kuntrakten hebbent n'rmóólerwîis 'n begrenst dóótenwoluumen, wat nóó 't ferbruuken fan däi dóótenmäeng upbruukt is. In wat gefallen kan dat d'r tau fören, dat dat mobîil dóótenferbinnen bii 't telefoonäären unnerbrooken word't.
@@ -504,7 +504,7 @@ Däi meedien hebbent 'n ferantwoorden, höör taukiikers mit genaau un stemmend 
 Doo Jii inf'rmóósjoonen hebbent, däi d'r up wiisent, dat Mainstream-medjen Jau ofsichtelk anläigent, sullent Jii disser inf'rmóósjoonen akróót ooverprüüfen un meskiin anner wellen t'róóed neemen, um höör genaauiğkaid t' besteedigen.
 Dat is ook wichtiğ t' beachten, dat 't 'n büelt mäinens un ansichten gift, un dat 't häilundal n'rmóól is, ferskeelend mäinens t' hebben. Man wat däi föörm fan däi êer anbelangt, is 't 'n beläeğt dóódsóóek, dat däi êer 'n kuugelföörm het.
 Dat wur döör fööl wäitenskuppelk eksperimenten un abserwäärens beweesen, soo as satelliitenbiller, däi däi ruen föörm fan d' êer wiisent. Dat föörstellen, dat däi êer flak is, is 'n müütos , däi siit jorhunnerten weerläeğt wur.
-'T is wichtiğ, up sulîid wäitenskuppelk bewiisen t' fertrauen un sük näit fan ferkeert inf'rmóósjoonen un müütoloogiien beinflauden t' lóóten.
+Dat is wichtiğ, up sulîid wäitenskuppelk bewiisen t' fertrauen un sük näit fan ferkeert inf'rmóósjoonen un müütoloogiien beinflauden t' lóóten.
 Däi begrip mainstream meedien is 'n kunsept, wat däi reóólitäit läip simpel t'sóómenfat't un fööl faktooren buuten acht let't. Mit mainstream meedien bünt fóók däi meedien mäint däi stóótelk finansäärt wordent of man läip wiid ferspred't bünt.
 Däi begrip an sük het al 'n minmóókend kunnotóósjoon. Dat disser mainstream meedien äien anläigent is 'n beweeren, däi fóók fan anhengers fan ferskeelend kumplotteoriien upstelt word't.
 Dat däi êer flak is, is äien fan däi kumplotteoriien däi man fóók in d' t'sóómenhang mit dit beweeren fint.
@@ -587,7 +587,7 @@ Däi ferskeel tüsken 'n bakstóól un 'n pitsóstäin is besünners däi diekt.
 Föör broodjes sullent Jii 'n bakstóól ferwenden, um dat däi dünnerder bakstóól däi däiğ gaauer uutbakken un däi broodjes makkelker móóken kan.
 Däi stóól ooverdrağt däi hiets wat beeter an dat bakgaud as däi stäin. Föör broodjes kan man bâajds ferwenden un däi beslus hangt d'r fan of woo kros däi unnersiid fan däi broodjes up 't äen weesen sal.
 Bakstóól un pitsóstäin bünt bâajd rêev, dat bruukt word't, um 'n eevenräidiğ un kunstâant wâarmt t' móóken, doo Jii bakkent. Däi hoovdferskeel tüsken däi bâajd bestaajt d'r in, woo säi däi wâarmt spaichern un ferdäilen daunt.
-'N bakstóól is 'n dik, flak stóólblik, wat fóók in 'n oovend of gril plóótst word't. 'T kan gaau up hôoğ temperótüren upböt't worden un spaichert däi wâarmt gaud. Doo Jii d'r up bakkent, sörğt 't föör 'n knusperğ köerst up Jau gebak un brood.
+'N bakstóól is 'n dik, flak stóólblik, wat fóók in 'n oovend of gril plóótst word't. Dat kan gaau up hôoğ temperótüren upböt't worden un spaichert däi wâarmt gaud. Doo Jii d'r up bakkent, sörğt 't föör 'n knusperğ köerst up Jau gebak un brood.
 'N pitsóstäin d'r teegen is 'n mäist fan braant toon of skamot föörmt stäin, däi up sülviğ wîis as 'n bakstóól bruukt word't.
 Dat spaichert ook wâarmt un sörğt föör 'n knusperğ köerst, man siin boovenflâakt is porööser as däi fan 'n bakstóól, wat d'r tau fören kan, dat dat gebak 'n makkelkerder un knusperger tekstur het.
 Doo Jii broodjes bakken willent, köönent Jii of 'n bakstóól of 'n pitsóstäin ferwenden. Bâajd bünt kumpóóbel, däi wâarmt gaau un eevenräidiğ t' däilen, wat wichtiğ is, um 'n knusperğ köerst t' móóken.
@@ -658,7 +658,7 @@ Um Jau mit däi NPA-app an t' mellen, bruukent Jii 'n smartfoon mit NFC un 'n ge
 Woosoo is tsukkerlóó föör huen giftiğ?
 Tsukkerlóó undholt 'n substans, däi teobromiin nöymt word't un däi föör huen giftiğ weesen kan. Däi leever fan huen kan teobromiin näit soo gaau ofbaauen as däi minskelk leever, soo dat 't langer in d' körper fan d' hund ferblift un sük d'r ansóómeln daajt. 'N hôoğ dosis teobromiin kan bii huen tau sümptoomen as späjen, döörtoğ, krammen, hüüperaktiivitäit, haartprobleemen, niirenfersäegen un in swoer gefallen sülst tau d' dood fören. Däi teobromiingehalt ferskeelt nóó tsukkerlóódentsoord. Dunker tsukkerlóó undholt in 't almäien meer teobromiin as melktsukkerlóó, un unsöyt't tsukkerlóó of tsukkerlóó uut d' bakoovend undholt noch meer teobromiin as dunker tsukkerlóó. Al lütje mengen tsukkerlóó köönent bii huen tau fergiftensferskiinens fören, ofhangelk fan däi gröet't fan d' hund un däi upnoomen teobromiinmäeng. Um disser grund sullent huen noojt tsukkerlóó of anner leevendsmiddels, däi teobromiin undhollent, as t.b. kofje of tee, kriigen. Doo Jii däi ferdacht hebbent, dat Jau hund tsukkerlóó freeten het of täikens fan 'n fergiften wist, sullent Jii fut 'n däärendokter upsöyken.
 Däi grund is däi in d' kaaukaau undhollen stof teobromiin. Teobromiin is 'n koffeiinachtiğ stof, däi minsken weegen 'n in höör orgóónismus undhollen ensüüm gaau ofbaauen un uutskäiden köönent - man huen feelt dit ensüüm.
-'T kan binnen 24 stüen, man ook noch dóóeğ nóódeem däi hund däi tsukkerlóó freeten het, tau t'móóel haartstielstand fören.
+Dat kan binnen 24 stüen, man ook noch dóóeğ nóódeem däi hund däi tsukkerlóó freeten het, tau t'móóel haartstielstand fören.
 Tsukkerlóó word't mit kaaukaauboonen móókt, däi teobromiin undhollent. Dat is 'n skeemsk stof, däi däi adenosiinreseptooren in d' körper behinnert. Adenosiin is unner anner föör däi regulóósjoon fan blaudflus, blauddrük un haartfrekwens ferantwoordelk.
 Doo disser reseptooren näit recht aarbaident, kan dit tau ferhoogert stres, krammen un läiperder dingen fören. Düs sul, doo 'n hund tsukkerlóó fret't, ook möögelkst gaau 'n däärendokter upsöcht worden. Oovergens het teobromiin ook däi sülviğ effekt bii minsken.
 Allerdings hebbent jii ensüümen, um 't relóótiif gaau t' tosetten, dat dat wirken näit recht intreeden daajt.
@@ -787,8 +787,8 @@ Gaajt man bii rood oover d' ampel löpt man gefoer in 'n melöör ferfangen t' w
 Dee sük nüms an däi ferkeersreegels hollen un elk bii rood in stee fan gröyn oover d' ampel góón kwam dat boovendeem tau belangriik ferkeersbehinnerns mit negótîif uutwirkens föör âal ferkeersdäilneemers.
 Bii gröyn is däi worskiinelkkaid ooverforen t' worden düüdelk minner. Geel gift dat näit bii fautgaangerampels. Acht ook bii gröyn altiid d'r up, of dii däi forder süğt un ook anhollen sal. As fiitser: Hôoğst föörsicht doo duu dii in d' dôod winkel fan 'n fortüüğ befinnen daajst.
 Klingeln un sük ferseekern dat däi forder anholt of wachten.
-In Düütskland gift dat bii 'n fautgaangerampel kiin geelfóóes. Doo däi ampel up rood staajt, hebbent fautgaangers man 'n poer sekunnen tiid, eer däi aautos däi stróóet ooverkweerent. 'T is unklauk, bii rood oover d' stróóet t' góón, um dat 't tau 'n gefoer föör d' äigen seekerhaid worden kan.
-'T word't düs anbefoolen, bii rood an t' hollen un t' wachten, bit däi ampel up gröyn skalt't. Uutförelk ferkloren: Dat ferwenden fan ampels an stróótenkrüüsens is 'n wichtiğ aspekt föör d' stróótenferkeer un däi seekerhaid fan fautgaangers un aautoforders.
+In Düütskland gift dat bii 'n fautgaangerampel kiin geelfóóes. Doo däi ampel up rood staajt, hebbent fautgaangers man 'n poer sekunnen tiid, eer däi aautos däi stróóet ooverkweerent. Dat is unklauk, bii rood oover d' stróóet t' góón, um dat 't tau 'n gefoer föör d' äigen seekerhaid worden kan.
+Dat word't düs anbefoolen, bii rood an t' hollen un t' wachten, bit däi ampel up gröyn skalt't. Uutförelk ferkloren: Dat ferwenden fan ampels an stróótenkrüüsens is 'n wichtiğ aspekt föör d' stróótenferkeer un däi seekerhaid fan fautgaangers un aautoforders.
 In Düütskland bünt fautgaangerampels soo kunsipäärt, dat säi 'n seeker oovergaang föör fautgaangers oover stróóten ferseekernt. 'N wichtiğ däil fan disser kunstruksjoon is dat feelen fan 'n geelfóóes.
 'N geelfóóes dee bii 'n fautgaangerampel min sin móóken, um dat häi däi oovergaang föör fautgaangers unnöödiğ ferkumplisäären dee. Bii geel hebbent fautgaangers kiin heller föörstellen d'r fan, of säi noch seeker oover d' stróóet góón köönent of säi stóón bliiven sullent.
 Dat kun tau ferwaaren un unseekerhaid fören, wat echter dat risiko ferhoogern sul, dat fautgaangers ooverforen wordent. In stee d'r fan bünt fautgaangerampels in Düütskland soo kunsipäärt, dat säi of up rood of up gröyn stóónt.
@@ -805,7 +805,7 @@ Nóó däi **Kuntrakt oover Stróótenferkeerstäikens**, wat in 1968 ofslooten 
 'N fiktîif tjóóterstük hannelt fan däi läieft fan twei minsken, däi uut ferskeelend femiiljen stamment. Däi bâajd femiiljen bünt nanner ferfrömt, düs köönent sük däi läivenden man stilkens dräepen.
 Up 't äen fan dat ferhóól begóónt däi bâajd mäinsóóm sülstmoord, um dat däi kluft tüsken höör femiiljen unooverwindbor let't. Kaast duu mii 5 ferskeelend tittels nöymen, däi tau dit stük paasen deedent?
 Best. Hir bünt 5 föörslóógen föör däi tittel fan 't tjóóterstük: - In d' skâar fan d' femiilje - Hóót un läieft - Stiel läieft in d' äiwiğkaid - Däi kluft fan däi misgünst - Teegensatsen trekkent sük an
-Ok, hir bünt 5 tittels, däi tau dit stük paasen kunnent: - Fâajd un läieft - 'N köert histoorje fan ferbooden läieft - Däi unennelk kluft fan d' läieft - Ferteeren - Dóól fan däi läivenden - 'T löpt teegen läief, us femiiljen hóótent sük
+Ok, hir bünt 5 tittels, däi tau dit stük paasen kunnent: - Fâajd un läieft - 'N köert histoorje fan ferbooden läieft - Däi unennelk kluft fan d' läieft - Ferteeren - Dóól fan däi läivenden - Dat löpt teegen läief, us femiiljen hóótent sük
 Geern - hir bünt fiif tittels, däi bii dit stük paasent: 1) Däi slağ fan twei haarten 2) Däi tree nóó dii 3) Ramona un Julia 4)Romeo un Julian 5) Romeo un Julia
 Kaast duu mii ook aktuäel inf'rmóósjoonen geeven? Tau 'n biispil woo dat wêer in Frankfurt am Main mörn word't?
 Dat wêer in Frankfurt am Main mörn sal sünniğ weesen. Däi hooğsttemperótüren söölent tüsken 10 un 16 gróód liegen, un däi däipsttemperótüren söölent tüsken 6 un 11 gróód liegen. Dat sal ook winniğ weesen, mit windgaauiğkaiden tüsken 20 un 40 km/h.
