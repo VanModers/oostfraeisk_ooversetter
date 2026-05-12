@@ -14,8 +14,6 @@ add_frs_lang(tokenizer, model, random_init=False)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
-model.gradient_checkpointing_enable()
-
 training_args = Seq2SeqTrainingArguments(
     output_dir=OUTPUT_DIR,
     eval_strategy="epoch",
@@ -100,6 +98,5 @@ trainer.train()
 model.tie_weights()
 
 model.save_pretrained(OUTPUT_DIR)
-tokenizer.save_pretrained(OUTPUT_DIR)
 tokenizer.save_pretrained(OUTPUT_DIR)
 print(f"Model saved to {OUTPUT_DIR}")
