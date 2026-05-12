@@ -13942,3 +13942,9 @@ Alle einklappbaren Elemente auf der aktuellen Seite einklappen
 Diese Seite enthält eine Tabelle mit einem rowspan-Attribut, das sich über mehr Zeilen erstreckt, als die Tabelle tatsächlich hat. Du kannst dies beheben, indem du die Seite bearbeitest.
 Diese Aktion existiert nicht
 Es ist ein Datenbankabfragefehler aufgetreten. Dies könnte auf einen Fehler in der Software hindeuten.
+Ich sage zu dir und all deinen Freunden: "Wir schaffen das!"
+Lasst uns ihm erzählen, dass wir das schaffen.
+Er sagte: "Wir schaffen das"
+Ich habe einen Wurm und zwei Würmer.
+Auf dem Boden leben einige Würmer.
+Kennst du diese kleinen Würmer, die immer alles auffressen?
