@@ -14,7 +14,7 @@ add_frs_lang(tokenizer, model, random_init=False)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
-model.gradient_checkpointing_enable()
+model.gradient_checkpointing_enable(gradient_checkpointing_kwargs={"use_reentrant": False})
 
 training_args = Seq2SeqTrainingArguments(
     output_dir=OUTPUT_DIR,
