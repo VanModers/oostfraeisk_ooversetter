@@ -28,7 +28,6 @@ training_args = Seq2SeqTrainingArguments(
     lr_scheduler_type="cosine",
     warmup_steps=500,
     weight_decay=0.05,
-    label_smoothing_factor=0.1,
     bf16=True,
     logging_steps=100,
     dataloader_num_workers=4,
