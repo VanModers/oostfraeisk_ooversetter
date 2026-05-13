@@ -7,4 +7,9 @@ upload_folder(
     repo_id="VanModers114/East_Frisian_NLLB_Model",
     repo_type="model",
     delete_patterns="*",
+    ignore_patterns=[
+        "__pycache__",
+        "**/__pycache__/**",
+        "*.pyc",
+    ],
 )
