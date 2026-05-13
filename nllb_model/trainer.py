@@ -14,13 +14,15 @@ add_frs_lang(tokenizer, model, random_init=False)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
+model.gradient_checkpointing_enable()
+
 training_args = Seq2SeqTrainingArguments(
     output_dir=OUTPUT_DIR,
     eval_strategy="epoch",
     save_strategy="epoch",
-    per_device_train_batch_size=32,
-    per_device_eval_batch_size=32,
-    gradient_accumulation_steps=2,      # effective batch size = 64
+    per_device_train_batch_size=16,
+    per_device_eval_batch_size=16,
+    gradient_accumulation_steps=4,      # effective batch size = 64
     num_train_epochs=30,  # More epochs
     learning_rate=2e-5,   # Lower learning rate
     warmup_steps=2000,
