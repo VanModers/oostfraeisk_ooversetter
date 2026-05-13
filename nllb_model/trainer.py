@@ -23,10 +23,12 @@ training_args = Seq2SeqTrainingArguments(
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
     gradient_accumulation_steps=4,      # effective batch size = 64
-    num_train_epochs=30,  # More epochs
-    learning_rate=2e-5,   # Lower learning rate
-    warmup_steps=2000,
-    weight_decay=0.01,
+    num_train_epochs=40,  # More epochs
+    learning_rate=3e-5,
+    lr_scheduler_type="cosine",
+    warmup_steps=500,
+    weight_decay=0.05,
+    label_smoothing_factor=0.1,
     bf16=True,
     logging_steps=100,
     dataloader_num_workers=4,
@@ -64,9 +66,9 @@ class PrintTranslationTrainer(Seq2SeqTrainer):
                     "Vor zehn Jahren prägte die damalige Kanzlerin Merkel den Satz \"Wir schaffen das\"."
                     "Das Rotkehlchen ist von rundlicher Gestalt mit langen, dünnen Beinen."
                     )
+        device = self.args.device
         self.model.eval()
-        device = "cuda" if torch.cuda.is_available() else "cpu"
-        self.model.to(device)
+
         self.tokenizer.src_lang = DEU_LANG
         inputs = self.tokenizer(sentence, return_tensors="pt", truncation=True, max_length=MAX_LENGTH)
         inputs = {k: v.to(device) for k, v in inputs.items()}
@@ -74,8 +76,12 @@ class PrintTranslationTrainer(Seq2SeqTrainer):
         with torch.inference_mode():
             out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, max_length=None, num_beams=6)
         translation = self.tokenizer.decode(out[0], skip_special_tokens=True)
+
         print("\n[Sample translation after epoch evaluation]")
         print(f"German: {sentence}\nOostfräisk: {translation}\n")
+
+        self.model.config.use_cache = False
+        self.model.train()
         return results
 
 
