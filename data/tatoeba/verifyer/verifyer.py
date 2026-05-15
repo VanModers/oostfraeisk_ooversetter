@@ -1,5 +1,13 @@
 import os
 
+def get_total_lines(file_path):
+    """Helper to count the total number of lines in a file."""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return sum(1 for _ in f)
+    except Exception:
+        return 0
+
 def get_specific_line(file_path, line_number):
     """Helper to fetch a specific line number from a file on disk."""
     try:
@@ -14,6 +22,12 @@ def get_specific_line(file_path, line_number):
 def run_translation_check(de_path, frs_path, log_path, error_path):
     start_line_number = 1 
     
+    # 1. Gesamtzeilen ermitteln
+    total_lines = get_total_lines(de_path)
+    if total_lines == 0:
+        print(f"\nERROR: Could not read source file or file is empty: {de_path}")
+        return
+
     if os.path.exists(log_path):
         with open(log_path, 'r', encoding='utf-8') as f:
             lines = f.readlines()
@@ -24,11 +38,11 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
                     start_line_number = 1
 
     print(f"--- East Frisian Translation Validator ---")
+    print(f"Total Lines in File: {total_lines}")
     print(f"Resuming at Line: {start_line_number}")
     print("Commands: [y] = Correct, [n] = Incorrect, [r] = Reload from Disk, [exit] = Stop\n")
 
     try:
-        # We still open the files to iterate, but we will re-read them if 'r' is pressed
         with open(de_path, 'r', encoding='utf-8') as de_file, \
              open(frs_path, 'r', encoding='utf-8') as frs_file, \
              open(log_path, 'a', encoding='utf-8') as log_file, \
@@ -45,8 +59,14 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
                     log_file.write(f"{current_line}\n")
                     continue
 
+                # 2. Prozentsatz berechnen (Fortschritt VOR der aktuellen Entscheidung)
+                # Falls du lieber den Fortschritt NACH der Zeile sehen willst, 
+                # kannst du das `- 1` weglassen.
+                percentage = ((current_line - 1) / total_lines) * 100
+
                 while True:
-                    print(f"Line {current_line}")
+                    # Anzeige erweitert um Gesamtzeilen und Prozent (auf 2 Nachkommastellen gerundet)
+                    print(f"Line {current_line} / {total_lines} ({percentage:.2f}%)")
                     print(f"DE:  {de_text}")
                     print(f"FRS: {frs_text}")
 
@@ -54,7 +74,6 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
 
                     if user_input == 'r':
                         print("\n--- Reloading file from disk... ---")
-                        # Fetch the latest version of these lines specifically
                         de_text = get_specific_line(de_path, current_line)
                         frs_text = get_specific_line(frs_path, current_line)
                         continue 
