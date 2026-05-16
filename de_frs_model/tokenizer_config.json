@@ -25,7 +25,6 @@
       "special": true
     }
   },
-  "additional_special_tokens": null,
   "backend": "custom",
   "eos_token": "</s>",
   "is_local": false,
