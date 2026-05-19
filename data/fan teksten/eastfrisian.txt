@@ -1317,7 +1317,7 @@ Dat was fööl läiper as wii 's anfangs dochent.
 Dat was näit recht kold, man 't was altiid nat.
 Dat was düüdelk dat Tom Mary tuutjen wul.
 Dat was oopensichtelk, dat Tom Mary tuutjen wul.
-Dat was dum fan hum höör anbod of t' leenen.
+Dat was dum fan hum, höör anbod of t' leenen.
 Dat was begrootelk, dat 't güster reegende.
 Duu hest doch föörslóón, disser film t' kiiken.
 D'r sal sük makkelk wel föör finnen lóóten.
@@ -1348,7 +1348,7 @@ Dat is mii unmöögelk dii dat tau ferkloren.
 Dat is unmöögelk, in äin móónd Engelsk t' leeren.
 Bii sükker gedrüüs kriğt man doch kiin ôoğ diecht!
 Bii sükker gedrüüs kan man doch unmöögelk slóópen!
-Dat is nütslös um siin ferlooren jööğd t' denken.
+Dat is nütslös, oover siin ferlooren jööğd nóó t' denken.
 Dat is beeter kiin anhollers mit t' neemen.
 Dat is kiin slâang man bloot 'n stük taau.
 Dat is näit bekent wel t'eerst dat rad uutfinnen dee.
@@ -4853,8 +4853,8 @@ Güster het Tom föör 't êerst móól fööer publikum spöölt.
 Was dat möögelk, 'n dräepen mit us up d' 5 of 6. pril in t' richten?
 Woosoo hest duu mii ooverhôop nóó miin mäinen frağt, doo duu dii doch al undslooten haarst?
 Wel sal sük um miin krâank besfóóer kümmern, doo mii wat ooverkumt?
-Doo duu unbekent woorden in möyet kumst, maust duu höör in 't woordenbauk nóóslóón.
-Doo däi stöörm f'rbii was, fungent wii mit däi föörräidens föör 't uutloopen an.
+Doo duu unbekent woorden t' möyet kumst, maust duu höör in 't woordenbauk nóóslóón.
+Doo däi stöörm f'rbii was, fungent wii mit däi föörberäidens föör 't uutloopen an.
 Doo 't winniğ is, flöysternt däi blóóden fan d' oel äiken, un höör takken króókent.
 Doo Tom an Marió höör huus f'rbiifur, ful hum up, dat dat lücht noch an was.
 Siin güsterğ woorden dekkent sük näit mit dat, wat häi ferleeden wêek see.
@@ -5728,7 +5728,7 @@ Dat is recht dum, mit 'n fîits t' foren, wat kiin bremsen het.
 Teegenmóótreegels bünt düüdelk effektiiver as dat räecht behanneln.
 Bitte säegent Jii mii, wekker tsuğliinje ik fan d' fluğhóóven nóó d' binnenstad neemen maut.
 In disser mien joren folğde äin köönenk däi anner up d' troon.
-Up d' sülviğ dağ land'de däi Apollo 11 erfolğriik up d' móónboovenflâakt.
+Up d' sülviğ dağ lande däi Apollo 11 erfolğriik up d' móónboovenflâakt.
 Wel man ook frağt - man kriğt kiin befreedigend antern.
 Miin besfóóer gung in 't krankenhuus, um siin móóğpiin behanneln t' lóóten.
 Miin fóóder, däi nuu in Amerikó aarbaid't, skreev us ferleeden wêek 'n bräif.
@@ -8751,7 +8751,7 @@ Doo häi soodanniğ wiider drinkt, sal häi mit 't taksii nóó huus tau foren m
 Doo häi dii näit traauen wil, woosoo het häi sük dan mit dii fersprooken?
 Doo Tom fóóker laagen dee, haar häi wal meer früen.
 Sul 't mii insent in 't buutenland trekken, dee ik worskiinelk nóó Frankriik tau góón.
-Doo ik näit döörfaal, kan ik in dit joer miin förderskiin kriigen.
+Doo ik näit döörfaal, kan ik binnen dit joer miin förderskiin kriigen.
 Ik was noch noojt in Boston un wil d'r ook noojt hen.
 Ik heb höört, man sul noojt siin êerst läieft traauen.
 Ik heb d'r nauğ fan, mii d'r mit t' plóógen, däi probleemen fan annernt t' löesen.
@@ -9774,7 +9774,7 @@ Dit fluğtsoiğ is kumpóóbel, 40 persoonen t'móól t' beföördern.
 Däi dingen bünt meer soo, as säi nuu bünt, as säi 't oojt t'fööer west hebbent.
 Däi Wikingers söölent Amerikó noch fööer Kolumbus unddekt hebben.
 Säi ferkleddent sük as fiskers un flüğt'dent in 'n boot.
-Säi ferbaaudent höör riik in Peruu fööer ruuğweğ fiifhunnert joer.
+Säi erbaaudent höör riik in Peruu fööer ruuğweğ fiifhunnert joer.
 Disser lütje letters kan man bloot unner d' lûup leesen.
 Disser lütje letters kan man bloot mit 'n fergrooternsglas leesen.
 Disser skêer kan fan links- as ook rechtshanners gaud anwend't worden.
@@ -11417,7 +11417,7 @@ Löövent Jii, dat dat eerdferwaarmen dat resultóót fan minskelk hanneln is?
 Löövst duu, dat dat eerdferwaarmen dat resultóót fan minskelk hanneln is?
 Seest duu mii güster näit, duu kwamst fandóóeğ näit t' lóót?
 Delegäärten uut fööl lâan namment an däi kunferens däil.
-An anfang haar häi probleemen, sük an 't leevend in siin näej huus t' wennen.
+Up d' anfang haar häi probleemen, sük an 't leevend in siin näej huus t' wennen.
 Soo dróó 't klingelde, kwam däi mester in d' klassenruum.
 Beweerst duu wies, dat Tom fan 'n anner planeet kumt?
 Is dii bewust, dat Okinawa dichter as Honshū an Skiinó liğt?
@@ -12039,7 +12039,7 @@ In Skiinó wordent dóógelk ruuğweğ tain miljoonen tünnen kööel ofbaaut.
 Fööl firmen hebbent höör persoonóól up 'n minimum redusäärt.
 "Sast duu dat föör mii daun, Tom?" - "Mit bliidskup, miin läief!"
 "Hir: Blöymen föör dii!" - "Bedankt! Däi bünt je mooj!"
-Zamenhof, grünner fan d' plóóntóól Esperanto, was 'n oogendokter.
+Zamenhof, begrünner fan d' plóóntóól Esperanto, was 'n oogendokter.
 Diin telegram kwam net as ik dii anraupen wul.
 Diin telefoon klingelde meerder móólen, wiilst duu unner d' duuske stunst.
 Diin brör glikt diin fóóder fööl meer as duu.
@@ -12288,7 +12288,7 @@ Dat dóóder wur fan 'n skendaarm däi buuten denst was ferhaft't.
 Dat dóóder wur fan 'n skendaarm däi buuten denst was ferhaft't.
 Däi lüü kwamment tau höör huusen uut, um nóó siin musik t' lüstern.
 Däi holler fan dat lütje hundje pakde hum in d' nâak un skul hum uut.
-Annerlessens gung ik tau 't êerst móól in miin leevend hen t' fiskern.
+Annerlessens gung ik tau 't êerst móól in miin leevend fiskern.
 Anterns bünt bloot dan nütselk, doo säi näej fróógen upsmiitent.
 Tom let't bloot dan blîid t' weesen, doo häi mit Marió t'sóómen is.
 Däi oel keerl wur ooverforen un fut in 't krankenhuus brocht.
@@ -13048,7 +13048,7 @@ Däi Feräint Stóóten ferwilkooment inwannerders uut fööl lâan.
 Däi Sumida is näit meer föör 't swemmen äigent.
 Däi jóópóónsk manskup wun däi goldmedalje föör disser wedstriid.
 Däi Jóópóóners trekkent höör skau uut, doo säi 'n huus betreedent.
-Däi Eiffeltoorn is in d' sülviğ stad as däi Louvre.
+Däi Eiffeltoorn befint sük in d' sülviğ stad as däi Louvre.
 Däi amerikóónsk un däi jóópóónsk böskupper dräepent sük up 'n kunferens.
 Dat was läip egoistisk fan Tom, dii näit dat aauto neemen t' lóóten.
 Dat was 'n läip ungünstiğ tiidpunkt, um dat teemó an t' prooten.
@@ -13804,7 +13804,7 @@ Al in leevendstiiden weerldwiid bekent, is Gandhi bit fandóóeğ föör 'n büe
 Häi wur meerder móólen föör däi freedensnoobelpriis nominäärt, däi in siin doodsjoer um sümboolsk räidens näit fergeeven wur.
 Net soo as Nelson Mandela of Martin Luther King telt häi as 'n föörstóónd fertreeder in d' freihaidsstriid teegen kulonióólismus, unnerdrükken un sosjóóel ungerechtiğkaid.
 Parthenon, 2018 Däi Parthenon (olgräiksk παρθενών "jüüferfertrek") is däi tempel föör däi stadgoodin Pallas Athena Parthenos up däi Ateener Akropolis.
-Häi wur as dank föör 't redden fan däi Ateeners un Gräiken döör däi goodin nóó d' läest Perseroorlauğ as dorsk Peripteros ferbaaut.
+Häi wur as dank föör 't redden fan däi Ateeners un Gräiken döör däi goodin nóó d' läest Perseroorlauğ as dorsk Peripteros erbaaut.
 In d' loop fan d' histoorje fan Gräikenland däinde dat gebôojd unner anner ook as skatkóómer fan d' Attisk Seibund.
 Däi Parthenon is äien fan däi beraumtst noch eksistäärend baaudenkmóólen fan 't antîik Gräikenland un äien fan däi bekentst geboiden weerldwiid.
 Dat gebôojd beheerskert as tsentróóel baau siit hóóst 2500 joer däi Ateensk Akropolis.
