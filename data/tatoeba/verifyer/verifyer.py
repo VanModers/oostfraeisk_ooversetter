@@ -20,26 +20,31 @@ def get_specific_line(file_path, line_number):
     return ""
 
 def run_translation_check(de_path, frs_path, log_path, error_path):
-    start_line_number = 1 
-    
-    # 1. Gesamtzeilen ermitteln
+    # Load all previously processed line indices into a set for O(1) lookups
+    verified_indices = set()
+    if os.path.exists(log_path):
+        with open(log_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                try:
+                    verified_indices.add(int(line.strip()))
+                except ValueError:
+                    continue
+
     total_lines = get_total_lines(de_path)
     if total_lines == 0:
         print(f"\nERROR: Could not read source file or file is empty: {de_path}")
         return
 
-    if os.path.exists(log_path):
-        with open(log_path, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-            if lines:
-                try:
-                    start_line_number = int(lines[-1].strip()) + 1
-                except ValueError:
-                    start_line_number = 1
+    # Find the first unverified line to display as the resume point
+    start_line_number = 1
+    for i in range(1, total_lines + 2):
+        if i not in verified_indices:
+            start_line_number = i
+            break
 
     print(f"--- East Frisian Translation Validator ---")
     print(f"Total Lines in File: {total_lines}")
-    print(f"Resuming at Line: {start_line_number}")
+    print(f"Resuming at the first unverified line: {start_line_number}")
     print("Commands: [y] = Correct, [n] = Incorrect, [r] = Reload from Disk, [exit] = Stop\n")
 
     try:
@@ -49,7 +54,8 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
              open(error_path, 'a', encoding='utf-8') as err_file:
 
             for current_line, (de_line, frs_line) in enumerate(zip(de_file, frs_file), 1):
-                if current_line < start_line_number:
+                # Dynamically skip any line that exists in your verified_indices set
+                if current_line in verified_indices:
                     continue
 
                 de_text = de_line.strip()
@@ -57,15 +63,12 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
 
                 if not de_text or not frs_text:
                     log_file.write(f"{current_line}\n")
+                    log_file.flush()
                     continue
 
-                # 2. Prozentsatz berechnen (Fortschritt VOR der aktuellen Entscheidung)
-                # Falls du lieber den Fortschritt NACH der Zeile sehen willst, 
-                # kannst du das `- 1` weglassen.
                 percentage = ((current_line - 1) / total_lines) * 100
 
                 while True:
-                    # Anzeige erweitert um Gesamtzeilen und Prozent (auf 2 Nachkommastellen gerundet)
                     print(f"Line {current_line} / {total_lines} ({percentage:.2f}%)")
                     print(f"DE:  {de_text}")
                     print(f"FRS: {frs_text}")
@@ -85,7 +88,7 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
                         break
 
                     elif user_input == 'exit':
-                        print(f"\nExiting. Next time you will start at line {current_line}.")
+                        print(f"\nExiting. Next time you will resume at the next unverified line.")
                         return
                     
                     else:
