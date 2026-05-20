@@ -513,7 +513,7 @@ däi appels sittent lös an d' boom dat säi man soo dóólfaalent wen man d'r m
 däi dóómen mautent noch eerst ofniigen soo lâang köönent wii heeren noch eerst sitten bliiven
 dat het al altiid 'n lâaj keerl west däi noch noojt wat anners dóón het as slóópen un bummeln
 dat is 'n äiwiğ gemóól un gedraaj mit däi möölen man kan wal säin dat däi müller dat drok het
-Dat kind is möej un slóópiğ. Dat maut 'n biitje anduuken dan sal 't wal bold in slóóp róóken.
+Dat kind is möej un slóóperğ. Dat maut 'n biitje anduuken dan sal 't wal bold in slóóp róóken.
 dat kwakkelde al däi häiel sömmer un nuu däi haarst kumt nuu kwakkelt dat ook noch altiid tau
 doo däi lüü föör elk un äien kruupent dan döygent säi näit fööl un dan is höör näit t' trauen
 doo däi sóóek näit bold anners word't dan sal 'k d'r noch wal insent 'n woord fan daun mauten
@@ -584,7 +584,7 @@ häi löpt un aarbaid't altiid soo sâacht as of hum 't ne'ğeliik is of häi wi
 ik wil jau wat fertellen un läigen as ik kan - ik sağ däi möölen fläigen un müller achteran
 in d' mâaj läeğt elker föögel 'n âaj - däi kwattel un däi gräit läegent in d' maimóónd näit
 tsestiğ móól um d' räil bünt äin knip un fäär knip bünt äin bind un fiif bind bünt äin doet
-wat sitst duu d'r al t' hoojóónen un t' góópen? doo du möej un slóópiğ büst dan góó up bäer
+wat sitst duu d'r al t' hoojóónen un t' góópen? doo du möej un slóóperğ büst dan góó up bäer
 wii haarent däi fier in us tûun siit móónden plóónt man wii hebbent näit mit reegen reekent
 "strunt up d' stróóet wichter uut 't huus" see däi fóóder as siin bâajd dochters traaudent
 "wen d' 't man eerst went büst" see däi bakker doo wiskerde häi mit 'n kâat däi oovend uut
@@ -661,7 +661,7 @@ däi wreevel nimt soo ooverhand unner 't minskhaid dat dat noojt kiin gaud äen 
 dat ferdrağt sük näit gaud mitnanner doo twei stolten un klaukskiiters biinanner kooment
 dat gniidelde hum örnelk as häi dat sağ dat dat wicht d'r soo bäinstreeks in d' snäj ful
 dat huus let't soo hóóğbauken as of 't häil näit örnelk klorworden un uutbaaut worden is
-dat is je al 'n gedummel móók doch läiver dat duu up bäer kumst doo duu soo slóópiğ büst
+dat is je al 'n gedummel móók doch läiver dat duu up bäer kumst doo duu soo slóóperğ büst
 dat meel is soo granniğ un groef móólen dat man 't hóóst häil näit t' bakken bruuken kan
 dat was fandóóeğ soo 'n fulliğkaid up dat mâarkt dat d'r hóóst kiin minsk döörbooren kun
 doo duu mii dat bauk mörn weerbrengst is 't frau nauğ fandóóeğ heb 'k d'r kiin ferlet um
@@ -1899,7 +1899,7 @@ up 't gaasthöeğt waasent äiken boomen man däi hebbent âal boomkanker
 Wat bedüd't dat dat d'r an däi kloek slóón word't! Is d'r wal brand?
 wat brengt dat häiel beeden doo däi keerl bloot kwóóds in d' kop het
 wat oover köönenk Rebber fertelt word't sal woer weesen un kiin säeğ
-wel däi góópiğ is wel däi slóópiğ is wat daajt däi dan nóó d' bruud?
+wel däi góóperğ is wel däi slóóperğ is wat daajt däi dan nóó d' bruud?
 wii hebbent lekkeräj up d' böön dat dak maut insent nóókeeken worden
 wii kunnent däi timmerlüü t'läest bedüüden dat däi bâalk t' kört was
 wii mussent fóók däi âarnt fan 't feld steelen soo nat was däi grund
@@ -24724,7 +24724,7 @@ häi is appelk
 häi is döösiğ
 häi is eernst
 häi is faalen
-häi is góópiğ
+häi is góóperğ
 häi is hakker
 häi is hangen
 häi is in dud
