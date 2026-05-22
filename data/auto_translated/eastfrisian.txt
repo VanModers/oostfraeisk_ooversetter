@@ -2150,7 +2150,7 @@ Duu dürst hir bliiven doo duu wult - soo lâang duu rüstiğ blifst.
 Soo lâang duu dii rüstiğ ferheltst, kaast duu, doo duu wult, hir bliiven.
 Duu kust mit twei joer bit tâajn tellen.
 Duu wult al siit lâang d'r hen, of näit?
-Al lâang wulst duu d'r hen góón, näit woer?
+Al lâang wulst duu d'r hen góón, of näit?
 Duu hest kiin recht dii in däi angeleegenhaiden fan anner lüü in t' mengen.
 Duu hest dii soo staark ferannert, dat ik dii hóóst näit weerkennen dau.
 Duu bruukst dii um sükker dingen kiin sörgen meer t' móóken.
@@ -2336,7 +2336,7 @@ Tom is licht luunsk un 't is näit makkelk, mit hum t'sóómen t' leeven.
 Tom het stâark piin, man häi holt 't uut, soo säeğt häi.
 Tom is eerelk un ferwacht't, dat anner minsken dat ook bünt.
 Tom blift drei móónd bii us.
-Tom gaajt mörn nóó Mary höör boorsdóóğsfier, näit woer?
+Tom gaajt mörn nóó Mary höör boorsdóóğsfier, of näit?
 Tom is d'r fan oovertüüğt, dat siin mauder nuu niks eeten wil.
 Tom hung däi drei nâat jeans an d' waasellîin.
 Tom hoopde, dat 't, eer häi nóó huus tau gung, uutskaajen sul um t' reegen.
@@ -6183,9 +6183,9 @@ Duu büst duun, Tom. Tau, of in 't taksii! Wii forent häim.
 Duu büst doch al soo groot, dat duu dat alleniğ kaast, of näit?
 Duu sast diin oogen möej móóken, doo duu fersöchst, bii dit lücht t' leesen.
 Duu róódst noojt, wat geböörde, kört nóódeem duu góón wast!
-Säi söölent Tom doch helpen, doo häi d'r um beeden daajt, näit woer?
-Jii söölent Tom doch helpen, doo häi d'r um beeden daajt, näit woer?
-Duu sast Tom doch helpen, doo häi d'r um beeden daajt, näit woer?
+Säi söölent Tom doch helpen, doo häi d'r um beeden daajt, of näit?
+Jii söölent Tom doch helpen, doo häi d'r um beeden daajt, of näit?
+Duu sast Tom doch helpen, doo häi d'r um beeden daajt, of näit?
 Duu sast däi tsuğ berekken, doo duu fut tau gaajst.
 Duu sast hooğst daartiğ menüüten ferlóótert weesen.
 Up däi dağ, doo ik dii kennen leerde, droğst duu 'n blâau mantel.
@@ -6205,8 +6205,8 @@ Wat man föörnanner kriigen kan, dat wäit man eerst, doo man 't wóóğt.
 Duu maust däi dóódsóóek beuemsichtigen, dat säi krank was.
 Jii mautent gaud t' faut weesen, doo Jii däi häiel weğ góón bünt.
 Duu letst, as of duu net diin bäest fründ ferlooren hest.
-Duu wäist doch, dat Tom näit gaud Fransk prooten kan, näit woer?
-Duu büst bii 't föörleesen loopend innooken, näit woer?
+Duu wäist doch, dat Tom näit gaud Fransk prooten kan, of näit?
+Duu büst bii 't föörleesen loopend innooken, of näit?
 Jii kennent disser song näit, alsoo fersöcht hum näit mit t' singen.
 Duu kenst dit läid näit, alsoo fersöyk näit, 't mit t' singen.
 Jii prootent näit besünners gaud Fransk, of näit?
@@ -7428,7 +7428,7 @@ In d' êerst stok fan 't gebôojd brook 'n füer uut.
 "Gaajst duu nóó Tom siin fier?" - "Ik bün mii noch näit seeker."
 Unner miin bekenten büst duu äien fan däi mien lüü, däi dat köönent.
 Unner miin bekenten büst duu äien fan däi mien lüü, däi dat köönent.
-Duu büst äien fan Tom siin skaul früen, näit woer?
+Duu büst äien fan Tom siin skaul früen, of näit?
 Duu denkst doch wal d'r an, Tom mit t' neemen?
 Duu büst net soo min 'n ekspäert föör dit bóóntje as ik.
 Mit dit kläid sast duu fööl blikken up dii trekken.
@@ -7571,7 +7571,7 @@ Wii bünt d'r mit t'gâang, us hochtiid un hochtiidsrâajs t' plóónen.
 Wii ferlóóğdent dat meeting up däi anner freidağ.
 Wii ferlóóğdent däi kunferens up däi anner freidağ.
 Ferkeersunfallen geböörent fóóker up reegendóógen.
-Tom, duu sast d'r föör mii weesen, doo ik dii bruuk, näit woer?
+Tom, duu sast d'r föör mii weesen, doo ik dii bruuk, of näit?
 Tom, sust duu näit äinliik man 'n fründ nöygen?
 Tom siin ollen wassent fan 't mäinen, dat Marió t' old föör hum was.
 Tom siin bäin was inslóópen, un soo kun häi näit upstóón.
@@ -8747,10 +8747,10 @@ Duu häitst näit taufalliğ Tom, of näit?
 Höör nóóm is näit taufalliğ Tom, of näit?
 Jueng manlüü un fraaulüü hebbent strid't, um höör land t' ferdeegen.
 Duu dürst geern soo lâang bii us bliiven, as duu mağst.
-Duu büst möej, näit woer? Woosoo gaajst duu näit up bäer?
+Duu büst möej, of näit? Woosoo gaajst duu näit up bäer?
 Duu büst däi môojst frâau in d' häiel weerld!
 Soo lâang diin kóómer näit uprüümt is, gaajst duu naarnds hen.
-Duu sast dat wal sülst klorkriigen mauten, näit woer?
+Duu sast dat wal sülst klorkriigen mauten, of näit?
 Duu sast up 'n skâarp kunkurrens dräepen.
 Doo diin fóóder nóó huus tau kumt, sast duu al slóópen.
 Jii söölent jau gaau an dat koel wêer wennen.
