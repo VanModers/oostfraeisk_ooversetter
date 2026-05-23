@@ -854,8 +854,8 @@ Dat bauk hannelt fan däi wetten.
 Dat bauk is t' dür.
 Däi bauken liegent up d' skriivtóóvel.
 Dat baukenreegóól is inbaaut.
-Däi bóós see dat 't drok is!
-Däi bóós het säeğt dat 't drok is!
+Däi bóós see, dat 't drok is!
+Däi bóós het säeğt, dat 't drok is!
 Däi bóós see dat 't drok is.
 Däi bóós wil dii säin.
 Tom is histoorjemeester bii 'n upperskaul un halfdóóğsmundöörgelspööler bii 'n bluesband.
@@ -3769,7 +3769,7 @@ Dat was skóó, doo duu dii 't undgóón leetst, Tom t' dräepen, soo lâang duu
 Dat was skóó, doo duu dii 't undgóón leetst, Tom t' dräepen, wiilst duu in Boston büst.
 Dat was skóó, doo duu dii 'n dräepen mit Tom undgóón leetst, wiilst duu in Boston büst.
 Dat was skóó, doo duu dii dat undgóón leetst, Tom t' säin, wiilst duu in Boston büst.
-Doo häi dat rönnen as êerst fulendjen dee, was dit 'n siiğ föör 't häiel land.
+As häi dat rönnen as êerst beennen dee, was dit 'n siiğ föör 't häiel land.
 Dat is unlooğsk, t' lööven, dat lütje kinner gaauer rönnen köönent as skendaarms.
 Stemt dat, dat man 'n ferkollen kwiitword't, doo man 't an annerswel wiidergift?
 Um misferstennissen t' fermiiden, gungent s' däi kuntrakt noch insent döör.
@@ -3906,7 +3906,7 @@ Um dat disser kóómer läip lütjet is, is 't unmöögelk, noch meer mööbels 
 Um dat disser bräif t' hóóstiğ skreeven worden was, was häi ful feelers.
 Disser ord speesjóólwäiten het mit dat aldóóğsleevend min t' daun.
 Dit gewest wur t'eerst fan däi Neerlanners besiidelt fööer meer as tweihunnert joer.
-Säi haarent 'n beeterder wesselkurs kreegen, doo säi nóó 'n bank góón wassent.
+Säi haarent 'n beeterder wesselkoors kreegen, doo säi nóó 'n bank góón wassent.
 Säi reenoowäärdent dat huus fan höör bäep un deedent 't mit maudêern mööbels inrichten.
 Skiinbor kumpliisäärt probleemen hebbent fóók 'n makkelk löesen.
 In disser tiidskrift gift dat 'n interesâant artikkel tau bildensprobleemen.
@@ -5319,7 +5319,7 @@ Tom het Mariijó as 't let't noch altiid näit mitdäilt, dat häi dat näit t' 
 Tom un Mariijó fungent an, sük t' unnerhollen, knap dat säi bâajd däi kóómer betreeden haarent.
 Tom fulbroch, wor wii fan mäindent, dat häi 't näit kumpóóbel was t' fulbrengen.
 Nóó miin wäiten is däi kûul up disser stee 't däipst.
-Soo wiid ik 't seeker wäit, dat meer is up disser stee 't däipst.
+Soo wiid ik 't seeker wäit, däi kûul is up disser stee däipst.
 Dat was kiin makkelk upgóóev, dat wiider ferspräiden fan däi krankhaid t' ferhinnern.
 Doo man hum soo Engelsk prooten höört, wil man hum föör 'n maudertóólprooter hollen.
 Fööer drei móónd kun ik näit móól 'n woord Fransk.
@@ -5477,7 +5477,7 @@ Ik heb annerlessens wel kennen leert, wor ik fan mäin, dat ik mii in hum ferlä
 Miin fóóder stüürv an 'n subarachnoidóól blauden, doo ik fäärtain was.
 Ik keek mii um un stelde fast, dat ik dat enkeld aauto up d' stróóet was.
 Ik mağ stäik läiver as âals anners un eet 't äien up d' anner dağ.
-Ik heb fööl wiisó in miin pas, um dat ik um miin aarbaid fööl raajs.
+Ik heb fööl wiisó in miin pas, um dat ik weegen miin aarbaid fööl raajs.
 Ik heb man noch minner as 'n stüen, bit ik Tom miin beslus mitdäilen maut.
 Ik heb beeters t' daun, as d'r däi häiel dağ t' sitten un up Tom t' wachten.
 Ik mus lâang up Tom siin antern wachten, doch 't het sük loont.
@@ -5657,8 +5657,8 @@ Disser pooliitik sal d'r wal erfolğ bii hebben, däi wirtskaft t' stimuläären
 Dit maarke is föör 'n söömjoriğ kind makkelk t' leesen.
 Dit fîits is siit begün fan d' móónd hir achterlóóten worden.
 Däi willent äinfach bloot geld skeppeln. Âal anners interessäärt höör näit.
-Säi hebbent hum näit umbrocht, säi hebbent hum bloot föör 't worskaauen 'n lütje ofwriiven ferpaast.
-Säi hebbent hum näit dood't, säi wassent net 'n biitje ruuğ tau hum as worskaauen.
+Säi hebbent hum näit umbrocht, säi hebbent hum bloot as worskaauen 'n lütje ofwriiven ferpaast.
+Säi hebbent hum näit dood't, säi wassent net 'n biitje ruuğ teegen hum as worskaauen.
 D'r liğt 'n gerücht in d' lücht, dat däi firmó bold bankröt gaajt.
 Dat gift 'n reestaaurant hir häil diecht bii, man dat is näit besünners gaud.
 Teegen disser dóóğstiid is fööl ferkeer up d' stróóten.
@@ -6874,7 +6874,7 @@ Däi wooren, däi ferleeden móónd uut Engelland bestelt wurdent, bünt noch n�
 Dat wicht, wor häi sük in ferläivt haar, ferleet hum nóó wat móónden.
 Däi wirtskaft fan 't ailand hangt fan däi fiskferaarbaidend industrii of.
 Däi kinner gungent up bäer, man däi grootwuesen lüü firdent wiider.
-Dat fest ende mit 'n wiiderwaajsk fürwaarksföörfören.
+Dat fest ende mit 'n spektóókuleer fürwaarksföörfören.
 Däi jung fertelde 't tauföörst an siin mauder, doo häi nóó huus tau kwam.
 Däi jung mook dat fenster oopen, alwoo siin mauder hum dat ferbooden haar.
 Däi aautomobililindustrii is äien fan däi wichtiğst branzjen in Jóópóón.
@@ -7883,7 +7883,7 @@ Däi windstöyt reet fööl pannen fan 't dak of.
 Däi näej wirtskaftsplóón fan 't regäären let't fööl t' wünskern oover.
 Däi görner poot'de 'n rausenboom midden in d' tûun.
 Däi buer betrapde däi jung, däi appels uut siin oobsttûun stoolen haar.
-Däi wesselkurs fan d' duller nóó d' euro is faalen.
+Däi wesselkoors fan d' duller nóó d' euro is faalen.
 Däi staarvend keerl bemaide sük, wat t' säegen, man kun 't näit.
 Däi dokter het säeğt, Tom bruukde näit in 't krankenhuus t' bliiven.
 Däi dokter see, Tom höf näit in 't krankenhuus t' bliiven.
