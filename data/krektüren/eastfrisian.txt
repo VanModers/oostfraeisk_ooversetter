@@ -333,9 +333,9 @@ Dat gaajt wal teegen acht üer daartiğ lös.
 Dat funksjenäärt noch altiid näit.
 Fandóóeğ is dat insent weer kold!
 Dat is läip kold fandóóeğ!
-D'r höörent altiid twäj tau.
+D'r höörent altiid twäj bii.
 Me bruukt twei lüü föör 'n tangoo.
-D'r höörent altiid twäj tau.
+D'r höörent altiid twäj bii.
 Bii skäel bünt altiid twei lüü bedäiliğt.
 Dat smóókt wies gaud.
 Dat dürs 'n lâang tiid.
@@ -1076,7 +1076,7 @@ Dat reegent al siit drei stüen düğtiğ.
 Dat is skóó, dat duu näit mit us raajsen kaast.
 Fan hir is 't ruuğweğ 'n mîil bit nóó d' bóónhof.
 Dat is beeter, riik t' leeven as riik t' staarven.
-Dat is düüdelk dat wii näit sünner lücht leeven köönent.
+Dat is klor, dat wii näit sünner lücht leeven köönent.
 Dat is maudiğ fan dii, soo wat t' säegen.
 Dat is maal fan dii, diin leevend up 't spil t' setten.
 Dat is häil gefordelk up d' tsuğ t' springen, wiilst häi in fort is.
@@ -2928,7 +2928,7 @@ Tom wul näit meer, as 'n frâau t' finnen, däi âal läieft, däi häi bood, a
 Albert Einstein siin reelóótiivitäitsteejoorii is däi beraumtst föörmel fan d' weerld.
 Ruuğweğ fiifuntsestiğ proosent fan 't grootwuesen befolken fan d' USA hebbent oovergewicht, wat näit gaud föör höör sundhaid is.
 "Wo fóók in d' wêek spöölst duu tennis?" "Ik spööl drei móól in d' wêek tennis."
-Duu säeğst, duu wult nóó Boston? Woosoo in Heergod siin nóóm wult duu dan d'r hen?
+Duu säeğst, duu wult nóó Boston? Woosoo in Heergodsnóóm wult duu dan d'r hen?
 Säi stemment fiilicht näit mit hum ooveräien, man t'minst staajt häi tau dat, wor häi an löövt.
 Duu kust as grôotst suuper in d' Guinness-bauk fan d' reekoorden koomen.
 Duu kust t'minst fersöyken, 'n biitje hoffelker t' weesen, ook doo dat näit in diin natüer liğt.
@@ -4499,7 +4499,7 @@ Tom fort al siit fraust jööğd in elker sömmer an d' strand.
 Tom fur nóó Boston mit 'n wóógen, däi häi sük fan äien fan siin früen läint haar.
 Tom wóóğde näit t' ferwäigern, wat Mary hum beed'de t' daun.
 Tom is häil fan streek, dat Mariijó niks d'r bii fint, Johannes däi sküld up sük neemen t' lóóten.
-Tom röpt Mariijó elker óóvend an un proot't minst 'n dreikertäärsstüen lang mit höör.
+Tom röpt Mariijó elker óóvend an un proot't minst 'n dreikertäärsüer lang mit höör.
 Tom röpt Mary elker óóvend an un proot't minst 45 menüüten lang mit höör.
 Tom reep Mariijó an un frooğ höör, of säi lüst haar, mit hum in 't kiinoo t' góón.
 Tom löövt, dat dat reegäären fersöcht, däi worhaid oover buuteneerdjers gehäim t' hollen.
@@ -5474,7 +5474,7 @@ Doo ik daartain was, heb ik drei wêek in dit krankenhuus taubrocht.
 Ik wäit bloot, dat ik staarven sal, doo ik dit meedkóment näit dóógelk inneemen dau.
 Ik heb annerlessens wel kennen leert, wor ik mii, lööv ik, in ferläiven kun.
 Ik heb annerlessens wel kennen leert, wor ik fan mäin, dat ik mii in hum ferläiven kun.
-Miin fóóder stüürv an 'n subarachnoidóól blauden, doo ik fäärtain was.
+Miin fóóder stüürv an 'n subarachnoidóólblauden, doo ik fäärtain was.
 Ik keek mii um un stelde fast, dat ik dat enkeld aauto up d' stróóet was.
 Ik mağ stäik läiver as âals anners un eet 't äien up d' anner dağ.
 Ik heb fööl wiisó in miin pas, um dat ik weegen miin aarbaid fööl raajs.
@@ -5525,7 +5525,7 @@ He' wii wat in Fransk up, wat wii mörn föörläegen mautent?
 Hest duu wust, dat sük achter 't baukenreegóól 'n gehäimgaang ferbaargen daajt?
 Deepressjoonen kooment fóók bii jueng grootwuesen lüü mit Aspergersündroom fööer.
 Kurrupsjoon is in fööl lâan fan d' weerld 'n eernst probleem.
-Föör däi ürtiid was däi supermâarkt läip lös.
+Föör däi ürtiid was däi supermâarkt läip leeğ.
 Föör dat blaaugröyen faarven fan d' Uranus is koel meetóóngas ferantwoordelk.
 Faalt jau wat in, wat ik säegen kun, um Tom t' oovertüügen?
 Faalt Jau wat in, wat ik säegen kun, um Tom t' oovertüügen?
@@ -6081,7 +6081,7 @@ Ferdäilent Jii kumpost up däi dannen, eer Jii Jau pootlingen pootent.
 Of un tau is 'n frünnelk bêer meer weerd as duusend woorden.
 Wult duu d'r man wat sitten, of helpst duu us?
 Säi ferhürt däi kóómer föör 70 000 jen in d' móónd an 'n stuudent.
-Säi giibelde as 'n skaulwicht, mit d' hand fööer d' mund.
+Säi giibelde as 'n skaulwicht, mit hand fööer d' mund.
 Bit hir heer is säi näit koomen. Ik bün bâang, säi het däi weğ mist.
 Säi nam an dat fergóódern näit däil, um dat säi bâang d'r fööer was, höör eksman t' dräepen.
 Sülst höör maudertóól proot't säi näit feelerlös.
@@ -8606,8 +8606,8 @@ Ik bün mit höör góón, um höör döör Nagasaki t' fören.
 Ik abserwäärde däi föögels up d' balkong, wiilst ik miin kofje drunk.
 Ik wul net dat huus ferlóóten, as dat telefoon klingelde.
 Ik weelde net siin nummer, doo häi tau d' dööer inkwam.
-Ik was lid bii d' fautbaalferäien, doo ik up d' middelskaul was.
-Ik was lid bii d' fautbaalferäien, doo ik up däi Junior High School was.
+Ik was lid in d' fautbaalferäien, doo ik up d' middelskaul was.
+Ik was lid in d' fautbaalferäien, doo ik up däi Junior High School was.
 Ik wil gaau leeren, mit däi näej digitóólkameró um t' góón.
 Ik begriip däi sats wal, man ik bün näit kumpóóbel, hum t' ooversetten.
 Ik fersöch höör t' fermuntern, man säi wul man bloot alleniğ weesen.
@@ -9243,7 +9243,7 @@ Ik heb fanjoer minner skaulers in miin klâas as ferleeden joer.
 Ik bün häisterğ; düs wäit ik näit, of ik singen kan.
 Ik haar twei stüen lang aarbaid't, as ik mii t'móól krank föylde.
 Ik heb Tom miin woord geeven, Marió niks d'r fan t' säegen.
-Ik föylde mii recht frooliik, nóódeem ik säeğt haar, wat ik t' säegen haar.
+Ik föylde mii recht ferlichtert, nóódeem ik säeğt haar, wat ik t' säegen haar.
 Ik haar sülst 'n räied skreeven - bloot föör 't gefal, dat man mii beeden dee, äien t' hollen.
 Ik wil kiin kinner un ook näit traauen.
 Ik heb näit däi maud, miin bóós t' beeden, mii siin wóógen t' läinen.
