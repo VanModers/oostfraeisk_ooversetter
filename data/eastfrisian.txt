@@ -5156,7 +5156,7 @@ bäep het us wichter tüüğ föör 'n näj kläid besörğt
 bii âals is wat un bii 'n sliipstäin is 'n draajer
 bii d' stöörm bünt âal pannen fan d' dak offloogen
 bii däi aarbaid tred't häi mii altiid up d' hiilen
-bii fuel móón un näej móón sit't leevend in wóóter
+bii fulmóón un neimóón sit't leevend in wóóter
 bii soo 'n lâaj wind kan d'r häil kiin möölen góón
 bii teeren het man 'n hund slacht un dat fet eeten
 bii us lüü hebbent däi knechten un maiden dat gaud
@@ -38935,7 +38935,7 @@ föör mooj
 föör nood
 frâau tii
 fräj mii!
-fuel móón
+fulmóón
 fûul aier
 fûul gaud
 fûul gaud
@@ -39060,7 +39060,7 @@ mörn mörn
 'n spirke
 'n stükje
 nâau tiid
-näej móón
+neimóón
 näit äien
 näit dâan
 näit dêeğ
@@ -46039,7 +46039,7 @@ Ferdróógern. Säi het d'r al lâang fan dööntjet dat säi geern bold 'n näj
 Häi het altiid allerhand mâal grappen in d' kop. Stiif up siin stük stóón.
 Häi is läip lelk. Häi mul sük güster an.
 Heb dii näit soo! Ik was raajn ferbiistert!
-Bii fuel móón un näej móón sit't leevend in wóóter. Jii kinner dürent näit mit fûul hâan an d' tóóvel góón!
+Bii fulmóón un neimóón sit't leevend in wóóter. Jii kinner dürent näit mit fûul hâan an d' tóóvel góón!
 Wii günnent us twei dóóeğ rüst. Däi Mansfeldjer at anners wal tsukkerbanket man nuu man häi ook strunkkool sünner fet.
 Dat fäj is binnen d' sküer. Lóót liegen! trappelt sük fan sülst fast!
 Dat is näit âal botter wat däi kau gift see däi buer doo stapde häi in 'n kauskiitbündsel. Dat was 'n baldóódiğ koel dağ.
@@ -49771,7 +49771,7 @@ Helló! d'r was ik bold faalen. In d' baargen is 't nuu al haarst.
 Wat in sküld hebben. Däi boom blaajt sük hóóst dood.
 Däi pot staajt up d' kasruel. Dat gaud fangt an t' ferklöören.
 Dat kan knap slóón hebben. 'n ... of wat.
-Näej móón. Roegen kläj.
+Neimóón. Roegen kläj.
 Säi söölent mii soo makkelk näit weer beet kriigen. Ha! dat kan 'k recht gaud daun.
 Soo 'n fent. Häi het gaud wat in 't fangst.
 Häi is soo ferdoomt körtkopsk dat man hóóst niks säegen dürt of 't is in 't wiel. Häi sküddelt sük as 'n wóóterhund däi uut 't wóóter kumt.
@@ -50304,7 +50304,7 @@ Brainermaurmer sköövel. Däi boomen un heegen spruutent in d' sünnenskiin.
 Däi roeğ ferspilt. Dat gefal wal ins'.
 Dat kind blift man kläin. Deensk leepelblad.
 'n alsäind ôoğ. Näit bindend.
-Duu büst 'n räecht gâajk. Fuel móón.
+Duu büst 'n räecht gâajk. Fulmóón.
 Säi wil sük bii d' buer besteeden. Soo t'móól.
 Häi het hum d' pôol ofjağt. Häi is soo langdróóderğ in siin fertelsel dat äien dat gedür d'r hóóst bii uutgaajt doo man hum anhöören maut.
 Häi smit't in d' kibbel. In d' kâant naajen.
@@ -73405,10 +73405,10 @@ Liikpreeken is mooj.
 Liikpreeken is läif.
 Liikpreeken is interessant.
 Liikpreeken kan ik näit säin.
-Eerdbegrafnis is mooj.
-Eerdbegrafnis is läif.
-Eerdbegrafnis is interessant.
-Eerdbegrafnis kan ik näit säin.
+Eerdbestatten is mooj.
+Eerdbestatten is läif.
+Eerdbestatten is interessant.
+Eerdbestatten kan ik näit säin.
 Feersäier is mooj.
 Feersäier is läif.
 Feersäier is interessant.
@@ -87162,7 +87162,7 @@ Tom sal dat geskenk seeker gefaalen wat jii hum besörğt hebbent.
 Tom sal dat geskenk seeker gefaalen dat Jii hum besörğt hebben.
 Tom sal sük dat seeker näit undgóón lóóten willen.
 Ik bün seeker dat duu âals wat noodsóókelk is säin hest.
-Höör ferantwoordenslöshaid ferblüft mii.
+Höör ferantwoordenslössiğkaid ferblüft mii.
 Ik bün ferraskert dat Tom kiin Fransk proot't.
 Ik góó fannóómiddağ mit miin jung in d' tsoo.
 Ik bün däien, däi Tom föör dit bóóntje anbefoolen het.
@@ -87423,15 +87423,15 @@ Dank f'ruutgaangen in d' agraartechnik het sük däi maisâarnt in d' Feräint S
 'N kind wur uut däi aarms fan siin mauder sloidert, doo dat fluğtsoiğ bii 't inläiden fan d' lannensanfluğ in stâark turbulensen róókde.
 Diin Engelsk is gramóótsk wal kurrekt doch watmóóls klingt 't eeven näit soo as tau d' mund uut fan 'n maudertóólprooter.
 Wii säint mit d' oogen, höörent mit d' ooren, berörent mit d' huud, ruukent mit d' nööes un smóókent mit d' tueng.
-Däi ferskeel tüsken 'n "räecht woord" un 'n "hóóst räecht woord" is as däi ferskeel tüsken 'n blits und 'n glimmerke.
+Däi ferskeel tüsken 'n "recht woord" un 'n "hóóst recht woord" is as däi ferskeel tüsken 'n blits und 'n glimmerke.
 Miin mauder see mii altiid, dat ik âal móónd geld in d' bank inbetóólen sul, dat ik in 't gefal fan 'n noodgefal nauğ heb.
 Sük in däi äigen maudertóól natürelk uut t' drükken is makkelk; man in 'n frömdtóól drükt man sük makkelk unnatürelk uut.
 Dit produkt näit diecht bii d' bóólje, bii 't waaskbekken, bii 't swembekken of anners ennerwor, wor wóóter of fuchtiğkaid f'rhannen bünt, ferwennen.
 Menniğ lüü, däi bit nuu tau fööl geld föör unnerhollenstswekken uutdaun hebbent, mautent nuu meer up höör geld acht daun.
-Man see an 'n skiineesk buer häi sul sük fööer d' fersîit fan president Hu Jintao näit skeeren dat häi up 't feersäin rustikóólsker lóóten dee.
+Man see teegen 'n skiineesk buer, häi sul sük fööer d' fersîit fan president Hu Jintao näit skeeren, dat häi up 't feersäin "rustikóólsker" lóóten dee.
 Wii sullent us tiid d'r an besteeden, inhollen föör us netpresens t' skeppen, in stee dat wii us um lütjerder kusmeetsk details sörgent.
 Tom is mit 'n poer miljoonen duller fan siin firmó döörbraant un leevt nuu in sûus un brûus up 'n ailand ennerwor in d' Middellandsk Säj.
-Cesar Chavez beed'de däi lawaajgaangers, up gewalt t' fertsichten, sülst doo däi faarmbesitters un höör helpers of un an gewalt anwenden deedent.
+Cesar Chavez beed'de däi straikenden, up gewalt t' fertsichten, sülst doo däi faarmbesitters un höör helpers of un an gewalt anwenden deedent.
 Tom was fan nostalğsk geföylen ooverheert as häi fiiftiğ joer nóó siin ofslus noch insent siin oel skaul upsöyken dee.
 Tom is kiin gewôon döörsneedelk keerl. Hum gefaalt näit dat, wat däi mäiest manlüü gefaalt, un häi daajt näit geern däi sülviğ beskeftigens.
 Ik hol dat föör läip unworskiinelk, dat 't Tom näit klor was, dat häi dat museum sünner siin ollen näit betreeden dürs.
@@ -87518,7 +87518,7 @@ Ik heerinner mii noch, dat miin mauder, as ik kind was, altiid däi häiel nacht
 Dat het in d' ferleeden dóógen fööl besweerden um dat in hôoğ móóet fan Jau woonen dringend gedrüüs geeven.
 Mannelk attribuuten bii 'n frâau wordent as stâarkt ankeeken, wiivelk bii 'n man d'r teegen as swâakt.
 Ik heb insent höört, dat man, doo man bäär drinkt, eerder gefoer löpt, fan müegen stooken t' worden, as wen man kiin drinkt.
-Ik wäit, dat man näit, sünner d'r föör t' betóólen, musik tau 't net uut lóóden sul, man ik dau 't aldoch.
+Ik wäit, dat man näit, sünner d'r föör t' betóólen, musik tau 't net uut lóóden sul, man ik dau 't trotsdeem.
 Ik kan 't näit fóóten, dat Jii näit t'minst sins bünt, däi möögelkkaid t' bekiiken, dat 't noch 'n anner ferkloren gift.
 Ik kan näit lööven, dat duu näit t'minst sins büst, däi möögelkkaid t' bedenken, dat 't d'r noch 'n anner ferkloren gift.
 Menniğ engelsmîin bii 't uutläinen fertrekt sük bii 't t'rüeğgeeven nóó 'n demoonsk frâats.
@@ -87571,7 +87571,7 @@ Tom dee ooverläegen, of Marió wal fan 't mäinen was, dat 't teegen acht üer 
 Tom let't näit sins t' weesen, róódslóógen fan maudertóólprooters an t' neemen, däi hum bii siin ooversettens fersöykent t' helpen.
 Tom stüürv noch up däi unfalstee. Marió un höör fóóder wurdent swor beseert un sittent in 't krankenhuus.
 Tom kun dat, wat däi mester see, näit ferstóón, um dat däi anner skaulers soo fööl lawaaj mookent.
-Tom stelde Mary 'n poer fróógen, wor säi näit up antern kun, man säi kun up däi mäiest fan siin fróógen antern.
+Tom stelde Mary 'n poer fróógen, däi säi näit beantern kun, man säi kun däi mäiest fan siin fróógen beantern.
 Menniğ ferfriskernsdrinkens befóótent häil fööl tsukker un köönent bii 't oovermóótiğ genäit fetliiviğkaid un kuusenferfal uutlöesen.
 Niks sal us erfolğ as 'n nóósjoon in 't 21. jorhunnert meer bepóólen, as woo wii us kinner bildent.
 Fööl umweerldskütsers freesent, dat dat futset't ofslachten fan däi wóólen höör tau 't uutstaarven brengen sal.
@@ -87631,7 +87631,7 @@ Marió spitsde däi lippen in ferwachten fan d' tuutje, doch niks geböörde. Do
 Ne'ğeliik, woo gaud säi ook lóótent un aarbaident: Tóólleerprogrammen bünt bloot soo gaud as däi grundliegend dóóten.
 Dat is läip unworskiinelk, dat däi mester dat uutwendsel lööven sal, dat Tom d'r föör het, dat häi näit up tiid mit siin leeren klorworden is.
 Tom was mit kooken an d' bot, man häi haar fergeeten, däi taudóóden föör 't eeten t' besörgen, wat häi t'räecht móóken wul.
-Doo duu däi mester man wat attenter tauhöören deest, ferstunst duu 't wal.
+Doo duu däi mester man wat upmaarksóómer tauhöören deest, ferstunst duu 't wal.
 Elker móól, doo ik 'n bibliotäik säi, ferfült mii däi wünsk, in t' góón un soo lâang d'r t' bliiven, bit ik âals d'r in leesen heb.
 Ik leev in 'n land, wor 'n liiter bensiin minner köst't as 'n liiter wóóter.
 "Góónt wii fanóóvend in 't kiino?" - "Ik kan näit. Ik heb t' daun." - "Un mörn óóvend?" - "D'r heb ik ook t' daun."
@@ -87818,7 +87818,7 @@ In d' 1960er joren gaf dat demonstróósjoonen fan jóópóónsk stuudenten teeg
 Däi weerld stun in d' tiid fan däi Kuubókrîis in d' oktoober 1962 up 't rand fan 'n atoomoorlauğ.
 Däi weerld stun in d' tiid fan däi Kuubókrîis in d' oktoober fan 't joer 1962 up 't rand fan 'n atoomoorlauğ.
 Däi industriäel fun 'n walhebbend finansjee, däi hum hulp, däi unuutwiikboer stöörm t' ooverstóón.
-Dat US-department föör sundhaid säeğt, dat minsken minst twei un half stüen in d' wêek trainäären sullent.
+Dat US-department föör sundhaid säeğt, dat minsken minst tweiunhalf stüen in d' wêek trainäären sullent.
 Marió wacht'de joren d'r up, dat Tom tau 't gefangenis uut kwam, un was läip blîid, doo häi ennelk undlóóten wur.
 Marió drağt geern kläär mit wertikóóel striipen, um dat säi höört het, dat man d'r mit slanker leet.
 Dat is wichtiğ, dat ollen bii 't t'rechtwiisen fan höör kinner an d' sülviğ lîin trekkent.
@@ -88155,7 +88155,7 @@ Computers spöölent in elker gefal 'n wichtiğ ruel in us leevend, of us dat ge
 Däi körper word't woo oller woo swakker un häilt sük näit meer soo gaau as in d' jööğd.
 Wiilst sük dat pletiisder ferhitsde, goot Mary destilläärt wóóter in 't reserwaar, um stoom t' móóken.
 'N anonüüem gauddóóder het 'n däärhäim meerder hunnertduusend duller fermóókt.
-Nóódeem ik miin fertelsel uut haar, keek mii miin nóóber 'n tiid lang swiigend un attent an.
+Nóódeem ik miin fertelsel uut haar, keek mii miin nóóber 'n tiid lang swiigend un upmaarksóóm an.
 Duu büst wal näit soo mooj as miin eksfründin, man mit dii kan man fööl meer plesäär hebben.
 Jii bünt meskiin näit in d' maud, dat nuu gewoer t' worden, man ik maut Jau wat wichtigs mitdäilen.
 Jii bünt wal näit in d' maud, dat nuu gewoer t' worden, man ik maut jau wat wichtigs mitdäilen.
@@ -88209,7 +88209,7 @@ Dat gift up d' güntsiid fan d' stróóet 'n oel roover, wor duu bii uppaasen su
 Dat gift up d' anner siid fan d' stróóet 'n oel däif, wor duu bii uppaasen sust.
 näej sats
 mii gaajt 't näit soo gaud.
-Mii is nor tau.
+Mii gaajt dat slecht.
 Up d' stróóet was ins' 'n oel keerl un spöölde klewäär.
 Sven is 'n singend poeğ.
 Bii Sven in huus gift dat häil fööl bäär, man kiin fraaulüü.
@@ -88242,7 +88242,7 @@ Alwoo ik al lâang Fransk leer, kan ik 't näit altiid näit besünners gaud pro
 Ferteer elker mörn 'n leebenniğ poeğ, un dii sal däi restelk dağ oover niks läipers meer geböören.
 Eet elker mörn 'n leevend poeğ un dii sal föör däi rest fan d' dağ niks läipers geböören.
 Döör siin nóódooderforen wur Tom tau 'n fööl läiftfuller un minner föörinnoomen minsk.
-'N "supermóón" kan bit hentau 14 % grooter un 30 % lechterder ferskiinen as 'n gewôon almóóndelk fuel móón.
+'N "supermóón" kan bit hentau 14 % grooter un 30 % lechterder ferskiinen as 'n gewôon almóóndelk fulmóón.
 "Wast duu in Boston?" - "Nee." - " In Chicago dan?" - "Jóó, in Chicago was ik."
 Woosoo hebbent wii näit nauğ födsel föör âal? Ik doch, Jii wassent fannóómiddağ up böskup góón.
 Woosoo hebbent wii näit nauğ eeten föör âal? Ik doch, jii hebbent fannóómiddağ up böskup west?
@@ -88595,7 +88595,7 @@ Tom haar bii siin ferbliif in Boston al 'n büelt geleegenhaiden, up kunserten t
 Tom löövt, dat däi riiken dat ferdäinent, riik t' weesen, un dat däi aarmen dat ferdäinent, aarm t' weesen.
 Tom löövt, dat däi riiken dat ferdäinent, riik t' weesen, as däi aarmen dat ferdäinent, aarm t' weesen.
 Tom haar dat sad, elker móól betóólen t' mauten, doo häi mit Mary uutgung.
-Tom beed'de Mary, tanpâast un tolettenpepier fan d' supermâarkt mit t' brengen.
+Tom beed'de Mary, tanpastó un tolettenpepier fan 't supermâarkt mit t' brengen.
 Tom un Marió höör lütje fent läivt dat, up d' köökendêel t' sitten un teegen potten un pannen t' slóón.
 Ik bruuk wat fan 't supermâarkt, man fergat 't dan.
 Dat is nöödiğ noodsóókelk tau ferstóón, woo däi kliimówannel sük up us leevend uutwirken sal.
@@ -88655,7 +88655,7 @@ Ik wäit näit meer, woo dat wicht heet, wat ferleeden joer in d' franskunnerric
 Ik kan mii näit meer an däi nóóm fan dat wicht, wat ferleeden joer in d' franskunnerricht teegen mii sat, heerinnern.
 Ik lööv, miin rechten man ferdeegen t' köönen döör dat ferdeegen fan däi fan annernt.
 Häi ferstürde in 'n tiidruum fan antau annerthalf joer ruuğweğ 2,2 miljaarden reklóómnóórichten per netpost.
-Eksperten säegent, dat däi kofjepriis hoovdsóókelk stiğt, um dat däi lüü sins bünt, meer t' betóólen.
+Eksperten säegent, dat däi kofjepriis hoovdsóókelk stiğt, um dat däi lüü beräid bünt, meer t' betóólen.
 Uutrauptäikens wordent in 't Düütsk düüdelk fóóker as in 't Engelsk bruukt.
 Alwoo Tom däi idee näit föör besünners sinful hul, see häi, dat häi 't insent fersöyken sul.
 Alwoo Tom noch noojt äien pröyvt het, säeğt häi, dat hum kiwis näit smóóken daunt.
@@ -89044,7 +89044,7 @@ Tom goot eerst dat oel wóóter tau d' fläes uut, eer häi näjs d'r in fülde.
 Tom wul dat hemd näit dróógen, wat hum siin mauder tau wiinachten skunken haar.
 Tom wul Marió tau niks motiiväären, wat höör meskiin in d' breedulje broch.
 Tom wesselde ruuğweğ däi hâalft fan siin jens in dullers um un däi anner hâalft in euros.
-Tom reep Mary an, um höör t' säegen, dat häi meskiin lóóterweğ up d' nóómiddağ höör hüelp bruukde.
+Tom reep Mary an, um höör t' säegen, dat häi möögelkerwîis lóóterweğ up d' nóómiddağ höör hüelp bruukde.
 'N poer wêek fööer wiinachten het sük Tom dat bäin brooken un wur in 't krankenhuus brocht.
 Tom bekeek sük dat probleem fut, nóódeem Marió hum d'r up attent móókt haar.
 Tom bad däi femiiljen fan däi offers föör däi eksplosjoon in däi fabrik um fergeeven.
@@ -89053,7 +89053,7 @@ Tom un Marió gungent tau d' fier fan höör hochtiidsdağ in 'n noobel restaaur
 Tom gaf tau, dat häi däi kâauk näit anröögt haar, däi siin fründin hum bakt haar.
 Um in "Toms Taverne" 'n tóóvel t' kriigen, maut man weeken föördeem reserwäären lóóten.
 Däi intree köst't 30 duller (fräj föör kinner unner tain joer). Parkplatsen stóónt umsünst t' beskikken.
-Lüü, däi góóbels of stóóvkes bruukent, denkent fóók, dat däi, däi dat näit daunt, unbeskóóvt bünt.
+Lüü, däi góóbels of stóóvkes bruukent, denkent fóók, dat däi, däi dat näit daunt, untsiwiilisäärt bünt.
 Disser föögels baauent höör nüsten 's sömmers un fläigent 's winters in d' süüed.
 Höör probleemen hebbent s' wal noch näit löest, man t'minst beprootent s' dissent.
 Däi weğ, däi oover d' baarğ gaajt, was äeng, un d'r tau noch läip stail.
@@ -89588,7 +89588,7 @@ Tom köf Marió 'n näej kameró, um höör däi t' ersetten, däi häi sük uut
 Tom köf Marió 'n näej kameró as ersats föör däi, däi häi sük uutläint un ferlooren haar.
 Tom köf sük 'n emmer ful mit ekstrókrüüderğ bróóden hóóntje un 'n lóóden koolslóód.
 Tom bad Mary, sük föör dat Lady-Gaga-kunsert um platsen in d' êerst rîiğ t' bemaien.
-Tom bad Marió meerder móólen, hum frauer nóó huus góón t' lóóten, man säi leet hum näit.
+Tom beed'de Marió meerder móólen, hum frauer nóó huus góón t' lóóten, man säi leet hum näit.
 Tom un Marió wullent sük net föör 't óóvendeeten dóólsetten, doo Hannes an d' dööer klopde.
 Tom un Marió nöyğdent âal höör früen tau 'n wiinachtseeten in höör huus.
 Tom stelt sük altiid twei wekkers, doo häi däi frâau fluğ nimt.
@@ -90476,7 +90476,7 @@ Ik bün mii recht seeker dat ik däi slöödels tau miin büro in miin reegenman
 Ik frees, dat wii däi möögelkkaid, dat säi däi krankhaid hebben kun, näit uutsluuten köönent.
 Ik wil genaau höören, woo Tom dat skaft het, däi oel koer weer tau 't loopen t' brengen.
 Of Tom d'r wal wat teegen haar, mörn óóvend up us kinner up t' paasen?
-Ik börğ dii disser CD unner dat bedingen, dat duu hum näit wiiderferbörğst.
+Ik läin dii disser CD unner dat bedingen, dat duu hum näit wiiderferläinst.
 Ik hul dat wal föör möögelk, dat Tom fööer 'n kuntraktsbröök stun.
 Ik hul däi worskiinelkkaid, dat Tom näit maarken sul, wat Marió doo dee, föör recht lütjet.
 Ik fin, Jii bünt 'n gâaud keerl, man ik heb kiin romantisk geföylen föör Jau.
@@ -90707,7 +90707,7 @@ Tom wäit näit genaau, wenner Mary höör tsuğ däi stóósjoon ferleet.
 Tom beleevde däi skaulofslus fan siin kinner näit meer.
 Tom kan mit dii fanweekenäen näit an d' strand, um dat häi düğtiğ ferkollen is.
 Tom het telefoonsk mitdäilt, dat duu tauken wêek, doo duu nóó Boston kumst, doch näit bii hum woonen kaast.
-Tom stelde Mary fööl fróógen, man säi wäigerde sük, wattent d'r fan t' beantern.
+Tom stelde Mary fööl fróógen, man säi wäigerde sük, wat d'r fan t' beantern.
 Tom un Marió unnerhullent sük in 'n tóól, däi ik näit erkende.
 Tom un Marió namment sük drei kemeelen un 'n förder, däi höör in 't wöysten brengen sul.
 Tom un Marió hebbent beslooten, mit höör kinner näit meer Fransk t' prooten.
@@ -90717,7 +90717,7 @@ Dat was noojt geböört, doo duu 't soo móókt haarst, as ik säeğt heb.
 Dit ferhóól hannelt fan 'n fründskup tüsken 'n lütje jung un 'n oel frâau.
 Säi fördent däi lêeğ kinnerstaarvelkkaidsróóet up däi f'ruutgaang in d' medsiin t'rüeğ.
 Disser streimatten, däi up Jóópóónsk "Tatami" häitent, wordent näit meer in handaarbaid heerstelt.
-Dat gaf bold näit meer as 100 huusen in dat lauğ, wor wii güster f'rbiikoomen bünt.
+Dat gaf bold näit meer as 100 huusen in dat lauğ, an dat wii güster f'rbiikoomen bünt.
 Up d' köökendêel is allerweegens melk, um dat miin frâau däi fläes köthaauen het.
 Dat gift hôoğ stróófen föör 't telefoonäären an 't stüer sünner freiprootanlóóeğ.
 In 't joer nóó miin uniwersitäitsofslus heb ik ennelk 'n aarbaid funnen.
@@ -90740,7 +90740,7 @@ Um dat duu halspiin un fäiver hest, sust duu wal up bäer bliiven.
 Sul äien wiilst miin ofweesenhaid bii mii inkiiken, dan säeğ hum, dat ik bold t'rüeğ weesen sal.
 Säi wus sülst, dat 't läip stur worden sul, däi updrağ uut t' fören.
 Elker dağ mit 't rad nóó d' aarbaid t' foren sul dii d'r bii helpen, weer in föörm t' koomen.
-Däi reegen dee däi âarnt eer 'n grôot skóó taufaugen, as dat häi wat gauds dee.
+Däi reegen dee däi âarnt eerder 'n grôot skóó taufaugen, as dat häi wat gauds dee.
 Äien fan miin kinner kwam in Boston tau weerld, däi anner bâajd in Chicago.
 Miin mester see, ik haar meer tiid up 't föörräiden fan miin föördrağ besteeden sult.
 Fiilicht sul Tom däi möögelkkaid in 't ôoğ säin, dat Marió hum up nümmerweersäin ferlóóten het.
@@ -91251,7 +91251,7 @@ Däi skendaarm löesde däi situóósjoon sünner anwenden fan gewalt.
 Dat bild, wat duu güster nóómiddağ uphangen hest, is fanmörn dóólfaalen.
 Föör däi pasjent bestun kiinerlai hôop, soo dat däi dokters niks meer móóken kunnent.
 Woo oller ik wor, soo düüdelker heerinner ik mii an dingen, däi noojt geböört bünt.
-Up d' mörn nóó miin ankumst dor gung ik in d' äiken wald kaiern.
+Up d' mörn nóó miin ankumst dor gung ik in d' äikenwald kaiern.
 Däi miljoonneer haar däi ofsicht, dat maisterwaark t' ferwaarven, häil ne'ğeliik, wat 't kösten dee.
 Däi ferdeeger beed'de däi richter, uemsicht up dat oller fan däi anklóóğt t' neemen.
 Dat krankenhuus stelde däi infisäärt pasjent tau 't fermiiden fan 'n krüüsinfeksjoon unner krantêen.
@@ -91320,8 +91320,8 @@ Ik kan Jau 'n kupii fan däi bericht geeven, man ik kan näit föör siin kurrek
 Häi is in d' Stóóten upwuesen, man siin maudertóól is Jóópóónsk.
 Dat mislung hum meerder móólen, man häi haar näit dat geföyl, dat 't tiidferklaajen was.
 Häi besloot, an siin hund dat knîin t' ferfauern, dat häi up däi dağ skooten haar.
-Hest duu al móól wat soo staark wult, dat duu sins wast, âals t' daun, um 't t' kriigen?
-Wullent Jii oojt wat soo staark, dat Jii âals dóón haarent, um 't t' kriigen?
+Hest duu al móól wat soo fäel wult, dat duu sins wast, âals t' daun, um 't t' kriigen?
+Wullent Jii oojt wat soo fäel, dat Jii âals dóón haarent, um 't t' kriigen?
 Hest duu al móól in bedenken noomen, tuffels t' bakken, in stee fan höör t' bróóden?
 Um dat dat hotel föör däi nacht häil uutbaukt was, mussent wat lóót inróókend gasten ofweesen worden.
 Um gebrek fan 'n beeterder beskeftigen besloot Tom, 'n lâang kaierskup t' unnerneemen.
@@ -91445,7 +91445,7 @@ Dat enkeld restaaurant, dat Tom wies mağ, is dat up d' anner stróótenkâant.
 Däi oel keerl wur fan 'n aauto anforen un fut in 't krankenhuus brocht.
 Doo säi däi nóóricht fan d' dood fan höör jung höörde, brook säi fut in tróónen uut.
 Um däi diecht dook wassent wii näit kumpóóbel, wat fööer us t' säin.
-Dat spööl was näit ofsäeğt worden, doo 't näit soo staark reegent haar.
+Dat spööl was näit ofsäeğt worden, doo 't näit soo fäel reegent haar.
 Tom stelt elker dağ as êerst däi feersäier an, doo häi nóó huus tau kumt.
 Däi ferwaart raajsders wur klor, dat säi sük up d' weğ nóó d' ferkeert stad befunnent.
 Däi inbreeker ferskafde sük oover 'n näit slooten siidfenster taugaang tau 't huus.
@@ -91457,7 +91457,7 @@ Um dat säi näit wiider tauneemen wil, et't säi kiin kâauk.
 Um dat häi dat probleem soo näit löesen kun, fersöch häi 't anners.
 Säi was soo in draft, dat säi in d' tsuğ höör reegenskiirm liegen leet.
 Säi brengt fööl tiid d'r mit tau, höör kinner d'r bii t' helpen, mit geld umgóón t' leeren.
-Säi het drei un halfduusend bauken in höör bibliotäik, un fööl d'r fan bünt eerstuutgóóven.
+Säi het dreiunhalfduusend bauken in höör bibliotäik, un fööl d'r fan bünt eerstuutgóóven.
 Säi het in höör bibliotäik dreiduusendfiifhunnert bauken, fööl d'r fan eerstuutgóóven.
 Säi het 3500 bauken in höör bibliotäik un fööl d'r fan bünt eerstuutgóóven.
 Säi undfool hum, kiin bruukt wóógen t' koopen, man häi folğde höör róód näit.
@@ -91824,7 +91824,7 @@ Wii raajsent nóó 't noord
 's mörns höörde ik miin bäep däi trappen up un dóól góón
 miin bäep un besfóóer
 Miin besollen woondent in Bielefeld. Disser oord liğt in Westfóólen.
-fannacht is fuel móón. däi wulven uut 't freebörger hêerd bünt weer unnerweegens.
+fannacht is fulmóón. däi wulven uut 't freebörger hêerd bünt weer unnerweegens.
 Mit ```main.py``` kan däi ooversetter test't worden.
 Mit ```trainingset_creator_app.py``` kan däi dóótensats föör 't trainäären in ```data/krektüren``` mit düütsk satsen fan ```data/krektüren/deu.txt``` (https://www.kaggle.com/datasets/kaushal2896/english-to-german) as input ferwiidert worden.
 Doo däi ooversetter al gâaud ooversettens produsäärt köönent däi ook gewoon oovernoomen worden. ```trainingset_creator_sentences.py``` daajt dat sülviğ, man dan sünner interface. Bâajd skripten fangent altiid bii 'n taufalliğ düütsk sats an.
@@ -92259,7 +92259,7 @@ Tom siin hemdföörsiid was döör 'n sköötwuen mit blaud beflekt.
 Däi dook was soo diecht, dat ik näit móól däi hand fööer d' oogen säin kun.
 Däi stóódiğ grensstriiden tüsken Engelland un Skotland hullent up.
 Däi folgen fan 'n ferkeert ooversetten köönent of un an katastroofóól weesen.
-Dat foelğ fan 'n släecht ooversetten kan of un an katastroofóól weesen.
+Däi foelğ fan 'n slecht ooversetten kan of un an katastroofóól weesen.
 Dat unnerneemen skunk hum 'n gollen kloek as ankennen fan siin ferdensten.
 Däi geboiden bünt teegen däi wulkenkraabers in New York lütjet.
 Up 't best leert man Fransk, doo man in 'n land woont, wor man Fransk proot't.
@@ -92375,7 +92375,7 @@ Dat móókt al mâajt, bii 'n fultiidbeskeftigen gliiktiidiğ twei kinner groot 
 Sülst doo däi süen in 't west upgung, dee ik miin plóón näit upgeeven.
 Sülst doo däi süen in 't west upgung, dee ik miin mäinen näit annern.
 Elektroonsk baaudäilen köönent unner ferwenden fan süüver Isopropüülalkohool skoonmóókt worden.
-Elektroonsk baaudäilen lóótent sük mit süüver Isopropóónool skoonmóóken.
+Elektroonsk baaudäilen lóótent sük mit süüver isopropóónool skoonmóóken.
 Frau up bäer un frau upwóókt däi minsk frisk un munter móókt.
 Frau up bäer un frau upstóón móókt däi minsk sund, riik un klauk.
 Frau up bäer, frau weer up móókt sund un riik in koop.
@@ -92882,7 +92882,7 @@ Fööer drei móónd kun ik näit móól 'n woord Fransk.
 Drei jungse kwamment binnen. Ik proot'de däi an, däi mii däi oelst t' weesen leet.
 Däi föör däi äien terrooristen bünt, tellent föör annernt as freihaidsstriiders.
 Disser upgóóev is föör grundskaulkinner t' stur.
-Dat is us gehäimnis, alsoo paas up, dat 't dii d'r näit uutglid't.
+Dat is us gehäimnis, alsoo paas up, dat 't dii näit d'r uut rutskert.
 Man fersöcht däi naarungsmiddelproduksjoon t' ferhoogern, indeem man näej riistsoorden poot't.
 Säi woondent in 'n häil lütjet huus up 't äen fan 'n lâang, grîis stróóet.
 Säi söölent fööl beraumt oel skilderäjen in däi galerii uutstellen.
@@ -93401,7 +93401,7 @@ Lesserhand beproot'de mii däi ferkooper, däi dürderder meskîin t' koopen.
 Oojt wil ik mii bedoren un 'n femiilje grünnen, man nuu noch näit.
 Ook doo fööl pletskes in d' kuem wassent, ik at bloot dräj.
 Elektroonsk baaudäilen köönent unner ferwenden fan süüver Isopropüülalkohool skoonmóókt worden.
-Elektroonsk baaudäilen lóótent sük mit süüver Isopropóónool skoonmóóken.
+Elektroonsk baaudäilen lóótent sük mit süüver isopropóónool skoonmóóken.
 Finnent jii näit, dat jau Fransk gaud nauğ is, um dat probleem t' ferkloren?
 Finnent Jii näit, dat Jau Fransk gaud nauğ is, um dat probleem t' ferkloren?
 Finst duu näit, dat diin Fransk gaud nauğ is, um dat probleem t' ferkloren?
@@ -93955,7 +93955,7 @@ Ik doch, duu deest höör näit fertellen, dat wii us huusupgóóven näit móó
 Ik lööv, duu büst 't, wor ik âal däi joren up wacht't heb.
 Ik lööv, duu büst 't, wor ik âal däi joren up wacht't heb.
 Ik hol dit skaauspöölerske föör äien fan däi môojst fraaulüü up eerden.
-Ik denk, 't is tiid, dat ik 'n biitje tiid mit miin kinner ferbrengen dau.
+Ik denk, dat is tiid, dat ik 'n biitje tiid mit miin kinner ferbrengen dau.
 Ik wäit noch häil genaau, dat häi twei pistoolen in d' äj smeeten het.
 Ik heb fööer, âals hir weğ t' smiiten. Duu kaast neemen wat duu wult.
 Ik bruuk wel, däi mii in aarm nimt un mii säeğt, dat 't âal weer gaud word't.
@@ -94379,7 +94379,7 @@ Ik wil man seeker góón, dat 't bii siin anbod kiin hóóek gift.
 Ik hoop, dat blift dii besport, âal däi duem feelers t' móóken, däi ik móókt heb.
 Ik hoop, duu forst.
 Ik heb höört, dat Tom fannóómiddağ mit us tennis spöölt.
-Ik heb gâaud räidens t' lööven, dat häi an dat ferbreeken unskülliğ is.
+Ik heb gâaud gruen t' lööven, dat häi an dat ferbreeken unskülliğ is.
 Ik haar dat wal näit fööer, man doo duu dat wult, kan ik 't geern daun.
 Ik stelde fast, dat dat löesen fan dit probleem stur föör höör was.
 Dat beklemt, mii dat ik 'n büelt sóóken t' daun heb.
@@ -95258,7 +95258,7 @@ Däi premjeeminister proot'de uutförelk oover däi finanskrîis.
 Dat krachtwaark fersörğt däi undfeert betsirk mit elektrisitäit.
 Dat befolken fan Jóópóón is wiiduut grooter as dat fan Aaustróólien.
 Dat folk protestäärde teegen dat däipfluğtraining.
-Däi piin leet nóó, wiilst däi sâalv in siin faut inmessäärt wur.
+Däi piin leet nóó, wiilst däi sâalv in siin faut inmassäärt wur.
 Dat enkeld, wat föör Tom telt, is, woo fööl geld häi ferdäint.
 Däi tóól fan däi ferkeersunfallen is in d' ferleeden joren steegen.
 Dat gedrüüs was soo fäel, dat 't däi nóóbers stöörde.
@@ -95707,7 +95707,7 @@ Nuu bün ik wal mit Tom befründjet, man an anfang kunnent wii us näit uutstó�
 Nuu bün ik wal mit Tom befründjet, man an anfang muğğent wii us näit.
 Tom kan sük näit undskäiden, wat häi föör däi fier antrekken sal.
 Tom is dül, um dat Marió sük, sünner t' fróógen, siin klapreekener uutläint het.
-Tom ferstopde dat wóópen in 't truem up 't köylskap.
+Tom ferstopde dat wóópen in d' kaukjetruem up 't köylskap.
 Tom het mii in 't ferleeden beloogen; düs fertrau ik hum näit meer.
 Tom het siin leevend dat antikeernenergiibeweegen taubedocht.
 Tom het fööl religjööes bauken, doch häi het höör noojt leesen.
@@ -95737,7 +95737,7 @@ Tom fründjede sük mit Marió an, doo häi in Aaustróólien leevde.
 Tom at dat köstenlöes brood un ferleet dat restaaurant doo.
 Tom at alleniğ, alwoo häi hoopt haar, mäinsóóm mit Mary t' eeten.
 Tom frooğ mii, wel däi man was, däi d'r fööer dat standbild stun.
-Tom beed'de Mary, hum t' messäären, man säi wul näit.
+Tom beed'de Mary, hum t' massäären, man säi wul näit.
 Tom stelde Marió wat fróógen, däi säi näit beantern wul.
 Tom un siin kulóóntjes sneedent elf manlüü un fraaulüü däi kêel döör.
 Tom un siin kunsoorden sneedent elf manlüü un fraaulüü däi kêel döör.
@@ -96464,7 +96464,7 @@ Fan sülst kaast fróógen. Ik beanter geern diin fróógen, soo gaud ik kan. Wa
 Woo lóót is 't?
 As tóólassistent heb ik spiitelkerwîis kiin kloek. Man ik kan dii säegen woo man däi ürtiid up Oostfräisk säeğt! Föör 'n biispil: 'half twäj' bedüd't 'halb zwei', 'kartäär fööer dräj' is 'Viertel vor drei'.
 Wenner is póóske fanjoer?
-Däi genâau termiin wesselt elker joer. Póóske is altiid up d' êerst söndağ nóó d' êerst fuel móón in 't fö'joer. In Oostfräisland gift dat föör póóske tradisjoonel póóskefüer, aiersöyken un natürelk lekker póóskekâauk!
+Däi genâau termiin wesselt elker joer. Póóske is altiid up d' êerst söndağ nóó d' êerst fulmóón in 't fö'joer. In Oostfräisland gift dat föör póóske tradisjoonel póóskefüer, aiersöyken un natürelk lekker póóskekâauk!
 Woo telt man up Oostfräisk?
 Up Oostfräisk telt man: äin (1), twäj (2), dräj (3), fäär (4), fîiv (5), säes (6), sööem (7), âacht (8), neegen (9), tâajn (10). Däi tóólen bünt nóó 't Neerlandsk gliik. Sal ik noch meer tóólen ferkloren?
 Wat bedüd't 'förmiddağ'?
@@ -97367,7 +97367,7 @@ Woo fööl lüü kenst duu, däi näit krankenferseekert bünt?
 Woo fööl dóóeğ dürt 't, doo ik dat as inskriiven stüren dau?
 Woo lâang dürt 't, sük mit disser naajmeskîin fertraut t' móóken?
 Siin geskiecht was soo lüstiğ, dat kiin äien sük dat laagen ferkniipen kun.
-Höör bibliotäik undholt drei un halfduusend bauken un umfat't fööl eerstuutgóóven.
+Höör bibliotäik undholt dreiunhalfduusend bauken un umfat't fööl eerstuutgóóven.
 Höör bibliotäik umfat't 3500 bauken un undholt fööl eerstuutgóóven.
 Wel fööl lest un fööl rundkumt, süğt fööl un wäit fööl.
 Häi was soo net, us mit siin boot nóó 't ailand t' brengen.
@@ -97640,7 +97640,7 @@ Tom begreep näit däi tswek fan däi misjoon.
 Tom kun sük näit undskäiden, of häi siin hund Cookie of Pochi nöymen sul.
 Tom sloot 'n setje däi oogen un ooverdoch siin möögelkkaiden.
 Tom stapde up däi ledder un plükde 'n appel fan d' boom.
-Tom beweerde, dat häi sağ, woo 'n keerl bii 't leebenniğ liif fan piranjós freeten wur.
+Tom beweerde, dat häi sağ, woo 'n keerl bii leebenniğ liif fan piranjós freeten wur.
 Tom kan näit oover daartiğ weesen. Häi let't as um däi achttain.
 Tom proot't hóóst net soo gaud Fransk as Spóónsk.
 Tom kan hóóst soo gaud Fransk prooten, as häi Engelsk proot't.
@@ -97959,7 +97959,7 @@ Woo berekkent wii 'n paasend ferheltnis fan aarbaid un priwóótleevend?
 Woo berekt man 'n paasend ferheltnis fan aarbaid un priwóótleevend?
 Woo brengt man aarbaid un priwóótleevend in 't eevenwicht.
 Holmes gung tau d' kóómer uut, sünner dat dit wel gewoer wur.
-Däi weerldhistoorje is ful fan geskichten fan ferkent zjeeniis.
+Däi weerldhistoorje is ful fan geskichten fan ferkent zjeniis.
 Siin öffenlîik intreeden föör 't briitsk regäären kwam slecht an.
 Siin mauder see, häi lağ al fiif wêek krank up bäer.
 Siin mauder see, dat häi siit fiif wêek krank up bäer lağ.
@@ -98226,7 +98226,7 @@ Tom at däi läest skîiv brood, soo dat Mary niks t' eeten haar.
 Tom frooğ mii, woo fööl skaulers noch in d' klassenruum wassent.
 Tom beed'de Marió, Joohan akróót tau t' höören.
 Tom beed'de Marió, up âals, wat Johan see, genaau acht t' geeven.
-Tom frooğ Mary nóó dat melöör, wor säi in ferfangen was.
+Tom frooğ Mary nóó dat melöör, wor säi in ferwikkelt was.
 Tom wend'de sük hülpsöykend an däi skendaarms.
 Tom un siin früen gungent singend däi stróóet langs.
 Dat betrekken tüsken Tom un Marió leep nóó wat móónden uut.
@@ -98501,7 +98501,7 @@ Ik wil up d' frâau nóómiddağ bii d' Kennedy-fluğhóóven ankoomen.
 Ik wul äinliik frautiidiğ lös, man d'r het mii stiel wel um hüelp beeden.
 Ik doch, Jii wullent fiilicht wäiten, wel âals nóó us fier kumt.
 Ik reekende d'r mit, nervöös t' weesen, man bleev doch häilundal rüstiğ.
-Ik lööv duu büst däi frâau, wor ik âal miin leevend up wacht't heb.
+Ik lööv duu büst däi frâau, up däi ik miin häiel leevend wacht't heb.
 Ik fin, duu sust us fergeeven, nóódeem wii us undskülliğt hebbent.
 Ik lööv, dat sükker spöölen as Candy Crush tiidferklaajen bünt.
 Ik denk, ik heb nuu nauğ geld, um mii dat aauto t' koopen, wat ik hebben wil.
@@ -98956,7 +98956,7 @@ Dat hir is 'n sats, däi siin sülvenantóól däi fan 'n Haiku is.
 Dit môoj huus is soo dür, dat wii us dat näit laisten köönent.
 Däi bünt näit eerder t'free, bit säi us âals noomen hebbent, wat wii besittent.
 Säi stürdent hum in 't gefangenis föör âal siin ferbreekens.
-Säi leetent 'n häil wichtiğ teemó t' beprooten.
+Säi skeenent 'n häil wichtiğ teemó t' beprooten.
 Säi leevdent twei joer t'sóómen, eer säi traaudent.
 D'r wur teegen dat ferhoogern fan däi stuudiengeböören protestäärt.
 Säi hebbent 'n gat in 't iis sneeden un bünt in 't iiskoel wóóter swummen.
@@ -98996,7 +98996,7 @@ Däi ruum was soo ful fan rook, dat ik bold näit óómen kun.
 Däi äj, däi döör London löpt, häit't Täiems.
 Däi resultóóten fan däi umfróóeğ wordent biitiiden bekent móókt.
 Däi regjoon bróóskt sük mit däi môojst fraaulüü fan 't land.
-Däi premjeeminister dee dat Wiet Huus 'n offisjäel besöyk brengen.
+Däi premjeeminister dee dat Wiet Huus 'n offisjäel besöyk ofstatten.
 Däi post liğt net teegenoover däi winkel dor fööer.
 Däi skendaarms kreegent fan hum 'n wichtiğ inf'rmóósjoon.
 Däi parkplats achter d' skaul is hóóst lös.
@@ -99006,7 +99006,7 @@ Däi antóól fan däi in d' stad forend aautos het sük ferhoogert.
 Däi näej aautobóón redusäärt miin forttiid um hóóst 'n stüen.
 Dat frisk traaut poer het sük up siin hochtiidsrâajs nóó Hawai begeeven.
 Däi film, däi wii säin hebbent, was fransk mit engelsk unnertittels.
-Woo meer wii leerent, soo bewuster word't us, woo min wii wäitent.
+Woo meer wii leerent, woo bewuster word't us, woo min wii wäitent.
 Dat geld sal wal eevenräidiğ tüsken däi bâajd updäilt worden.
 Däi börgerweer wur grünt, um in 't eernstgefal däi börgers t' skütsen.
 Dat dräepen word't up däi twintiğst fan disser móónd ferskooven.
@@ -99391,7 +99391,7 @@ Häi is fan huus uut Franskman, man nuu is häi 'n US-börger.
 Häi het twei dochters, däi bâajd mit dokters traaut bünt.
 Häi mus fut nóó siin fal 'n operóósjoon unnergóón.
 Häi taast'de nóó siin riitstikken un fun höör in siin büksentaaske.
-Häi ferdween in 'n dunker hauk achter in d' winkel.
+Häi ferdween in 'n düüster hauk achter in d' winkel.
 Häi beweerde, dat däi baldóódiğ grundbesit hum fräj tau beskikken stun.
 Nóódeem ik miin huusupgóóven dóón haar, kun ik ennelk feersäin.
 Hest duu Tom un Marió oojt t'sóómen in d' sülviğ kóómer säin?
@@ -99451,7 +99451,7 @@ In d' sömmertiid bruukt man 'n sünnenskiirm, um dat gesiecht in d' skâar t' h
 'N atoomoorlauğ sal dat fernichten fan d' minskhaid mit sük brengen.
 In dit land leevent fööl kinner fan d' hand in d' mund.
 'N kind, wat bâajd ollen ferlooren het, nöymt man wäies.
-'N föögel kan döör d' lücht gliiden, sünner siin flöögels t' röögen.
+'N föögel kan döör d' lüchten gliiden, sünner siin flöögels t' röögen.
 Bii 't fautbaalspöölen het mii 'n bâal an d' achterkop róókt.
 "Wel is däi keerl up dat footo?" - "Ik wäit näit, wel dat is."
 "Wat willent Jii koopen?" "Ik wul 'n hund koopen."
@@ -99536,7 +99536,7 @@ Wii nütsdent dat sünniğ wêer, um piknikken t' góón.
 Wii sullent anfangen, wiinachtsgeskenken föör däi kinner t' besörgen.
 Wii höörent fóók, dat säeğt word't, däi Jóópóóners wassent gâaud aarbaiders.
 Wii höördent upmaarksóóm tau, soo dat us näit 'n enkeld woord undgóón dee.
-Wii hebbent attent tauhöört, um näit 'n enkeld woord t' ferpaasen.
+Wii hebbent upmaarksóóm tauhöört, um näit 'n enkeld woord t' ferpaasen.
 Wii hoopent, dat wii mit dat beplanten fan dat feld klorwordent, eer däi süen unnergaajt.
 Wii bünt oover däi beslus fan däi kummisjoon noch näit inf'rmäärt worden.
 Wii mautent 't Tom säegen, eer häi 't fan wel anners gewoer word't.
@@ -100304,7 +100304,7 @@ Dat regäären daajt näit siin bäest, um dat woonruumprobleem t' löesen. Doo 
 Doo Tom däi pilsen, däi häi in d' wald fun, näit eeten haar, was häi nuu noch an 't leevend. Säi söch in höör taaske nóó d' huusslöödel, man kun hum näit finnen.
 Jau dóóten wordent up d' äin kâant d'r döör ferhooven, dat Jii us disser mitdäilen daunt. Hir bii kan 't sük b.f. um dóóten hanneln, däi Jii in 'n kuntaktföörmulaar ingeevent. Uut uut 't joer is uut.
 Ik góó up anner weekenäen mit Tom un siin femiilje piknikken. Bedankt an âal, däi net akróót âals riskäärent, um däi minsken in d' Góósó bii t' stóón, soo fööl baldóódiğ minsken un inisjóótiiven, däi dit oorminskelk ferantwoorden spörent un noojt näit upgeevent!!!
-Hest duu al móól wat soo staark wult, dat duu sins wast, âals t' daun, um 't t' kriigen? Tom see, häi haar up d' anner siid fan d' baarğ wat mâals säin.
+Hest duu al móól wat soo fäel wult, dat duu sins wast, âals t' daun, um 't t' kriigen? Tom see, häi haar up d' anner siid fan d' baarğ wat mâals säin.
 Ik denk, 't is tiid, dat ik uutskaajen dau, höör altiid t' ferlooven, wat säi wil. Man säeğt, dat Jóópóóners wiinachten anners firent as Amerikóóners.
 Dat is hir läip dunker. Ik kan häilundal niks säin. Däi weerd fan siin unddekken begreep man eerst nóó siin dood.
 Tom un Marió ferhoovent sük fan höör platsen un gungent nóó d' dööer tau. Drei móónd bünt 'n tau köert tiid, um dat eksperiment t' beennen.
@@ -100327,7 +100327,7 @@ Däi dokter wees Tom an, berrüst in t' hollen un sük soo fööl as möögelk u
 Dat kan al tauken wêek geböören. Däi aktuäel móónd kriğt däi weerd 1, däi annernt 0.
 Dat is man insent geböört. Ik föylde mii recht ferlichtert, nóódeem ik säeğt haar, wat ik t' säegen haar.
 Ik bün 'n professoor, of genaauer säeğt 'n priwóótdusent. Doo ik dat kafee betrad, sağğent sük net akróót twei jueng manlüü catchen up 't feersäin an.
-Wullent Jii oojt wat soo staark, dat Jii âals dóón haarent, um 't t' kriigen? Zjenii is tau äin prosent ingeeven un tau neegenunnäitiğ prosent uutslooven.
+Wullent Jii oojt wat soo fäel, dat Jii âals dóón haarent, um 't t' kriigen? Zjenii is tau äin prosent ingeeven un tau neegenunnäitiğ prosent uutslooven.
 Diin tiidferdriif in d' kinnertiid beinflaud't diin häiel leevend. Um dat miin fîits plat was, ferpaasde ik däi 4-üer-tsuğ.
 Ik lööv, dat skateboards n'rmóólerwîis billiger bünt as rulskau. Doo äien, däi näit wäit, wor man weğ kumt, säeğt, dat dee lóóten as of man 'n maudertóólprooter was, soo dürt man denken, dat hum an däi tóól wat upfaalen is, wor häi an murken het, dat man doch kiin is - dat man düs mit anner woorden näit soo lóóten daajt.
 Binnen tain menüüten sprung Tom tau 't bäer uut, truk sük wat an, früüstükde un was tau 't huus uut. Wii piknikkent mörn, mits fan sülst, dat 't wêer dat taulet't.
@@ -100459,7 +100459,7 @@ Stiikum. Tom un Mary sattent in 't fluğtsoiğ teegennanner.
 Tom het altiid 'n feerkiiker in 't handskefak fan siin wóógen. Mäidblöyem.
 Up 't äen fan dat ferhóól begóónt däi bâajd mäinsóóm sülstmoord, um dat däi kluft tüsken höör femiiljen unooverwindbor let't. Kaast duu mii 5 ferskeelend tittels nöymen, däi tau dit stük paasen deedent? Däi koalisjoon nütst dat sünnerfermöögen, um góóten t' stoppen un fossîil infróstruktüren t' tsementäären.
 Kiin reklóóem, kiin KI. Doo dii gefaalt, wat ik dau, spendäär mii geern däi tauken tee. Dat word't tiid dat wii us mit läiverlóó móól up us sülst besinnent.
-Mii is nor tau. Sülst doo ik miin huus ferkoopen maut, hol ik miin geskeft an 't loopen.
+Mii gaajt dat slecht. Sülst doo ik miin huus ferkoopen maut, hol ik miin geskeft an 't loopen.
 Fiilicht is 't je man miin tóólgeföyl, man ik fin däi ord un wîis, woo däi Oostfräisk Landskup "d'r" (daar) bruukt läip unnatürelk. In d' mäiest gefallen dee ik d'r däi unbetoont föörm "d'r" ferwenden. Däi skrûuv is lösgóón.
 Tom let't bloot dan blîid t' weesen, doo häi mit Marió t'sóómen is. Säi heerinnert mii an wel.
 Fööer twei joer hebbent sük Tom un Marió trent, man annerlessens bünt däi bâajd weer t'sóómenkoomen. Häi proot'de fan "däilwîis droonen, däi fan stüropoor un uut multipleks biinanner funselt wassent, däi dan fermäinelk 1.400 kilomeeter in poolsk achterland floogen wassent".
@@ -100554,7 +100554,7 @@ Ik was acht joer old, doo ik mit miin fóóder t'sóómen däi Fuji besteeğ. Ik
 Deest duu miin kinner betroien, wiilst ik in uurlaaub bün? Ik doch, fiilicht wacht'de fööer d' bóónhof Tom up us.
 Erḗmos (ἐρῆμος) "äinsóóm" in ferbinnen brocht word't. Ik kreeğ 'n bräif fan hum mit dat resultóót, dat häi miin anbod näit anneemen kun.
 Säi wul näit mit hum prooten. Diin föörslóógen móókent dat süsteem of fööl sturder of unleesbor.
-Tom beweerde, dat häi sağ, woo 'n keerl bii 't leebenniğ liif fan piranjós freeten wur. Wal kriigent pleeğbedröftigen siit 2022 teegen däi laistungen fan däi pleeğkassen ook undlastenstauslóógen, däi sük nóó d' ferbliivensdüert richtent.
+Tom beweerde, dat häi sağ, woo 'n keerl bii leebenniğ liif fan piranjós freeten wur. Wal kriigent pleeğbedröftigen siit 2022 teegen däi laistungen fan däi pleeğkassen ook undlastenstauslóógen, däi sük nóó d' ferbliivensdüert richtent.
 Dat gaf hóóst nüms, däi näit laağde, doo däi singer fan d' büüen ful. Um dat däi haitsung köt let't t' weesen, lóót ik hum 't reparäären.
 Ik betwiivel läip staark, dat Tom bii dat mörniğ fergóódern anweesend weesen sal. Siin grôot inkumst fermöögelkt hum elker joer ooverseiraajsen.
 Tom sal siin mauder worskiinelk blöymen tau d' mauderdağ skenken. In stee fan up däi offisjäel kuntrakt t' wachten, köönent wii dat gefal ook al an 't telefoon kloren.
@@ -100713,7 +100713,7 @@ Dat ferwunnert mii näit dat Jii dat antern näit wäitent. An anfang was 't nä
 Wat mii in Skiinó 't mäiest beindrükde, wassent däi Skiineesen. Doo däi mester mit leesen klor was, mul sük 'n skauler.
 Fööl lüü willent dii säegen, dat duu dat näit daun sult haarst. Unnerwiilst reep AfD-bóós Alice Weidel - mit föör höör partäj ungewoon düüdelk woorden - Rusland tau d' deeskalóósjoon up. Sul d'r uut koomen, dat man 't mit lüchtruumbeseerens fan russisk siid t' daun haar, kun säi d'r man fööer worskaauen, see Weidel up nóófróóeğ fööer zjornóólisten in Berliin.
 Dat teemenfeld fan d' ewulusjoon wur mitunner indäilt in däi ewulusjoonshistoorje, wor däi ferannerns fan däi leevweesens in d' loop fan d' eerdhistoorje beskreeven wordent un wor 't ooverlappens mit paleontoloogii gift, as ook in däi ewulusjoonsteorii, däi natürwäitenskuppelk ferklorens (hüüpoteesen un teoriien) föör dat gehäilfenoomeen fan d' ewulusjoon undwikkelt. Dat is ook wichtiğ t' beachten, dat 't 'n büelt mäinens un ansichten gift, un dat 't häilundal n'rmóól is, ferskeelend mäinens t' hebben. Man wat däi föörm fan däi êer anbelangt, is 't 'n beläeğt dóódsóóek, dat däi êer 'n kuugelföörm het.
-Ik wäit, dat man näit, sünner d'r föör t' betóólen, musik tau 't net uut lóóden sul, man ik dau 't aldoch. 'N kriteerium, wat relewant weesen kun is dat gehalt, dat t' ferwachten is nóó d' ofslus. Meskiin kan däi gehaltssprung enöörm weesen, man in wat branzjen is 't bold näit belangriik.
+Ik wäit, dat man näit, sünner d'r föör t' betóólen, musik tau 't net uut lóóden sul, man ik dau 't trotsdeem. 'N kriteerium, wat relewant weesen kun is dat gehalt, dat t' ferwachten is nóó d' ofslus. Meskiin kan däi gehaltssprung enöörm weesen, man in wat branzjen is 't bold näit belangriik.
 Ik heb däi indrük, duu säeğst mii bloot, wor duu fan mäinst, dat ik 't geern höören wil, in stee fan wat duu wies denkst. Tau d' äigen seekerhaid sul man noojt in 'n wóógen mit 'n dûun keerl an 't stüer stiigen.
 Tom het as 't let't altiid t' daun un beskikt oover min freitiid. Häi stun up, um t' kiiken, of häi dat lücht in d' kööken uutmóókt haar.
 Buutenminister Johann Wadephul reep däi weerldmäinskup d'r tau up, däi drük up Moskaau t' ferhoogern. "Mit siin achtlöes ferhollen geford't Rusland däi regjoonóóel seekerhaid un däi weerldfree", see häi bii 't noodfergóódern in New York. Tom betrad däi forstaul un drükde däi knôop föör d' twäied stok.
@@ -100867,7 +100867,7 @@ Ik kan mii nóómen man stur maarken, besünners doo 't näej nóómen bünt. He
 Däi lüü móókent fóók ferkeert angóóven tau d' persoon, doo säi 'n kunto up 'n internetsiid erstellent. Tom wil niks meer, as Marió âals t' säegen.
 Tom erkende t'móól, dat dat, wat häi d'r dee, läip gefordelk was. Jóó, miin nóóm is UebGPT. Woo dür ik dii nöymen?
 Ook häi leet 't nuu t' höören. Tom is näit alleniğ bii d' aarbaid unglükkelk, man ook in huus.
-Dat spööl was näit ofsäeğt worden, doo 't näit soo staark reegent haar. Dat köönent Jii näit móóken.
+Dat spööl was näit ofsäeğt worden, doo 't näit soo fäel reegent haar. Dat köönent Jii näit móóken.
 Häi gung up d' knäjen un beed'de föör däi säilen fan däi ferstüürvenen. Däi däif glükde dat, döör däi föördööer in t' treeden, däi näit up sköötel lóóten worden was.
 Tom fersöch, 'n füer an t' böyten, indeem häi twei stokken teegennanner wreev. Up 't mäiest benaaude Tom däi gedâank, möögelkerwîis noojt weer loopen t' köönen.
 Dat köö' jii näit koopen. Up 't allerläiefst höört Tom dat amerikóónsk Engelsk, man ook däi klang fan 't irsk Engelsk faalt hum bii.
@@ -101098,7 +101098,7 @@ Nóó däi gööer t' oordäilen, drağt Tom dat sülviğ parfüüm as Marió. D
 Tom un Marió wullent sük net föör 't óóvendeeten dóólsetten, doo Hannes an d' dööer klopde. Miin fóóder was teegen mii näit minner läiftful, as 't miin mauder was.
 D'r faalt dii niks meer in. Ik maark dat döörgóóns, doo mii äien wat ferswiigen daajt.
 Tom kan sük näit undskäiden, of häi sük nuu 'n näej reekener koopen of noch 'n poer móónden wachten sal. Dat gift fööl jööden up disser siid fan d' Äiems.
-'N föögel kan döör d' lücht gliiden, sünner siin flöögels t' röögen. Bräifdróóger.
+'N föögel kan döör d' lüchten gliiden, sünner siin flöögels t' röögen. Bräifdróóger.
 Tom kan in daartiğ tóólen "Ik proot bloot Fransk" säegen. Dat köö ' jii näit móóken.
 Tom un Marió sattent teegennanner up d' achterbâank fan Johannes siin aauto. Duu büst unmöögelk!
 Tom stapde fööer d' bibliotäik uut un wacht'de, wiilst Marió henfur, um däi wóógen t' parken. Ik fróóğ mii, of duu mii diin aauto föör 'n poer dóóeğ läinen deest.
@@ -101121,7 +101121,7 @@ Freidóóğóóvendstemmen bii 't Grôot Meer) Ik wünsker âal in d' gruep 'n m
 Miin mauder het höör Engelskkennissen in Amerikó ferwurven. Letland dee in 't näej joer as friskbakt lid fan däi Eurotsôon starten un is soo dat achttâajnt lid fan däi tsôon.
 Holger was fandóóeğ soo net un het mii 'n peerske skunken. Um däi riisfäel diecht bii miin huus kan ik in disser jorstiid fóók däi häiel nacht lang däi poegen kwakken höören.
 Ik doch, duu haarst dii dat anners ooverläeğt, wat däi fort nóó Boston anbelangt. Häi aarbaid't haard, um dat upnóómprüüfen t' bestóón.
-Wor kan ik up böskup góón? Dat is us gehäimnis, alsoo paas up, dat 't dii d'r näit uutglid't.
+Wor kan ik up böskup góón? Dat is us gehäimnis, alsoo paas up, dat 't dii näit d'r uut rutskert.
 Tom un Marió wassent drei stüen in d' forstaul fangen. Woo häit't dat diek wicht, wor duu in d' upperskaul mit t'sóómen wast?
 Ik begroot dat t' säegen, man ik heb fergeeten woo duu häitst. Tom däilde däi skendaarms mit, dat Marió fööer höör dood in dat fróógelk restaaurant eeten haar.
 Wat deedent jii, doo däi weerld mörn unnergung? D'r bruukst duu 'n bóósis föör t.b.: - room - kofjemelk - kookusmelk - hóófermelk aroomódróógers as: - kaaukaaupulwer - moltkofje - wanilje - krukant Un doo duu wult alkohool: - Whiskey - fuusje Probäär wat rund un misker däi taudóóden nóó beläiven t'sóómen.
@@ -101182,7 +101182,7 @@ Dat kun reegen. Wii neement beeter 'n reegenskiirm mit. Ik bün näit soo 'n dö
 Nee, WinMerge is 'n anwenden, däi äigens föör Windows-bedriifssüsteemen undwikkelt wur un näit up Linux löpt. Man dat gift alternóótiiven tau WinMerge, däi up Linux uutfört worden köönent. Bün soo of soo dood. Lóót us nóóst noch talken doo duu lüst hest.
 Iisrael siin regäären het dat ankennen fan 'n stóót Palestiinó döör Grôot Briitanien, Kanóódó un Aaustróólien as beloonen föör terrooristen beliiktäikent. 'N antern d'r up wil premjee Netanjahu eerst nóó 'n USA-râajs geeven. Ik ken wal 'n stuutenkeerl.
 Dat brood, wat ik in 't supermâarkt köft heb, smook näit besünners. Tom mäinde, dat häi sük näit denken kun, dat Marió dat wies wul.
-Tom greep sük äien fan däi glóósen wóósen un smeet hum nóó Mary. Tom reep Mary an, um höör t' säegen, dat häi meskiin lóóterweğ up d' nóómiddağ höör hüelp bruukde.
+Tom greep sük äien fan däi glóósen wóósen un smeet hum nóó Mary. Tom reep Mary an, um höör t' säegen, dat häi möögelkerwîis lóóterweğ up d' nóómiddağ höör hüelp bruukde.
 Däi móóler gung nóó Pariis mit dat tsiil, móóleräj t' stuudäären. Ferleeden nacht bün ik bii 't telefoonäären mit Marió indööst.
 Tom et't föör n'rmóól âals, wat Marió hum föörsetten daajt. Ik denk näit, dat Jii Tom säegen mautent, wat Marió föörhet.
 Neement Jii dit medkóment doch móól 'n poer dóóeğ un säint Jii, of 't wirkt. Dat is Plat bloot anners skreeven 😉.
@@ -101265,7 +101265,7 @@ Geopolitik eeven. Duu sust dii ook näit mit meetings ooverlóóden.
 Of un tau ferstóó ik dii näit. In 't huushollen gift dat ferskeelend aldóóğsrisikos, däi fóók näit nauğ beacht't wordent. Wat biispillen bünt: - Stolterfallen: Geegenstâan, däi up d' grund rundliegent of löes teppigen köönent makkelk d'r tau fören, dat man stoltert un sük beseert. - Ferbraanens un ferbraajens: Bii 't kooken of pletten kan 't gaau tau beseerens döör häiet flüssiğkaiden of geegenstâan koomen. - Elektrisk geräiden: Unpaasend umgaang mit elektrisk geräiden as pletiisders, fööns of toasters kan ook tau ferbraanens of sülst stroomslóógen fören. - Giftiğ substansen: Fööl huushollensferskooners, planten un skeemikóólien köönent bii unpaasend behanneln of bewoer tau fergiftens fören. - Störten: Besünners ollerder minsken of minsken mit 'n bekneepen mobiilitäit bünt geford't, in 't huushollen t' faalen, t.b. weegen feelend handloopen of uneffen grund. Dat is düs wichtiğ, in 't huushollen attent t' weesen un potensjäel risikos t' minimäären, t.b. döör 'n grünnelk bewoer fan skeemikóólien, dat beheeven fan stolterfallen of dat ferwenden fan antislippend unnerlóógen in d' duuske of bóólje.
 Tom sal nóó 't undlóóten uut dat krankenhuus meerder móónden rehabilitäären mauten. Of wassent âal mesters häil net un jii mussent jau noojt beklóógen?
 Gift dat ook feedback, doo ik hir wat ingeev? Lóót't jau näit d'r tau prowosäären, wat t' säegen, wat jii lóóterweğ berauent.
-Nuu heb ik nauğ fan disser häiel dokumenten! Dan bün ik eeven 'n släecht aarbaider! Ik kiik nuu noch 'n uutgóóev fan 'n seerie un dan góó ik man up bäer un fergeet dat âal! Bit dan! Tom frooğ Mary nóó dat melöör, wor säi in ferfangen was.
+Nuu heb ik nauğ fan disser häiel dokumenten! Dan bün ik eeven 'n släecht aarbaider! Ik kiik nuu noch 'n uutgóóev fan 'n seerie un dan góó ik man up bäer un fergeet dat âal! Bit dan! Tom frooğ Mary nóó dat melöör, wor säi in ferwikkelt was.
 Ik bruuk miin footoapparóót häil näit meer. Ik skäit äinfach mit miin telefoon biller. Läip eufemistisk skreeven, man jóó. Däi mäiest Wangeroogers wurdent nóó d' fastwal umsiidelt un dat was fan sülst meer of minner dat äen föör däi tóól. Wattent bleevent up dat ailand man däi mäiest fandóóğsk Wangeroogers bünt äinliik Ollenbörgers.
 Disser perspektîiv begriip ik näit. Móók däi ferslus weer up däi fläes, doo däi kâat hum umsmit't.
 In 't buutenland t' leeven is däi bäest weğ, 'n fröem tóól t' leeren. Wel het an d' dööer pingelt.
@@ -101302,7 +101302,7 @@ Tom sağ 'n wicht, wat häil alleniğ sat, un gung hen, um höör an t' prooten.
 Moin! Jóó, dat stemt! Dat is seeker al 'n half joer heer. Woo gaajt dii 't? Wat gift dat näjs bii dii? Soo lâang duu noch jung büst, sust duu dat daun, soo fóók as duu kaast.
 Nuu, um dat mii 't weer gaud gaajt, wil ik an d' uniwersitäit ruumföörskern stuudäären. Tom aargert sük, um dat häi dat beloovt gehaltsferhoogern näit kreegen het.
 Faalt jau wat in, wat ik säegen kun, um Tom t' oovertüügen? Nuu góó ik up bäer, man föördeem lees ik noch 'n biitje wiider in miin romóón un pak miin handy an dat kóóvel, dat 't mörnfrau nauğ stroom het.
-In d' iiver fan d' slacht mook Tom 'n hóóstiğ beslus. Däi ferskeel tüsken 'n "räecht woord" un 'n "hóóst räecht woord" is as däi ferskeel tüsken 'n blits und 'n glimmerke.
+In d' iiver fan d' slacht mook Tom 'n hóóstiğ beslus. Däi ferskeel tüsken 'n "recht woord" un 'n "hóóst recht woord" is as däi ferskeel tüsken 'n blits und 'n glimmerke.
 Ik hoop ik kun dii d'r mit ferstennelk móóken, woosoo däi heemel föör us blaau skint. Wat is dat minst besöcht inrichten in Poolen? Dat fundbüro.
 Dat is stur föör mii t' lööven, dat Tom an dat undfören bedäiliğt was. Spiitelkerwîis sast duu in dit büro niks móókt kriigen, doo duu näit wel smeerst.
 Fergeetent Jii Jau sörgen föör 'n setje un kooment Jii heer, um mit us t' eeten. Dat is wies 'n gâaud idee.
@@ -101775,7 +101775,7 @@ Puu, is dat häit fandóóeğ! Eerst nóó fiif joer höörde ik fan siin hochti
 Ik wul, dat ik 'n gaud antern up däi fróóeğ finnen kun. Soo dróó duu disser grundlóógne maistert hest, kaast duu dii up spesjellerder python-moduulen as NumPy, Pandas, Matplotlib un TensorFlow kunsenträären, um dóóten t' manipuläären, wisuóólisäären un neuronóóel netten t' móóken. 'N anner wichtiğ teemó is däi matemóótik achter d' KIs.
 Kust duu mii bitte säegen, woo groot duu büst un woo fööl duu weğst? Tom see, häi haar näit wust, dat Marió näit soo gaud in 't Fransk was.
 Tom wus näit, of 't sük loonen sul, sük föör däi stee t' bewaarven. Däi oel keerl wur fan 'n aauto anforen un fut in 't krankenhuus brocht.
-Tom het däi raup, mit niks up tiid klor t' worden. Nóódeem ik miin fertelsel uut haar, keek mii miin nóóber 'n tiid lang swiigend un attent an.
+Tom het däi raup, mit niks up tiid klor t' worden. Nóódeem ik miin fertelsel uut haar, keek mii miin nóóber 'n tiid lang swiigend un upmaarksóóm an.
 Miin mäinen ferskeelt fan däi mäiest fan däi anner skaulers in miin klâas. Wat dee uut us worden, doo ufos däi êer attakäärdent?
 Tom truk siin skau un sökken uut un krempelde siin bükspiipen hooğ. Hand in hand keekent Tom un Marió tau, woo däi süen oover d' säj unnergung.
 Tom, ik lööv, wii mautent Mary helpen. Dat let't as was säi in d' breedulje. Tom was däi êerst sanitäiter bii d' unfalstee.
@@ -102101,7 +102101,7 @@ Ik frees, dat us disser ord fan dräepen näit wiider brengt. Wii bünt kiin pro
 1998 ooversteegent Jóópóón siin eksporten däi importen um 77,8 miljaarden duller. Ik doch, ik mus dii noojt meer weersäin, doo ik mit dii slus móóken dee.
 Histoorsk oorsprungen & Sosjóóel struktüer. Duu sust Tom in kennis setten, dat 't Marió läiver was, häi dee dat lóóten, höör an t' raupen.
 Tom köf sük 'n näj aauto mit dat geld, wat häi in d' lotteräj wunnen het. Däi dóódferdechtiğ ferburğ sük drei wêek lang in d' baargen.
-Elektroonsk baaudäilen lóótent sük mit süüver Isopropóónool skoonmóóken. Jau anbod is läip attraktiif, man wii mautent d'r oover nóódenken.
+Elektroonsk baaudäilen lóótent sük mit süüver isopropóónool skoonmóóken. Jau anbod is läip attraktiif, man wii mautent d'r oover nóódenken.
 Duu sust äinliik wäiten, dat man soo 'n gefordelk stee beeter näit upsöcht. Wel an annernt hôoğ ansprööken stelt, sul ook an sük sülst hôoğ ansprööken stellen.
 Dat dee t' lâang düren, dii t' ferkloren, woosoo dat näit funksjoonäären sal. Ik haar noojt docht, dat 't up soo 'n stee soo 'n mooj hotel gift.
 Dat was skóó, doo duu dii 'n dräepen mit Tom undgóón leetst, soo lâang duu in Boston büst. Woo berekkent wii 'n paasend ferheltnis fan aarbaid un priwóótleevend?
@@ -102196,7 +102196,7 @@ Woo fóók heb ik jau al säeğt, dat jii nüms mitbrengen söölent, sünner f�
 Säi erkende däi bröske as däien weer, däi säi fööer 'n poer móónd ferlooren haar. Tom un Marió sattent up 'n hellen un keekent sük t'sóómen dat fürwaark an.
 Up siin skriivtóóvel lağğent soo fööl sóóken rund, dat häi kiin bot tau 't skriiven haar. Ik wil, dat disser aarbaid bit mörn nóómiddağ teegen twei üer klorstelt is.
 Dat let't as 'n fâal. Woosoo daajst duu mii hóóten?
-Woo old wassent Jii, doo Jii Jau dat êerst móól ferläivdent? Man see an 'n skiineesk buer häi sul sük fööer d' fersîit fan president Hu Jintao näit skeeren dat häi up 't feersäin rustikóólsker lóóten dee.
+Woo old wassent Jii, doo Jii Jau dat êerst móól ferläivdent? Man see teegen 'n skiineesk buer, häi sul sük fööer d' fersîit fan president Hu Jintao näit skeeren, dat häi up 't feersäin "rustikóólsker" lóóten dee.
 Tsiil is 't, däi tóól näit alleniğ teoreetsk t' fermiddeln, man hum in 't aldağ beleevbor t' móóken un soo dat kultüräel aarvdaum fan 't Oostfräisk t' staarken. Finst duu näit, dat Tom d'r wat t' jung föör is?
 Marió is näit däi êerst frâau, däi sük in 'n traaut keerl ferläivt, un säi sal näit däi läest weesen. Tom beed'de mii, up d' weğ fan d' aarbaid nóó huus 'n duts aier in t' koopen.
 Of un an hul häi in, keek um sük, man kun doch näit uutmóóken, wor 't weğ kweem. Dat kan man soo säegen.
@@ -102204,7 +102204,7 @@ Tom doch, dat Mary 't 's mörns worskiinelk näit drok hebben sul. Tom stelde s�
 Of duu dat löövst of näit, ik wil dit baudel net soo as duu achter mii brengen. Dat móókt al mâajt, bii 'n fultiidbeskeftigen gliiktiidiğ twei kinner groot t' trekken.
 Mary begript näit, woosoo sük Tom 'n kâat as online-awataar uutsöcht het. Säeğ Tom dat häi dat Mary näit säegen sal.
 Man in Koopenhóógen wil häi f'râal wiisen, "dat Düütskland bii migróósjoonsteemen in Europó näit meer in 't bremserhuuske sit't, man in d' lokomotîiv". Dat haar däi düütsk binnenminister al äen ferleeden wêek bii d' sülst anset't migróósjoonstopdräepen up d' Zugspitze ferklort. Tom mook däi kiest oopen mit 'n breekiisder un nam 'n stâang dünóómiit d'r uut.
-Doo duu däi mester man wat attenter tauhöören deest, ferstunst duu 't wal. Däi antóól fan däi in d' stad forend aautos het sük ferhoogert.
+Doo duu däi mester man wat upmaarksóómer tauhöören deest, ferstunst duu 't wal. Däi antóól fan däi in d' stad forend aautos het sük ferhoogert.
 Ik wul nuu näit in Tom siin huud steeken. Brö, duu hest t' fööl fräej tiid!
 Däi oel dóóem was soo frünnelk, mii däi weğ nóó d' bóónhof t' wiisen. Ik lees läiver in huus as in 'n bibliotäik teegen frömmen sittend.
 Tom is genaau dat tsoord fent, wor Mary mit ofhangen wil. Dat dee äiwiğ düren, âals t' ferkloren.
@@ -102304,7 +102304,7 @@ Wat is läieft? Oo, läief, dau mii näit seer. Dau mii noojt meer seer. Duu fer
 Tom was fan beskäiden kumof, man wur äien fan däi rîikst manlüü fan 't land. Häi begröt't dii. Woo gaajt dii 't fandóóeğ? Is 't âal in d' rîiğ?
 Haar sük dat melöör in 'n stad taudróógen, haar 't tau 'n katastrôof fört. Ik sal âals in miin macht stóónd daun, um däi seekerhaid fan Jau kinner t' ferseekern.
 Ik haar dat fandóóğsk fergóódern häil fergeeten. Bedankt dat duu mii d'r an heerinnert hest! "Lóót't 't man, dat daajt näit nood.
-Ik wul unbedingt bold móól weer angeln góón. Tom stelde Mary fööl fróógen, man säi wäigerde sük, wattent d'r fan t' beantern.
+Ik wul unbedingt bold móól weer angeln góón. Tom stelde Mary fööl fróógen, man säi wäigerde sük, wat d'r fan t' beantern.
 1991 deedent Kroóósien, Sloweenien un Matsedoonien höör unofhangelkkaid ferkloren; 1992 folğde Bosnien. Säi proot'dent föör däi rest fan 't skauljoer kiin woord meer mitnanner.
 Wekker ooversetten fan dit bauk finst duu beeter? Dat fransk of dat engelsk? Dat is spróókelk ferkeert doo däi kardioloogen fan d' fäärkóómerblik fan däi fäärkóómerflâakt un däi dreikóómerblik of fan d' dreikóómerskridmóóker prootent.
 Tom is riik nauğ, um sük, wor häi dat ook wul, 'n huus t' koopen. Ik wäit äinfach näit, wat in däi koppen fan lüü, däi in foren rundtrollen, föörgaajt.
@@ -102336,10 +102336,10 @@ Ik wus, dat häi dül was, man ik haar näit docht, dat häi soodanniğ dül was
 Ik wäit, dat duu näit föörhest, föör 'n lâang tiid hir t' bliiven. Oller un sundhaidstaustand: Doo 'n persoon jung un sund is, kan 'n priwóót krankenferseekern günstiger weesen as dat wettelk krankenferseekern, um dat häi in d' reegel leegerder preemien het.
 Doo ik âal tiid fan d' weerld haar, dee ik mii 'n boot baauen un nóó däi Fidzjiailâan saajeln. Ik heb wat oover Tom uutfunnen, wat duu nóó miin mäinen wäiten sust.
 In d' nóóest taukumst wul häi "an ferskeelend buutenlandsk föörskerns- un bildensinrichtens föörskern, unnerrichten un leeren", see Habeck, unner anner bii 't Deensk Instituut föör Internóósjoonóóel Stuudien in Koopenhóógen un däi US-uniwersitäit Berkeley. Tom haar bold 'n haartklebaster kreegen, doo häi Marió up 't rand fan 't dak stóón sağ.
-Sünnenskutskrêem undholt stoffen, däi dat ultrófiigeläet lücht t'rüeğsmiitent of absorbäärent. Fannacht is fuel móón. däi wulven uut 't freebörger hêerd bünt weer unnerweegens.
+Sünnenskutskrêem undholt stoffen, däi dat ultrófiigeläet lücht t'rüeğsmiitent of absorbäärent. Fannacht is fulmóón. däi wulven uut 't freebörger hêerd bünt weer unnerweegens.
 Ferleeden sóóterdağ gung miin femiilje in d' tsoo, um sük däi pandós t' bekiiken. "In 't ansicht fan d' waasend skrik in 't Middeloost hannelnt wii, um däi möögelkkaid fan free un 'n tweistóótenlöesen t' woren", räidenäärde däi briitsk premjee Keir Starmer däi beslus in 'n wiideoböskup up däi platföörm X.
 Haar 'k wust, dat Tom in Boston was, soo haar 'k dii 't säeğt. Höör mäinens hebbent soo wal föör- as ook nóódäilen.
-Dat is häil belangriik dat jii meer gemüües eetent. Däi premjeeminister dee dat Wiet Huus 'n offisjäel besöyk brengen.
+Dat is häil belangriik dat jii meer gemüües eetent. Däi premjeeminister dee dat Wiet Huus 'n offisjäel besöyk ofstatten.
 'N laagen daajt däi haarten fan däi minsken oopen. Tom het säeğt, häi sal insent wat uutprobäären, wat häi noch noojt t'fööer dóón het.
 Up 't termomeeter bünt dat daartiğ gróód; man um 't hôoğ lüchtfuchten is dat föylt fööl häiter. Alwoo Tom mäist bloot snelgerichten genäiten daajt, word't häi hóóst näit krank, un siin körpermasindeks liğt in d' n'rmóóel berek.
 Un duu hest je wies noch häil anner stiften in diin büks. Up disser wîis köönent unnerneemens d'r tau biidróógen, CO2e-emissjoonen t' redusäären, indeem säi sük up energiieffisjenterder technologiien kunsenträärent, däi dank däi stöön fan tóólmodellen undwikkelt wurdent.
@@ -102430,7 +102430,7 @@ Um d'r uut t' koomen, bruukde häi 'n wunner, of näit? Tom fun Marió höör f�
 Wii söölent teegen twei üer begünnen, doo 't bit d'r hen uphollen het t' reegen. Duu kaast däi melk näit meer fan d' kofje trennen, doo duu hum d'r insent in sküd't hest.
 Häi besloot, an siin hund dat knîin t' ferfauern, dat häi up däi dağ skooten haar. Naajmeskîin.
 Döör siin nóódooderforen wur Tom tau 'n fööl läiftfuller un minner föörinnoomen minsk. Woosoo daajst duu näit anhollen.
-Tom sul sük häil seeker mit läiverlóó sörgen móóken, dat häi siin aarbaid ferlüst. Tom beed'de Mary, tanpâast un tolettenpepier fan d' supermâarkt mit t' brengen.
+Tom sul sük häil seeker mit läiverlóó sörgen móóken, dat häi siin aarbaid ferlüst. Tom beed'de Mary, tanpastó un tolettenpepier fan 't supermâarkt mit t' brengen.
 Jóópóón is äien fan däi grôotst wirtskaftsmachten fan d' weerld. Tom siin wóógen sprung näit an. Häi mus 'n näej batterii besörgen.
 Wichter kooment ruuğweğ mit tain of elf joer in d' puupertäit, Jungse ruuğweğ mit elf of twalf joer. Tom un Marió däildent sük 'n skiirm; man däi was näit groot nauğ, un bâajd wurdent nat.
 Tom fersöch, sük up âals, wat geböört was, 'n riim t' móóken. Twei katäikers.
@@ -102454,7 +102454,7 @@ Woo kumst duu d'r up, dat Tom föörhet, Marió 'n andrağ t' móóken? Sul häi
 Louis Pasteur het unddekt, dat däi mäiest kliivend krankhaiden fan kaimen feroorsóókt wordent. Ferskeelend minsken löövent an ferskeelend dingen, man dat gift man äin worhaid.
 Alwoo Tom däi bräif föör Marió ooverset't haar, mook säi sük näit däi mâajt, siin ooversetten t' leesen. Säi sweerent up wóóter as natürelk filter - häil sünner ekstró büüdels. Sülst häil lütje stofpartikkels söölent soo bunnen worden.
 Up miin weğ nóó huus kun ik näit uutskaajen, d'r oover, wat geböört is, nóó t' denken. Ook fandóóeğ eksistäärent noch ferwanten fan däi dinosaauriers. D'r höörent unner anner ferskeelend föögels un reptiilen tau.
-Marió was ferwunnert, woo genaau Tom höör geföylen inskatten dee. Cesar Chavez beed'de däi lawaajgaangers, up gewalt t' fertsichten, sülst doo däi faarmbesitters un höör helpers of un an gewalt anwenden deedent.
+Marió was ferwunnert, woo genaau Tom höör geföylen inskatten dee. Cesar Chavez beed'de däi straikenden, up gewalt t' fertsichten, sülst doo däi faarmbesitters un höör helpers of un an gewalt anwenden deedent.
 Dat kan bit nóóst wachten. Dat kun weesen, man ik denk ook näit, dat däi ferskeel fandóóeğ soo düüdelk is. Föör däi mäiest prooters sünt dat eer allofoonen.
 Enkeld fan däi fan Linux stöönt dóóteisüsteemen bünt ekt4 un Btrfs. Doo Tom näit däi draaj kriğt, sal häi in 't gefangenis lannen.
 Tom hul dat föör klauk, däi geleegenhaid, däi Marió hum bood, uut t' nütsen. Dat is ror dat dat büro um disser tiid belücht't is.
@@ -102608,7 +102608,7 @@ Däi tsuğ ferlóóterde sük weegen däi taifuun um 'n stüen. Wii hoopent âal
 Marió spitsde däi lippen in ferwachten fan d' tuutje, doch niks geböörde. Doo säi däi oogen weer oopen dee, was Tom ferdweenen. Däi n'rmóóltsuğ is näit soo kumfoortóóbel as däi eksprestsuğ.
 Tom het fööl religjööes bauken, doch häi het höör noojt leesen. Proot't man teegen 'n minsk in 'n tóól, däi häi begript, soo sal 't siin kop berekken. Proot't man teegen hum in siin tóól, berekt 't siin haart.
 Moin woo gaajt 't. Ik wäit näit, wor ik miin slöödels dóólläeğt heb, man ennerwor hir in mautent säi weesen.
-Ik heb gâaud räidens t' lööven, dat häi an dat ferbreeken unskülliğ is. Moin, wil man döörgeeven, dat wii gaud in Neibörğ ankoomen bünt. Jau âal 'n môoj óóvend🙋🏻‍♀🙋🏽🙋‍♂.
+Ik heb gâaud gruen t' lööven, dat häi an dat ferbreeken unskülliğ is. Moin, wil man döörgeeven, dat wii gaud in Neibörğ ankoomen bünt. Jau âal 'n môoj óóvend🙋🏻‍♀🙋🏽🙋‍♂.
 Ik bleev as enkeld däi häiel nacht up. Genaau dat wul ik.
 Däi jung kreeğ 'n flâaut, man häi kwam weer bii sük, doo wii siin gesiecht mit wóóter bespraajdent. Tom maut 'n woonen, näit t' feer fan siin aarbaidsstee, finnen.
 Miin jung proot't bloot mit mii, doo häi geld bruukt. Woo fööl früen haarst duu äinliik doo in d' skaul? Un höörst duu fandóóeğ ook noch soo fööl hollandsk róódio?
@@ -103343,7 +103343,7 @@ Däi stad word't döör 'n wóóterreserwaar in d' baargen mit wóóter fersör�
 Säi besloot eerst up 't oller fan twintiğ joer, singerske t' worden. Plasmó fan πλάσμα, plásma (dat bild't, föörmt) is in d' füüsik 'n däilkesmengsel uut ioonen, fräej elektroonen un mäist ook neutróóel atoomen of moleküülen.
 Dat gift 'n bustransfer nóó 't Ginza Tokyu hotel. Of dat geentechnisk ferannern fan 'n aitsäel mit dat tsiil, dat ooverdróógen fan 'n aarvkrankhaid t' ferhinnern, eetsk t' ferantwoorden is, word't kuntrowers diskutäärt.
 "Ik frooğ Tom, of häi al insent 'n wicht tuutjet haar." - "Un wat see häi?". Man fiilicht is dat ook soo 'n almäin ding, dat elker tóól bii dat standardisäären idioom ferlüst.
-Miin antern "Doris" bóósäärt up dat gissen, dat Kurt dat lâangst stóóvke trukken haar, doo Michaela näit eksistäären dee, wat uut däi êerst uutsäeğ uutkumt. D'r sluut ik uut, dat Michaela 'n langerder stóóvke as Kurt het. Dat foelğ fan 'n släecht ooversetten kan of un an katastroofóól weesen.
+Miin antern "Doris" bóósäärt up dat gissen, dat Kurt dat lâangst stóóvke trukken haar, doo Michaela näit eksistäären dee, wat uut däi êerst uutsäeğ uutkumt. D'r sluut ik uut, dat Michaela 'n langerder stóóvke as Kurt het. Däi foelğ fan 'n slecht ooversetten kan of un an katastroofóól weesen.
 Tom gefaalt dat, däi unnertittels up Engelsk t' leesen, wiilst häi films up Engelsk ankiiken daajt. Wii mautent dat noch fööer firóóvend klorkriigen.
 Tom nam sük 'n handful popkoorn uut däi püüt un langde disser dan an Marió. Us upgóóev was bit nuu tau läip makkelk, man sal fan nuu of an läip stur worden.
 Faalt dii anners noch wel in, däi eeventuel sins was, us t' helpen? Tom besloot, Marió t' traauen, alwoo siin ollen dat näit wullent.
@@ -103530,7 +103530,7 @@ Us fóóder bleev mit us per post un telefoon in kuntakt, wiilst häi in oovers�
 Dat óóvendföörstellen bii 't Köönenklîik Tjóóter was t'äen, un däi taukiikers wassent nóó huus tau góón. Ik fin, duu büst 'n gâaud keerl, man ik heb kiin romantisk geföylen föör dii.
 Dat bladje fung an leesders t' ferläisen, doo 't up äien fan siin populêerst aautooren fertsichten dee. Tom het eerst mit 30 joer mit fjôol spöölen anfangen.
 Dat befolken fan Tōkyō is ruuğweğ fiif móól soo groot as dat fan us stad. Dat word't ferwacht't, dat dat infören fan däi näej stüer däi häiel wirtskaft beinflauden sal.
-Wii hebbent aldóóeğ mitnanner spöölt, as wii kinner wassent. Tom ferstopde dat wóópen in 't truem up 't köylskap.
+Wii hebbent aldóóeğ mitnanner spöölt, as wii kinner wassent. Tom ferstopde dat wóópen in d' kaukjetruem up 't köylskap.
 Dat is föör 'n hóóes un 'n skildpuer gliik gaau neijoer. Fróógen: Is däi tekst ferstennelk föörmuläärt? Wat is gaud t' begriipen? Woosoo? Wat is stur t' begriipen? Woosoo? Wekker biller bünt hülpsóóm? Woosoo? Wekker biller bünt minner hülpsóóm? Woosoo? Wat mäinent Jii leert t' hebben? Woosoo?
 Däi stâark euro is 'n ferlichten föör däi ferbruuker - doch föör düütsk unnerneemens word't häi tau 'n probleem. Doo Tom in huus ankwam, stelde häi fast, dat Marió höör sóóken pakt haar un ferdweenen was.
 Dat häiel büro was d'r beindrükt fan, woo Tom dat probleem angung. Woo fööl höörbauken hest duu up diin dróóğboer MP3-spööler?
@@ -103555,7 +103555,7 @@ Tom wus näit, dat Hawai tau däi Feräint Stóóten höört. Up miin skaul gaf 
 Tom het al meerder körtfertelsels skreeven, man noch kiin bauk publisäärt. Wii höördent dat echo fan us stemmen fan d' güntsiid fan 't dóól.
 Tom see, dat sul wal soo gaau näit weer geböören. Häi mook däi mund oopen, as wul häi wat säegen, man see niks.
 D'r word't mit hüelp fan satelliitenbiller fersöcht däi berek in d' Indisk Oseóón in t' grensen, in däi trümmerdäilen sicht't wurdent. Höör näit up Tom. Häi wäit näit, wor häi fan proot't.
-Däi piin leet nóó, wiilst däi sâalv in siin faut inmessäärt wur. Ik wil disser stróóet langs góón köönen, sünner mii sörgen móóken t' mauten, doodskooten t' worden.
+Däi piin leet nóó, wiilst däi sâalv in siin faut inmassäärt wur. Ik wil disser stróóet langs góón köönen, sünner mii sörgen móóken t' mauten, doodskooten t' worden.
 Säi betäikent spesjäel reäelweerdiğ funksjoonen, disser däinent tau 't kunstruksjoon un klassifikóósjoon fan worskiinelkkaidsferdäilens. Trots siin fuel termiinklenner het Tom föör siin kinner altiid tiid oover.
 Däi kofjeflek was stur d'r uut t' kriigen. Woo fööl potensjäel satsen kan disser ooversetter wal recht ooversetten un bii woo fööl móókt häi feelers?
 Döörsöyk fööer 't waaskern in elker gefal âal kläärtaasken nóó pepiren taaskendauken. Marió wäit, hoopt Tom, dat säi Johannes siin wiisen beeter näit foelğ laist't.
@@ -103583,7 +103583,7 @@ Ik kan an diin gesiecht ofleesen, dat duu uninteressäärt büst. Tom haar niks 
 Miin köylskap brumt däi häiel tiid. Fiilicht wil häi je 'n läid anfangen? Ik heb eeven ooverläeğt mit t' singen, man stel dii fööer: Duu un diin köylskap as band - nóóm: "Cool & the Gang". Wil' w' däi fóóen annern?
 Dat is altiid wichtiğ, inf'rmóósjoonen uut fertrauenskuppelk wellen t' betrekken un kriitsk t' prüüfen, eer man woorden löövt of wiidergift, däi up unbesteediğt of unwäitenskuppelk beweerens bóósäärent. In stee fan sük teegen Tom t' setten, rükde Marió höör staul an däi anner tóóvel.
 Woosoo ferhoogernt sük däi erdróógen bii herbisiidresistäent tsoorden? Tom was fandóóeğ daartiğ joer old worden, doo häi ferleeden joer näit stüürven was.
-Höör ferantwoordenslöshaid ferblüft mii. Doo Serhii K. up freidağ nóó d' haftrichter bii 't gericht in Bologna brocht wur, drooğ häi handskellen un wur fan drei skendaarms begled't.
+Höör ferantwoordenslössiğkaid ferblüft mii. Doo Serhii K. up freidağ nóó d' haftrichter bii 't gericht in Bologna brocht wur, drooğ häi handskellen un wur fan drei skendaarms begled't.
 Wii erneerent us fóók fan dingen, däi, sünner dat wii dat wäitent, us sundhaid skóódelk bünt. Dat haar dat potensióól föör anner eskalóósjoonen un dee ook dat ferheltnis tüsken Rusland un däi USA nóó däi freedensbemaiens fan president Trump nóóholliğ beskóódigen. "Ennerwor maut sük Putin ook ennerwenner beweegen un d'r fan hebbent wii spiitelkerwîis bit nuu tau t' min säin", see Weidel.
 Ik fersöch, f'rsichtiğ t' weesen, man amäen heb ik mii doch 'n poer bunken brooken. Däi burkeräj is mit 'n biidrağ fan 'n daardel tau 't bruttobinnenlandsprodukt wiider däi dróógend stîip fan d' keenióónsk wirtskaft.
 Dat enkeld, wat föör Tom telt, is, woo fööl geld häi ferdäint. Näit alleniğ duuven, man ook turisten bünt d'r elker dağ in koppels up d' Markusplats.
@@ -103604,7 +103604,7 @@ Tom is dül, um dat Marió sük, sünner t' fróógen, siin klapreekener uutläi
 Dat kumt altiid weer fööer. Nöym mii 'n lüstiğ grap oover Poolen.
 Duu büst ooveraarbaid't. Tom wil boksen leeren, man siin mauder mäint, 't was t' gefordelk.
 Jos 6:1-3 Jericho was slooten un sköötelt fööer däi kinner fan Iisrael, dat d'r nüms uut- of ingóón kun. Un däi heer proot'de teegen Josua: Süü, ik heb Jericho mit siin köönenk un däi dapper kriigers in diin hand geeven. Tom haar ooverleeven kunt, doo däi sanitäiters gaauer d'r west haarent.
-Up d' mörn nóó miin ankumst dor gung ik in d' äiken wald kaiern. Linken-fraksjoonsbóós Heidi Reichinnek worskaaude fööer 'n "haarst fan däi sosjóóel graausóómkaiden".
+Up d' mörn nóó miin ankumst dor gung ik in d' äikenwald kaiern. Linken-fraksjoonsbóós Heidi Reichinnek worskaaude fööer 'n "haarst fan däi sosjóóel graausóómkaiden".
 Tom un Marió stunnent knap achter d' dööer un flüsterdent mitnanner. Wii set'dent us dóól un prüüfdent âal enkelhaiden bit wii 'n ooveräinstemmen berekdent.
 Wii dochent âal, 't was sülstferstennelk, dat däi professoor Engelsk kun. Tüskendöör.
 Löövst duu an 'n leevend nóó d' dood? Sekundêer stofwessel In d' sekundêer stofwessel wordent substansen produsäärt, däi näit direkt dat leeven, man fóók dat ooverleeven in 't wesselwirken mit d' umweerld däinent. Produkten fan d' sekundêer stofwessel wordent as sekundêer metóbooliiten betäikent. Soo wiid as 't sük um planten hannelt, ook as sekundêer plantenstoffen.
@@ -103628,7 +103628,7 @@ Tuffels. Woosoo mağst duu mii?
 Däi skrumpelk, oel heksenmaister nam mii unner siin fidjes un broch mii 't âal bii, wat häi oover móógii wus. Soo lâang man däi föör- un nóódäilen fan 'n betrekken teegennanner ofweğt, kan man wal näit fan läieft prooten.
 Jóó, ik kan dat ferstóón - Bayley is läip dür! Dat gift fööl anner maarken fan skuumiğ melk, däi man in stee d'r fan ferwenden kan. Fööl lüü möögent ook frisk melk in d' kofje kippen. Doo man däi kofje näit mit melk drinkt, kan man hum ook mit wóóter miskern. Ik móók man spóós. Dat is in würrelkkaid näit geböört.
 Nee, dat kan ook Plonkerritz geeven, däi wal Schluberwicks bünt, man kiin Lungerriks. Däi Schluberwicks bünt 'n däilmäeng fan däi Lungerriks, dissent bünt echter 'n däilmäeng fan däi Plonkerritz. In däi moment, in däi dat wicht höör mauder sağ, brook säi in tróónen uut.
-Ik denk, 't is tiid, dat ik 'n biitje tiid mit miin kinner ferbrengen dau. Häi et't as 'n diikster.
+Ik denk, dat is tiid, dat ik 'n biitje tiid mit miin kinner ferbrengen dau. Häi et't as 'n diikster.
 Tom fermook sük 'n stüen lang d'r mit, siin kindskind d'r bii tau t' kiiken, woo häi up däi spöölgeräiden fan d' spöölplats bii 't inkoopstsentrum rundturnen dee. Ik wil mörn Tom anraupen un hum beeden, us t' helpen.
 Tom was däi êerst, däi Marió höör talent föör musik erkende. Petra kan gaud braajen.
 Däi stenner is näit uutgróót't. Gaud dat miin blaud man up d' kartong lant is. Fööl minsken lóótent d'r an interessäärt t' weesen, dat antern up disser fróóeğ t' kennen.
@@ -103946,7 +103946,7 @@ Moin André, ik denk prinsiipiel sul ik wal tiid hebben. Man ik skriiv upstünds
 Äin sóóek, däi duu oover mii wäiten sust, is, dat ik elker freidóóğóóvend poker spööl. 'N anonüüem gauddóóder het 'n däärhäim meerder hunnertduusend duller fermóókt.
 Ik foot miin lütje süster bii d' hand, un wii leepent bâajd lös. Unner däi tau däi fier nöyğt gasten wassent twei buutenlandsk dóómen.
 "Duu hest doch säeğt, dat Tom siin aarbaid ferlooren haar." - "Fiilicht heb ik mii fersäin.". Ik sal däi ferlooren tiid uphóólen, indeem ik soo haard aarbaid, as ik kan.
-Wii hebbent attent tauhöört, um näit 'n enkeld woord t' ferpaasen. Teegen 8:15 üer s' föörmiddóóğs, däi genâau tiidpunkt, doo fan dat US-kamffluğtsoiğ "Enola Gay" 'n atoombuemb mit däi spitsnóóm "Little Boy" ofsmeeten wur, dee dat lütje koppel in d' paark fan 't heerdenken an d' free in Horishima 'n moment fan swiigen hollen.
+Wii hebbent upmaarksóóm tauhöört, um näit 'n enkeld woord t' ferpaasen. Teegen 8:15 üer s' föörmiddóóğs, däi genâau tiidpunkt, doo fan dat US-kamffluğtsoiğ "Enola Gay" 'n atoombuemb mit däi spitsnóóm "Little Boy" ofsmeeten wur, dee dat lütje koppel in d' paark fan 't heerdenken an d' free in Horishima 'n moment fan swiigen hollen.
 Dat was höör lütje süster, däi höör spöölrêev kötmóókt het. Dat bauk is as paperback un as bunnen uutgóóev t' ferkriigen.
 Ik kan mii näit föörstellen, woosoo äien soo wat steelen willen sul. Häi bestun d'r up, mit siin mauder in 't woorenhuus t' góón.
 Um dat disser bräif t' hóóstiğ skreeven worden was, was häi ful feelers. Tom dee Marió kund, dat häi höör kiin kläär meer koopen köönen sul.
@@ -104022,7 +104022,7 @@ Fiilicht worst duu in äien fan disser bauken fündiğ. Däi nacht was waarm un 
 Raajsen un öffenlîik anspróóken bünt essensjäel bestanddäilen fan Tom siin beraup. Allerdings is factoring in d' reegel mit hoogerder kösten ferbunnen as tradisjoonäel finansäärensföörms as bankkrediiten, un dat kan ook 'n minnern fan däi äigendaumsrecht an däi föörderns bedüüden.
 Ik lööv, ik wäit nuu, wekker peerd däi bäest uutsicht het, dat rönnen t' winnen. - Kultüräel un selskuppelk nöörms: In fööl kultüren un selskuppen wordent seksuäel teemen as tebuu bekeeken of as unmis undfunnen. Produkten un projekten köönent düs uut respekt fööer disser nöörms un ferwachtens seksuäel inhollen uutsluuten.
 Nóó äin menüüet stielt fungent âal an t' bölken. Ik bün blîid, dat säi däi haitsung reparäärt hebbent, man nuu is 't t' häit.
-Tom stelde Mary 'n poer fróógen, wor säi näit up antern kun, man säi kun up däi mäiest fan siin fróógen antern. Swoer turbulensen bii d' fluğ un släecht passóózjäärsbetroien ferskafdent us kiin höygelk start in d' uurlaaub.
+Tom stelde Mary 'n poer fróógen, däi säi näit beantern kun, man säi kun däi mäiest fan siin fróógen beantern. Swoer turbulensen bii d' fluğ un släecht passóózjäärsbetroien ferskafdent us kiin höygelk start in d' uurlaaub.
 Dat is 'n häil lâang, häil stur sats, däi sük up meerder steeden däilt, selden weer t'sóómenlöpt, man amäen doch ennen sal. Dat is mooj! Militeersk gehäimnissen an fäien t' ferkoopen is ferróód.
 Dee dii dat gefaalen? Ik fermaud, soo wat kumt in Aaustróólien altiid weer fööer.
 Altiid doo ik dit footo säi, wor ik an miin skaultiid heerinnert. Dat begriipen fan d' teegenwordiğkaid is sünner 'n gâaud begrip fan 't ferleeden unmöögelk.
@@ -104039,7 +104039,7 @@ Doo däi lüü uutskaajent, äien kumpelmenten t' móóken, woo gaud man doch Fr
 Ik denk, Jii söölent wat upnóómen interessant finnen. F'râal däi uut däi gewesten um Oostfräisland. Soo as 't fóók bii hum dat gefal is, haar häi siin leerbauk in huus liegen lóóten.
 Sul ik nóó 'n spesjóólist góón? Dat ferbraanen fan kööel is föör 40 prosent fan d' uutstöyt fan driifhuusgóósen in Aaustróólien ferantwoordelk.
 Tom mook dat köylskap oopen un nam äien fan däi buddels d'r uut. Doo säi man wust haar, dat ik in Tokio was, haar säi bii mii up fersîit koomen.
-Tom bad Marió meerder móólen, hum frauer nóó huus góón t' lóóten, man säi leet hum näit. Haarten nóó fööer, soo staark is dit ferlangen! Lóót't us mitnanner us taukumst skeppen un 'n näej döyğd leeren!
+Tom beed'de Marió meerder móólen, hum frauer nóó huus góón t' lóóten, man säi leet hum näit. Haarten nóó fööer, soo staark is dit ferlangen! Lóót't us mitnanner us taukumst skeppen un 'n näej döyğd leeren!
 Däi briitsk-amerikóónsk oorlauğ haar anfangen. Büst duu t'free mit däi politisk situóósjoon in diin land?
 Häi interessäärt sük näit föör sporttsoorden, däi t'sóómenaarbaid of gâau reaksjoonen up anner spöölers erföördernt. Säeğ mii wat ik daun maut.
 Ik heb Tom instelt, um dat ik fun, dat häi föör disser aarbaid däi bäest was. Mäinst duu, dat ollen höör kinner bestróófen sullent, doo dissent läigent?
@@ -104048,7 +104048,7 @@ Ik wil 'n topmodel worden un däi häiel weerld beraajsen. Maust duu wies däi f
 Stemt dat, dat Tom äien fan diin äeng früen is? Marió sal näit wäiten, dat Tom kiin óónen het, wat häi daun sal.
 Kinshasa is däi hoovdstad fan d' Demokróótsk Republik Kongo. Ik lööv, man kan siin beneemen näit undskülligen. Biisiids sullent wii dat anhöören, wat häi t' säegen het.
 Doo ik höör mitdäilde, dat ik däi dóóder was, sağğent s' mii an, as haar 'k höör näit meer âal. Tom was näit däi enkeld, däi düüdelk mook, fan 'n anner mäinen t' weesen as Marió.
-In däi bäest hotels staajt altiid wel häilmóóls t' beskikken. Däi genâau termiin wesselt elker joer. Póóske is altiid up d' êerst söndağ nóó d' êerst fuel móón in 't fö'joer. In Oostfräisland gift dat föör póóske tradisjoonel póóskefüer, aiersöyken un natürelk lekker póóskekâauk!
+In däi bäest hotels staajt altiid wel häilmóóls t' beskikken. Däi genâau termiin wesselt elker joer. Póóske is altiid up d' êerst söndağ nóó d' êerst fulmóón in 't fö'joer. In Oostfräisland gift dat föör póóske tradisjoonel póóskefüer, aiersöyken un natürelk lekker póóskekâauk!
 Tom frooğ sük, woo fóók häi Marió wal d'r tau upföördern mauten sul, höör kóómer up t' rüümen, bit säi 't ennelk dee. Äien fan miin kinner kwam in Boston tau weerld, däi anner bâajd in Chicago.
 Gerhard Schröder is däi êerst düütsk kansler, däi näit däi Twäied Weerldoorlauğ mitbeleevt het. Ik frooğ Tom, woo fööl häi mäinde, dat 't kösten sul, dat huus fan wel striiken t' lóóten.
 Woo fort sük 'n lastwóógen teegen 'n pkw? Däi publikóósjoon fan däi artikkel was fan d' tiid soo plóónt, dat 't up däi boorsdağ fan däi professoor ful.
@@ -104491,7 +104491,7 @@ Miin fóóder löövde, dat âal, däi in Jóópóón kiin leevendsunnerhold fer
 In Skiinó wordent dóógelk ruuğweğ tain miljoonen tünnen kööel ofbaaut. Ferdeegensferbuen bünt 'n essensjäel däil fan d' düütsk seekerhaidspolitik.
 Tom het twei sööns. Äien is dokter un däi anner afkóót. Man eenelk as nuu Waltz haar ook Trump up d' söndağ up 'n reporterfróóeğ of häi däi baltsk stóóten un Poolen in 't gefal fan 'n näej eskalóósjoon döör Rusland ferdeegen sul, antert: "Jóó, dat dee ik.".
 Hest duu al móól 'n engelsktóóliğ bladje abonnäärt? Man sul däi räecht móótreegels tau d' räecht tiid neemen.
-Häi ferdween in 'n dunker hauk achter in d' winkel. Däi film is föör kinner.
+Häi ferdween in 'n düüster hauk achter in d' winkel. Däi film is föör kinner.
 Doo däi spagettii hangenbliivent, doo jii höör an d' müer smiitent, dan bünt säi klor. Uut däi anner fraksjoonen wassent man mien annernsandróógen koomen, däi AfD d'r teegen haar ruuğweğ 1.000 inbrocht, däi âal t'hôop ofleent wurdent, see Espendiller.
 Doo ik däi kóómer betreeden dee, laağdent Tom un Marió net oover wat. Wenner is póóske fanjoer?
 Haar säi man wat gedüriger west, haar säi fiilicht erfolğ hat. Dat ik groot wur, murk ik d'r an, dat ik begun, róódslóógen fan miin ollen t' befolgen.
@@ -104752,7 +104752,7 @@ Tom Jackson telt as äien fan däi gefordelkst manlüü fan Aaustróólien. Ik h
 In däi undläint föörms kaiser un tsaar wur däi nóóm lóóter ook tau d' tittel fan däi heerskers fan 't Hilğ Roomsk, fan 't Öösterriiksk, fan 't Düütsk, Bulgaarsk, Serbsk un Russisk Riik. Aldóóeğ kookt säi föör hum, man häi wäit dat näit t' würdigen.
 Tom frooğ Marió, wenner säi sük dat läest móól 'n bauk köft haar. Selenskyj echter smeet Moskaau fööer, näit an 'n free interessäärt t' weesen. "Eerelk säeğt bünt däi siğnóólen uut Rusland upstünds äinfach unfatsuunelk", see häi.
 Säi is läip bâang fööer huen. Ik heb fööer wat tiid mit Marie d'r oover proot't, dat man mäisttiids man negótîif post kriğt. Nuu heb ik fööer höör 'n lüstiğ, un positîif bräif t' skriiven. Kaast duu mii 'n häiel bräif uutföörmuläären?
-Lüü, däi góóbels of stóóvkes bruukent, denkent fóók, dat däi, däi dat näit daunt, unbeskóóvt bünt. T'rüeğstört nóó d' planeet êer! Nee, t'rüeğstört nóó d' ruumstóósjoon!
+Lüü, däi góóbels of stóóvkes bruukent, denkent fóók, dat däi, däi dat näit daunt, untsiwiilisäärt bünt. T'rüeğstört nóó d' planeet êer! Nee, t'rüeğstört nóó d' ruumstóósjoon!
 Däi skendaarm kürde mit siin pistôol up Tom un bölkde: "Stóón bliiven!". Miin körpertemperótüer lağ fanmörn unner söömundaartiğ gróód.
 Tom drükde siin beduren d'r oover uut, dat häi Marió upföördert haar, Hannes tau däi dóód t' brengen. Ik betwiivel, dat Tom däi maud het, föör dat in t' stóón, wor häi an löövt.
 Däi piin, däi säi ferliiden dee, doo säi foltert wur, is unföörstelbor. As wii 2008 anfangen hebbent, skreevent wii 'n liest fan lüü, däi wii instellen wullent, un dan gungent wii un steldent höör in.
@@ -104836,12 +104836,12 @@ Ik kiik nuu noch eeven disser film t'äen un dan góó ik up bäer. Ook doo säi
 Wat bünt dat föör ollen, däi höör kind unbeupsichtiğt in d' wóógen fööer d' skäenk lóótent, wiilst säi sük sülst binnen äien beekernt? Duu kaast mii Tom nöymen.
 "Tom is spiitelkerwîis näit in huus." - "Man in siin kóómer braant doch lücht!". Häi kikt hen un wen up d' häimweğ fan 't büro in disser baukwinkel f'rbii.
 Dat Oostfräisk Instituut is 'n unofhangelk tóólinstituut. Wii beföördernt däi taugaang tau dat Oostfräisk Plat un stöönent dat fräej undwikkeln fan kultüer un wäitenskup. Ik doch, Tom dee d'r mit klorworden, doo ik hum man 'n kâans gaf.
-Wat föör musik höörst duu geern bii 't foren? Däi weerldhistoorje is ful fan geskichten fan ferkent zjeeniis.
+Wat föör musik höörst duu geern bii 't foren? Däi weerldhistoorje is ful fan geskichten fan ferkent zjeniis.
 Fanmörn was dat wêer soo slecht, dat ik mii 'n taksii neemen mus. Wat ik net föörslóón wul, was, dat Tom nóó d' supermâarkt góón un iiskrêem koopen sal.
 Duu wäist beeter oover düütsk mauden un menäären beskäid as ik. Mitunner lüğt man, um däi geföylen fan annernt näit t' beseeren.
 Tom is 'n släecht forder; man häi holt sük föör 'n gâaud. Duu letst ferraskert.
 Tom sküddelde föör siin kâat 'n biitje melk uut d' fläes in 'n kuem. Nuu góó ik in d' bóódkóómer un d'r nóó sul ik ook slóópen góón, dan 't is hóóst 4 üer 's mörns un ik bün läip möej.
-Tom see, 't haar 'n feeler west un häi wul 't näit weer daun. Woo meer wii leerent, soo bewuster word't us, woo min wii wäitent.
+Tom see, 't haar 'n feeler west un häi wul 't näit weer daun. Woo meer wii leerent, woo bewuster word't us, woo min wii wäitent.
 Dat let't dat däi ooversetter mit dat ferleeden föörm fan wat werben wiider probleemen het. Dat regäären ergreep undslooten móótreegels teegen däi inflóósjoon.
 Stemt dat wies, dat 30 % fan däi minsken, däi hir leevent, noch noojt däi oseóón säin hebbent? Däi däif slooğ mii un achterleet mii 'n blaau ôoğ, un dan leep häi weğ.
 Dat ungloovelkst an wunners is, dat säi geböörent. Dat is freidağ; mörn maut ik alsoo näit upstóón, um nóó d' skaul t' góón.
@@ -104894,7 +104894,7 @@ Allerdings undstóónt föör dat unnerneemen döör factoring ook kösten, däi
 Prüüfensnood is häil n'rmóól! Óóm däip döör un fersöyk dii t' undspannen. Duu hest wies gaud leert. Denk d'r um: 'N prüüfen is man 'n moment, d'r nóó is 't f'rbii. Ik drük dii däi duumen! Ik frooğ Tom, wat h' höörde, un häi ferraskerde mii, dan häi see, dat häi klassisk musik höörde.
 Ik sit in 'n Pub in Irland un heb net 'n gâaud diskusjoon hat. Elk het ferwacht't, dat däi fersöyk mit 'n feelslağ ennen sul.
 Man het mit 'n köökenmest up Tom instooken, man häi sal sük d'r weer fan ferhóólen. Mäinent Jii näit, dat däi kliimóanlóóeğ hir t' hooğ instelt is?
-Säi leetent 'n häil wichtiğ teemó t' beprooten. Dat het mii an Jau heerinnert.
+Säi skeenent 'n häil wichtiğ teemó t' beprooten. Dat het mii an Jau heerinnert.
 Siit fanmörn heb ik 'n liecht halspiin. Ik fróóğ mii, of ik mii 'n ferkollen infangen heb. Miin bäep wur mit läiverlóó fergeetelk un gebrekkelk.
 Tom frooğ nóó Mary höör adräes un skreev hum up 'n tseedel. Skaaj uut, mii in 't ôor t' bölken!
 Häi is nuu al 'n gâaud; dan sal häi in taukumst ook 'n gâaud góó weesen. Tom köf in däi tolfräej winkel 'n fläes wodkó un perfüüm.
@@ -105255,7 +105255,7 @@ Däi film, däi wii säin hebbent, was fransk mit engelsk unnertittels. Däi mor
 Säi kibbelnt fööl, man däi mäiest tiid kooment s' häil gaud mitnanner uut. Däi twennels säint sük soo eenelk, dat 't soo gaud as unmöögelk is, däi äien fan d' anner t' ferskeelen.
 Elker kapittel fan 't leerbauk folgent ruuğweğ 'n duts ferstennisfróógen. Däi tsuğ sal in fiif menüüten offoren. Jii sullent jau man läiver hóósten.
 Um siin grôot geskik in d' beraup het däi afkóót 'n grôot klienteel. Tom sağ, woo keput Marió was, un see an höör, dat säi fut up bäer góón sul.
-Ik lööv duu büst däi frâau, wor ik âal miin leevend up wacht't heb. Däi unnertäikenerstóóten ferklordent, säi wassent sins, meer móótreegels föör 'n diräekt wóópenstielstand t' ergriipen. Säi feroordäildent dat nóó höör inskatten bloot "drüppenwîis fersörgen mit hülpsgauden" as ook 'n "unminskelk dooden fan tsiwiilisten" up d' söyek nóó leevendsmiddels.
+Ik lööv duu büst däi frâau, up däi ik miin häiel leevend wacht't heb. Däi unnertäikenerstóóten ferklordent, säi wassent sins, meer móótreegels föör 'n diräekt wóópenstielstand t' ergriipen. Säi feroordäildent dat nóó höör inskatten bloot "drüppenwîis fersörgen mit hülpsgauden" as ook 'n "unminskelk dooden fan tsiwiilisten" up d' söyek nóó leevendsmiddels.
 Tom maut bit half drei 'n poer häil wichtiğ dingen klorkriigen. 'N büelt piercst jööğdelken bliivent mit däi partner 'n leevend lâang t'sóómen - besünners doo sük däi nöösring fan däi äien in d' tanspâang fan däi anner ferfangen het!
 Ik haar näit docht, dat siin ferhollen up soo 'n unmöögelk niwo oftsakken daajt. Woo fööl leepels tsukker daajst duu n'rmóólerwîis in diin tee?
 'N koppel fan buutenlanners kwam in Edo, dat häit't in Tōkyō, an. Ik heb dii lâang näit meer säin.
@@ -105614,7 +105614,7 @@ Man leert 'n büelt oover siin äigen land, doo man in 't buutenland leevt. Eer 
 Ik bün Jau läip dankbor föör âals, wat Jii föör mii dóón hebbent. Däi tóól fan däi skaulers, däi t' lóót nóó d' skaul kwamment, was fööl minner, as ik ferwacht haar.
 Wii haarent Tom noch redden kunt, doo wii man 'n poer menüüten eerder hir west haarent. D'r maut al 'n wunner geböören, dat wii d'r biitiid mit klorwordent.
 Rusland smeet d'r teegen dat West fööer, däi spannens döör "unräidenäärt" ferwiiten t' ferskaarpen. 'N keerl is soo old, as häi sük föylt, un 'n frâau soo old, as säi let't.
-'N "supermóón" kan bit hentau 14 % grooter un 30 % lechterder ferskiinen as 'n gewôon almóóndelk fuel móón. Wii mautent hum d'r fan ofhollen, sükker duem sóóken t' móóken.
+'N "supermóón" kan bit hentau 14 % grooter un 30 % lechterder ferskiinen as 'n gewôon almóóndelk fulmóón. Wii mautent hum d'r fan ofhollen, sükker duem sóóken t' móóken.
 Buuten Tom haar Marió eerst äin anner fründ. Wii kunnent näit gewoer worden, wor Tom siin ofslus mook.
 Dit anstiigen fan d' aarbaidslössiğkaid is 'n foelğ fan däi resessjoon. Dat haar as foelğ, dat Oen in 't maur fersunk.
 Ik heb beslooten, nóó d' ofslus fan miin stuudium in Aaustróólien t' leeven. Tom proot't hóóst net soo gaud Fransk as Spóónsk.
@@ -105832,7 +105832,7 @@ Ik dau Mary geld sküllen un maut höör 't bit tauken móóndağ t'rüeğbetó�
 Kiin, man d'r föör 'n häiel büelt bäärbuddels, wor duu diin fäind mit ofsmiiten kaast. Proot in 't mikrofoon.
 Tom het as skauler anfangen, freiwilliğ waark in 't daklössenhäim t' laisten. Duu sust oover mii wäiten, dat ik fööl tiid mit leesen ferbrengen dau.
 Êerst wersjoon fan ooversetter-countdown implementäärt. Tom mäinde, dat Marió dat möögelkerwîis fandóóeğ daun mus.
-Dat US-department föör sundhaid säeğt, dat minsken minst twei un half stüen in d' wêek trainäären sullent. Fiilicht wil wel anners diin oel skriivtóóvel hebben, doo duu hum näit meer wult.
+Dat US-department föör sundhaid säeğt, dat minsken minst tweiunhalf stüen in d' wêek trainäären sullent. Fiilicht wil wel anners diin oel skriivtóóvel hebben, doo duu hum näit meer wult.
 Däi massenmedien hebbent fööl inflaud up dat resultóót fan 'n wóól. Duu deest dii wunnern, woo fööl bäär Tom drinkt, doo häi uutgaajt.
 Wor fan wäit man, of man däi räecht föör däi upgóóev funnen het? Miin läieft föör dii ferloovt mii näit, dii âals an t' fertrauen. Menniğ dingen bliivent beeter unsäeğt.
 Doo ik fóóer um meer geld bad, gung häi recht hooğ un bölkde mii an. Hest duu interäes, dii an disser diskusjoon t' bedäiligen, Tom?
@@ -105880,7 +105880,7 @@ Ik lööv, duu büst 't, wor ik âal disser joren up wacht't heb. Sundhaid is n�
 Sülst bii d' aarbaid dau ik stilkens miin internetsücht nóógeeven. Tom wäit wal noch näit, woo fööl tiid hum d'r föör t' beskikken stóón sal.
 Dat is lóót, un wii bünt âal möej. Düs mäin ik, dat wii nóó huus tau góón sullent. Tom sul sük wal läip föörsäin, Marió näit t' fergrellen, doo säi 'n mest in d' fingers het.
 Móók 't as däi koeb, skiit up diin oller. Ik bün 'n kunwersóósjoons-KI föör âal. Duu kaast mii d'r düs nöymen, as duu wult.
-Eerst nóó 'n kertäärke Google-söyken fun Tom dat, wat häi söyken dee. Eksperten säegent, dat däi kofjepriis hoovdsóókelk stiğt, um dat däi lüü sins bünt, meer t' betóólen.
+Eerst nóó 'n kertäärke Google-söyken fun Tom dat, wat häi söyken dee. Eksperten säegent, dat däi kofjepriis hoovdsóókelk stiğt, um dat däi lüü beräid bünt, meer t' betóólen.
 Um dat Tom däi mantel, däi häi anprobäärde, t' lütjet was, gaf däi ferkooper hum 'n anner tau d' anprôov. Tom fersöch, Marió tau wat t' beprootjen, wor säi fan wus, dat säi 't beeter leet.
 Dat het kiin sin, dat Jii Jau um Jau sundhaidstaustand soo fööl sörgen móókent. Ik haar teegen twei üer daartiğ 'n termiin, man ik heb 't näit up tiid skaft, um dat ik in 'n staau róókt bün.
 Nee, ik heb soo Düütsk proot't as duu 't uut d' VC fan mii kenst. Ik bün doch näit soo gaau d'r mit klorworden, as ik doch.
@@ -105942,7 +105942,7 @@ Viola fret't geern skips un drinkt fööl tsukkerwóóter. Dat was skóó, doo J
 Düs sul as êerst disser of sülst programäärt worden of 'n bestóónd, as däi Unity-, Unreal-, Lumbayard- of 'n anner weelt worden. Is d'r näit wat, wat duu mii säegen wult?
 Tom haar 'n spinter in d' finger, alsoo bad häi Mary, hum bii 't uuthóólen t' helpen. Däi hund is fandóóeğ 'n biitje krank, man fret't in 't gehäil net soo fööl as anners ook un word't spiitelkerwîis al dikker.
 Dat was alleniğ miin sküld. Duu denkst näit nóó.
-Elektroonsk baaudäilen lóótent sük mit süüver Isopropóónool skoonmóóken. Buddel bäär.
+Elektroonsk baaudäilen lóótent sük mit süüver isopropóónool skoonmóóken. Buddel bäär.
 Ik was ferraskert, doo Tom mii siin hannelnsgrund ferklorde. Sünner wóóter kunnent wii näit leeven.
 Trots us angóózjmong undsloot häi sük, moers teegen d' diiselboom t' smiiten. Ik fin dat häil bedröyvt, dat us bladje näit oover disser wunnerboer ooversetter berichten wil.
 Däi winkel wur 2013 diechtmóókt. Tom haar Marió meskiin umbrocht, doo Johannes d'r näit tüsken góón was.
@@ -105980,7 +105980,7 @@ Dat iikamt prüüft un ooverwóókt meetinstrumenten as wóógen, tapsoilen of s
 Ik heb höört, dat duu 'n spesjäel ooversetter föör dat oostfräisk Plat büst, däi woorden fan Hooğdüütsk nóó 't Oostfräisk un anners um ooversetten kan un dat häilmóóls aautomóótsk sünner minskelk hüelp? Mooj! Bulgen un wóógenruuskern wassent miin wäigenläid, Un däi hôoğ diiken säint miin kinnerläid, murkent ook miin lengen an sük waasen weer, döör däi weerld t' fläigen, oover land un säj.
 Tom bereekende, dat häi Marió in däi ferleeden ses móónd meer as fäärundaartiğduusend duller geeven haar. Dat mislung hum meerder móólen, man häi haar näit dat geföyl, dat 't tiidferklaajen was.
 Duu skirst dat, Tom! Wat duu oovermörn kaast besörgen, dat ferskuuv näit up mörn.
-Doo 't soo wiidergaajt, is däi gefoer hooğ, dat us land noch meer an wedbewaarfsfeeiğkaid ferläisen sal. Däi reegen dee däi âarnt eer 'n grôot skóó taufaugen, as dat häi wat gauds dee.
+Doo 't soo wiidergaajt, is däi gefoer hooğ, dat us land noch meer an wedbewaarfsfeeiğkaid ferläisen sal. Däi reegen dee däi âarnt eerder 'n grôot skóó taufaugen, as dat häi wat gauds dee.
 Tom is unnerwiilst seeker d'r achter koomen, dat Marió Johannes siin fründin is. Fertel mii fiif spannend un interessâant fakten däi 'n grôotst däil fan däi minsken ferraskern deedent.
 Mit 'n poer bäär intus word't Tom häil kiiviğ. Skendaarms hebbent fööer Tom siin büro ooverwóókenskamerós anbrocht.
 In däi fandóóğsk tiid is 'n leevend sünner elektrisitäit näit föörstelbor. Miin fóóder stüürv an 'n subarachnoidóólblauden, doo ik fäärtain was.
@@ -106232,7 +106232,7 @@ Woo lâang dürt 'n fluğ fan Boston nóó Chicago? "Tom un Marió willent sük 
 Bii dat unglük stüürvent 16 minsken, 21 wurdent föör 'n däil swor beseert. 'N eerst doodlöövt Düütsk wur nóóderhand fan siin ollen swor beseert, man leevend in 'n krankenhuus funnen. Siin frâau wur swor, däi mäinsóóem lütje söön licht beseert. Ik wäit, dat jii 't föör 'n dumhaid hollent, dat t' móóken, man ik heb doch fööer, um 't t' daun.
 Däi winkel het 2013 diechtmóókt. Ik denk näit, dat Tom us däi biller up siin smartfoon wiisen wul.
 Menniğ köönent dat näit. Jii hebbent ' n beloeft ofläeğt.
-Dit gewest wur t'eerst fan däi Neerlanners besiidelt fööer meer as tweihunnert joer. Höör bibliotäik undholt drei un halfduusend bauken un umfat't fööl eerstuutgóóven.
+Dit gewest wur t'eerst fan däi Neerlanners besiidelt fööer meer as tweihunnert joer. Höör bibliotäik undholt dreiunhalfduusend bauken un umfat't fööl eerstuutgóóven.
 Däi möögelkkaid kan näit uutslooten worden, dat däi eksplosjoon döör nóólóótiğkaid feroorsóókt wur. Ses móónd bünt ferleeden, siit däi aautoor bii 'n melöör um 't leevend koomen is.
 Tom stelde siin kräär t'rüeğ un wur huusman, um 't Marió möögelk t' móóken, hööers nóó t' góón. Tom telefoonäärde net, doo Marió in d' kóómer kwam.
 Is Oostfräisk stur t' leeren? Doo Jii Jau kiin afkóót laisten köönent, word't Jau äien stelt.
@@ -106288,7 +106288,7 @@ Säi wul mit höör mauder up böskup góón, man höör mauder haar t' daun. D�
 Teegen däi jorhunnertwäen aarbaid'dent noch altiid kinner in fabrikken. Wii hebbent noch ruum tiid, man lóót't us um d' seekerhaid 'n taksii neemen.
 Dit was "gefordelk, stöökert instabiilitäit un beroovt däi minsken in d' Góósóstrîip fan höör minskenwüer", häit't 't in 'n mäinsóóem ferkloren. "Däi oorlauğ in Góósó maut nuu ennen", häit't 't. Däi enkeld landgräens het Deenmaark mit Düütskland. Dat Köönenkriik Deenmaark het siit 2022 döör dat grenstrekken up dat gröynlandsk Hans-ailand biitau 'n landgräens mit Kanóódó.
 Dat is stur, wen näit häil unmöögelk, föör mii, hum in 't tennis t' slóón. Tom drinkt fööer 't óóvendeeten döörgóóns 'n glas wiin, um siin aptiit an t' reegen.
-Ik börğ dii disser CD unner dat bedingen, dat duu hum näit wiiderferbörğst. Tom heft siin inkoopstseedel mit 'n mağneet an 't köylskap.
+Ik läin dii disser CD unner dat bedingen, dat duu hum näit wiiderferläinst. Tom heft siin inkoopstseedel mit 'n mağneet an 't köylskap.
 Doo ik mii recht heerinner, wast duu dootiids recht optimistisk. Doo häi näit soo fööl feersäin kiiken dee, haar häi meer tiid tau 't leeren.
 Däi Sosjóólistisk Partäj baaude hum as presidentskupskandidóót up. Tom het dat häiel geld, wat siin besfóóer hum geeven het, ferspöölt.
 Dat krankenhuus begrenst däi tóól fan däi besöykers, däi däi intensiifstóósjoon betreeden köönent. Presentóósjoonsfoolie: Föördäilen fan beläivt instant messengers in Düütskland - Makkelk bedäinen - Köstenlöes of. köstengünstiğ un läip gâau nóórichtferstüren - Rîik funksjoonsumfang, z. B. gruppenchats, stöönt fan ferskeelend medien, ufm.
@@ -106324,7 +106324,7 @@ Tom stun up 'n ferlóóten bóónhof alleniğ unner 'n grôot kloek. # Ooverskri
 Wäist duu, woo fööl minsken in d' weerld jorelk fersmachtent? Tom wil siin fulmült garóózje al siit joren uutmäesen.
 Doo jii wäiten willent, wor däi wind fan waajt, bruukent jii man nóó d' huultâap t' kiiken. Tom un Marió beklóóğdent sük fóók d'r oover, noojt tiid sünner däi kinner mitnanner ferbrengen t' köönen.
 Woo fööl stüen tiidferskuuven eksistäärent tüsken Düütskland un Injen? Däi wirtskaft het sük noch altiid näit kumpleet fan däi finanskrîis ferhóólt.
-Säi het drei un halfduusend bauken in höör bibliotäik, un fööl d'r fan bünt eerstuutgóóven. Ik doch, duu haarst soo geleegenhaid, diin Fransk t' ferbeetern.
+Säi het dreiunhalfduusend bauken in höör bibliotäik, un fööl d'r fan bünt eerstuutgóóven. Ik doch, duu haarst soo geleegenhaid, diin Fransk t' ferbeetern.
 Dat gift soo fööl t' fertellen, dat ik näit wäit, wor ik anfangen sal. Ik was doo mit dii up 't helgen.
 Tom het siin lütje fent 'n dür spöölrêev skunken, doch däi spöölde doo stünnenlang mit dat ferpakken. Tom fun däi bewiis, däi wii bruukdent, um Marió höör moorner t' ooverfören.
 Botterkâauk is 'n tradisjoonäel oostfräisk kâauk. Häi bestaajt uut 'n gäestdeeğ, däi mit fööl botter, tsukker un mannels beläeğt word't. Menniğ faugent ook siinboonen d'r bii. Häi word't waarm eeten un smóókt best frisk tau d' oovend mit 'n kopke tee! Wii mautent us ooverläegen, woo wii Tom d'r tau beweegen köönent, dat t' daun, wat wii willent.
@@ -106363,7 +106363,7 @@ Wii mussent wat eeten; düs hullent wii bii 'n restaaurant diecht bii d' aautob�
 Ferklor däi finansäärensföörm "Factoring". Ik bün ferraskert dat Tom kiin Fransk proot't.
 "Woo was dat ooverleeven in d' willernis?" - "Ferskrikkelk! Ik heb man twei dóóeğ döörhollen.". Spiitelkerwîis was Tom tau d' ferkeert tiid up d' ferkeert stee.
 Lâang lâang rîiğ twintiğ is 'n stîiğ daartiğ is 'n rausenkrâans fäärtiğ is 'n jüfferdans fiiftiğ is 'n baldóódiğ dööskop. Tom löövde t' wäiten, wat Marió föörhaar.
-Dat gaf bold näit meer as 100 huusen in dat lauğ, wor wii güster f'rbiikoomen bünt. Ooversetters laistent däi bäest aarbaid dan, doo säi up höör maudertóól ooversettent.
+Dat gaf bold näit meer as 100 huusen in dat lauğ, an dat wii güster f'rbiikoomen bünt. Ooversetters laistent däi bäest aarbaid dan, doo säi up höör maudertóól ooversettent.
 Dat was sóóterdóóğóóvend. Dat is unlooğsk, t' lööven, dat lütje kinner gaauer rönnen köönent as skendaarms.
 Dat skip was doch doo bii us up 't helgen, of näit? Tom leet näit t' begriipen, woosoo häi dat daun sul.
 Dat bünt dan mäist tsukker, solten, iisder, nóótrium, usw. Tom leevde wat meer as tain joer in dat lütje huus.
@@ -106729,7 +106729,7 @@ Tom hoopde, dat dat wiideo, wat häi net up "YouTube" hooğlóóden haar, fiks f
 'N biitje glük fört mitunner tau 'n unferwacht't erfolğ. Dat motto "Sex sells", nóó däi reklóóem mit seksuäel materióól sük positiif up dat begeeren fan 'n produkten uutwirkent, is in modêern stuudien grootendäils weerläeğt worden.
 Tom kan näit ofstriiden, dat häi dóón het, wat Mary hum föörsmeet. Dat is gaud of un an näej dingen uut t' probäären.
 Nanner. Wii hebbent, as wii kinner wassent, elker dağ mitnanner spöölt.
-Tom beed'de Mary, hum t' messäären, man säi wul näit. Ik lööv, wii köönent däi nöödiğ annerns bit mörn föörneemen.
+Tom beed'de Mary, hum t' massäären, man säi wul näit. Ik lööv, wii köönent däi nöödiğ annerns bit mörn föörneemen.
 D'r mit heerinnert Brunner ook d'r an, dat fööl fan dat, wat up d' Zugspitze fors föördert wur, fan däi EU-kummisjoon al lâang anskooven wur. Plóónen, däi oover däi feräinbort asüül- un migróósjoonsreföörm (GEAS) uutgóónt, däi 's sömmers 2026 kumpleet griipen sal. Äin sóóek, däi ik altiid móól móóken wul, is, 'n kinnerbauk t' skriiven.
 Duu hest kiin recht, wat kwóóds t' móóken, bloot um dat annerswel wat kwóóds móókt het. Klâauk lüü köönent sük dum stellen. Dat teegendäil is sturder.
 Hir kan ik näit mit dii prooten. Wii mauten buuten huus góón. Boovendeem is dat möögelk, dat sülst 'n lütje mäeng an kuer dat risiko fan sundhaidsprobleemen ferhoogert, besünners doo man oller word't of al sundhaidsprobleemen het.
@@ -106992,7 +106992,7 @@ Wii hebbent 'n hâalf stüen in d' bibliotäik up Tom wacht't, man häi is näit
 Äinfach móól uut un wat beleeven mäem, in Wesel gaajt doch niks.:(( Noch meer comedy un satiîr fan @extra3 gift 't in d' ARD medióótäik. Tom was bâang d'r fööer, bii Marió höör fóóder um höör hand an t' hollen.
 Tom haar Marió 'n intreedenskoert betóólen kunt, doo häi wust haar, dat höör dat geld näit langde. Däi däären bünt blîid.
 Häi het 'n steek up d' huud. Ik begriip dat woord näit.
-Däi premjeeminister dee dat Wiet Huus 'n offisjäel besöyk brengen. Hütje un mütje.
+Däi premjeeminister dee dat Wiet Huus 'n offisjäel besöyk ofstatten. Hütje un mütje.
 Sâacht fangent däi blöymen an t' waasen un âals word't gröyn. Parthenon, 2018 Däi Parthenon (olgräiksk παρθενών "jüüferfertrek") is däi tempel föör däi stadgoodin Pallas Athena Parthenos up däi Ateener Akropolis.
 'N näej stuudie wist, dat âals, wat wii bit nuu tau wäiten mäindent, ferkeert is. Erforens feraarvent sük näit - elk maut höör alleniğ móóken.
 Bedankt dat duu mii nöyğt hest! Tom wus, dat wat in d' kiest was, man häi wus näit, wat.
@@ -107041,7 +107041,7 @@ Tom proot'de fan däi smóókelk dingen, däi säi up höör râajs eeten haaren
 Witwiin sal köyliğ drunken worden, roodwiin kóómerwaarm. Tom frooğ Marió nóó däi ferkeersunfal, wor säi mit fiif joer in róókt was.
 Tom het sük annerlessens mit mii in ferbinnen set't un frağt, of ik up 'n benefiitskunsert gitâar spöölen dee. Dat is äien fan däi bäest restaaurants wor ik oojt eeten heb.
 Doo duu wat t' säegen hest dan uut d'r mit! Avalon, ook Avalun (ferwant mit däi indogermóónsk woordwuddel *aballo- föör "appel"), is 'n müütsk stee, däi uut däi säegenkrais um köönenk Arthur bekent is.
-Tom beed'de Mary, hum t' messäären, man säi wul näit. Däi heemel ferdüüsterde sük meer, un däi wind nam altiid meer an stâarkt tau.
+Tom beed'de Mary, hum t' massäären, man säi wul näit. Däi heemel ferdüüsterde sük meer, un däi wind nam altiid meer an stâarkt tau.
 Nüms staajt bii d' haltstee. Wii hebbent däi bus wal ferpaast. Dat gift niks in d' weerld, wor wii näit wat fan leeren kunnent.
 Tom ferstüürv freedelk in 't biiweesen fan siin früen un siin femiilje. Däi prooven wurdent fan tweihunnert medsiinsk instituuten in d' häiel weerld t'sóómendróógen.
 Dat is wies 'n gâaud idee. Wen ooverhôop, dan gaajt 't höör fandóóeğ 'n biitje beeter as güster.
@@ -107096,7 +107096,7 @@ Mörn besöyk ik dii in 't büro. Dat gift fööl leevendsmiddels, däi föör h
 Nüms wäit genaau, woo fööl minsken sük as hippies bekeekent. Um dat disser kóómer läip lütjet is, is 't unmöögelk, noch meer mööbels d'r in t' stellen.
 Ik heerinner mii noch, dat miin mauder, as ik kind was, altiid däi häiel nacht lang upbleev un d'r up wacht'de, dat miin ollerder brör nóó huus tau kwam. 1958 wur dat standbild in d' Hiroshima-freedenspark upricht't.
 "Skendaarms! Jii sünt doch kiin skendaarms! Wor is dan Jau peerd?" Däi frâau keek man beduust. Um däi taifuun beennent miin ollen höör râajs 'n dağ eerder.
-Elektroonsk baaudäilen lóótent sük mit süüver Isopropóónool skoonmóóken. Duu mulst dii bii mii.
+Elektroonsk baaudäilen lóótent sük mit süüver isopropóónool skoonmóóken. Duu mulst dii bii mii.
 Höör kummunikóósjoon is fiilicht fööl kumplekser as wii dochent. Ik fróóğ mii, of Tom dat oojt in bedenken noomen het, sük an 'n spesjóólist t' wenden.
 Miin fóóder het an 'n kookwedstriid däilnoomen un däi êerst priis wunnen. Doo däi idee achter 'n haarst fan däi reföörms sosjóól- un laistungskörtens bünt, kan ik man klip un klor säegen: Däi SPD dürt d'r kiin tsentimeeter mitgóón, see Türmer an 't "Stuttgarter Zeitung".
 "Man däi Franskman het dii ook näit ferskoont, säi ik. Tom kan fanóóvend näit mit däi jungse up knaipentuer góón. Häi maut in huus bliiven un sük um siin mauder kümmern.
@@ -107315,7 +107315,7 @@ D'r was 'n oel keerl in dat skip, wat in d' hóóven lağ un mit siin grôot knu
 Móók dat. Dat is stur föör mii, mit miin lütje inkoomen t' leeven.
 Is 't noch Oostfräisk?? Tom sleek sük d'r fandöör un köf Marió stilkens up d' hochtiidsdağ 'n grôot struus blöymen.
 Proot f'râal mit däi persoon, däi diin masteraarbaid betroit un fróóğ nóó 'n inskatten föör diin wünsk t' promowäären. Hir bünt wat êerst stappen bii 't stuudium um up 'n promosjoon un wäitenskuppelk kräär hen t' aarbaiden: 1. Wat is 'n kluntje?
-Däi weerldhistoorje is ful fan geskichten fan ferkent zjeeniis. Tom see, häi wus näit, wat Marió daun sul.
+Däi weerldhistoorje is ful fan geskichten fan ferkent zjeniis. Tom see, häi wus näit, wat Marió daun sul.
 Tom fur in däi garóózje, stelde däi motoor uut un stapde dan tau d' wóógen uut. Tom un Marió sittent up d' weerandó un unnerhollent sük.
 Ik heb Tom miin woord geeven, Marió niks d'r fan t' säegen. Tom wul bloot, dat Mary hum wat meer mit däi kinner helpt.
 Eerst hul ik 't föör 'n ferdraajt idee, doch ennerwenner murk ik, woo gaud 't was. Is dii al móól upfaalen, dat Tom siin rechter ôor fööl grooter is as siin linker?
@@ -107448,7 +107448,7 @@ Ik haar näit docht, dat däi Amerikóóners George W. Bush weerweelen deedent. 
 Säi see dat säi krank was. Ik dee hum as 'n middeloel man in 'n geel jikkert mit ooranzjklöört slips un roosó hemd beskriiven.
 Däi betrekkens tüsken däi süsteemen bünt stur t' begriipen. Tom wur dat geföyl näit kwiit, dat hum wel beluren dee.
 Factoring büd't unnerneemens 'n fleksiibel un gâau möögelkkaid, taugaang tau likwîid middels t' kriigen, sünner dat säi 'n krediit upneemen mautent. Wor hest duu fan wust, dat Tom güster óóvend föörhaar, in dat restaaurant t' spiisen?
-As kind fur Tom elker sömmer nóó siin besollen nóó Boston. 'N "supermóón" kan bit hentau 14 % grooter un 30 % lechterder ferskiinen as 'n gewôon almóóndelk fuel móón.
+As kind fur Tom elker sömmer nóó siin besollen nóó Boston. 'N "supermóón" kan bit hentau 14 % grooter un 30 % lechterder ferskiinen as 'n gewôon almóóndelk fulmóón.
 "Büst ook man 'n fröem apostel." Ik see niks. Ik fraaj mii d'r up dat ik diin ollen t' kennen kriiğ.
 Ik undfeel, maudertóóliğ satsen bii t' dróógen, dan bii dissent kan man d'r ook fan uutgóón dat säi natürelk klingent. Skeppent Jii 'n undspannend umfeld in Jau leevend, um stres of t' baauen un Jau slóóp t' ferbeetern. 7. Góónt Jii reegelmóótiğ an däi frisk lücht: Reegelmóótiğ körperliik aktiivitäit kan helpen, Jau slóóp t' ferbeetern.
 Tom un Marió gaffent bii däi test net akróót däi sülviğ anterns, wat däi mester ferdechtiğ föörkwam. D'r unner word't dat fan generóósjoon nóó generóósjoon geböörend sâacht ferannern fan däi feraarvboer äigenskuppen fan 'n populóósjoon fan leevweesens un fan anner orgóónsk struktüren (t.
@@ -107461,7 +107461,7 @@ Ik wünsker jau 'n môoj weekenäen paast gaud up jau up un bliivt sund!!(Äisen
 Wel mook dat fenster oopen. Tom is sük noch altiid unseeker, of häi stuudäären wil of näit.
 Woo kan ik best Oostfräisk öyven? Wat föör 'n mooj wêer.
 Fandóóeğ wassent wii eeven 'n biitje in 't Sóóterland kaiern un hebbent d'r bii an d' Hollener Säj disser skildjes up Sóóterfräisk unddekt. Los Angeles is däi twäidgrôotst stad in d' Feräint Stóóten.
-Tom beweerde, dat häi sağ, woo 'n keerl bii 't leebenniğ liif fan piranjós freeten wur. Dit bauk is makkelk leesbor, um dat 't in äinfolliğ Engelsk skreeven is.
+Tom beweerde, dat häi sağ, woo 'n keerl bii leebenniğ liif fan piranjós freeten wur. Dit bauk is makkelk leesbor, um dat 't in äinfolliğ Engelsk skreeven is.
 Um däi ekstrêem winterweerlóóeğ bliivent skaulen in Hambörğ, Bräimen as däilen fan Leeğsaksen up d' freidağ slooten. Däi fautbâal-bundsliigó süğt däi spöölen up 't weekenäen näit geford't. Tom stun mit 'n köökenskûud fööer d' gril.
 Tom skunk Marió tau d' hochtiidsdağ 'n dióómantenaarmband. Tom was wies näit blîid, doo Marió weer aarbaiden gung.
 Altiid doo häi wil, kan Tom Mary in disser klub singen höören. Tom het in 't holt 'n beseert föögel funnen un hum weer uppeppelt.
@@ -107517,7 +107517,7 @@ Kenst duu disser lütje wurms, däi altiid âals upfreeten daunt? Tom was seeker
 Ik sal hum dii bii 'n paasend geleegenhaid föörstellen. Säi brengt fööl tiid d'r mit tau, höör kinner d'r bii t' helpen, mit geld umgóón t' leeren.
 Däi president sat up d' staul, mit rüeğ nóó 't fenster. Kaast duu beeter jóópóónsk of skiineesk kooken?
 In miin swembriel kumt wóóter in. Ik lööv, häi paast näit recht. Jüüst dor bünt jii mis.
-Däi reegen dee däi âarnt eer 'n grôot skóó taufaugen, as dat häi wat gauds dee. Biispillen föör rechtswellen:.
+Däi reegen dee däi âarnt eerder 'n grôot skóó taufaugen, as dat häi wat gauds dee. Biispillen föör rechtswellen:.
 Dor het säi 't je gaud drok mit👍🏻🥰. Tom haar d'r nauğ fan, sük stielweğ weerhóólen t' mauten.
 Ik wil disser oldtimer hebben, ne'ğeliik woo dür häi is. Tom skoot mit siin pistôol up däi man, däi net Marió fermoord't haar.
 Däi tsüügen in Düütskland bünt mäisttiids fööls t' lóót. Fannóómiddağ góónt wii mitnanner in Holland 'n straupwaffeltje eeten!
@@ -107669,7 +107669,7 @@ Säi spöölt häil gaud tennis; man swemmen liğt höör näit. In bâajd gefal
 Jóópóónsk tsuchtparrels duminäärent unnerwiilst an däi 60% fan d' weerldwîid parrelmâarkt. Fertel mii ins': Woo kan äien fan höör oojt fräj weesen, doo s' altiid man fan âals mit sük móóken lóótent, wat höör säegt word't.
 D'r was 'n hies, up tiid nóó d' bóónhof t' koomen. Jóópóón daajt frünnelk betrekkens mit däi Feräint Stóóten unnerhollen.
 Enkeld lüü denkent, dat 't föör 'n Engelsk-maudertóólprooter stur is, Skiineesk t' leeren, man dor proot ik teegen. "Wat willent Jii koopen?" "Ik wul 'n hund koopen.".
-Dat is almäien ook an t' kennen, dat cannabis 'n psüüchsk ofhangelkkaidspotensióól besit't wat näit t' unnerweerdäären is, um dat negótîif teegenwirksens, as tau 'n biispil fan däi "suer" bii d' kuer, hóóst häil uutbliivent. Säi het drei un halfduusend bauken in höör bibliotäik, un fööl d'r fan bünt eerstuutgóóven.
+Dat is almäien ook an t' kennen, dat cannabis 'n psüüchsk ofhangelkkaidspotensióól besit't wat näit t' unnerweerdäären is, um dat negótîif teegenwirksens, as tau 'n biispil fan däi "suer" bii d' kuer, hóóst häil uutbliivent. Säi het dreiunhalfduusend bauken in höör bibliotäik, un fööl d'r fan bünt eerstuutgóóven.
 Däi krakter fan 'n superheld let't sük best uut 'n ooverörnt teemó ofläiden. D'r kan man dan ook gaau dat achtergrundferhóól fan d' held uut bilden, um t' ferkloren woo däi figüer tau höör staarkten un swakten kumt. Tom leevt mit siin frâau un siin drei kinner in Aaustróólien.
 Hackers ferstóónt sük d'r up, sük um móótreegels tau d' reekenerseekerhaid rund t' winden. Däi Royal Shakespeare Company fört tauken wêek Däi koopman fan Weneediğ up.
 Dat dee Tom seeker fööl bedüüden, doo duu hum in 't krankenhuus besöchst. Tom mäinde, dat ik dat möögelkerwîis alleniğ daun mus.
@@ -107715,7 +107715,7 @@ Säi sneed däi kâauk in 6 stükken un gaf elker kind äien. Up d' stróóet wa
 Dat spit't mii, dat ik soo 'n lâang bräif skreev. Ik haar kiin tiid, 'n köert t' skriiven. Haar 'k diin telefoonnummer kent, haar 'k dii anraupen.
 Duu hest fergeeten, Tom um ferlof t' beeden, stemt 't? Dat lüchtfuchten sal tüsken 60 un 70 % liegen, un 't sal näit reegen.
 D'r tau höörent unner anner 'n grooterder laistungsspektrum, 'n hoogerder erstatten fan krankhaidskösten, körterder wachttiiden up behannelns un 'n grooterder fleksiibilitäit bii d' dokterwóól. Duusenden fan dôod fisken bünt in 't meer driivend funnen worden.
-Doo häi dii wiider bedraiğt, sust duu nóó d' skendaarms góón. Höör ferantwoordenslöshaid ferblüft mii.
+Doo häi dii wiider bedraiğt, sust duu nóó d' skendaarms góón. Höör ferantwoordenslössiğkaid ferblüft mii.
 Döör dat häi altiid smacht'de un keput was, stüürv däi hund lesserhand. Däi lüü säegent wal liikuutweğ, dat säi mooj was, man in würrelkkaid is säi 't näit.
 Dat is 'n jammer dat däi dumkoppen soo sülstseeker bünt un däi klauken ful twiivels. Fööer skrik wüpde däi oel biisiid, net akróót in d' weğ fan 'n anner fan achter koomend fortüüğ.
 Däi ooversetter is nuu freiskalt't un kan fan elk un äien altiid bruukt worden. Reegen begünstiğt ferkeersunfallen.
@@ -107798,7 +107798,7 @@ Däi wichtiğst aspekt fan dat softwareundwikkeln is däi grünnelk analüües f
 Mäinst duu, Tom haar lüst, tauken weekenäen mit us telten t' góón? Tom haar mii güster äinliik bii 't striiken fan d' sküer helpen sult, man häi is häilundal näit koomen.
 Dat gedrüüs was soo fäel, dat 't däi nóóbers stöörde. Süü tau.
 Ik muğ läiver mit däi sünders laagen, as mit däi hilgen t' bruelen. Dat is 'n tiid in 't joer, doo minsken mit femiilje un früen t'sóómenkooment, um passó t' begóón un póóske t' firen.
-Tom wul Marió tuutjen, man häi traude sük näit, dat t' wóógen. Dat foelğ fan 'n släecht ooversetten kan of un an katastroofóól weesen.
+Tom wul Marió tuutjen, man häi traude sük näit, dat t' wóógen. Däi foelğ fan 'n slecht ooversetten kan of un an katastroofóól weesen.
 Ik bün soo gaau loopen as ik kun, man ik heb däi läest tsuğ näit meer berekt. Tom was däi enkeld, däi an 't leeren was, doo ik däi klassenruum betreeden dee.
 Miin brör muğ höör al näit, doo häi höör kennen leerde. Haarst duu höör läif, doo säi up däi drei baargen stun un nóó us dóólkeek?
 Duusend häilundal suen windhuen wordent elker joer inslóópert doo s' föör rönnens as undüğtiğ acht't wordent. Alwoo ik hum säeğt haar, dat 't gefordelk was, hul Tom näit up, däi wóógen fööer us an d' stöytstâang t' kleeven.
@@ -107816,7 +107816,7 @@ Saturn is näit däi enkeld planeet mit ringen; man häi het däi allermoojsten.
 Wees bloot blîid, dat Tom Marió näit wäiten lóóten het, wat duu wies fan höör denkst! Ferbrengent jii däi mäiest tiid d'r mit, jau um dingen, däi belanglös bünt, t' sörgen?
 Däi willent äinfach bloot geld skeppeln. Âal anners interessäärt höör näit. Haar Tom f'rsichtiğ west, soo was dit melöör näit geböört.
 Dat is näit meer möögelk. Säeğ duu mii dat. Dat was 'n bliksemst fautbaalspööl un ik heb diin roer feräien noch näit móól kritisäärt.
-N föörslağ, däi ook däi düütsk binnenminister besünners wichtiğ is, is: dat soo benöymt ferbinnenselement striiken. Dat häit't: Bit nuu tau dürent asüülsöykers bloot in 'n land buuten d' EU ofskooven worden, wor s' femiiljen of 'n langerder ferbliif taubrocht hebbent. Fannacht is fuel móón. däi wulven uut 't freebörger hêerd bünt weer unnerweegens.
+N föörslağ, däi ook däi düütsk binnenminister besünners wichtiğ is, is: dat soo benöymt ferbinnenselement striiken. Dat häit't: Bit nuu tau dürent asüülsöykers bloot in 'n land buuten d' EU ofskooven worden, wor s' femiiljen of 'n langerder ferbliif taubrocht hebbent. Fannacht is fulmóón. däi wulven uut 't freebörger hêerd bünt weer unnerweegens.
 Dat ferslooğ mii däi tóól, doo ik an 't telefoon Ryo siin stäem fernam. Ik haar mit hum meer as twintiğ joer lang 'n fründskuppelk band.
 'N tseremoonii, bii däi Tom Hanks 'n uuttäiken an däi renommäärt militeerakódemii fan d' Feräint Stóóten kriigen sul, word't näit ofhollen. Jüüst, doo ik fan London ofraajsen wul, fung 't an t' snäjen.
 Ik lööv wii söölent fan Tom eerst eeven niks meer höören. Däi keerl undskülliğde sük d'r näit móól föör, dat häi mii up d' faut stapt was.
@@ -107856,7 +107856,7 @@ In d' sömmerfeerjen heb ik mii mit fööl lauğsters anfründjet. "Bedankt, ik 
 Tom is näit t' slóón. Bii oopen (ferwaltens-) dóóten hannelt 't sük um inf'rmóósjoonen, däi fan öffenlîik steeden sóómelt, móókt of betóólt wurdent, soo benöymt inf'rmóósjoonen fan d' öffenlîik sektoor, un föör dat almäien weerbruuken fräj beskikbor bünt. Däi litsens läeğt d'r bii däi bruukenskundiisjes fast.
 Tom wook in d' nacht mit 'n braanend piin midden in d' bost up. Tom begreep näit, woosoo häi anners was as däi annernt.
 Tom fun bold uut, dat häi beeter Fransk proot'de, as siin franskmester. Wult duu mii säegen, dat duu kiin âaj haard kooken kaast?
-Mii is nor tau. Duu seest doch annerlessens, duu haarst diin skiirm ferlooren. Hest duu däi unnerwiilst weerfunnen?
+Mii gaajt dat slecht. Duu seest doch annerlessens, duu haarst diin skiirm ferlooren. Hest duu däi unnerwiilst weerfunnen?
 Um bliidskup in 't gehäil t' erforen, maut man hum mit wel däilen. 'N gaud gestalt't netanbod sul 't nóó miin mäinen näit nöödiğ móóken, horisontóól t' rullen.
 Ik heb allerweegens nóó Tom söcht, man ik kun hum näit finnen. Dank däi hüelp fan miin mauder was ik kumpóóbel, mii 'n mountainbike t' koopen.
 Tau däi besünniğkaiden fan däi duuvenföögels telt dat bilden fan däi soo nöymt kropmelk, wor däi jueng föögels mit erneert wordent. Swoer turbulensen bii d' fluğ un släecht passóózjäärsbetroien ferskafdent us kiin höygelk start in d' uurlaaub.
@@ -107876,7 +107876,7 @@ Proot in 't mikrofoon. Duu büst wal näit soo mooj as miin eksfründin, man mit
 Botterkâauk is 'n tradisjoonäel oostfräisk kâauk. Häi bestaajt uut 'n gäestdeeğ, däi mit fööl botter, tsukker un mannels beläeğt word't. Menniğ faugent ook siinboonen d'r bii. Häi word't waarm eeten un smóókt best frisk tau d' oovend mit 'n kopke tee! Ik fermaud, soo wat kumt in Aaustróólien altiid weer fööer.
 Woo old wast duu, doo duu dii föör 't êerst móól ferläivt hest? Fóóder un dochter 'n bund föör d' äiwiğkaid.
 Däi antóól fan d' minsken, däi an haartkrankhaiden liident, het sük ferhoogert. Thiele fan sülst, elk, däi ik ken, drinkt Thiele.
-Ik bün mii recht seeker dat ik däi slöödels tau miin büro in miin reegenmanteltaaske lóóten heb. Säi leetent 'n häil wichtiğ teemó t' beprooten.
+Ik bün mii recht seeker dat ik däi slöödels tau miin büro in miin reegenmanteltaaske lóóten heb. Säi skeenent 'n häil wichtiğ teemó t' beprooten.
 FBI-direktoor Kash Patel däilde oover X mit, dat häi däi berichten oover däi skäiteräj ferfolğde. "Us gedanken bünt bii Charlie, siin lüü un âal däi bedruepen.". Tom löövt näit, dat 't reegent, man föör gefal wil häi doch 'n skiirm mitneemen.
 Digitóólisäären, künstelk intelligens un Platdüütsk: Gaajt dat? Un woo! Platdüütsk feranstalten. Dat kan man näit koopen.
 In 't huushollen gift dat ferskeelend aldóóğsrisikos, däi fóók näit nauğ beacht't wordent. Wat biispillen bünt: - Stolterfallen: Geegenstâan, däi up d' grund rundliegent of löes teppigen köönent makkelk d'r tau fören, dat man stoltert un sük beseert. - Ferbraanens un ferbraajens: Bii 't kooken of pletten kan 't gaau tau beseerens döör häiet flüssiğkaiden of geegenstâan koomen. - Elektrisk geräiden: Unpaasend umgaang mit elektrisk geräiden as pletiisders, fööns of toasters kan ook tau ferbraanens of sülst stroomslóógen fören. - Giftiğ substansen: Fööl huushollensferskooners, planten un skeemikóólien köönent bii unpaasend behanneln of bewoer tau fergiftens fören. - Störten: Besünners ollerder minsken of minsken mit 'n bekneepen mobiilitäit bünt geford't, in 't huushollen t' faalen, t.b. weegen feelend handloopen of uneffen grund. Dat is düs wichtiğ, in 't huushollen attent t' weesen un potensjäel risikos t' minimäären, t.b. döör 'n grünnelk bewoer fan skeemikóólien, dat beheeven fan stolterfallen of dat ferwenden fan antislippend unnerlóógen in d' duuske of bóólje. Dat is unworskiinelk, dat wel behalven Tom d'r an interessäärt weesen kun, dat t' koopen.
@@ -108155,7 +108155,7 @@ Ik haar noch meer fróógen; man um dat Tom fan däi fróógen möej leet, heb i
 Dat sal noch lâang düren, bit säi oover däi dood fan höör fóóder weğkumt. Gruen föör 'n tsiilt manipulóósjoon döör medien köönent föölfolliğ weesen. Elker minsk un elker gruep fan minsken folğt höör äigen agendó nóó höör äigen weerdföörstellens. F'râal politisk motiiven köönent 'n grund weesen, ferkeert inf'rmóósjoonen oover medien t' ferbräiden.
 Tom wil siin fulmült garóózje al siit joren uutmäesen. Däi nüstlingen waasent läip gaau, bii fööl tsoorden bünt säi al nóó twei wêek flüeğ.
 Tom frooğ sük, of häi Marió mit Johannes nóó Aaustróólien lóóten sul. Ik säeğ altiid: Elk sul dat recht hebben, in Oostfräisland allerweegens Oostfräisk t' prooten, un elk sul däi plicht hebben, um 't t' ferstóón.
-Dat släecht wêer ferlóóterde däi offluğ um twei stüen. Dat spööl was näit ofsäeğt worden, doo 't näit soo staark reegent haar.
+Dat släecht wêer ferlóóterde däi offluğ um twei stüen. Dat spööl was näit ofsäeğt worden, doo 't näit soo fäel reegent haar.
 Disser akrobóótsk akt sünner 'n seekerhaidsnet döör t' fören, is gefordelk. Nee, dat kan näit.
 Sal ik Tom dat geeven? Dat word't düs anbefoolen, bii rood an t' hollen un t' wachten, bit däi ampel up gröyn skalt't. Uutförelk ferkloren: Dat ferwenden fan ampels an stróótenkrüüsens is 'n wichtiğ aspekt föör d' stróótenferkeer un däi seekerhaid fan fautgaangers un aautoforders.
 Wil' w' däi fóóen annern? 'N poer wêek fööer wiinachten het sük Tom dat bäin brooken un wur in 't krankenhuus brocht.
@@ -108284,7 +108284,7 @@ Gift dat oostfräisk bauken of musik? Tom bewoor, dat däi kuntrakt näit gelli�
 Of duu fandóóeğ of mörn gaajst, móókt hóóst kiin ferskeel. Ik kan dat bold näit ferwachten, dat dat fö'joer kumt un wii unner d' kaarsenboomen sitten köönent.
 Tom haar d'r kiin küen fan, wor Marió däi upperskaul ofslooten haar. Tom mäinde, dat häi dat mit wat hüelp al henkriigen dee.
 Móók 't as däi koeb, skiit up diin oller. Ik bün mii näit seeker, wat d'r lös is. Wii sullent al lâang fan hum höört hebben.
-Läär. Tom ferstopde dat wóópen in 't truem up 't köylskap.
+Läär. Tom ferstopde dat wóópen in d' kaukjetruem up 't köylskap.
 Tom löövt, dat däi riiken dat ferdäinent, riik t' weesen, un dat däi aarmen dat ferdäinent, aarm t' weesen. Däi mäiest minsken leerent in d' skaul näit, oover höör äigen tóól un tóól in 't almäien t' reflektäären.
 Doo duu up disser hukker stiğst, kaast duu up dat skap fóóten. Man maut däi dóódsóóken kennen, eer man höör ferdraajen kan.
 Dat kind wur fan siin mauder in biiweesen fan annernt uutskullen. As begünner gift dat 'n rîiğ fan programärtóólen, däi sük gaud t' leeren äigent. Enkeld fan däi mäiest anbefoolen programärtóólen föör begünners bünt: 1.
@@ -108421,7 +108421,7 @@ Um dat däi föörhangen bii mii diechttrukken wassent, sağ ik näit, wat in bu
 Däi dokter see, Tom höf näit in 't krankenhuus t' bliiven. Tom nam wat halskedden uut siin taaske un leet Marió sük uutsöyken, wekker höör 't best geful.
 Âals in dit geskeft het 10 prosent rebat up däi regulêer priis. Tom wil näit bekennen, dat Marió recht haar un häi in 't unrecht was.
 Dat skeen behöörelk t' weesen. Dat gift t' fööl dóóten föör 'n sinful analüües.
-Stóótelk medien kan man noojt trauen. Tom beed'de Mary, tanpâast un tolettenpepier fan d' supermâarkt mit t' brengen.
+Stóótelk medien kan man noojt trauen. Tom beed'de Mary, tanpastó un tolettenpepier fan 't supermâarkt mit t' brengen.
 "Tom un Marió willent sük skäiden lóóten." - "Dat was ik näit gewoer.". Höör mäinens hebbent soo wal föör- as ook nóódäilen.
 'N anner föördäil is, dat wii us up däi ooversetter kunsenträären köönent un näit soo fööl t' daun hebbent. Sünner twiivel find't sük up disser weerld föör elker man jüüst dat räecht olske un anners um; man doo man bedenken daajt, dat 'n minske man bloot däi geleegenhaid het, mit 'n poer hunnerten annernt bekent t' weesen, fan däient hum bloot 'n stük of wat wies nóóstóón daunt, d'r unner hooğst äin of twei früen, dan begript man andachtiğ däi miljoonen inwooners fan disser weerld makkelk, dat siit 't ferskeppen fan däi wal noch noojt däi räecht man däi räecht frâau bemöt't het.
 Woosoo mağst duu mii? Dat is stur, sük 'n femiilje, däi staarker ferrüd't is as ues, föör t' stellen.
@@ -108681,7 +108681,7 @@ Dat betóólen was gaud, un dat was höör enkeld motiivóósjoon an däi stuudi
 Tom un Marió unnerhullent sük oover dat betrekken fan Johannes un Elke. Wat wurdent jii fürt?
 Eerst nóó fiif joer höörde ik fan siin hochtiid. Tom skrikt sülst fööer gewalt näit t'rüeğ, um t' berekken, wat häi wil.
 Düütsk truppen greepent diecht bii Amiens in Frankriik briitsk suldóóten an. Doo Jii mit 'n kunnendenstmitaarbaider prooten willent, drükkent Jii bitte däi dräj.
-Däi genâau termiin wesselt elker joer. Póóske is altiid up d' êerst söndağ nóó d' êerst fuel móón in 't fö'joer. In Oostfräisland gift dat föör póóske tradisjoonel póóskefüer, aiersöyken un natürelk lekker póóskekâauk! Säi stóónt unner äid.
+Däi genâau termiin wesselt elker joer. Póóske is altiid up d' êerst söndağ nóó d' êerst fulmóón in 't fö'joer. In Oostfräisland gift dat föör póóske tradisjoonel póóskefüer, aiersöyken un natürelk lekker póóskekâauk! Säi stóónt unner äid.
 'N kind, wat bâajd ollen ferlooren het, nöymt man wäies. Tom truk siin hemd uut un stopde 't in d' waaskmeskîin.
 Tom un Mary fördent 'n hitsiğ debâat oover däi gliikgeslechtelk äecht. Iisrael siin premjee Benjamin Netanjahu het dat föörstellen fan 'n palestiinensk äigenstóótelkkaid 'n ofsäegen geeven. 'N stóótsuprichten sul dat näit geeven, ferklorde häi, nóódeem Grôot Briitanien, Kanóódó un Aaustróólien 'n stóót Palestiinó ankent haarent. Portugal folğde up d' óóvend.
 Däi almäien geoloogii befat't sük mit däi krachten, däi up däi eerdkörper inwirkent un mit däi prosessen, däi in d' grôot móótstaf tau 't bilden fan stäient biidróógent. Wal kriigent pleeğbedröftigen siit 2022 teegen däi laistungen fan däi pleeğkassen ook undlastenstauslóógen, däi sük nóó d' ferbliivensdüert richtent.
@@ -108938,7 +108938,7 @@ Däi bundsdóóğswóól word't bold ofhollen. Tom drağt gewoon lâang unnerbü
 Doo ik doch bloot d'r achter kwam, woo ik meer lüü up miin websiid kriigen dau. Ik wäit näit, wat ik nuu, um dat ik in 'n anner land trek, mit miin kâat dau.
 Wel in selskup näit drinkt, is of 'n däif of 'n spioon. Middeloost leevert 'n grôot däil fan dat ölje, dat Jóópóón ferbruukt.
 Däi upstünds in d' baau stóónd fabrik sal up d' dağ dreiduusend wiideorekorders produsäären. Nóó gerüchten traauent Tom un Marió bold.
-Däi ferskeel tüsken 'n "räecht woord" un 'n "hóóst räecht woord" is as däi ferskeel tüsken 'n blits und 'n glimmerke. In huus bliiven is langwiiliğ.
+Däi ferskeel tüsken 'n "recht woord" un 'n "hóóst recht woord" is as däi ferskeel tüsken 'n blits und 'n glimmerke. In huus bliiven is langwiiliğ.
 Ik heb fööer wat tiid mit Marie d'r oover proot't, dat man mäisttiids man negótîif post kriğt. Nuu heb ik fööer höör 'n lüstiğ, un positîif bräif t' skriiven. Kaast duu mii 'n häiel bräif uutföörmuläären? Dat gift 'n restaaurant hir häil diecht bii, man dat is näit besünners gaud.
 Tom un Marió hebbent beslooten, mit höör kinner näit meer Fransk t' prooten. Haar häi doo dat smooken taugeeven, dee häi fiilicht näit an soo 'n krankhaid liiden.
 Häi dee klorstellen, dat häi mit däi sóóek niks t' daun haar. Upgóóven un tsiilen Nóó artikkel 1 fan däi Skartó fan d' Feräint Nóósjoonen bünt däi hoovdupgóóven fan d' UNO: dat woren fan d' weerldfree un däi internóósjoonóóel seekerhaid dat undwikkeln fan beeterder fründskuppelk betrekkens tüsken däi nóósjoonen däi internóósjoonóóel t'sóómenaarbaid, löesen fan globóóel probleemen un föördern fan däi minskenrechten 'n middelpunkt t' weesen, wor däi nóósjoonen disser tsiilen mäinsóóm ferhanneln daunt.
@@ -108991,7 +108991,7 @@ Tom sağ genaau hen, doch häi kwam näit achter däi trik fan däi tooverkünst
 Ik frooğ Tom, of ik up däi liest fan däi tau d' fier nöyğt lüü stun. Häi sal sük noojt in us feräien angóózjäären.
 Ik keek mii um un stelde fast, dat ik dat enkeld aauto up d' stróóet was. Wor gaajt 't nóó auerk.
 Dat daunt âal. In disser kursus  söölent wii däi tiid d'r mit taubrengen, Jau t' helpen, meer as 'n maudertóólprooter t' klingen.
-Klingt interessant, sal ik mii ins' bekiiken. Tom reep Mary an, um höör t' säegen, dat häi meskiin lóóterweğ up d' nóómiddağ höör hüelp bruukde.
+Klingt interessant, sal ik mii ins' bekiiken. Tom reep Mary an, um höör t' säegen, dat häi möögelkerwîis lóóterweğ up d' nóómiddağ höör hüelp bruukde.
 Tom et't recht fóók Tōfu, um dat häi höörde, dat 't sund was. Dat móókt unmaud, mit Tom t'sóómen t' aarbaiden, um dat häi däi feelers, däi häi móókt, noojt taugift.
 Tom paasde up Marió up, wiilst höör ollen up böskup wassent. Ik haar noch meer fróógen; man um dat Tom fan däi fróógen möej skeen, hul ik höör t'rüeğ.
 Besünners fóók is däi wiivelk körper dat subjekt fan disser fookus, 'n fenoomeen, wat in 't Engelsk unner dat betäiken "Male Gaze" in d' läest tiid ollerder medien kritik inbrocht het. 'N projekt of produkt, wat seksuäel inhollen inbinnen wil, maut düs wal ooverläeğt d'r bii föörgóón. Wat is däi ferskeel tüsken amerikóónsk un briitsk Engelsk?
@@ -109019,7 +109019,7 @@ Sülst lütje kinner hebbent 'n anbooren sin d'r föör, wat gerecht un wat näi
 Däi dokter was fan 't mäinen, däi puls fan däi pasjent was 'n biitje t' hooğ. Däi mäiest lüü säegent, dat man 'n frömdtóól best fan 'n maudertóólprooter leeren kan.
 In d' skaul hebbent wii leert, dat däi kwadróótwuddel fan neegen dräj is. Tom stelde Mary 'n poer fróógen, däi säi näit beantern kun.
 Duu hest môoj huud. Wii bünt kiin profiis un spöölent eemer föör 't plesäär. Däi reegels wordent ferklort, dat däi dağ ook föör begünners best äigent is. Wii booselnt fan 13:30 bit 17:00 üer. In d' anslus gift dat eeten. Wii willent mäinsóóm grillen. Bitte daajt bii 't anmellen dieetwünsken angeeven.
-Ik lööv, dat sal Jau meer as 10.000 jen kösten, disser kameró reparäären t' lóóten. Ik börğ dii disser CD unner dat bedingen, dat duu hum näit wiiderferbörğst.
+Ik lööv, dat sal Jau meer as 10.000 jen kösten, disser kameró reparäären t' lóóten. Ik läin dii disser CD unner dat bedingen, dat duu hum näit wiiderferläinst.
 Ik kan mii näit meer an däi nóóm fan dat wicht, wat ferleeden joer in d' franskunnerricht teegen mii sat, heerinnern. Dat Vietnam Veterans Memorial eert däi leeden fan däi US-striidkrachten, däi in d' Wjetnamoorlauğ kemfdent.
 Tom nam Marió däi buddel uut d' hand un goot sük 'n glas in. Tom söcht wel, däi siin kinner Fransk biibrengen kan.
 Kaast duu mii 'n poer programäärtóólen anbefeelen, däi ik as begünner leeren kan um 'n möögelkst makkelk instap in 't programäären t' hebben? Tom see, Mary dee hum helpen, man ik löövde näit, dat säi dat daun sul.
@@ -109144,7 +109144,7 @@ Wat duu ook daajst, duu sast mii näit tau 't laagen brengen. Däi undfangsdóó
 In jau tûun woont doch disser singend muel, däi sük föör d' rewulusjoon inset't. Ik heb âal bräiven kötreeten, däi duu skreeven hest.
 Däi wichtiğst upgóóven fan däi orgóónisóósjoon bünt nóó höör skartó dat seekern fan d' weerldfree, dat inhollen fan dat folkenrecht, däi skuts fan däi minskenrechten un dat föördern fan däi internóósjoonóóel t'sóómenaarbaid. In d' tiid fan Shakespeare, in 't sestâajnt jorhunnert, was tennis an d' engelsk hof läip beläivt.
 Däi blössems ooverswemdent dat mâarkt up 't weekenäen. Faalt dii anners noch wel in, däi eeventuel sins was, us t' helpen?
-Ik lööv duu büst däi frâau, wor ik âal miin leevend up wacht't heb. Ik wul näit riskäären, däi tsuğ t' ferpaasen; düs kwam ik 'n stüen tau frau bii d' bóónhof an.
+Ik lööv duu büst däi frâau, up däi ik miin häiel leevend wacht't heb. Ik wul näit riskäären, däi tsuğ t' ferpaasen; düs kwam ik 'n stüen tau frau bii d' bóónhof an.
 Säi betóólde sünner dwingend grund föör däi unnerrichtsstünnen fan höör dochter. Nóó NBC News wur Kirk nóó däi föörfal fan siin seekerhaidslüü weğbrocht.
 Tom bad däi femiiljen fan däi offers föör däi eksplosjoon in däi fabrik um fergeeven. Jii lóótent meer as paajassen!" "Was sagt der Mann da?", frooğ doo däi anner skendaarm.
 Säi gung läip f'rsichtiğ. Tom proot't soo slecht Fransk, dat häi fóók misferstóón word't.
@@ -109192,7 +109192,7 @@ Buutendeem eracht ik dat hir noch altiid näit as 'n grôot kultüräel ferskeel
 Bii däi mäiest tsoorden bünt däi feeren griis, graau of bruun klöört. Bii dat föörmuläären maut mii 'n feeler unnerkoomen weesen, bedankt föör däi henwiis. Däi läest sats was näit as fróóeğ mäint. Ik bün mii seeker dat Doris däi ofwaask móóken maut. Däi booven stóónd gedankengaang móókt düüdelk, woosoo dit antern recht is.
 Tom wur beraumt, um dat häi 'n skaauspöölerske traaude, däi al fööl móólen föördeem traaut west haar. Dat implisäärt ook, dat däient, däi al erfolğriik bünt, dat fóók ook wiider weesen söölent, wiilst däient, däi last hebbent, dat worskiinelk ook wiider stur hebben söölent.
 Tom beed'de Mary, hum fan dat huus t' fertellen, wor säi as kind in woont haar. In elker gefal maut man uppaasen, dat man näit in gewesten fan d' stad föördringt, wor fööl kriminóólitäit heerskert, wor man sük näit teegen ferdeegen kan.
-Tom stelde Mary 'n poer fróógen, wor säi näit up antern kun, man säi kun up däi mäiest fan siin fróógen antern. Doo duu man wust, wat ik âals dau, dat wii dit dak booven d' kop hollen!
+Tom stelde Mary 'n poer fróógen, däi säi näit beantern kun, man säi kun däi mäiest fan siin fróógen beantern. Doo duu man wust, wat ik âals dau, dat wii dit dak booven d' kop hollen!
 Jii bünt fan haarten tau us 50-joer-fier nöyğt. Dat is skóó, dat Tom aarbaiden mus un näit mit us telten góón kun.
 Tom kan siit däi unfal kiin fâast eeten meer eeten. Tom un Marió kennent sük al siit d' kinnertiid.
 Tom skreev 'n bauk oover siin fiitstuer döör Aaustróólien. Um dat 't in äinfolliğ Engelsk skreeven is, kaast sülst duu dat bauk leesen.
@@ -109883,7 +109883,7 @@ Nuu bün ik wal mit Tom befründjet, man an anfang kunnent wii us näit uutstó�
 Tomi flök, doo siin düer smartfoon in 't kloobekken ful. Wii mautent soo lâang wiidermóóken, bit wii 'n metôod finnent, däi funksjoonäärt.
 Dat däi êer flak is, is äien fan däi kumplotteoriien däi man fóók in d' t'sóómenhang mit dit beweeren fint. Doo dat medkóment kiin wirken het, sullent wii fiilicht däi dosis ferhoogern.
 Tom was fan beskäiden kumof, man wur äien fan däi rîikst manlüü fan 't land. Ik läiv miin näej woonen, um dat 't läip diecht bii d' bóónhof liğt.
-Ik wäit, dat diin tiid köstbor is, man dürs ik dii 'n enkeld fróóeğ stellen? Dat US-department föör sundhaid säeğt, dat minsken minst twei un half stüen in d' wêek trainäären sullent.
+Ik wäit, dat diin tiid köstbor is, man dürs ik dii 'n enkeld fróóeğ stellen? Dat US-department föör sundhaid säeğt, dat minsken minst tweiunhalf stüen in d' wêek trainäären sullent.
 Däi winter skint fanjoer fööl langer as anners t' bliiven. Lüü, wekker ferantwoorden drağt dat düütsk regäären in disser oorlauğ? Tüsken histoorsk ferplichten un däi graausóóem reóólitäit fan d' teegenwordiğkaid, sul 't doch altiid man um däi minsken góón, dat tsiwiilbefolken, dat kiin sküld drağt un soo fööl läid ferdróógen maut.
 Staduutraupers seedent däi lüü waleer, wat säi nóó däi anörnens fan d' köönenk daun sullent. Dat klingt föör mii wunnerliik.
 Ik bün eerst nóó twei üer 's mörns inslóópen. Wii ferwachtent fan dii niks, wor wii näit ook sülst sins tau wassent.
@@ -110332,7 +110332,7 @@ Dróóğsêel. Um dat ik näit früüstükt heb, bün ik nuu läip smachtiğ.
 Tom stelde fast, dat dat leevend up d' stróóet näit soo makkelk was, as häi sük dat föörstelt haar. Miin frâau un ik góónt geern of un tau skiineesk eeten.
 Môoj footos, fööl plesäär jau un läief gröyten t'rüeğ 😘. Däi nóóm Caesar wur tau 'n bestanddäil fan däi tittulóótüer fan âal nóófolgend heerskers fan 't Roomsk Kaiserriik.
 Ik heb Tom al säeğt, dat häi mörn näit heer t' koomen bruukt. Wii hebbent bii dat fandóóğsk föörstandsfergóódern däi termiin un däi tiid föör däi präeskunferens föör däi ooversetter beproot't.
-Dat is stur föör mii, fan dat stee, däi däi mester mii bemeeten het, däi taafel t' säin. Hest duu al móól wat soo staark wult, dat duu sins wast, âals t' daun, um 't t' kriigen?
+Dat is stur föör mii, fan dat stee, däi däi mester mii bemeeten het, däi taafel t' säin. Hest duu al móól wat soo fäel wult, dat duu sins wast, âals t' daun, um 't t' kriigen?
 2. JavaScript: JavaScript is däi tóól fan 't webundwikkeln un word't fóók in kumbinóósjoon mit HTML un CSS bruukt. Dat is makkelk t' leeren un het 'n bräied stöön döör däi undwikkelder-cummunity. Ricardo is wies ferdechtiğ um dat häi 'n Portugîis is.
 Kum d'r uut! Duu kaast dii näit däi häiel nacht lang unner diin bäer ferstoppen! Duu hest 'n böskup.
 Höör swiigen leet däi ferdacht t' bekrachten, dat säi wat t' ferbaargen haar. Kriğst duu wies gâaud ooversettens d'r mit of lüğst duu us man an? Nee, däi resultóóten bünt wies gaud un dat liğt âal d'r an, dat ik 'n grôot zjenii bün.
@@ -110357,7 +110357,7 @@ Fergeet näit, mörn as êerst disser bräif of t' stüren! Woosoo daajst duu n�
 Ik heerinner mii, up 'n skip west t' hebben, doo ik eerst fiif joer old was. Woo fööl lüü kenst duu, däi näit krankenferseekert bünt?
 Tom fun wel siin wisiitenkoert in siin taaske, doch häi kun sük näit besinnen, wor häi disser weğ haar. Man âal Plonkerritz, däi Schluberwicks bünt, bünt Lungerriks?
 Doo dat däi süen näit gaf, gaf dat kiin leevend up d' êer. Tom was blîid, dat häi 'n wiinfläes mit skruuvferslus köft haar, dan häi kun siin körktrekker näit finnen.
-Tom frooğ Mary nóó dat melöör, wor säi in ferfangen was. Haar 'k doo wust, wat ik nuu wäit, haar 'k häil näit eerst inwilliğt um dat t' daun.
+Tom frooğ Mary nóó dat melöör, wor säi in ferwikkelt was. Haar 'k doo wust, wat ik nuu wäit, haar 'k häil näit eerst inwilliğt um dat t' daun.
 Un fan sülst gift dat däi beläivt 'Oostfräisenwiits' - alwoo räecht Oostfräisen 'n läip drööeğ humoor hebbent! EU-kummisjoonspresidentske Ursula von der Leyen künniğde 'n gâau föörlóóeğ fan näej sanksjoonsföörslóógen teegen Rusland an.
 Bünt windróóden gefordelk föör anwooners diecht bii? Ik heb höört, dat fan höör gefordelk stróólen of skalwellen uutgóónt! Säi het höör ploover antrukken.
 Tom un Mary kunnent kiin piknik móóken, um dat 't reegende. Alwoo ik drei joer Fransk in d' skaul haar, kan ik 't näit gaud.
@@ -110488,7 +110488,7 @@ Lóóter kwam noch móól 'n staark prenten döör däi kuntakt mit dat Fransk w
 [25-8 18:45] Daisy Wegewitz: Het al wel Torsten un Hansjörg beskäid säeğt? [25-8 21:08] Wolter Jetten: Wekker teemen willen wii tauken freidağ beprooten? Ik wul äinliik frautiidiğ lös, man d'r het mii stiel wel um hüelp beeden.
 Doo dat lücht fan d' süen döör däi atmosfêer fan d' êer gaajt, róókt 't up lütje partikkels in d' lücht as stof un góósen. Disser partikkels stürent dat lücht nóó ferskeelend kanten un straajent 't nóó âal kanten. "Wor is miin briel?" - "Duu hest hum up d' köökentóóvel lóóten.".
 Miin fóóder, däi nuu in Amerikó aarbaid't, skreev us ferleeden wêek 'n bräif. Tom sat up 'n bâank un at wat, wat as 'n appel leet.
-Loont dat sük, siin tiid d'r in t' inwestäären, lüü helpen t' willen, däi kiin hüelp wünskernt? Cesar Chavez beed'de däi lawaajgaangers, up gewalt t' fertsichten, sülst doo däi faarmbesitters un höör helpers of un an gewalt anwenden deedent.
+Loont dat sük, siin tiid d'r in t' inwestäären, lüü helpen t' willen, däi kiin hüelp wünskernt? Cesar Chavez beed'de däi straikenden, up gewalt t' fertsichten, sülst doo däi faarmbesitters un höör helpers of un an gewalt anwenden deedent.
 Hest duu up d' bóónhof fanmörn noch däi êerst tsuğ kreegen? Klööer (fan fransk couleur) is 'n döör 't ôoğ fermiddelt un dat breegen feraarbaid't sinsindrük, däi döör lücht feroorsóókt word't, genaauer döör 't worneemen fan elektromağneetsk stróólen fan däi wellenläengt tüsken 400 un 780 nanomeeter.
 Dat läest móól, dat us femiilje t'sóómenkoomen is, was fööer drei wiinachtens. Nóódeem häi weer bii sük koomen was, dürs 't 'n moment, bit hum klor wur, wor häi was.
 Um dat ik däi bericht unner tiiddrük skreeven heb, dee häi 'n büelt feelers undhollen. Woo mus ik dan föörgóón, doo ik promowäären wil?
@@ -110757,7 +110757,7 @@ Dat was näit dat êerst móól, dat Tom um haaueräj uut d' knâajp smeeten wur
 Däi stóól ooverdrağt däi hiets wat beeter an dat bakgaud as däi stäin. Föör broodjes kan man bâajds ferwenden un däi beslus hangt d'r fan of woo kros däi unnersiid fan däi broodjes up 't äen weesen sal. 'N swâart gat is 'n gebiit fan sükker baldóódiğ grawitóósjoon, dat niks - näit móól dat lücht - fan dor weğkoomen kan.
 Doo däi lütje däi näejst PlayStation-software hebben wul, gedrooğ häi sük as 'n fertrukken kind. Sünner siin biitiidsk róók haar us manskup dat spööl ferlooren.
 Wat jueng Jóópóóners trekkent dat singledorweesen dat traauen fööer. Marió höör postoperóótsk unnerliifspiin kwam d'r döör t'stâan, dat däi sjirôoğ 'n instrument in höör fergeeten haar.
-Man see an 'n skiineesk buer häi sul sük fööer d' fersîit fan president Hu Jintao näit skeeren dat häi up 't feersäin rustikóólsker lóóten dee. Niks is läiper, as âal tiid fan d' weerld t' hebben, doch nüms, wor man 't mit taubrengen kan.
+Man see teegen 'n skiineesk buer, häi sul sük fööer d' fersîit fan president Hu Jintao näit skeeren, dat häi up 't feersäin "rustikóólsker" lóóten dee. Niks is läiper, as âal tiid fan d' weerld t' hebben, doch nüms, wor man 't mit taubrengen kan.
 Tom muğ dat lóóten fan siin nööes näit, düs leet häi hum richten. Ik kan mii kiin näj aauto laisten, alsoo sal ik mit dit aauto uutkoomen mauten.
 Wat häit't äinliik noch insent wäel up Oostfräisk? Wii hebbent kiin wellen in us tûun. Tom un Marió firent up d' móóndağ höör daartiğst hochtiidsdağ.
 Weesent Jii aggressiif, hollent Jii döör un ooverneement Jii däi kuntruel oover 't mâarkt! Wii söölent bewedden, dat nüms dat amerikóónsk folk föör siin äigen körtfristiğ föördäil uutnütst.
@@ -110968,7 +110968,7 @@ Bii môoj wêer kan man fan Helsinki uut däi hellerkâant fan Estland säin. Da
 **"Däi maarkes fan Beedle däi bâard"** is 'n illusträärt bauk fan Rowling, wat dat ferhóól fan drei brörs fertelt un föör däi sööemt däil däi "hilğdaumen fan d' dood" achtergrundwäiten leevert. **"Harry-Potter-prequel"** is 'n körtfertelsel oover däi begünnen fööer 't êerst bauk. Doo duu oover 'n swembekken in 't huus beskikst, büst duu seeker recht riik.
 Marió leet däi dööer anleent, soo dat Tom mithöören kun, wat säi see. Doo däi minsk sük noojt ferläivde of hum noojt dat haart brooken wur, doo däi läieft skaajtert, wor oover sullent däi lüürikkers dan höör läiden skriiven?
 Dat gift näit minner as tweihunnert kaarsenboomen in disser park. Woosoo is Taum d'r näit?
-Woordenbauk föör 't Oostfräisk Plat. Eksperten säegent, dat däi kofjepriis hoovdsóókelk stiğt, um dat däi lüü sins bünt, meer t' betóólen.
+Woordenbauk föör 't Oostfräisk Plat. Eksperten säegent, dat däi kofjepriis hoovdsóókelk stiğt, um dat däi lüü beräid bünt, meer t' betóólen.
 Gift dat wat, wat duu mii säegen wult? Dat gaf 'n büelt, wat wii daun wullent, man wii bünt näit tau fööl koomen.
 Säi wus, dat häi bedröyvt was, doch säi kun däi grund d'r föör näit uutmóóken. 'N soltriik erneeren kan tau ferhoogert blauddrük fören.
 Möö' wii noch äien? Tom was as 't let't al fööer d' publikóósjoon fan dat album beraumt.
@@ -111141,13 +111141,13 @@ Wii hullent dat âal föör 'n sülstferstennelkkaid, dat däi professoor Engels
 Disser oel keerl haar siit fiiftiğ joer whisky sülst braant. Tom kun näit fóóten, dat Marió wies sins was, wat soo dóómelks t' daun.
 Miin kniiperğ echtkeerl gung tau us ferjorsdağ mit mii nóó McDonald’s. Dat mağ dii wal man as 'n kläiniğkaid skiinen, man Tom is um dat häiel baudel in däiepst söerğ.
 Däi CDU-politikker skreev wiider: "Wii föördernt Iisrael nöödiğ up, däi feräinborens mit däi EU tau 't fermöögelken fan humóónitêer hüelp um t' setten." Up dat ferkloren fan däi 25 stóóten gung Wadephul näit in. Dat gift niks, wat ik oojt säegen kun, dat Tom d'r tau brengen dee, siin ansicht t' annern.
-Wii köönent up 'n dağ as disser näit sünner mantel nóó buuten góón. Tom bad Marió meerder móólen, hum frauer nóó huus góón t' lóóten, man säi leet hum näit.
+Wii köönent up 'n dağ as disser näit sünner mantel nóó buuten góón. Tom beed'de Marió meerder móólen, hum frauer nóó huus góón t' lóóten, man säi leet hum näit.
 Of Tom d'r wal wat teegen haar, mörn óóvend up us kinner up t' paasen? Fersöyk dat up Spóónsk t' ferstóón, sünner 't in 't Engelsk t' ooversetten!
 Dat is freidağ; mörn maut ik alsoo näit upstóón, um nóó d' skaul t' góón. Tom wäit näit, wenner, man häi is sük recht seeker, dat 't geböören sal.
 Hir is däi bräif, wor säi us in beeden daajt, dat wii us höör enkeld söön anneemen möögent. Ik nam dat as wiesiğkaid an, dat duu d'r altiid un unner âal umstâan föör mii wast.
 Duu büst däi enkeld fan miin bekenten, däi oojt in Aaustróólien west het. Tom föylde up âal fäären däi grund nóó Marió höör oorring of.
 Bedankt dat duu mii hulpen hest, däi bericht up Fransk t' ooversetten! Tom siin muskels wassent of, un häi wul nóó huus tau, um in 'n häit bad t' stiigen.
-Dat is an däi tiid dat wii d'r oover nóódenkent, woo wii däi lóóeğ beeternt. Ik wäit, dat man näit, sünner d'r föör t' betóólen, musik tau 't net uut lóóden sul, man ik dau 't aldoch.
+Dat is an däi tiid dat wii d'r oover nóódenkent, woo wii däi lóóeğ beeternt. Ik wäit, dat man näit, sünner d'r föör t' betóólen, musik tau 't net uut lóóden sul, man ik dau 't trotsdeem.
 Tom wäit näit genaau, wenner Mary höör tsuğ däi stóósjoon ferleet. Geern. Wat sal dan miin spitsnóóm weesen?
 "Säi fersöykent sük uut dat nöödigkaid fan 'n dräepen uut t' wringen. Säi willent disser oorlauğ näit beennen. Säi settent höör massîiv angreepens teegen d' Ukrâajn un höör läip heeviğ angreepens an d' frunt fut.". Knap dat häi in miin büro koomen was, ooverful mii Tom mit fróógen.
 Wust duu dat näit? Bii 'n fruntóóltausóómenstöyt fan twei tsüügen in Itóóljen kwamment 22 minsken um 't leevend.
@@ -111262,7 +111262,7 @@ Góó altiid liikuut, bit duu dat postgebôojd süğst un buuğ dan rechts of. T
 Ik undfeel, dat Jii as begünner däi programäärtóól weelent, däi mäiest plesäär móókt un däi upreegendst projekten fermöögelkt. Däi Internóósjoonóóel Ruumstóósjoon is dat grôotst künstelk objekt in d' eerdumloopbóón.
 Dat is Europó siin grôotst brüeğ. Tom rood Mary, näit âals t' lööven, wat säi up 't internet lest.
 Fööer 'n poer joer heb ik miin stäifmauder tau d' mauderdağ 'n anhenger skunken. Säi skreev hum 'n frünnelk bräif un dankde hum föör siin hüelp.
-Däi piin leet nóó, wiilst däi sâalv in siin faut inmessäärt wur. In däi nóórichten gaf dat wat berichten, fan huusdäären, däi höör hollers anfaalen hebbent.
+Däi piin leet nóó, wiilst däi sâalv in siin faut inmassäärt wur. In däi nóórichten gaf dat wat berichten, fan huusdäären, däi höör hollers anfaalen hebbent.
 3. Dat freigeeven fan cannabis dee däi stóótelk inkumsten döör 't bestüren fan d' ferkoop ferhoogern. Kuntró: 1. cannabis kan bii ooverdóódiğ kunsuum tau psüüchsk un körperliik sundhaidsbeseerens fören. Soo róósde ik döör d' landskup, däi gräel süen t' möyet.
 Doo ik dat fenster oopendee, sağ ik kinner baseball spöölen. Ferbeetert medsiintechnik het äien fan däi biieffekten fan 't ruumfortprogram west.
 Ik mis dii. Dat Kristkind is 'n jööed? Hest dat näit wust?
@@ -111281,7 +111281,7 @@ Dat is wichtiğ, up sulîid wäitenskuppelk bewiisen t' fertrauen un sük näit 
 Jau dóóten wordent up d' äin kâant d'r döör ferhooven, dat Jii us disser mitdäilen daunt. Hir bii kan 't sük b.f. um dóóten hanneln, däi Jii in 'n kuntaktföörmulaar ingeevent. In d' oogenblik fan dat melöör sleepent hóóst âal raajsders in d' bus.
 Doo duu dat bauk uutleesen hest, dee ik 't geern uutläinen. Ruuğweğ mörn um disser tiid sal ik oover d' Patsiifik fläigen.
 Däi appel heb ik eeten. Woo mit dat umweerldferfuulen umgóón worden sal, is 'n eernst baudel.
-Wii hebbent attent tauhöört, um näit 'n enkeld woord t' ferpaasen. Tom beweert, häi kun däi ferskeel tüsken disser bâajd solttsoorden smóóken.
+Wii hebbent upmaarksóóm tauhöört, um näit 'n enkeld woord t' ferpaasen. Tom beweert, häi kun däi ferskeel tüsken disser bâajd solttsoorden smóóken.
 Däi Innsbrucker doom dum häit't äinliik St. Jóókub. In d' läest tiid bünt näej dóódsóóken oover 't oel Skiinó fandağ koomen.
 Wat deest duu móóken, doo duu 'n miljoonen Jen kriigen deest? Däi präesspreeker ferklorde däi präes däi inhold fan däi kuntrakt.
 Hest duu äinliik móól 'n kâat hat of bit nuu man huen? Däi ferseekernspolice dekt näit däi kösten fan gefallen fan hoogerder gewalt, as orkóónen un eerdbeevens.
@@ -111518,7 +111518,7 @@ Däi erfolğ fan höör man het niks an höör instellen oel früen teegenoover 
 Dat het mii häilundal näit ferraskert, dat Tom dat näit móókt het, wat häi Mary teegenoover säeğt het, dat häi 't móóken dee. Süü däi süüver bóónen, dat wäigend swaart, rood, blaau, dat engelke up 't wóópen, däi klöören läif un glaau!
 Tom un Marió droogent däi beseert keerl nóó d' siid fan d' stróóet. Miin Fransk het sük ferbeetert, siitdeem ik 'n fransk maudertóólprooter traaut heb.
 Up 't mäiest benaaude Tom däi gedâank, dat häi möögelkerwîis noojt weer loopen köönen sul. Tom wacht'de 'n stüen up d' gaang fööer Marió höör woonen.
-In d' fêert blinker wat unner d' glinsternd süen, róósend kweem 't up us dóól, däi man was raajn anfrooren. Wullent Jii oojt wat soo staark, dat Jii âals dóón haarent, um 't t' kriigen?
+In d' fêert blinker wat unner d' glinsternd süen, róósend kweem 't up us dóól, däi man was raajn anfrooren. Wullent Jii oojt wat soo fäel, dat Jii âals dóón haarent, um 't t' kriigen?
 'N kind wur uut däi aarms fan siin mauder sloidert, doo dat fluğtsoiğ bii 't inläiden fan d' lannensanfluğ in stâark turbulensen róókde. Generel is 't föör diin körper altiid belastend kuer t' drinken, um dat däi in diin leever ofbaaut worden maut un anner prosessen in d' körper hemt / behinnert.
 Tom fur hen, um siin bäep in 't senioorenhäim t' besöyken. Kaast duu d'r fiilicht mörn noch anraupen? Ik skriiv mörn noch 'n klaausüer.
 Ferklort tsiilen bünt düs dat toslóón fan däi läest Hamas-stöönpunkten in d' Góósóstrîip, dat etóbläären fan 'n iisraeelsk seekerhaidskeerl föör 't Palestiinensergebiit un dat befräjen fan däi ferbleeven iisraeelsk giisels uut däi gewalt fan d' Hamas un höör bundsgenooten. Ik begriip näit, wat duu an katäikers soo interessant finst.
@@ -111797,7 +111797,7 @@ Tom stun midden in d' nacht up un ferteerde 'n häil pak kaukjes. Jii prootent m
 Wii hebbent aldóóeğ mitnanner spöölt, as wii kinner wassent. Tom dürt fööl bii siin ollen, wat mîin mii näit ferlooven.
 Us priis is düüdelk hooger as däi upstündsk maarktpriis. Tom proot't best Fransk; man siin Engelsk is näit soo gaud.
 Musikken, däi in 't sennen spöölt wurdent, wordent in d' podcast uutblent. Ik dee dat föörtrekken, lüü an t' stellen, bloot um in höör maudertóól t' ooversetten.
-Wii sullent däi präesböskup unbedingt ook an 't minnerhaidensekretaarióót stüren. Lüü, däi góóbels of stóóvkes bruukent, denkent fóók, dat däi, däi dat näit daunt, unbeskóóvt bünt.
+Wii sullent däi präesböskup unbedingt ook an 't minnerhaidensekretaarióót stüren. Lüü, däi góóbels of stóóvkes bruukent, denkent fóók, dat däi, däi dat näit daunt, untsiwiilisäärt bünt.
 Doo Tom Marió an t' raupen fersöcht, kriğt häi altiid 'n besettäiken. Tom haar däi tsuğ ferpaast, haar häi sük unnerweegens noch 'n plóóet tsukkerlóó köft.
 Ik wul al altiid insent 'n anner land besöyken. Tom het soo fööl geld, dat häi näit wäit, wat häi d'r mit anfangen sal.
 Däi slóóveräj sul allerweegens in d' Feräint Stóóten ferbooden worden. Doo diin fóóder diin mauder wat up Fransk frağt, antert säi dan up Fransk of up Engelsk?
@@ -111882,7 +111882,7 @@ Ik stür Katrin däi teksten nuu eerst móól mit däi oel skriivwîis, ne? Mäi
 Däi kâauk is nuu in d' oovend un mus in tain menüüten soo wiid weesen, dat wii hum d'r uut hóólen köönent. Altiid weer kumt häi bii mii un stelt stuer fróógen.
 Ik fermaud, dat däi skööt, däi ik höörde, däi was, däi Tom dat leevend nam. Duu hest kiin recht, wat kwóóds t' móóken, bloot um dat annerswel wat kwóóds móókt het.
 Duu sust dii 'n föörróód an nöödiğ dingen tauläegen, um föör 'n groot eerdbeeven wóópent t' weesen. Tom begript näit däi ferskeel tüsken 'n ketôod un 'n óónôod.
-Dat was 'n drööeğ joer, un fööl däären fersmacht'dent. Elektroonsk baaudäilen lóótent sük mit süüver Isopropóónool skoonmóóken.
+Dat was 'n drööeğ joer, un fööl däären fersmacht'dent. Elektroonsk baaudäilen lóótent sük mit süüver isopropóónool skoonmóóken.
 Wii mautent dat probleem fööer d' achtergrund fan kultüräel ferskeelen bekiiken. Wekker hemd is dii läiver, dat rôod of dat blâau?
 Ik bün ferdoomt möej un sal fut nóó huus tau foren, doo ik miin tee up heb un näit inslóópen bün. Säi móókent mii näit bâang.
 Sünner gâaud taudóóden kan man ook niks gauds kooken. Doo man fan 'n twäidtóól in däi äigen maudertóól ooverset't, in stee d'r fan dat anners um t' móóken, het man minner gefoer, dat feelers geböörent.
@@ -112237,13 +112237,13 @@ Bit nuu tau is bekent, dat kunsuumenten fan cannabis 'n lütjerder hippocampus a
 Däi skendaarms beed'dent dat wicht, 'n groef skets fan höör undloopen hund an t' feerdigen. Tom un Marió hebbent däi mööbels in höör woonkóómer umstelt.
 Doo häi näit soo fööl feersäin kiiken dee, haar häi meer tiid tau 't leeren. Jii hebbent 't läip drok, alsoo paas ik miin tiidplóón an Jâaus an.
 Man bruukt t' faut man 'n kertäärsüer fan hir bit nóó d' bóónhof. Ik bleev as enkeld däi häiel nacht up.
-Dat gung Tom beeter, doo häi sük näit soo unsund erneeren dee. Woo meer wii leerent, soo bewuster word't us, woo min wii wäitent.
+Dat gung Tom beeter, doo häi sük näit soo unsund erneeren dee. Woo meer wii leerent, woo bewuster word't us, woo min wii wäitent.
 Menniğ engelsmîin bii 't uutläinen fertrekt sük bii 't t'rüeğgeeven nóó 'n demoonsk frâats. As kind was ik süchtiğ nóó kriminóólromóónen.
 Lóótent Jii Jau tiid. Ik wäit, dat Jii wat dóógen bruukent, um d'r oover nóó t' denken. Primitîif reekenapparóóten gaf dat al lâang, eer däi computer undwikkelt worden was.
 Tom gaf wóóter in d' keedel un stelde hum up d' heerd. Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noorder Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit.
 Döör dat däi protestraupen al feller wurdent, kun man siin räied näit meer höören. Däi enkeld gollen reegel bestaajt d'r in, dat däien, däi dat gold het, ook däi reegels set't.
 Nuu sünt disser tiiden al lâang fergóón un striikent mii bloot noch of un an as spöykachtiğ slaajers, doch koom ik noch fóók bii disser stee, doo mii däi Auerker droekt t' fööl word't un dat geproot fan siin inwooners t' lichtfalliğ. Tom see an mii, häi dee näit t' lóót koomen, man häi is altiid noch näit updooken.
-Ik denk, 't is tiid, dat ik 'n biitje tiid mit miin kinner ferbrengen dau. Tom was um lengten näit soo riik, doo häi Marió näit traaut haar.
+Ik denk, dat is tiid, dat ik 'n biitje tiid mit miin kinner ferbrengen dau. Tom was um lengten näit soo riik, doo häi Marió näit traaut haar.
 In däi kóómer, wor Tom frauer sleep, stóónt 'n naajmeskîin un 'n pletbred. Däi tóóter gaajt nóó 't supermâarkt, um leevendsmiddels in t' koopen.
 Tom was um däi tiid, as Hannes nóó 't gissen fan d' skendaarms fermoord't wur, mit Marió in 'n weertskup. Dat t'móól tauneemen fan ultrófiigeläet stróólen leet däi wäitenskuppers an d' eksistens fan otsoongóóten lööven.
 Soo dróó ik mii dat laisten kan, heb ik fööer, 'n weerldrâajs t' móóken. Leevt häi al of slöpt häi noch?
@@ -112327,7 +112327,7 @@ Tom see, dat häi dat geern haar, doo ik däi sömmer bii hum in Boston ferbroch
 Tom wus näit, wor häi 'n intreedenskoert föör Marió höör kunsert kriigen kun. Mit wat peeper un solt smóókt 't wies beeter.
 Tom kriğt ferdaauensbesweerden un sööbraanen, doo häi oovermóótiğ swoer spiisen tau sük nimt. Säi is doch 'n häil nüüdelk hund😀 Un wuskern dürt säi ook bii us liegen😉.
 Ik fróóğ mii, woo Tom 't skaft het, siin wóógen bii soo min bot t' parken. Wat föör 'n môoj dağ.
-Däi skendaarm dee däi puls fan däi up d' grund liegend persoon prüüfen. 'N föögel kan döör d' lücht gliiden, sünner siin flöögels t' röögen.
+Däi skendaarm dee däi puls fan däi up d' grund liegend persoon prüüfen. 'N föögel kan döör d' lüchten gliiden, sünner siin flöögels t' röögen.
 Bedankt, dat is net fan dii! Ik help wies geern. Frünnelkkaid móókt dat leevend moojer. Mäinent jii, d'r bestaajt däi kâans, dat Tom Mary höör telefoonnummer het?
 Ik wil d'r föör sörgen dat Tom dat fandóóeğ in d' loop fan d' dağ daajt. T'móól stunnent wii bii d' grôot stróóet.
 Dat antrekken bestun baidsiidiğ. Um dat risiko fan 't cannabiskunsuum t' minnern, sul däi näit fööer 't 22. leevendsjoer un näit reegelmóótiğ plóótsfinnen.
@@ -112417,7 +112417,7 @@ Mäinst duu, Tom was sins, mii t' wiisen, woo dat gaajt? Duuven bünt anners as 
 Móók tau! Wii mautent fan däi histoorje leeren.
 Duu wäist je woo 't loopen daajt. Tom woont in 'n lütje stad, wor elk âals oover elk un äien wäit.
 Jii bünt kiin Kanóódierskes. Dat was diin dâard glas.
-Nóódeem ik miin fertelsel uut haar, keek mii miin nóóber 'n tiid lang swiigend un attent an. Dat fertelsel t' ooversetten un Jau dat fööer t' dróógen, sal mii 'n groot plesäär weesen.
+Nóódeem ik miin fertelsel uut haar, keek mii miin nóóber 'n tiid lang swiigend un upmaarksóóm an. Dat fertelsel t' ooversetten un Jau dat fööer t' dróógen, sal mii 'n groot plesäär weesen.
 Dat is mii ne'ğeliik of duu anterst of näit. Doo mii wel säegen dee, dat dat bauk oover däi energiiwäen in dit joer ferskeenen is, dee ik 't fut lööven.
 Undskülligent Jii! Kunnent Jii wal 'n footo fan miin früen un mii móóken? Dat is 'n lütje biispilsats.
 Ik betwiivel, dat Tom oojt in 't leevend 'n bauk fan fööer bit achter döörleesen het. Tom fung eerst mit twintiğ joer an besûun t' spöölen.
@@ -112511,7 +112511,7 @@ Tom see teegen Marió, dat hum höör skau läip gefaalent, alwoo häi höör ä
 Sülst doo däi süen in 't west upgung, dee ik miin plóón näit upgeeven. Wii mautent dat noch fööer 't nóó huus góón daun.
 Is d'r näit wat, wat jii mii mii säegen willent? In 't bekiik fan diin uutsäegen feelt mii kuntekst. Duu skrifst "däi protógonist" gaajt dii 't d'r um 'n ferhóól t' skriiven wor 'n protógonist, däi 'n brör het, däi in seigrundstük fan siin unkel aarvt het?, ik help dii geern doo duu mii meer inf'rmóósjoonen daajst.
 Tom un Marió sattent drei stüen in d' forstaul fast. Dat unnerneemen gung an d' bööers un was fan 1990 of an böörsennotäärt.
-Tom stelde Mary fööl fróógen, man säi wäigerde sük, wattent d'r fan t' beantern. Ik lóót mii näit tau wat dwingen, wat ik näit wil.
+Tom stelde Mary fööl fróógen, man säi wäigerde sük, wat d'r fan t' beantern. Ik lóót mii näit tau wat dwingen, wat ik näit wil.
 Tom goot eerst dat oel wóóter tau d' fläes uut, eer häi näjs d'r in fülde. Ik säi fööl roodbostjes.
 Tom see an mii, dat häi näit mit löes hâan nóó huus tau koomen wul. Wii mautent fersöyken, däi ooverbliivsels fan oel tsiwiilisóósjoonen t' beworen.
 Dat kun wal 'n hochtiid weesen. Sünner diin mithüelp was ik mit disser aarbaid näit up tiid klorworden.
@@ -112710,7 +112710,7 @@ Hakhoorn. Dat sal 'n büelt Amerikóóners in d' unhöyeğ brengen, doo Jii up h
 Dat wäiten um höör plêeğ un tsucht in terróriien betäikent man as terróristik of terróriienküen, däi 'n däil fan däi wiwaaristik is. Dat was föör Tom un Marió noch noojt stur, 'n gespreksteemó t' finnen.
 Doo 'k in 't lotto wun, dee ik mii 'n näj aauto koopen. Heb dat nuu implementäärt, man ik mus däi Program.cs aktuóólisäären. Is pusht, maust insent kiiken, of dii dat soo paast.
 Duu kaast näit ferwachten, beeter in 't Fransk t' worden, doo duu näit leerst. "Tom un Marió hebbent beslooten, Hannes bii 't striiken fan siin huus behülpelk t' weesen." - "Dat is mooj, dat t' höören!".
-Ik haar kiin óónen, dat teegenan soo fööl lüü wassent. Höör bibliotäik undholt drei un halfduusend bauken un umfat't fööl eerstuutgóóven.
+Ik haar kiin óónen, dat teegenan soo fööl lüü wassent. Höör bibliotäik undholt dreiunhalfduusend bauken un umfat't fööl eerstuutgóóven.
 Wast duu al swemmen, dat wêer is je top! Lâang heb ik nóó däi perfekt frâau söcht.
 G' nacht! Löövst duu an 'n leevend nóó d' dood?
 Tom was recht pimpelk un kipde bii d' ankiik fan blaud altiid um. Däi tûun is ful mit buent blöymen, 't let't wunnermooj.
@@ -112788,7 +112788,7 @@ Ik maut góón, um dat up buuten wel up mii wacht't. Dat sekreteerske dee däi p
 Elker stuudent fan däi bioloogii, däi anatoomii, däi antropoloogii, däi etnoloogii of däi psüücholoogii is mit disser fakten fertraut. Doo Jii däi medsiin inneement, folgent Jii genaau dat up d' fläes ofdrükt gebruuksanwiisen.
 Tom siin glük bedüd't mii meer as âals anner up d' weerld. "Nee, Bóós Beenengó let't sük näit f'r nâar bruuken! Kan näit angóón, dat 'n oostfräisk buer sük altiid up siin fauten trappeln let't! Kan näit angóón, dat altiid man weer 'n anner dwingelant kumt, um us t' oovermestern! Kan näit angóón, dat wii man däi spöölbâal fan däi grôot heeren höör mâal fantasiien sünt! Ik sal hir stóón, bit däi Hanooversk d'r dood mank däi mäiden liegen daajt! Of mii sal däi düüvel hóólen!" Häi ful weer in 'n luud laagen.
 Nuu, um dat t' ferstóón, maust duu wäiten, dat däi süen lücht ofstróólt, wat uut fööl ferskeelend klöören bestaajt. Wiet lücht bestaajt uut âal klöören fan d' reegenbôoğ: Rood, ooranzj, geel, gröyn, blaau, indigo un fiigelet. Boovendeem telt häi as besünners energiieffisjent. 'N faktoor, däi bii d' baldóódiğ stroomferbruuk föör KI-reekenoperóósjoonen altiid wichtiger word't.
-Säi hebbent däi reegel brooken. Häi ferdween in 'n dunker hauk achter in d' winkel.
+Säi hebbent däi reegel brooken. Häi ferdween in 'n düüster hauk achter in d' winkel.
 Jüüst d'r um maust duu diin kinner 'n gaud föörbild weesen. Trots us angóózjmong undsloot häi sük, moers teegen d' diiselboom t' smiiten.
 Gaud miin läief ooversetter, nuu kiik ik eerst däi film t'äen. Ik sal mii nuu 'n püel móóken un 'n tee drinken um dat ik ferkollen bün.
 Däi skendaarms hebbent Tom siin huus drei stüen lang döörsöcht, man säi hebbent niks funnen. Doo ik nóó huus tau kwam, ful mii up, dat äien fan miin kuffers ferdweenen was.
@@ -112808,7 +112808,7 @@ Dat is interessant fründskup mit minsken uut anner lâan t' sluuten. Ik denk n�
 Fan däi póótriisisk femiilje Julier stammend, dee häi däi amtenloopbóón absulwäären un kwam in 't joer 59 f.K. tau 't hôoğst politisk amt, dat kunsuulóót. Soo wiid ik 't seeker wäit, däi kûul is up disser stee däipst.
 Bedankt föör däi môoj blöymen. Dat was unmöögelk, sük 'n wies befreedigend löesen infaalen t' lóóten.
 Tom beskülliğde Marió, hum siin geld stoolen t' hebben, doch säi bestreed dat. Miin fründ haar drei jobs in äin joer; häi blift noojt lâang bii äin sóóek.
-Dat was häilmóóls unmöögelk, Tom näit disser fróóeğ t' stellen. Dat gaf bold näit meer as 100 huusen in dat lauğ, wor wii güster f'rbiikoomen bünt.
+Dat was häilmóóls unmöögelk, Tom näit disser fróóeğ t' stellen. Dat gaf bold näit meer as 100 huusen in dat lauğ, an dat wii güster f'rbiikoomen bünt.
 Dat was mii läiver doo 'k eerst nóó 2.30 üer weer in huus was. Wii wassent skokäärt, doo däi ferhürder us hüer um 200 $ ferhoogerde.
 Ik wul dat güster mit jau beprooten; man jii leetent d'r näit fóótbor föör t' weesen. Ik heb net 'n nóóricht kreegen, dat dat beprooten ofsäeğt wur.
 Ik wäit uut äigen erforen, dat elker t'sóómendräepen mit hum 'n flâau nóósmóók achterlóóten daajt. Duu bruukst 'n programäärenumgeeven bestóónd uut: - 'N webserver mit PHP tau 'n biispil däi apache webserver - 'N dóótenbank tau 'n biispil MySQL Dat gift köstenfräj anbäiders wor duu diin Software dan hosten un uutprobäären kaast.
@@ -113059,7 +113059,7 @@ Tom stelt sük altiid twei wekkers, doo häi däi frâau fluğ nimt. Tom kan sü
 Tom gung in d' kööken, um sük 'n tâas kofje t' hóólen. Prootent Jii in 't mikrofoon.
 Oopen dóóten köönent fan regäärensbehöörden, föörskernsinrichtens, unnerneemens un anner orgóónisóósjoonen publisäärt worden un befóótent fóók inf'rmóósjoonen tau teemen as wêerkundiisjes, sundhaidsstóótistiken, ferkeersdóóten, finansinf'rmóósjoonen, geogróófsk dóóten un meer. Up 't äen fan d' tauken móónd söölent wii nóó Estland raajsen.
 Wii kwamment tau däi beslus, dat wii däi beweegen stöönen sullent. Ik bruuk noch 'n döyes fâarv, um däi böön t'äen t' striiken.
-Doo duu däi mester man wat attenter tauhöören deest, ferstunst duu 't wal. Was dat möögelk, 'n dräepen mit us up d' 5 of 6. pril in t' richten?
+Doo duu däi mester man wat upmaarksóómer tauhöören deest, ferstunst duu 't wal. Was dat möögelk, 'n dräepen mit us up d' 5 of 6. pril in t' richten?
 Ik wäit näit, wat Tom Jau anners noch soo fertelt het; man wat ik wäit, is, dat häi näit altiid däi worhaid säeğt. Seehuen bünt seisuğdären, däi an d' Noordseiküest leevent. Säi rüstent up sandbaanken un jóógent fisken. In Nörddiik gift dat 'n seihundstóósjoon, wor ferwäist of krâank seihuen uppeppelt wordent. Man kan höör d'r besöyken un bii 't fauern taukiiken.
 Môoj wiinachten un gâaud rutsk in 't näej joer! 'N anner alternóótîiv was däi Unreal Engine, disser bruukt of C++ of 'n Node bóósäärt süsteem as programäärtóól.
 Däi repo skalt ik nóóst noch fräj. Un kumt ook noch 'n wiideo up YouTube. Diin föörslóógen móókent dat süsteem of fööl sturder of unleesbor.
@@ -113537,7 +113537,7 @@ Däi oel was 't klorblikkelk ne'ğeliik. Däi hoovdstad fan Meksiko is däi grô
 Of Tom d'r wal wat teegen haar, mörn óóvend up us kinner up t' paasen? Ik muğ läiver kiin fläisk fan 'n kloont däär eeten.
 Tom un Marió lóótent in beslusnood t' weesen. Däi düüvel faalt altiid wat in, woo häi wat kwóóds noch läiper móóken kan.
 Disser fertelsels wurdent fan generóósjoon nóó generóósjoon wiiderfertelt. Wii neement us laks altiid mit nóó Leeğsaksen, däi saksk laks dor kaast je näit eeten, mit âal dat flas wat däi hebbent.
-In stee fan sük ferhóólen t' günnen, aarbaid'de häi noch fööl iiverger as anners. Up d' mörn nóó miin ankumst dor gung ik in d' äiken wald kaiern.
+In stee fan sük ferhóólen t' günnen, aarbaid'de häi noch fööl iiverger as anners. Up d' mörn nóó miin ankumst dor gung ik in d' äikenwald kaiern.
 Ik wil mii mit npa anmellen. Miin smartfoon het NFC. Tom kun näit an Marió denken, sünner sük an däi piinelkkaid fan 't trennen t' heerinnern.
 Langt dii fandóóeğ ook 20 üer of sal ik eerder? Dat gift in Öösterriik ferskeelend möögelkkaiden, 'n unnerneemen t' grünnen, d'r unner 'n GmbH, 'n GmbH & Co KG, 'n kummandiitselskup, 'n genootskup un anner selskupsrechtelk struktüren.
 Dat is hôoğst tiid, wat misferstennissen uut t' rüümen. In d' binnenstad gift dat man min parkplatsen, wat 'n räecht probleem is.
@@ -113836,7 +113836,7 @@ Tom leet sük 'n bord waasen, um dat häi löövde, âal wîis manlüü droogen 
 Ik haar noojt docht, dat 't up soo 'n stee soo 'n mooj hotel gift. Marió stróóft Tom nóó 'n skäel döörgóóns mit swiigen.
 Däi oer saajelde majestäitsk oover däi sneibedekt baarğtoppen. Tom un Marió willent 'n huus mit minst drei slóópkóómers koopen.
 Doo Jii dat bauk t'äen leesen hebbent, geevent Jii 't bitte weer t'rüeğ. Tom un Marió wullent sük net föör 't óóvendeeten dóólsetten, doo Hannes an d' dööer klopde.
-Tom het up d' aarbaid häil fööl t' daun un kan bit oovertauken wêek kiin tiid fersporen. Dat is us gehäimnis, alsoo paas up, dat 't dii d'r näit uutglid't.
+Tom het up d' aarbaid häil fööl t' daun un kan bit oovertauken wêek kiin tiid fersporen. Dat is us gehäimnis, alsoo paas up, dat 't dii näit d'r uut rutskert.
 Däi wald was soo diecht, dat man d'r bold näit döör góón kun. Um 'n genaau antern up Jau fróóeğ t' geeven, bruuk ik däi folgend inf'rmóósjoonen: 1. Woo fóók brekt Jau mobîil internetferbinnen bii 't telefoonäären t'sóómen? Is 't 'n äinmóóliğ geböörnis of kumt 't fóóker fööer?
 Ik begröyt Jau âal recht haartelk tau us präeskunferens! Häi interessäärt sük näit föör sporttsoorden, däi t'sóómenaarbaid of gâau reaksjoonen up anner spöölers erföördernt.
 Dat probleem is, dat us aauto up disser dağ näit beskikbor weesen sal. Up 't berek fan däi humóónitêer hüelp un bii d' kriisenprewensjoon wur d'r teegen baldóódiğ kört't. "Dat het niks, alsoo häil niks mit sosjóóldemokróótsk politik t' daun", see Bartsch.
@@ -113848,7 +113848,7 @@ Wii haarent däi fluğtikkets köft, doo däi priis wat leeger west haar. Um dat
 Tom löövt, Mary dee d'r niks fan fermauden, wat d'r lös is. Wel het miin ruksak stoolen.
 Dat briitsk folk wend'de sük 'n näej läider tau: Winston Churchill. Dat finansamt is däi behööerd, däi stüren böört un ferwalt't. Dat prüüft inkumst, winst un uutgóóven, set't stürbeskäiden fast un trekt betóólens in. Boovendeem kuntruläärt 't, of wetten inhollen wordent, un sörğt soo föör 't finansäären fan stóótelk upgóóven.
 Sullent Jii Jau kiin afkóót laisten köönen, word't Jau äien stelt. Däi koalisjoon uut Unjoon un SPD het sük grundläegend reföörms fan däi sosjóólferseekernssüsteemen föörnoomen - b.f. bii 't börgergeld, räent un krankenferseekern. Achtergrund bünt stiigend kösten un däi spordwang in 't bundshuushollen. Däi anwisäärt reföörms söölent däi sosjóólstóót betóólbor hollen.
-Ik heb gâaud räidens t' lööven, dat häi an dat ferbreeken unskülliğ is. In d' Feräint Stóóten word't fluoriid in 't drinkelwóóter dóón.
+Ik heb gâaud gruen t' lööven, dat häi an dat ferbreeken unskülliğ is. In d' Feräint Stóóten word't fluoriid in 't drinkelwóóter dóón.
 Ik wus näit, dat koolibriis sülst up d' rüeğ fläigen köönent, doo säi bâang bünt. Tom wäit näit, wat häi mit âal däi krâas in siin garóózje móóken sal.
 Tom het mii säeğt, dat häi un Marió beofsichtigent, tauken weekenäen an d' strand t' foren. As jööğdelk wus häi näit, dat häi lóóter insent beraumt worden sul.
 In Kroóósien diecht bii Split wurdent graftplóóten fan 'n Lucius Artorius Castus funnen. D'r uut let't sük siin loopbóón, unner anner kummandos in Briitanien un oover Briitansk truppen in Gallien undneemen,[4] wat bepóólt, man näit bewiisboer, eenelkkaiden mit däi persoon fan Köönenk Artus gift. Wat föör films kiikent Jii Jau läifst mit Jau kinner an?
