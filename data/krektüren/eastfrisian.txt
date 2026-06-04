@@ -1143,9 +1143,9 @@ Dat is minst 500 km fan hir weğ.
 Ik heb al 'n häil set näit meer reeden.
 Ik was al 'n häil set näit meer riiden.
 Dat is drei joer heer dat Tom Boston ferlóóten het.
-Dat is häil belangriik dat duu meer gemüües etst.
-Dat is häil belangriik dat jii meer gemüües eetent.
-Dat is häil belangriik dat Jii meer gemüües eetent.
+Dat is häil belangriik, dat duu meer gemüües etst.
+Dat is häil belangriik, dat jii meer gemüües eetent.
+Dat is häil belangriik, dat Jii meer gemüües eetent.
 Dat is föör elk oopensichtelk dat häi ferläivt is.
 Dat word't lóót; düs sullent wii us man läiver up 't pad móóken.
 Dat is gaud of un an näej dingen uut t' probäären.
@@ -3779,7 +3779,7 @@ Doo dii an diin fründin wies wat geleegen was, deest duu uemsicht up höör gef
 Doo jii dat probleem näit löesen köönent, sullent jii beeter 'n anner meetôod probäären.
 Doo duu dat probleem näit löesen kaast, sust duu beeter 'n anner meetôod fersöyken.
 Doo Jii dat probleem näit löesen köönent, sullent Jii beeter 'n anner meetôod fersöyken.
-Doo häi wiilst miin ofweesenhaid koomen sul, beed hum t' wachten, bit ik uemkoom.
+Doo häi wiilst miin ofweesenhaid koomen sul, beed hum t' wachten, bit ik weerkoom.
 Doo häi näit soo fööl feersäin kiiken dee, haar häi meer tiid tau 't leeren.
 Haar Tom eerst Mariijó um róód frağt, dan haar häi dit probleem näit hat.
 Haar 'k wust, dat dii dat soo aargert, haar ik d'r näit fan uphóólt.
@@ -6642,7 +6642,7 @@ Um dat säi dat fertelsel al móól höört haar, wul säi 't näit näjs fertel
 Hebbent Jii al móól däi Fuji säin? Siin moojiğkaid is buuten âal beskriiven.
 Hebbent Jii Jau undsked't, of Jii Jau huus ferkoopent of näit?
 Hest duu dii undslooten, of duu diin huus ferköfst of näit?
-Greenpeace fört 'n stuer striid, um däi umweerld t' redden.
+Greenpeace fört 'n stuer kamf, um däi umweerld t' redden.
 Dat sal dii hir kiin früen inbrengen, dat äien geslağt fööer dat anner fööer t' trekken.
 Sülst doo man old un griis is, sul man noch kumpóóbel weesen, dat leevend t' genäiten.
 Alwoo häi teegenan woont, begröt't häi us näit móól.

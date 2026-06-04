@@ -1336,9 +1336,9 @@ Dat is minst 500 km fan hir weğ.
 Ik heb al 'n häil set näit meer reeden.
 Ik was al 'n häil set näit meer riiden.
 Dat is drei joer heer dat Tom Boston ferlóóten het.
-Dat is häil belangriik dat duu meer gemüües etst.
-Dat is häil belangriik dat jii meer gemüües eetent.
-Dat is häil belangriik dat Jii meer gemüües eetent.
+Dat is häil belangriik, dat duu meer gemüües etst.
+Dat is häil belangriik, dat jii meer gemüües eetent.
+Dat is häil belangriik, dat Jii meer gemüües eetent.
 Dat is föör elk oopensichtelk dat häi ferläivt is.
 Dat word't lóót; düs sullent wii us man läiver up 't pad móóken.
 Dat is gaud of un an näej dingen uut t' probäären.
@@ -2353,7 +2353,7 @@ Dat is Tom lesserhand doch lungen, 'n köstenfräj dóótenbankprogram up siin r
 Tom wul sük Marió höör sörgenkatalooğ wal näit anhöören, man häi sat d'r trotsdeem stiel un läinde siin ôor.
 Tom reekende sük wal kiin erfolğskaansen uut, man wul 't t'minst insent fersöyken.
 Tom wus wal näit, wor Marió henwul, man óónde 't.
-Tom kun siin klassenmóóten näit uutprooten, dat dans ferskuuven t' willen.
+Tom kun siin klassenkamróóden näit uutprooten, dat dans ferskuuven t' willen.
 Tom beweerde d'r niks fan t' wäiten, dat siin strandhuus föör illegóóel aktiivitäiten bruukt worden was.
 Tom reep Marió bii sük, um höör t' fróógen, woo säi däi slips fun, oover däi siin koop häi net nóódoch.
 Tom kwam bii d' bóónhof an, net as siin tsuğ anfur.
@@ -2476,7 +2476,7 @@ Tom haar wal net siin fäärtiğst boorsdağ, man ik lööv näit, dat häi siin
 Tom haar wal net siin fäärtiğst boorsdağ, man ik lööv näit, dat 't minner mit hum word't.
 Föör Marió un däi kinner nimt sük Tom trots siin läip föördernd aarbaid altiid tiid.
 Bâab, lóót us t'sóómen grimassen móóken un kiiken, wel 't lâangst fulhollen daajt, sünner t' laagen.
-Doo wii däi häiel tiid t'sóómen bünt, söölent miin jóópóónsk klassenmóóten nanner häil gaud kennen leeren.
+Doo wii däi häiel tiid t'sóómen bünt, söölent miin jóópóónsk klassenkamróóden nanner häil gaud kennen leeren.
 'N puep kan näit prooten, alsoo skräiwt häi soo lâang, bit häi dat kriğt, wat häi wil.
 Amerikóóners unner achttain joer dürent näit in presidentskupswóólen höör stäem ofgeeven.
 Âal minsken hebbent enner 'n natürelk talent; däi fróóeğ is bloot, of säi 't ook ferwenden köönent.
@@ -4778,7 +4778,7 @@ Doo dii an diin fründin wies wat geleegen was, deest duu uemsicht up höör gef
 Doo jii dat probleem näit löesen köönent, sullent jii beeter 'n anner metôod probäären.
 Doo duu dat probleem näit löesen kaast, sust duu beeter 'n anner metôod fersöyken.
 Doo Jii dat probleem näit löesen köönent, sullent Jii beeter 'n anner metôod fersöyken.
-Doo häi wiilst miin ofweesenhaid koomen sul, beed hum t' wachten, bit ik uemkoom.
+Doo häi wiilst miin ofweesenhaid koomen sul, beed hum t' wachten, bit ik weerkoom.
 Doo häi näit soo fööl feersäin kiiken dee, haar häi meer tiid tau 't leeren.
 Haar Tom eerst Marió um róód frağt, dan haar häi dit probleem näit hat.
 Haar 'k wust, dat dii dat soo aargert, haar ik d'r näit fan uphóólt.
@@ -5197,7 +5197,7 @@ Tom haar anner móónd daartiğ worden, was häi näit bii 'n melöör stüürve
 Tom was geern noch tau 't óóvendeeten bleeven, man häi mus weer an d' aarbaid.
 Tom wook in d' nacht mit 'n braanend piin midden in d' bost up.
 Tom stun midden in d' nacht up un ferteerde 'n häil pak kaukjes.
-Tom wünskerde sük, dat siin klassenmóóten respektfuller mitnanner umgóón sullent.
+Tom wünskerde sük, dat siin klassenkamróóden respektfuller mitnanner umgóón sullent.
 Tom het sük wünskert, dat sük siin mitskaulers teegennanner mit meer respekt behanneln deedent.
 Tom stun direkt fööer 'n groot gebôojd, wat tau ferkoop anbooden wur.
 Tom wur fan däi góó fan däi frâau, wor häi fóók mit t'sóómen was, fermoord't.
@@ -8422,7 +8422,7 @@ Um dat säi dat fertelsel al móól höört haar, wul säi 't näit näjs fertel
 Hebbent Jii al móól däi Fuji säin? Siin moojiğkaid is buuten âal beskriiven.
 Hebbent Jii Jau undsked't, of Jii Jau huus ferkoopent of näit?
 Hest duu dii undslooten, of duu diin huus ferköfst of näit?
-Greenpeace fört 'n stuer striid, um däi umweerld t' redden.
+Greenpeace fört 'n stuer kamf, um däi umweerld t' redden.
 Dat sal dii hir kiin früen inbrengen, dat äien geslağt fööer dat anner fööer t' trekken.
 Sülst doo man old un griis is, sul man noch kumpóóbel weesen, dat leevend t' genäiten.
 Alwoo häi teegenan woont, begröt't häi us näit móól.
@@ -13119,7 +13119,7 @@ Miin frâau gaajt aldóóeğ nóó 't lauğmâarkt, um leevendsmiddels t' koopen
 Miin unkel drunk wiider kuer, trots däi róódslağ fan siin dokter.
 Däi jung fan miin nóóber het fandóóeğ miin dochter in d' skaul uutlaağt.
 Miin häimóótoord befint sük ruuğweğ 20 menüüten fan 'n grôot stad.
-Miin hâan bünt soo doof fööer koel, dat ik miin fingers näit beweegen kan.
+Miin hâan bünt soo doof fan koel, dat ik miin fingers näit beweegen kan.
 Miin bäep wur mit läiverlóó fergeetelk un gebrekkelk.
 Miin bäep fan fóóderskâant is hunnert worden.
 Miin besfóóer stüürv in däi sülviğ kóómer, wor häi in booren wur.
