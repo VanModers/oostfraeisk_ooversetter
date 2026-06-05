@@ -535,8 +535,8 @@ Dat dürs 'n lâang tiid.
 Dat was sóóterdóóğóóvend.
 Dat was 'n gaud biispil.
 Dat was 'n mäinskuppelk anstrengen.
-Dat was 'n grôot tsukses.
-Dat was 'n grôot tsukses.
+Dat was 'n grôot erfolğ.
+Dat was 'n grôot erfolğ.
 Dat was 'n biitje unhäimelk.
 Dat was 'n móóğsk eefkes.
 Dat was 'n makkelk tiid.
@@ -1049,7 +1049,7 @@ Däi bauken liegent up d' skriivtóóvel.
 Dat baukenregóól is inbaaut.
 Däi bóós see, dat 't drok is!
 Däi bóós het säeğt, dat 't drok is!
-Däi bóós see dat 't drok is.
+Däi bóós see, dat 't drok is.
 Däi bóós wil dii säin.
 Tom is histoorjemeester bii 'n upperskaul un halfdóóğsmundöörgelspööler bii 'n bluesband.
 Fööer d' êerst kofje is Tom 's mörns altiid 'n biitje kibbelk.
@@ -2156,7 +2156,7 @@ Computers spöölent in elker gefal 'n wichtiğ ruel in us leevend, of us dat ge
 Däi körper word't woo oller woo swakker un häilt sük näit meer soo gaau as in d' jööğd.
 Wiilst sük dat pletiisder ferhitsde, goot Mary destilläärt wóóter in 't reserwaar, um stoom t' móóken.
 'N anonüüem gauddóóder het 'n däärhäim meerder hunnertduusend duller fermóókt.
-Nóódeem ik miin fertelsel uut haar, keek mii miin nóóber 'n tiid lang swiigend un upmaarksóóm an.
+Nóódeem ik miin fertelsel dóón haar, keek mii miin nóóber 'n tiid lang swiigend un upmaarksóóm an.
 Duu büst wal näit soo mooj as miin eksfründin, man mit dii kan man fööl meer plesäär hebben.
 Jii bünt meskiin näit in d' maud, dat nuu gewoer t' worden, man ik maut Jau wat wichtigs mitdäilen.
 Jii bünt wal näit in d' maud, dat nuu gewoer t' worden, man ik maut jau wat wichtigs mitdäilen.
@@ -2539,7 +2539,7 @@ Dat was kiin taufal, dat Tom un Marió bâajd t' gliiker tiid in d' Cafeteria wa
 Stemt dat, dat illegóóel inwannerders interessäärt börgers aarbaidssteeden weğneement?
 Doo Jii mit 'n kunnendenstmitaarbaider prooten willent, drükkent Jii bitte däi dräj.
 Doo Jii mit 'n kunnendenstmitaarbaider prooten willent, soo drükkent Jii bitte däi dräj.
-Doo man wil, dat wat fatsuunelk móókt word't, maut man mitunner eeven sülst däi hâan anslóón.
+Doo man wil, dat wat fatsuunelk móókt word't, maut man mitunner eeven sülst däi hand anläegen.
 Alt'meeds maut man sük däi dingen eeven sülst anneemen, doo man wil, dat wat d'r fan worden sul.
 Doo man wil, dat wat recht dóón word't, dan maut man 't of un an eeven sülst daun.
 Däi geld up d' stróóet fint, sul 't nóó däi lokóóel politsaiwacht brengen.
@@ -6260,7 +6260,7 @@ Dat regäären sal drastisk móótreegels neemen mauten, um dat probleem t' löe
 Tom siin hemdföörsiid was döör 'n sköötwuen mit blaud beflekt.
 Däi dook was soo diecht, dat ik näit móól däi hand fööer d' oogen säin kun.
 Däi stóódiğ grenskemfen tüsken Engelland un Skotland hullent up.
-Däi folgen fan 'n ferkeert ooversetten köönent of un an katastroofóól weesen.
+Däi folgen fan 'n ferkeert ooversetten köönent of un tau katastroofóól weesen.
 Däi foelğ fan 'n slecht ooversetten kan of un an katastroofóól weesen.
 Dat unnerneemen skunk hum 'n gollen kloek as ankennen fan siin ferdensten.
 Däi geboiden bünt teegen däi wulkenkraabers in New York lütjet.
@@ -6347,7 +6347,7 @@ Ik haar näit lâang wacht't, doo ik stappen däi trappen anhooğ koomen höörd
 Ik haar höört, dat häi dik was, man ik haar näit docht, dat häi in dat móóet dik was.
 Ik haar soo 'n fööróónen, dat Tom un Marió sük teegen däi koop fan dat huus undskäiden sullent.
 Ik foot miin lütje süster bii d' hand, un wii leepent bâajd lös.
-Dat ferslooğ mii däi tóól, doo ik an 't telefoon Ryo siin stäem fernam.
+Dat ferslooğ mii däi spróóek, doo ik an 't telefoon Ryo siin stäem fernam.
 Ik betwiivel, dat Tom däi maud het, föör dat in t' stóón, wor häi an löövt.
 Ik säi näit fööl films, man 'n gâaud dokumentóósjoon kan ik näit weerstóón.
 Ik wäit näit, wat dit woord bedüd't. Ik sal 't in 't woordenbauk nóóslóón.
@@ -6857,7 +6857,7 @@ Tom gaf siin leerberaup tau, um 'n fultiid-stuudiomusikker t' worden.
 Tom het ennelk däi maud upbrocht, Marió t' säegen, dat häi höör läivt.
 Tom broch ennelk däi maud up, Marió tau 't uutgóón t' nöygen.
 Tom bekende ennelk, hüelp t' benöödigen, un unnertruk sük 'n undtrekkenskuur.
-Tom was d'r nóó nóó huus t' góón un häi gung, sünner wel forwal t' säegen.
+Tom was d'r nóó nóó huus t' góón un häi gung, sünner sük fan wel t' ferofskäiden.
 Tom fur ekstró dwaars döör d' stad, um Marió 'n boorsdóóğskâauk t' koopen.
 Tom fint, dat Mary näit nóó huus tau foren sul, um dat säi drunken het.
 Tom swemt näit geern in disser äj. Häi säeğt, häi was t' fuul.
@@ -8289,7 +8289,7 @@ Miin tsuğ fort teegen ses üer of un kumt teegen tain üer an.
 Miin bóós let't mii dit daun, düs heb ik 't näit drok, dat t' beennen.
 Miin mauder het mii, as ik lütjet was, elker dağ tau 't klewäär spöölen dwungen.
 Miin besfóóer drinkt elker mörn mit 'n koppel fan oel manlüü kofje.
-Miin fründin aarbaid't bii 'n tóólskaul, un dat gefaalt göör dor läip.
+Miin fründin aarbaid't bii 'n tóólskaul, un dat gefaalt höör dor läip gaud.
 Miin fóóder het däi wenst, dat bladje fööer 't früüstük t' leesen.
 Um dat miin fîits plat was, ferpaasde ik däi 4-üer-tsuğ.
 Um dat miin fîits plat was, ferpaasde ik däi sööm-üer-tsuğ.
@@ -8383,7 +8383,7 @@ Ik hoop, duu forst.
 Ik heb höört, dat Tom fannóómiddağ mit us tennis spöölt.
 Ik heb gâaud gruen t' lööven, dat häi an dat ferbreeken unskülliğ is.
 Ik haar dat wal näit fööer, man doo duu dat wult, kan ik 't geern daun.
-Ik stelde fast, dat dat löesen fan dit probleem stur föör höör was.
+Ik stelde fast, dat höör dat löesen fan dit probleem stur ful.
 Dat beklemt, mii dat ik 'n büelt sóóken t' daun heb.
 Ik föyl mii benaaut, um dat ik fööl dingen t' besörgen heb.
 Ik wil näit, dat duu denkst, dat ik näit blîid mit diin beslus bün.
@@ -11845,7 +11845,7 @@ Is 't näit woer, dat duu höör in däi fróógelk nacht besöcht hest?
 Bestaajt uutsicht, dat jii fanjoer weer nóó Tokio kooment?
 Hest duu dat in uutsicht, dat duu fanjoer weer nóó Tokio kumst?
 Hebbent jii dat in uutsicht, dat Jii fanjoer weer nóó Tokio kooment?
-In stee fan feersäin, deedent däi kinner in buuten spöölen.
+In stee fan feersäin, deedent däi kinner up buuten spöölen.
 In d' park sattent wattent up banken, un annernt deeden kaiern.
 In d' loop fan us unnerhollen kwam häi up siin jööğd t' prooten.
 Trots däi tóólsturiğkaiden wurdent wii bold früen.
@@ -12105,7 +12105,7 @@ Wii mautent däi uutennelk beslus up anner wêek ferskuuven.
 Wii hebbent wiiduut meer mäinsóómkaiden, as duu worskiinelk denkst.
 Wii hebbent wiiduut meer mäin, as duu wal anneemen daajst.
 Wii hebbent näit däi tiid, um âals klor t' kriigen, wor säi us um beeden hebbent.
-Wii hebbent us näit uut óópen undwikkelt. Wii hebbent man äin mäinsóóem fööroel mit höör.
+Wii hebbent us näit uut óópen undwikkelt. Wii hebbent bloot 'n mäinsóóem fööroel mit höör.
 Wii köönent Tom mit däi moord an disser fäär minsken näit unstróóft d'r fandöör koomen lóóten.
 Wii kooment d'r näit uut. Wel het fan buuten däi dööer fersköötelt.
 Wii köffent us näej nóóber 'n kloek as begröytensgeskenk.
@@ -12319,7 +12319,7 @@ Dat kind protestäärde d'r teegen, däi medsiin sluuken t' mauten.
 Däi hoovdstad fan Meksiko is däi grôotst stad fan Letiinamerikó.
 Däi keersen braandent soo wiid of, dat s' bold kiin duumbräid meer in d' holler stookent.
 Däi fóóder fan d' bruud kwam t' lóót nóó 't traauen.
-Dat bauk is bunnen un as taaskenbauk t' ferkriigen.
+Dat bauk is bunnen un as taaskenbauk ferkriiğbor.
 Dat bauk is soo wal mit fâast as ook mit fleksiibel inband beskikbor.
 Dat bauk is as paperback un as bunnen uutgóóev t' ferkriigen.
 Dat släecht wêer ferlóóterde däi offluğ um twei stüen.
