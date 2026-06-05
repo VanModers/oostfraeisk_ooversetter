@@ -10012,7 +10012,7 @@ Wie viele Schüler sind dieses Jahr an der Schule aufgenommen worden?
 Die Weihnachtsgeschichte, so wie Lukas sie erzählt.
 In dieser Zeit kam von Kaiser Augustus das Gebot, dass jeder sich einschreiben lassen musste.
 Das war etwas sehr Neues. Damals war Kyrenius Statthalter von Syrien.
-Iederen möchte sich auf de Weg noch seine Heimatstadt und glauße sein Einschrieben. So geschah es.
+Jeder machte sich auf den Weg zu seiner Heimatstadt und ließ sich einschrieben. So geschah es.
 Strandgutsammler
 Er wünscht alles Gute und gratuliert von Herzen zum 25. Geburtstag!
 Das ist ja scheiße was mach ich denn jetzt? 
@@ -13954,3 +13954,17 @@ Siehst du auch das Rotkehlchen?
 Es gibt in dieser Welt auch viele Regenwürmer.
 Die Regenwürmer, die ich kenne, leben unter der Erde.
 Gerade eine Regenwurm liebt es nass.
+Ich bin jetzt dabei, etwas ins Englische zu übersetzen. Was meinst du?
+Ich bin jetzt dabei, etwas in das Englische zu übersetzen. Was meinst du?
+Upgant
+Ich wohne in Uplengen.
+Ich wohne in Remels.
+Wie kann man Kinder und Jugendliche für Platt begeistern, ohne dass es belehrend oder künstlich wirkt?
+Ich habe ihn dafür begeistert.
+Funktioniert die Übersetzung jetzt noch immer oder ist jetzt alles kaputt? Wenn du das hörst, dann darfst du dich freuen!
+Es gibt viele Wörter, die dieses System nicht gut aussprechen wird. Aber für viele andere Wörter geht es ziemlich gut.
+Die Seite ist, nachdem man die erste Aufnahme generiert hat, oft sehr laggy. Bei meinen Tests hatte ich das nicht. Ich habe einen Cache, in dem die letzten Aufnahmen als Wave gespeichert werden (damit die nicht immer neu generiert werden müssen, wenn der Benutzer sich die gleiche Aufnahme noch einmal anhören möchte). Könnte das daran liegen? Dann nehme ich das wieder heraus.
+Die "Orion"-Kapsel ist dabei, den Mond zu umrunden. Im Tagesverlauf wird sich die Kapsel auf 406.778 Kilometer von der Erde wegbewegen. Eine Mondlandung ist bei dieser Mission nicht geplant. Nach der Mondumrundung soll die Kapsel den etwa viertägigen Rückflug antreten. Sie wird allein durch die Schwerkraft des Mondes und ohne zusätzlichen Antrieb wieder auf Kurs Richtung Erde gebracht.
+Mit ihrer Mission wollten sie auch alle ihre Vorgänger in der bemannten Raumfahrt ehren, sagte der kanadische Astronaut Jeremy Hansen. "Wir wählen diesen Moment, um diese Generation und die nächste herauszufordern, sicherzustellen, dass dieser Rekord nicht lange hält." Das Kontrollzentrum gratulierte den vier Astronauten.
+Jetzt schlägt der ukrainische Präsident eine Waffenruhe vor.
+Ich schlage dir das vor, und du schlägst mir dann vor, was du meinst.
