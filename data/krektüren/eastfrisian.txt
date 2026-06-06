@@ -247,10 +247,10 @@ Jii höyven man hüelp.
 Duu wäist dat ik 't hóóten dau.
 Säi wäitent, dat 'k gliik heb.
 Jii wäitent, dat 'k näit gliik heb.
-Duu wäist woo 't is.
+Duu wäist, woo 't is.
 Duu wäist je woo 't is.
 Duu kenst je däi ofloop.
-Jii kennent däi ofloop je.
+Jii kennent je däi ofloop.
 Duu wäist je woo 't loopen daajt.
 Säi wäitent je, woo 't loopen daajt.
 Duu kenst däi reegels.
@@ -535,7 +535,7 @@ Säi is 17 joer old.
 Säi is söömtain.
 Säi is mooj un intelligent.
 Säi is klauk un mooj.
-Säi is klauk un oogelk.
+Säi is klauk un let't skier.
 Säi is läip bâang fööer huen.
 Säi is läip unbekümmert.
 Säi is jung un mooj.
@@ -1089,7 +1089,7 @@ Dat is ferbooden tsiigretten an minnerjorigen t' ferkoopen.
 Dat is 'n ding fan d' unmöögelkkaid föör us oover däi äj t' góón.
 Dat is sinlös t' fersöyken hum d'r fan tau oovertüügen.
 Dat let't d'r nóó as wassent wii tau 't groefst hóóst uut.
-Dat let't net as of wii dat läipst bold ooverstóón haarent.
+Dat let't net as of wii dat läiepst bold ooverstóón haarent.
 Dat let't as of duu 'n biitje taunoomen hest.
 Dat was fiilicht beeter höör mit höör doktertittel an t' prooten.
 Dat kun reegen. Wii neement beeter 'n reegenskiirm mit.
@@ -1808,7 +1808,7 @@ Disser fiigüer sal Marilyn Monroe föörstellen, man ik denk näit dat säi hö
 Dat gaf 'n büelt, wat wii daun wullent, man wii bünt näit tau fööl koomen.
 Wiindruuven of wóótermeloonen sünner kennels gift dat je. Of 't wal ook mangoos sünner kennel gift?
 Dan truk häi sük an, fnuukde siin föörleesensmitskrift in däi aktentaaske un leep däi trappen dóól.
-Dat enkeld up d' tóóvel, dat ik n'rmóól näit eeten dee, is dat tüüğ up 't gêel teller.
+Dat enkeld up d' tóóvel, dat ik n'rmóólerwîis näit eeten dee, is dat tüüğ up 't gêel teller.
 Dat bladje fung an leesders t' ferläisen, doo 't up äien fan siin poopelêerst aautooren fertsichten dee.
 Dat was stur föör däi man, däi siit drei dóóeğ niks eeten haar, an wat anners as naarungsmiddels t' denken.
 Woo minner sük 'n ooverkoomen mâaud rechtfeerdigen let't, soo sturder is 't fóók, hum of t' läegen.
@@ -2494,7 +2494,7 @@ Tom un Mariijó plóónent, 'n huus baauen t' lóóten, nóódeem säi höör ê
 Tom skreev ook siin äigen nóóm up däi liest fan däient, däi an dat dans däilneemen wullent.
 Tom Jackson siin näej roomóón is häil gaud skreeven, un Jii söölent wal plesäär an däi lektüer hebben.
 Disser artikkel belücht't kriitsk däi ord un wîis, woo d'r bii dit baudel unnersöcht word't.
-Disser artikkel üütert sük kriitsk oover dat ord, woo dit baudel unnersöcht word't.
+Disser artikkel üütert sük kriitsk oover däi ord, woo dit baudel unnersöcht word't.
 Wiider däi stróóet biilangs word't oovermörn 'n näej winkel feroopent.
 Dat gift fööl lichtglooviğ minsken. D'r bestaajt alsoo 'n kâans dat Tom weelt worden sal.
 Däi grund föör Tom siin fetliiviğkaid liğt d'r in, dat häi t' fööl et't un sük näit nauğ rööğt.
@@ -3752,7 +3752,7 @@ Mariijó dee up d' boorsdağ fan höör fründ 'n tóóvel in 'n gâaud reestaau
 Mariijó is 'n wunnermôoj frâau. Up 'n skóóló fan äien bit tâajn is säi 'n elm.
 Lóót us hir 'n köert pâaus móóken. Miin bäien daunt seer un ik kan näit meer loopen.
 Dat is läip unworskiinelk, dat dat wies däi sülviğ man is, däi duu fööer tain joer druepen hest.
-Dat is an däi tiid dat wii d'r oover nóódenkent, woo wii däi lóóeğ beeternt.
+Dat is an däi tiid, dat wii d'r oover nóódenkent, woo wii däi lóóeğ beeternt.
 Dat is an däi tiid, dat wii us d'r gedanken oover móókent, woo wii däi situwóósjoon ferbeetern köönent.
 Dat is an däi tiid, dat wii us gedanken móókent, woo wii däi lóóeğ ferbeetern köönent.
 Wii hebbent drei wêek bruukt um 't föörnanner t' kriigen. Man amäen leep us aauto naugelk.
@@ -3865,7 +3865,7 @@ Wii hebbent sturiğkaiden, wel t' finnen, däi us dat geld läint, wat wii benö
 Wii hebbent Tom in d' häiel winkel söcht un funnent hum in dat spöölreevofdäilen.
 Wii set'dent us dóól un prüüfdent âal empeldhaiden bit wii 'n ooveräinstemmen berekdent.
 Wii höördent, dat Tom sülstmoord begóón het, man wii kunnent dat bold näit lööven.
-Wii mautent däi möögelkkaid in bedenken neemen, dat Tom an dat roofooverfal bedäiliğt was.
+Wii mautent däi möögelkkaid in bedenken hollen, dat Tom an däi roofooverfal bedäiliğt was.
 Wii bünt âal fööer 't wet gliik, doch däi riiken hebbent fóók 'n grôot föördäil.
 Säint Jii genaau hen, dan köönent Jii säin, woo ik miin lippen bii 't uutprooten fan dat woord beweegen dau.
 Kiik genaau tau un duu kaast säin, woo miin lippen sük bii 't uutprooten fan dat woord beweegent.
@@ -4720,7 +4720,7 @@ Tom het in 't holt 'n beseert föögel funnen un hum weer sund pleeğt.
 Tom het in 't holt 'n beseert föögel funnen un hum weer uppeppelt.
 Tom fersöch, Mariijó unner ferstand t' wriiven, woosoo säi dat daun sul.
 Tom wäit ook näit, wat d'r lös is, man häi wil dat näit taugeeven.
-Tom begript näit däi ferskeel tüsken 'n ketôod un 'n óónôod.
+Tom begript näit däi ferskeel tüsken 'n katôod un 'n anôod.
 Tom et't niks as siin sülstanbaaut gemüües.
 Tom et't bloot dat gemüües, wat häi sülst anbaaut.
 Tom gung d'r näit fan uut, dat 't Mariijó up siin fier gefaalen sul; düs nöyğde häi höör näit.
@@ -6543,7 +6543,7 @@ Doo duu dat bauk uutleesen hest, breng 't in d' bibtäik t'rüeğ.
 Doo Jii dat bauk uutleesen hebbent, brengent Jii 't t'rüeğ in d' bibtäik.
 Doo duu wat gedüriger west haarst, haarst duu dat skiren kunt.
 Doo duu wiider soo fööl drinkst, sast duu meskiin as alkoohoolikker ennen.
-Doo duu diin oel fîits näit meer wult, kaast duu 't altiid weğgeeven.
+Doo duu diin oel fîits näit meer wult, kaast duu hum altiid weğgeeven.
 Doo duu dat löövst, wat pooliitikkers säegent, büst duu wies sülst sküld.
 Doo wat gift, wat duu daun wult, sust duu 't, doo duu kaast, daun.
 Haar säi wat gedüriger west, haar säi erfolğriik weesen kunt.
@@ -7254,7 +7254,7 @@ Tom at däi appel, däi Marió up d' eetkóómertóóvel lóóten haar.
 Tom beed'de Marió, noch soo lâang in huus t' bliiven, bit däi kinnermaid kwam.
 Tom beed'de Mary, in huus t' bliiven, bit dat babysitterske indräepen sul.
 Tom beed'de Mary, in huus t' bliiven, bit däi babysitter indräepen dee.
-Tom mook Marió 'n andrağ, man säi leende hum of.
+Tom mook Marió 'n traauandrağ, man säi leende hum of.
 Tom mook Mary 'n andrağ, man säi leende hum of.
 Tom frooğ Marió, of säi wus, wenner mit Johannes siin ferskiinen t' reeken was.
 Tom frooğ Marió, of säi dit läid up d' flâajt spöölen kun.
@@ -8610,7 +8610,7 @@ Ik was lid in d' fautbaalferäien, doo ik up d' middelskaul was.
 Ik was lid in d' fautbaalferäien, doo ik up däi Junior High School was.
 Ik wil gaau leeren, mit däi näej digitóólkameró um t' góón.
 Ik begriip däi sats wal, man ik bün näit kumpóóbel, hum t' ooversetten.
-Ik fersöch höör t' fermuntern, man säi wul man bloot alleniğ weesen.
+Ik fersöch höör up t' muntern, man säi wul man bloot alleniğ weesen.
 Wii hebbent us d'r doch up äiniğt, d'r näit meer fan t' prooten.
 Ik lööv, dat Tom däi enkeld is, däi wäit, wor Marió woont.
 Ik bleev d'r noch 'n tiidlang, um t' säin, of anners noch wel kwam.
@@ -8682,7 +8682,7 @@ Häi gaf kiin spesjäel ferkloren föör siin roer ferhollen.
 Häi is fööer 'n wêek, alsoo up d' tâajnt mâaj, nóó Europó ofraajst.
 Häi het sük bii 't striiken fan d' kóómer fan siin ollerder süster helpen lóóten.
 Häi ferklorde Mary, woosoo häi t' lóót nóó höör boorsdóóğsfier kwam.
-Häi traaude up 't läest 'n Itóóljeenske, däi tain joer junger was as häi.
+Häi traaude up 't läest 'n Itóóljeenerske, däi tain joer junger was as häi.
 Nóódeem häi güster twei móól skaajtert is, wil häi 't näit meer probäären.
 Düütsk truppen greepent diecht bii Amiens in Frankriik briitsk suldóóten an.
 In 't almäien bünt Neiseelanners grooter as Jóópóóners.
@@ -8927,7 +8927,7 @@ Tom klaauterde up 'n diecht bii stóónd boom, um dat häi wäiten wul, of häi 
 Tom beweerde, dat däi baldóódiğ grundbesit hum tau 't fräej beskikken stun.
 Tom let't wies fööl tiid mit Marió t' ferbrengen.
 Tom kwam nóó d' unnerricht bii mii un stelde mii 'n poer fróógen.
-Tom reep mii an un see, dat ik hum 'n gefaalen ferwiisen mus.
+Tom reep mii an un see, dat ik hum 'n gefaalen erwiisen mus.
 Tom stelde sük Marió in d' weğ un leet höör näit in d' kóómer.
 Däi mesterberaup fung an Tom t' ferfeelen, un häi keek sük nóó 'n näej aarbaid um.
 Tom at däi läest skîiv brood, soo dat Mary niks t' eeten haar.
