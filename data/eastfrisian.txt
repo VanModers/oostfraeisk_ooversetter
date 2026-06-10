@@ -23346,7 +23346,7 @@ släecht tiiden beleeven
 smacht is däi bäest kok
 soo fööl as duu man wul
 soo haar God 't beskikt
-soo 'n jüch mağ 'k näit
+soo 'n jüech mağ 'k näit
 soo wiis as 'n eeftaask
 spijöök mit wel driiven
 steekröyven mit pootjes
@@ -32016,7 +32016,7 @@ Interfräisk Róód
 is dat Jau huus?
 is Marió d'r al?
 Jâan Handjenööek
-jüch mit hüüdels
+jüech mit hüüdels
 'k wäit näit wat
 keerl noch móól!
 kestüümen naajen
@@ -48508,7 +48508,7 @@ Na wacht man häi kumt bold. Riisen nóó d' heemel.
 Säi kumt weer in d' kindhaid. Skiit bii d' hakken.
 Häi het d'r kiin grund tau um sük t' beklóógen. Häi is näit häil dêeğ.
 Sweedsk klóóver. Häi sit't altiid hen 't dóómeln.
-Wat gaajt jau d'r fan an? Jüch mit hüüdels.
+Wat gaajt jau d'r fan an? Jüech mit hüüdels.
 Wii sittent tüsken hóómer un kniiptâang. Däi bâajd wassent näit lâang traaut un dan hebbent säi sük t'móól skäiden lóóten.
 Däi ofsicht was gaud. Dat gaajt booven miin begripsfermöögen.
 Dat is t' betrüren. Dat wóóter kookt.
@@ -49975,7 +49975,7 @@ Däi boom is t' minnelk bleeven. Däi puep uut d' wäieğ tielen.
 Dat gaud is t' möör d'r sit't kiin hold in. Dat kan näit missen däi fööl drinkt maut fööl piesen.
 'n achtersteek naajen. Duu bruukst näit fut soo gluupsk weesen un däi kinner mit stäinen smiiten.
 Ferkeert halsgat. Säi stunnent âal in äin kumplot biinanner.
-Haaj in d' gulf fläjen. Soo 'n jüch mağ 'k näit.
+Haaj in d' gulf fläjen. Soo 'n jüech mağ 'k näit.
 Häi het hôop noch näit upgeeven. Häi is soo glad as 'n oflekt kluntje.
 Swiinpot kooken. Häi sleep soo fast dat häi hóóst häil näit tau fermuntern .
 Törf klooten. Hüelp! help! säi willent mii wat daun!
@@ -76853,10 +76853,10 @@ Untauferlessiğkaid is mooj.
 Untauferlessiğkaid is läif.
 Untauferlessiğkaid is interessant.
 Untauferlessiğkaid kan ik näit säin.
-Bäistjüch is mooj.
-Bäistjüch is läif.
-Bäistjüch is interessant.
-Bäistjüch kan ik näit säin.
+Bäistjüech is mooj.
+Bäistjüech is läif.
+Bäistjüech is interessant.
+Bäistjüech kan ik näit säin.
 Besteek is mooj.
 Besteek is läif.
 Besteek is interessant.
@@ -77761,10 +77761,10 @@ Eerdjebäjentiid is mooj.
 Eerdjebäjentiid is läif.
 Eerdjebäjentiid is interessant.
 Eerdjebäjentiid kan ik näit säin.
-Óóntjüch is mooj.
-Óóntjüch is läif.
-Óóntjüch is interessant.
-Óóntjüch kan ik näit säin.
+Óóntenjüech is mooj.
+Óóntenjüech is läif.
+Óóntenjüech is interessant.
+Óóntenjüech kan ik näit säin.
 Feğselbâak is mooj.
 Feğselbâak is läif.
 Feğselbâak is interessant.
