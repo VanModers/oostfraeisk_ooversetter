@@ -1,10 +1,12 @@
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq, EarlyStoppingCallback
+from check_training_env import require_safe_torch_load
 from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG, MAX_LENGTH
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
 OUTPUT_DIR = "./nllb_frs_model"
 
+require_safe_torch_load()
 print(f"Loading {MODEL_NAME}...")
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)

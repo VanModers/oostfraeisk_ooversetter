@@ -45,6 +45,9 @@ echo "=========================================="
 
 cd "${REPO_DIR}"
 
+echo "--- Environment preflight ---"
+python nllb_model/check_training_env.py
+
 echo "--- Validating current Hugging Face model before training ---"
 python nllb_model/validator.py \
   --model-path "VanModers114/East_Frisian_NLLB_Model" \
