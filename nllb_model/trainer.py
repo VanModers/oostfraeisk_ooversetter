@@ -1,3 +1,4 @@
+import os
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq, EarlyStoppingCallback
 from check_training_env import require_safe_torch_load
@@ -5,9 +6,19 @@ from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG, MAX_L
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
 OUTPUT_DIR = "./nllb_frs_model"
+TRAIN_BATCH_SIZE = int(os.environ.get("NLLB_TRAIN_BATCH_SIZE", "8"))
+EVAL_BATCH_SIZE = int(os.environ.get("NLLB_EVAL_BATCH_SIZE", "8"))
+GRADIENT_ACCUMULATION_STEPS = int(os.environ.get("NLLB_GRADIENT_ACCUMULATION_STEPS", "8"))
 
 require_safe_torch_load()
 print(f"Loading {MODEL_NAME}...")
+print(
+    "Training batch config: "
+    f"per_device_train_batch_size={TRAIN_BATCH_SIZE}, "
+    f"per_device_eval_batch_size={EVAL_BATCH_SIZE}, "
+    f"gradient_accumulation_steps={GRADIENT_ACCUMULATION_STEPS}, "
+    f"effective_train_batch_size={TRAIN_BATCH_SIZE * GRADIENT_ACCUMULATION_STEPS}"
+)
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
 
@@ -16,15 +27,16 @@ add_frs_lang(tokenizer, model, random_init=False)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
 
-#model.gradient_checkpointing_enable()
+model.config.use_cache = False
+model.gradient_checkpointing_enable()
 
 training_args = Seq2SeqTrainingArguments(
     output_dir=OUTPUT_DIR,
     eval_strategy="epoch",
     save_strategy="epoch",
-    per_device_train_batch_size=32,
-    per_device_eval_batch_size=32,
-    gradient_accumulation_steps=2,      # effective batch size = 64
+    per_device_train_batch_size=TRAIN_BATCH_SIZE,
+    per_device_eval_batch_size=EVAL_BATCH_SIZE,
+    gradient_accumulation_steps=GRADIENT_ACCUMULATION_STEPS,
     num_train_epochs=40,  # More epochs
     learning_rate=3e-5,
     lr_scheduler_type="cosine",
@@ -34,6 +46,7 @@ training_args = Seq2SeqTrainingArguments(
     logging_steps=100,
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
+    gradient_checkpointing=True,
     optim="adamw_torch_fused",
     save_total_limit=3,
     load_best_model_at_end=True,

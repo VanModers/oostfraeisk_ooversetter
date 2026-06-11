@@ -26,6 +26,12 @@ fi
 source "${VENV_DIR}/bin/activate"
 export PYTHONNOUSERSITE=1
 export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True
+: "${NLLB_TRAIN_BATCH_SIZE:=8}"
+: "${NLLB_EVAL_BATCH_SIZE:=8}"
+: "${NLLB_GRADIENT_ACCUMULATION_STEPS:=8}"
+export NLLB_TRAIN_BATCH_SIZE
+export NLLB_EVAL_BATCH_SIZE
+export NLLB_GRADIENT_ACCUMULATION_STEPS
 
 LOG_FILE="${LOG_DIR}/nllb_frs_${SLURM_JOB_ID:-manual}_$(date +%Y%m%d_%H%M%S).log"
 exec > >(tee -a "${LOG_FILE}") 2>&1
@@ -36,6 +42,7 @@ echo "Node     : ${SLURMD_NODENAME:-unknown}"
 echo "Repo dir : ${REPO_DIR}"
 echo "Venv     : ${VENV_DIR}"
 echo "Python   : $(which python)"
+echo "Batch    : train=${NLLB_TRAIN_BATCH_SIZE}, eval=${NLLB_EVAL_BATCH_SIZE}, grad_accum=${NLLB_GRADIENT_ACCUMULATION_STEPS}"
 echo "Started  : $(date)"
 if command -v nvidia-smi >/dev/null 2>&1; then
   echo "GPU(s):"
