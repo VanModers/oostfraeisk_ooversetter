@@ -15,6 +15,15 @@ MAX_LENGTH = 512
 
 
 
+def is_usable_pair(src, tgt, allow_both_blank=False):
+    """Keep aligned blanks only when the caller explicitly wants them."""
+    src_blank = not src.strip()
+    tgt_blank = not tgt.strip()
+    if src_blank and tgt_blank:
+        return allow_both_blank
+    return not src_blank and not tgt_blank
+
+
 def add_frs_lang(tokenizer, model=None, random_init=False):
     """Register frs_Latn as a new NLLB language.
 
@@ -94,7 +103,7 @@ def load_parallel_pairs(path):
          open(frs_path, "r", encoding="utf-8") as ff:
         pairs = [(g.strip(), f.strip()) for g, f in zip(gf, ff)]
 
-    return [(g, f) for g, f in pairs if g and f]
+    return [(g, f) for g, f in pairs if is_usable_pair(g, f, allow_both_blank=True)]
 
 
 def load_tatoeba_eng_pairs(tatoeba_path):
@@ -106,7 +115,7 @@ def load_tatoeba_eng_pairs(tatoeba_path):
          open(frs_path, "r", encoding="utf-8") as ff:
         pairs = [(e.strip(), f.strip()) for e, f in zip(ef, ff)]
 
-    return [(e, f) for e, f in pairs if e and f]
+    return [(e, f) for e, f in pairs if is_usable_pair(e, f)]
 
 
 def load_db_eng_pairs(path):
@@ -123,7 +132,7 @@ def load_db_eng_pairs(path):
          open(frs_path, "r", encoding="utf-8") as ff:
         pairs = [(e.strip(), f.strip()) for e, f in zip(ef, ff)]
 
-    return [(e, f) for e, f in pairs if e and f]
+    return [(e, f) for e, f in pairs if is_usable_pair(e, f)]
 
 
 def make_lang_pairs(raw_pairs, src_lang, tgt_lang, bidirectional=True):

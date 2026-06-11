@@ -109,6 +109,14 @@ def first_char_to_upper(s: str) -> str:
 def add_point(s: str) -> str:
     return s if (s and s[-1] in ".?!") else s + "."
 
+def is_valid_pair(src: str, tgt: str, allow_both_blank: bool = False) -> bool:
+    """Return whether a parallel pair is usable for generated training data."""
+    src_blank = not src.strip()
+    tgt_blank = not tgt.strip()
+    if src_blank and tgt_blank:
+        return allow_both_blank
+    return not src_blank and not tgt_blank
+
 def cut_sentence_if_necessary(frs: str, ger: str) -> str:
     if "," in ger:
         max_len = int(len(frs) * 1.3)
@@ -219,9 +227,13 @@ def main():
                 continue
 
             ger = cut_sentence_if_necessary(frs, ger)
+            if not is_valid_pair(ger, frs):
+                continue
             sentences = split_sentences(frs, ger)
 
             for frs_s, ger_s in sentences:
+                if not is_valid_pair(ger_s, frs_s):
+                    continue
                 ger_out.write(ger_s + "\n")
                 frs_out.write(frs_s + "\n")
                 ger_count += 1
@@ -229,7 +241,7 @@ def main():
             # English: write the original (unsplit) phrase pair when available.
             # Splitting DE/FRS on '. ' doesn't apply to EN, so we use the full pair.
             eng_clean = cut_sentence_if_necessary(frs, eng.strip())
-            if eng_clean and eng_clean != "-":
+            if eng_clean != "-" and is_valid_pair(eng_clean, frs):
                 eng_out.write(eng_clean + "\n")
                 frs_eng_out.write(frs + "\n")
                 eng_count += 1
@@ -252,10 +264,12 @@ def main():
             ger = row["Deutsch"].replace("\n", " ")
             ger = filter_all_abbreviations(cut_brackets(ger.split(";")[0]))
 
-            if is_to_be_filtered(frs) or not frs or not ger:
+            if is_to_be_filtered(frs):
                 continue
 
             ger = cut_sentence_if_necessary(frs, ger)
+            if not is_valid_pair(ger, frs):
+                continue
             frs = add_point(first_char_to_upper(frs))
             ger = add_point(first_char_to_upper(ger))
 
@@ -290,7 +304,7 @@ def main():
             ger = filter_all_abbreviations(ger.split(";")[0].split("(")[0])
 
             for frs_m, ger_m in split_meanings(frs, ger):
-                if len(ger_m.strip()) < 25:
+                if is_valid_pair(ger_m, frs_m) and len(ger_m.strip()) < 25:
                     for frs_t, ger_t in insert_into_template(frs_m.strip(), ger_m.strip()):
                         ger_out.write(ger_t + "\n")
                         frs_out.write(frs_t + "\n")
@@ -308,7 +322,7 @@ def main():
                   open(FAN_TEKSTEN / "eastfrisian.txt", encoding="utf-8") as ff):
                 for g, f in zip(gf, ff):
                     g, f = g.rstrip("\n"), f.rstrip("\n")
-                    if g or f:
+                    if is_valid_pair(g, f, allow_both_blank=True):
                         ger_texts.append(g)
                         frs_texts.append(f)
                         for _ in range(MANUAL_DATASET_MUL):

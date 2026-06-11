@@ -498,6 +498,7 @@ the chairs are so streaky from wiping that you have to be ashamed when another p
 the laundry is still clammy and wet which is why the air is so foggy
 it's so quiet and dead there in the house as if there was no life at all and no one lived there
 there can be love and peace in the world if there is goodwill on both sides
+The child is tired and sleepy. It needs to cuddle up a bit then it will surely fall asleep soon.
 everything in the house looks so dirty that you almost feel disgusted when you want to eat something there
 this will probably be taught to you when you have to put your feet under someone else's table later
 when the little stuff is tangled up in the ground then it's difficult to search it out in between
@@ -513,7 +514,6 @@ the apples sit loosely on the tree so that they just fall down when you bump int
 the ladies still have to say goodbye politely so we gentlemen can stay seated for a while
 this has always been a lazy man who has never done anything but sleep and dawdle
 it's a constant grinding and turning with the mill so you can certainly see that the miller is busy
-The child is tired and sleepy. It needs to cuddle up a bit then it will surely fall asleep soon.
 the weather has been unstable all summer and now that fall is coming it is still unstable
 if people subordinate each other then they are not good and then they cannot be trusted
 if things don't change soon i'll probably generate attention for there again
@@ -560,6 +560,7 @@ you can briefly put the barrel in the barrel stretcher and carry it to the stree
 my father has been sitting in an armchair for years because he was always so weak and sickly
 she is always so quibbling and peculiar that you almost don't know how to please her
 on the condition that you take me back tonight i think i'll go with you
+why are you sitting there yawning? if you are tired and sleepy then go to bed
 we want to set boundary stones so that we can always see where the boundary of our properties is
 "if the heart is only black" said the sexton then he wore a red vest at the funeral feast
 "every thing has its science" said aunt Gretchen as she blew out the candle with her butt
@@ -584,7 +585,6 @@ he always walks and works so slowly as if he doesn't care if he gets on or not
 i want to tell you something and lie as much as i can - i saw the mill fly and the miller after it
 in may every bird lays an egg - the quail and the godwit do not lay in may
 sixty times around the reel is a knipp and four knipp is a bind and five bind is a ball of yarn
-why are you sitting there yawning? if you are tired and sleepy then go to bed
 we had planned the celebration in our garden for months but we didn't expect rain
 "strunz on the streets girls from the house" said the father when his two daughters got married
 "once you get used to it" said the baker as he wiped out the oven with a cat
@@ -625,6 +625,7 @@ that hurt me so when i saw him so miserable that i had to run away from anxiety
 the food has been cooling on the table for so long that it has almost become completely cold
 he is one of the catholics who are not allowed to go anywhere else but to the catholic church
 it's already too ingrained in him to be easy to get out of him
+that's a drowsy behavior so you'd better go to bed if you're so sleepy
 that's a mess with the cows: it's almost impossible to keep them in the country anymore
 "that's not all butter that the cow gives" said the farmer as he stepped into a cowpat
 the child becomes so shy of strangers that it will neither thrive nor be with other people
@@ -661,7 +662,6 @@ arrogance is so rampant among humanity that it can never have a happy ending
 it doesn't mix well when two proud and smartass get together
 he was very pleased when he saw the girl just fall into the snow with her legs outstretched
 the house looks so incomplete as if it wasn't even finished and expanded properly
-that's a drowsy behavior so you'd better go to bed if you're so sleepy
 the flour is so coarse and coarsely ground that it is almost impossible to use for baking
 it was so crowded on the market today that almost no one could get through
 if you bring the book back to mr tomorrow that's early enough because today i don't need it
@@ -1716,6 +1716,7 @@ they walk together through the passage that runs between the ramparts
 set the hood and put on an orderly hat because the thing looks bad
 tailors only have one gut but it fits seven times around the church tower
 god knows what kind of stories that madman always tells
+who yawns and is tired what does he want with his loved one?
 girl stand still i can't stand the rocking in front of your eyes any longer
 we had such a severe frost this winter that we rarely experience here
 we will definitely have thunderstorms today because the air is much too humid
@@ -1899,7 +1900,6 @@ oaks grow on the sand island but they all have tree cancer
 what does it mean that the bell is ringing everywhere? is there a fire somewhere?
 what's the point of all this praying if the man only has evil in his head
 what is told about king radbod will be true and not a legend
-who yawns and is tired what does he want with his loved one?
 we have a leak in the attic so the roof needs to be checked once
 we were finally able to explain to the carpenters that the beam was too short
 we often had to steal the crops from the field the ground was so wet
@@ -2264,7 +2264,7 @@ he scribbles something that almost no one can read
 he harnesses his big dog to the cart instead of his horse
 he looks so fierce that you should almost be afraid of him
 he said if you can get beer then you can become a bricklayer
-he should almost burst with fullness he had eaten himself so fat
+he was about to burst from fullness he had eaten so much
 he has no idea about peat digging
 he almost doesn't know how to contain himself because of his annoyance
 hey Odin - the colorful cow - get on your feet - the path is good
@@ -3629,6 +3629,7 @@ whoever wants to make money has to call some whores virgins
 the next few years will not be easy for him
 throw that old rag away because it's worth nothing anyway
 the pallets must be processed in order
+the professor almost couldn't fill the large hall with his speech
 he who works himself to death is buried under the gallows
 i need to have the book i lent you back soon
 it's so easy to deceive when the sun shines on the water
@@ -3793,7 +3794,6 @@ the cleverest carpenter becomes nothing without commissions
 the room runs across the entire width of the house
 the teacher said that we should be free then
 the horses run so fast that the sparks fly
-the professor almost couldn't fill the large hall with his speech
 the sandkamp is to be leased for a further six years
 the chips burst into flames as soon as they catch fire
 who works himself to death will be buried under the gallows
@@ -4512,6 +4512,7 @@ after severe words must come severe deeds
 need teaches to pray and hunger teaches to eat pancakes
 now just tell us what you heard and saw
 old money old hay old bread suits everyone
+rainbow after four will go through your clothes the next day
 she wears a thick coat even on the warmest days
 how meets him on saturday and wants to tell him then
 she slapped him hard
@@ -4703,6 +4704,7 @@ pigs must starve for a day before being slaughtered
 pull the halters over the horses' heads
 and then he went and took care of it
 under the moor is clay instead of turf stone
+three ducks and two drakes are swimming on the pond
 our dog gets a special worm treatment against worms
 our dear heilant died for us on the cross
 our mother bakes delicious pancakes with apple slices
@@ -4914,7 +4916,6 @@ potatoes want to have something under their feet
 two-legged man sits on the three-legged man under the four-legged man
 five sheep drowned during the storm surge
 during the week i have to work until midnight
-three ducks and two drakes are swimming on the pond
 on st. nicholas day when the calves dance on the ice
 our relatives don't come to our house
 our boy got a new bike for christmas
@@ -5236,6 +5237,7 @@ everyone has enough in front of his own door to sweep
 this was ordered to me by a higher hand
 ask him yourself if he wants to visit you
 smack from one ass cheek to the other!
+as a soldier you must have good discipline
 freedom is the highest law in the frisian heart
 cheap sewing thread means cheap clothes
 opportunity breeds affection and also thieves
@@ -5496,7 +5498,6 @@ eating and drinking keeps body and soul together
 every rooster is king of his own dunghill
 one must avoid drunk people and wagons
 a lot of money and possessions often make you cocky
-as a soldier you must have good discipline
 children used to have slates at school
 fresh wine must be poured into new barrels
 caution is the mother of wisdom
@@ -5830,9 +5831,9 @@ i don't know if the two go together
 i don't want to promise you anything i won't do that for a long time
 i want to know why you called
 i would like to have a book from you on loan
-in Iowa his cousin milks three hundred cows
 in the cross week one must not plant beans
 in her youth she often dressed like a whore
+in Iowa his cousin milks three hundred cows
 if the finger is ringed the virgin is agreed
 yes you probably heard that i wanted to come
 can't you shave your chin better?
@@ -6267,6 +6268,7 @@ if the fish is fresh then it doesn't need salt
 i don't like hanging dead over the hedge
 i didn't spend my money on that
 it sends shivers down my spine
+in addition to geese there are also ducks
 there is more in it than you might think
 i misunderstood something
 there is a shortage of grain everywhere
@@ -6347,7 +6349,6 @@ he needs to be taught a lesson
 he has to make a big deal out of everything
 he avoids evil even more than fire
 he rages as if all is lost
-he had to stop in front of the barriers
 he took his ass in his arms and ran away
 he should not hurry even if there is a fire
 he puts the brake on the horse's nose
@@ -6373,6 +6374,7 @@ i haven't seen you for an extremely long time
 i haven't had anything to drink this morning
 i put his chair in front of the door
 i pulled the skin over his ears
+i took a little attention with me
 i was only able to grasp it with a sideways glance
 I can't read the letters back there
 i know him well but i don't remember who he is
@@ -7344,6 +7346,7 @@ he has to be spanked hard
 he needs to recover for a while
 he makes his father a reliable man
 he mashed the whole thing together
+he had to stop in front of the barrier
 he spoke a different language than us
 he hit the deer with the first shot
 he won't spin any good yarn from it
@@ -7607,6 +7610,7 @@ you're missing five pfennigs for a mark
 your contribution still needs to be paid
 when the cat mouses it doesn't meow
 when magpies chatter someone dies
+there is a pipe that carries gas
 you can see how the sheet is cut
 there are no sleeves to roll up
 there are two hallways through my house
@@ -7677,6 +7681,7 @@ he nursed and cared for the child well
 he moored the ship at knock
 his wife is a masculine woman
 he's had a lot of trouble with it
+he had his difficulties with that
 he has a double chin, he has a double chin
 he had a good portion of meat for lunch today
 he has a cunning head like an anvil
@@ -8005,7 +8010,6 @@ back then people didn't know about combine harvesters
 it turned out that he had lied
 a whirlwind is followed by drought
 the ship cannot get through the bottleneck
-there is a pipe that carries gas
 that means a lot to take on
 the skirt is much too wide
 a link in the chain is broken
@@ -8176,7 +8180,6 @@ i had a strange smell in my nose
 i came solely for that
 i haven't eaten a bite today
 i have been watching him for a long time
-i took a little attention with me
 i got my sou'wester out of the box
 i hope to god that everything goes well
 during the day, during the day, during the day
@@ -8353,6 +8356,7 @@ the heaviest burden is the burden of eight
 the time goes and we go with it
 whoever stands on his head will be confused
 the exception proves the rule
+the path needs to be widened a bit
 the wind always stays in the west
 the wind blew across the dry grass
 the car always slides back and forth
@@ -8702,7 +8706,6 @@ a good companion makes short miles
 not every cloud is a thunderstorm
 wet ploughing is poison for the clay
 after high tides come low ebbs
-according to his form he is but small
 sex is the little man's raisin bread
 now we come together on one board
 even the best horse has its quirks
@@ -9157,6 +9160,7 @@ an old man saw a white dog
 a bad dog betrays his master
 have a stiff band around your head
 excuse me, ..., forgiveness, ...
+according to his form he is but small
 in his opinion that's not a good thing
 now she was baking pancakes
 old trees cannot be transplanted
@@ -9295,7 +9299,6 @@ attach the strands to the orts
 the potatoes need to be piled up
 the apostles' creed, the apostolic
 the wall of the cup is very thin
-the path needs to be widened a bit
 the wind roared into the chimney
 the wind blows through the trees
 the wind rushes through the trees
@@ -9672,6 +9675,7 @@ Jacob pointed to his neighbors and said
 can you jump over it?
 poop and worries come every morning
 don't mess everything up
+corporation under public law
 fasting for a long time is not saving bread
 light-colored clothing gets dirty pretty quickly
 just let her sail to america
@@ -9766,7 +9770,7 @@ we just ate a little
 we decided a long time ago
 we don't have to spend money on anything special
 we still had to freeze at the end of april
-we dragged him out of the pond
+we dragged him out of the lake
 we want to submerge the ship once
 we agreed on it together
 do you want to take the companion with you?
@@ -11043,6 +11047,7 @@ that's just an imperfect child
 but that's not the way to do that
 that's flat against my chest
 this is my vagina said katharine
+this is a disgustingly hateful man
 this is a stupid man
 this is an extinct family
 this is a very tiring piece of work
@@ -11272,7 +11277,6 @@ he has a wrinkle on his face
 he has undergone a good healing process
 he got a lot
 he has an idea like an old house
-he made a new discovery
 he hardly has anything to eat
 he doesn't have much on his ribs
 he has nothing to ask of me
@@ -11284,6 +11288,7 @@ he burned his tongue
 he broke his leg
 he put himself there
 he was happy about it
+he completely built himself up
 he has rushed too hard
 he alone is to blame
 he had to pay the bill
@@ -11404,6 +11409,7 @@ he doesn't wind any handkerchiefs around
 he lives in emden am delft
 he lives in with his parents
 he lives in the wilhelminengang
+he lives with me in a residential area
 he is getting older and grayer
 he gets so damn accurate
 he wanted to force the stuff on me
@@ -11743,6 +11749,7 @@ the worst comes last
 the connecting wood has left it
 the meeting was successful
 the ability to work
+that leaves me speechless
 it swam before my eyes
 the foremost link of the finger
 everything goes according to old customs
@@ -11779,7 +11786,6 @@ that's a devil of a thing
 that's a hell of a bunch
 that's a funny buffoon
 i didn't do that well
-this is a disgustingly hateful man
 that's a grab for my hand
 that is a very strict teacher
 that is a blatant lie
@@ -12352,6 +12358,7 @@ to heed someone's concerns
 to heed someone's concerns
 to control someone's anger
 catch someone in the act
+make somebody aware of something
 free someone from chains and bands
 to open someone's book to someone
 today we are clearing the ice from the ships in the harbor
@@ -12370,6 +12377,8 @@ danger! vehicle swings out!
 do you want to stop?
 "what a joy" said the sow
 always the same excuse
+aurich is north of leer
+aurich is located east of emden
 both brothers did it
 better expensive than not getting
 you catch martens with eggs
@@ -12661,6 +12670,7 @@ you have to get out of my light
 you have to run a little faster
 each for himself God for all of us
 every farmer praises his butter
+emden is located west of aurich
 children's: angel bengel white cabbage stalk
 to be from the wrong side
 be suddenly overcome by sleep
@@ -13485,6 +13495,7 @@ he gave first aid
 he does not take them into consideration
 he admonished him
 he acquired it
+he let him down
 he blew the horn
 he put me under pressure
 he took the crooked for me
@@ -13718,6 +13729,7 @@ do not have a louse in the smoker
 plaintiffs have no friends
 come in then you can look out
 when the flood comes so does a child
+leer is south of aurich
 Land of flying knives
 apprenticeship years are not master years
 empty wagons rattle the loudest
@@ -14212,7 +14224,7 @@ you need to speak more clearly
 you don't have to mess around like that
 you don't have to be so slow
 you have to work carefully
-everyone is looking for their pond
+everyone is looking for their place
 conservation of animal species
 obsess over the girls
 to tell about wind and weather
@@ -14278,7 +14290,6 @@ he made her a child
 he stole his cap
 he has terminated the delivery contract for the goods
 he got him through there
-he let him down
 he kicked him
 all his limbs ache
 he has been under interrogation
@@ -14296,7 +14307,6 @@ he has a flea in his ear
 he went for a drive
 he has a large homestead
 he had a long suffering
-he had a quick death
 he has a toad in his throat
 he has a sleepy temperament
 he just left
@@ -14555,6 +14565,7 @@ a prescriptive grammar
 a warhorse
 a service for the harvest
 a paper bag with raisins
+a marginal employment
 utter a tongue twister
 tie a knot in the thread
 to teach an apprentice something
@@ -14802,6 +14813,7 @@ the book is a success
 the interior of borneo
 this gave him many opportunities
 that's 100 km by car
+these are all lies
 these are all lies
 that gives the citizen courage
 the animal is so long-legged
@@ -15111,7 +15123,7 @@ he has a good salary
 he made a good catch
 he has a good mouth
 he fell hard
-he built a tower
+he had a sudden death
 he had a sad fate
 he packed his clothes
 he has such a loud voice
@@ -15260,6 +15272,7 @@ he throws it on the ground
 he takes a bite out of his pocket
 he praised the child greatly
 he speaks from two mouths
+he sees himself next to god
 he passed the teapot around
 he was caught
 he cries his throat out
@@ -15330,6 +15343,7 @@ i'm glad she's coming
 i didn't fail
 i am not feeling well
 i started writing to him
+i love you very very much
 i was there before you
 i don't need that
 i do not mind
@@ -15674,7 +15688,6 @@ the matter is botched
 the thing is botched
 the biological balance
 these are all lies!
-these are all lies
 these are nothing but lies
 the thing doesn't want to run
 so that there is no lack of it
@@ -16009,7 +16022,7 @@ he vomited from alcohol
 he has a hole in his head
 he has a good mouth
 he fell badly
-he has a beautiful shape
+he built a tower
 he swore his oath
 he has his full number
 he kept his will
@@ -16119,6 +16132,7 @@ he got up early
 he scribbles something down
 he has to do everything badly
 he has to spill the beans
+he has to pay a fine
 he needs to strengthen himself
 he is limes out that land
 he made a little jump
@@ -16330,6 +16344,7 @@ know his pappenheimers
 throw the stuff away!
 smoking damages the lungs
 as thin as a thin twig
+i don't like that kind of stuff
 as lively as a young girl
 social market economy
 bacon peas
@@ -16407,7 +16422,6 @@ to make someone happy with something
 to give someone a big mouth
 whose trousers are hanging there?
 pour out your heart to someone
-make somebody aware of something
 give someone attention
 explain something to someone in detail
 recognize someone
@@ -16433,7 +16447,6 @@ juneberry, serviceberry
 to lose power over something, become addicted to something
 to lose power over something, become addicted to something
 almost is not half yet
-be attentive to someone
 Aurich has nine villages
 grandma is well cared for
 thank you for your response
@@ -16812,6 +16825,7 @@ he has a reliable wife
 he has a decent wife
 he got a cramp
 he has a picky tongue
+he has a beautiful shape
 he pinched a nerve
 he wears a red cap
 he scored a goal
@@ -16846,7 +16860,7 @@ he has gone into the small
 he is picky about food
 he is my best friend
 he is my companion
-he is a grown man
+he is a full grown man
 he is a mean man
 he is a little rascal
 he's a real rascal.
@@ -17138,7 +17152,6 @@ experience bad times
 hunger is the best cook
 as much as you want
 that's how god intended it
-i don't like that kind of stuff
 very curious
 take someone for a fool
 rutabaga with pork paws
@@ -17210,6 +17223,7 @@ look into someone's cards
 to assist someone in need
 involve someone in something
 who can get between my legs
+pay someone a visit
 give someone a black eye
 talk according to someone's words
 to win someone the new year
@@ -17257,6 +17271,7 @@ happy like a raisin bread
 happy as a spinning top
 be scared to death
 are you completely crazy now?
+getting out of control
 there is no one there except us
 thawing weather - muddy weather
 open day
@@ -17816,6 +17831,7 @@ here the path changes direction
 swerve to the right
 those wished for death live long
 household appliances
+keep going
 i'm in love with you
 i feel bad
 my head is so heavy
@@ -17892,7 +17908,6 @@ get a book for free
 a lasting memory
 drink a bottle of beer
 a good hundred meters
-a dead end
 find a twist on something
 a decent piece of linen
 one euro is 100 cents
@@ -17953,6 +17968,7 @@ ah! now i get it!
 old love never rusts
 east west home best
 east frisian right of way
+make ends meet
 to be over his beer
 to be in control of someone
 fall upon each other
@@ -18017,6 +18033,8 @@ don't report
 surrender to his fate
 work something into it
 burden oneself with something
+without rhyme or reason
+commit pickpocketing
 eighty years' war
 sailing against the wind
 appeal against something
@@ -18039,6 +18057,7 @@ suck on the fists
 to be at thirty-eleven
 the same from top to bottom
 to be mindful of something
+float on cloud nine
 our phones are paired
 do something by yourself
 scientific work
@@ -18257,7 +18276,6 @@ that was his undoing
 this is without equal
 the head of the city
 the house has a basement
-the house is built
 the house is too low
 the house is closed
 have a stitch in your side
@@ -18314,6 +18332,7 @@ it's nothing but mud
 what a thing!
 that is too narrow a measurement
 this is our dike and dam
+this is widespread
 that is truly true
 the calf is not developing well
 that would pass inspection
@@ -18429,6 +18448,7 @@ stand still at nothing
 carry out a lawsuit
 to be fond of someone
 many pigs thin liquid feed
+once and for all
 early stallion early gelding
 insect damage in grain
 fresh eggs good eggs
@@ -18511,7 +18531,6 @@ he mocked me
 he has a rough snout
 he has a sharp mind
 he has a loud voice
-he made a find
 he has a large estate
 he has tough skin
 he has knock knees
@@ -18938,7 +18957,6 @@ have weaned someone off something
 to protect someone from something
 who taught you that?
 who do you like
-pay someone a visit
 see someone's need
 brush someone's hair
 to lend something to someone
@@ -19224,6 +19242,7 @@ you bastard!
 you are probably wrong
 you have a good laugh
 you can laugh
+you come right after me
 you have to go
 you have to agree
 you will get something
@@ -19319,6 +19338,7 @@ he has bulging eyes
 he learned the hard way
 he stopped me
 he got mums
+he made a find
 he has a big mouth
 he leased a hunt
 he has a clear head
@@ -19334,7 +19354,6 @@ he wet himself
 he has applied
 he has applied
 he embarrassed himself
-he made a mistake
 he got upset
 he was scared
 he got lost
@@ -19530,7 +19549,6 @@ i became so angry
 be in the stern
 catch up in one go
 start in lane three
-in former times
 to sit in a ball
 in the year before last
 go to bed
@@ -19570,7 +19588,6 @@ go to hell!
 smaller elm bark beetle
 hairy bittercress
 man must remain man
-media attention
 i feel like crying
 i want something
 my joint hurts
@@ -19652,6 +19669,7 @@ a plastic cup
 a few glasses of grog
 buy a round of beer
 clear a ship
+a reverent visit
 a drum with cookies
 a chunky piece of wood
 a white breed of rabbit
@@ -19948,6 +19966,7 @@ it has sprouted
 the arch of the foot
 that's excessive
 the house is mine
+the house is built
 the house is for sale
 the house stands empty
 it doesn't matter
@@ -20279,6 +20298,7 @@ bending is foreign to him
 stop him for what
 one hundred diemat tall
 i'm building a house
+i'm about to run
 I'm feeling sad
 i didn't think of it
 i intend to go out
@@ -20311,6 +20331,7 @@ throw in the ditch
 be afraid of death
 fall into decline
 in three devil names!
+in former times
 in past times
 in past times
 in previous times
@@ -20325,6 +20346,7 @@ interfrisian congress
 while i did that
 jan is a baron of lies
 jesus pitied her
+John the Baptist
 young people are wanton
 rebbedi
 not a leaf moved
@@ -20365,6 +20387,7 @@ handle something with care
 treat someone lovingly
 but it didn't work
 people get along with each other
+media attention
 medical items
 more is not possible
 more splendor than tallow
@@ -20449,7 +20472,6 @@ operate a machine
 a barren piece of land
 plaster a wall
 make a judgement
-a lumbago
 cover a mirror with a cloth
 a stork on stilts
 fatten a pig
@@ -20969,6 +20991,7 @@ he followed him
 he went for a walk
 he is knock-kneed
 he is recognizable enough
+he is very sensitive
 he is very jealous
 he is absolved
 he's gone crazy
@@ -21169,7 +21192,6 @@ a pile of firewood
 a day of the week
 a reliable person
 enter into an employment relationship
-a dead end
 a dimple on the chin
 a fork with three prongs
 a fruitful tree
@@ -21192,7 +21214,6 @@ rape a woman
 a frisian mover
 a full face, a strong face
 a fully formed apple
-an adult human
 a dark house
 a tomcat that looks eagerly
 a large plot of rape
@@ -21246,7 +21267,6 @@ a wagon full of hay
 help a wound to heal with a magic formula
 a wonderful place
 nine pounds of silver
-nineteen and a half
 just as little as ...
 neither do you
 very little
@@ -21336,6 +21356,8 @@ on the other side of the canal
 to be on your feet, to be awake
 find worms to fish with
 fall to the ground
+keep up to date
+be on guard
 fall on your face
 at several points
 stop by for a cup of coffee
@@ -21431,6 +21453,7 @@ to be friends
 painted windows
 cultured manners
 beg and plead
+be in your senses
 to be on the way
 with awake senses
 keep kneeling
@@ -21455,7 +21478,7 @@ gable attic attic between the gable and the faucet beam of the gulfhouse
 be civil
 blackberry leaf
 white cabbage with bacon
-beside yourself
+be beside yourself, be outraged
 exceptionally long
 lift the anchor
 attach the anchor
@@ -21484,6 +21507,7 @@ provoke the enemy
 the finger is fat
 the bottle was empty
 the yeast has fermented
+lend a hand
 trade is flourishing
 the highest bidder
 the skin is so tight
@@ -21699,7 +21723,6 @@ God does not abandon us
 god's providence
 plum jelly
 greek testament
-grimace
 broad-leaved laserwort
 giant puffball
 adult
@@ -21734,7 +21757,6 @@ his name is peter
 he hangs his head
 he founded it
 he has thin hair
-he drove ahead
 he asked me
 he has his ass full
 he is dizzy
@@ -21809,7 +21831,6 @@ he gets sleepy
 oh my goodness!
 chop and burn
 be half past six
-John the Baptist
 do you have courage?!
 do not be like that!
 handler and stealers
@@ -21903,6 +21924,7 @@ is something missing?
 Marie threading around the rye
 do we have to do this?
 do we have to do something?
+more than anything else
 in the middle of the garden
 my beloved girl
 best before
@@ -22132,6 +22154,7 @@ be indignant, be angry
 burn for revenge
 thickened white cabbage in milk sauce
 keep out of the way
+out of the blue
 plow apart
 pluck apart
 time apart
@@ -22195,11 +22218,11 @@ all beautiful girls
 stand behind something
 be physically or mentally retarded
 chase after
-eighteen and a half
 let one go
 identical twins
 everyday worries
 all kinds of necklaces
+forever and ever
 forever and ever
 be your turn
 bring to the edge
@@ -22258,7 +22281,6 @@ be yuck
 without a will
 indoors and outdoors
 go out of the country
-thirteen and a half
 the day dawns
 enter into marriage
 the purgatory
@@ -22394,6 +22416,7 @@ playing checkers
 stew
 it stayed that way
 something is missing from that
+slip out, spill out
 nobody wants to go there
 slap
 three fifths and half coins
@@ -22417,7 +22440,6 @@ pair or unpair?
 cook electrically
 remain
 bison
-fourteen and a half
 forty years old
 sneaky like a cat
 have the faith, be of the opinion, think
@@ -22439,7 +22461,6 @@ wood stone
 feral pigs
 scald the feathers off the pheasants
 criticize petty
-fifteen and a half
 directly opposite
 shame on you!
 serve as a maid
@@ -22469,6 +22490,7 @@ please sit down!
 pea soup made from nasturtiums
 gray pea soup
 congratulations!
+grimace
 greet in the kitchen!
 directly on the wall
 he smears himself
@@ -22508,6 +22530,7 @@ he is embarrassed
 he is lost
 he is drowned
 he is stinking lazy
+he drove ahead
 he is completely drunk
 he is very crazy
 he passed away
@@ -22600,6 +22623,7 @@ gallop
 put in the end
 in passing
 catch the eye
+on the contrary
 in future times
 go on vacation
 to forget something
@@ -22607,6 +22631,7 @@ indirect taxes
 sauerkraut
 interfrisian council
 Jan Masturbator
+John Calvin
 practice heresy
 don't have a job
 not stay alive
@@ -22849,10 +22874,10 @@ for year and day, always
 stye
 have peace of mind
 crooked and awry
+lumbago
 be well rested
 have your mouth full
 like i said
-seventeen and a half
 digging up asparagus
 special use
 spanish slug
@@ -23103,6 +23128,7 @@ hell one more!
 strong steel
 roll the dice
 fatally hit
+a dead end
 experience baptism
 streaky bacon
 there is enough space
@@ -23295,7 +23321,6 @@ oatmeal cookies
 high heels
 catch rabbits with snares
 iron stamp
-i'm about to run
 my limbs feel so weak
 i am so hot
 i would not do that
@@ -23432,6 +23457,7 @@ an honorable person
 a powerfully built man
 a strong fellow
 a double bottom
+a double bottom
 a dark dress
 to catch a hawk
 to raise a flag
@@ -23511,9 +23537,11 @@ a haughty man
 a wet glove
 a cute kid
 an old braggart
+a flat tire
 about three pounds
 book a trip
 a rhenish stone
+a funny guy
 a safe journey
 a silk dress
 a sharp curve
@@ -23576,7 +23604,6 @@ they avoid each other
 happy new year!
 sand over it
 arrive safely
-sixteen and a half
 do his best
 show one's own will
 find one's man
@@ -23664,7 +23691,6 @@ sharpen scythe
 get smaller
 steam potatoes
 washing clothes badly
-twenty and a half
 take into consideration
 around the church
 bring around your neck
@@ -23691,7 +23717,9 @@ dried beans
 striking clothing
 solve tasks
 thickened beans in milk sauce
+get out of control
 enormously expensive
+foreign service
 walnut
 to make the laundry
 wheat beer
@@ -23930,7 +23958,7 @@ from one generation to the next generation
 as of tomorrow
 pass out
 getting crazy
-be by yourself, to be beside himself, to be infuriated, be mad
+be beside yourself, be outraged
 let of something
 give up something
 to be able to do something
@@ -24017,6 +24045,7 @@ he is broken
 he is completely exhausted
 he's all set
 he fled
+he is sleepy
 he is unfriendly
 he is hunting
 he has been cast out
@@ -24033,14 +24062,13 @@ he is standing there
 head over heels
 mild weather
 trade
-John Calvin
 clean glasses
 personal hygiene
 back and forth
 round trip
+Hendrik de Cock
 see you later!
 now it's over!
-Hendrik de Cock
 straight towards it here
 take care!
 take care!
@@ -24245,6 +24273,7 @@ about five men
 an impetuous child
 a strong wind
 a horny bull
+a funny guy
 an old castle
 an old ruffian
 an open letter
@@ -24272,7 +24301,6 @@ not a little
 not so smart!
 no and yes well
 wet like a cat
-nine and a half
 nothing special
 again, in turn
 pure, inside
@@ -24473,7 +24501,6 @@ great white pelican
 white laundry starch
 common tern
 bottle wine
-eight and a half
 all together
 inheritance and ever
 eight feet thick
@@ -24504,6 +24531,7 @@ quite something
 be known
 stuffy air
 regret
+be ready
 stuff beds
 pouring concrete
 concrete ceiling
@@ -24623,6 +24651,7 @@ you wet sack!
 you get weird
 discontinuous firing in the ring kiln
 german wasp
+nothing but lies
 gluttony
 vinegar is acidic
 expatriate
@@ -24724,7 +24753,6 @@ he is in excellent health
 he is clumsy
 he is serious
 he fell
-he is sleepy
 he is a hacker
 he is hanged
 he is stunned
@@ -24781,6 +24809,7 @@ one of my youth
 go towards
 in ancient times
 in his youth
+in general
 future, below
 be respected
 in the meantime
@@ -24794,7 +24823,6 @@ Jantje Janssen, Jane Doe, miss average consumer
 bucket yoke
 jute bag
 jute sheet
-catastrophic
 husband and wife
 rag soaked in chamomile tea
 chamomile bag
@@ -25008,14 +25036,13 @@ be scared
 need, require
 bare ass
 nudibranch
-north door
 north side
-northern lights
 northern lights
 hurt a lot
 Ostfriesischer Kurier
 cloud of cream on the tea
 packaged butter
+noble status
 gathering ears of corn
 twice
 juice pear
@@ -25056,7 +25083,6 @@ so to speak, so to say
 so to speak, so to say
 so to speak, so to say
 so to speak, so to say
-seven and a half
 chapped lips
 burn chips
 field maple
@@ -25124,7 +25150,6 @@ pray to god
 go towards
 assist
 come to do something, do something
-ten and a half
 make known
 ten years old
 drill teeth
@@ -25143,7 +25168,6 @@ loyal voters
 wear mourning clothes
 potato eye
 shaggy yarn
-twelve and a half
 be repugnant
 ours are five
 for decency
@@ -25186,6 +25210,7 @@ rely on someone
 bursting fire
 by itself
 go out for pleasure
+foreign office
 fold laundry
 stretch laundry
 wheat grain
@@ -25322,7 +25347,6 @@ shaggy yarn
 you're wrong
 over it
 cloudy beer
-three and a half
 dry yeast
 double ear
 bad weather
@@ -25333,7 +25357,6 @@ give it to me!
 you rogue!
 a moment ago
 nothing but butter
-nothing but lies
 pure water
 cook food
 cook food
@@ -25344,7 +25367,6 @@ moleskin, english leather, pilot substance
 somewhere
 recognizability
 soil mixed with clay and sand for fertilizing in the garden or for planting
-four and a half
 be godfather
 severe dryness
 violent words
@@ -25353,7 +25375,6 @@ get away, go away
 nutritious straw
 painter
 get lost
-five and a half
 felt plugs
 rancid butter
 flat breasts
@@ -25660,11 +25681,9 @@ bit by bit
 north side
 north wind
 go now!
-noble status
 eels sting
 field furnace
 put off
-east door
 quill and ink
 sticky peat soil
 picked finches
@@ -25690,7 +25709,6 @@ hang around
 take a break
 rough woodlouse
 boiled potatoes
-six and a half
 she is smart
 boiling hot
 never
@@ -25758,7 +25776,7 @@ straighten up
 oppose
 get upset
 silverware
-south door
+northern lights
 black jelly
 black coffee
 drawing slate
@@ -25789,7 +25807,6 @@ step by step
 potato musher
 dry your clothes
 two or three
-two and a half
 two glasses
 case of doubt
 go looking for eggs
@@ -25838,7 +25855,6 @@ make room for someone
 feed someone
 to whom the ... is
 do something to someone
-west door
 white borders
 far away
 do we want that?
@@ -25847,7 +25863,6 @@ increasing moon
 keep word
 fertile land
 pluck wool
-adult, adult
 bulging hands
 ... and even more
 ... and so forth
@@ -25949,7 +25964,6 @@ before i came
 everyone
 alder
 alder wood
-eleven and a half
 strong and healthy, powerful
 Emder cheese
 freshwater fish
@@ -26079,7 +26093,6 @@ in secret
 reconsider
 in good
 in small
-in general
 in the future
 raise an objection
 is this ours?
@@ -26395,6 +26408,7 @@ full of holes
 gushes
 now and then, sometimes, with interruption
 in case of misfortune
+by far
 see you later!
 bitterly poor
 hen harrier
@@ -26739,7 +26753,6 @@ wild rose
 white sauce
 farther
 carrot seedling
-adult
 both
 every day
 at most
@@ -26758,6 +26771,7 @@ on occasion
 wheelbarrows full
 in pairs
 occasionally, sometimes, on occasion
+a dead end
 breeze
 hard cash
 on top
@@ -26940,6 +26954,7 @@ how much?
 how late?
 ... verily!
 long ago
+long ago
 done, in progress
 like the fire
 as a consequence
@@ -26974,7 +26989,6 @@ begging
 grass seedling
 uncle Harm
 get lost!
-hematoma
 go there
 between here
 noble people
@@ -27003,6 +27017,7 @@ intentionally, willingly
 surprise
 old fold
 old may
+or not
 crazy
 oh brother!
 get on the way
@@ -27137,7 +27152,6 @@ lotto
 rags
 Lütje, Lutje
 Meeme, Meemo, Meme
-passover, pesach
 or if
 on the
 quite, right, absolutely
