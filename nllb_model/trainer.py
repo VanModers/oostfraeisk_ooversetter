@@ -3,7 +3,7 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, S
 from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG, MAX_LENGTH
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
-OUTPUT_DIR = "./nllb_frs_model_longer"
+OUTPUT_DIR = "./nllb_frs_model"
 
 print(f"Loading {MODEL_NAME}...")
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)

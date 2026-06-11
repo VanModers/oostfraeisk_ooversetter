@@ -1,3 +1,4 @@
+import argparse
 import torch
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, DataCollatorForSeq2Seq
 from torch.utils.data import DataLoader
@@ -5,89 +6,110 @@ from dataset_creator import NLLBTranslationDataset, load_parallel_pairs, make_la
 from tqdm import tqdm
 import evaluate
 
-bleu_metric = evaluate.load("sacrebleu")
+DEFAULT_MODEL_PATH = "./nllb_frs_model"
+DEFAULT_VALIDATION_PATH = "validation data"
+DEFAULT_RESULTS_PATH = "validation_results.txt"
 
-MODEL_PATH = "./nllb_frs_model_longer"
-VALIDATION_PATH = "validation data"
-RESULTS_PATH = "validation_results.txt"
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
-print(f"Device: {device}")
+def parse_args():
+    parser = argparse.ArgumentParser(description="Evaluate an NLLB East Frisian model on de->frs validation data.")
+    parser.add_argument("--model-path", default=DEFAULT_MODEL_PATH)
+    parser.add_argument("--model-label", default=None)
+    parser.add_argument("--validation-path", default=DEFAULT_VALIDATION_PATH)
+    parser.add_argument("--results-path", default=DEFAULT_RESULTS_PATH)
+    parser.add_argument("--batch-size", type=int, default=8)
+    return parser.parse_args()
 
-tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH)
-model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_PATH)
-add_frs_lang(tokenizer)
-model.to(device)
-model.eval()
 
-# Evaluate de -> frs only (for comparison with existing MarianMT results)
-val_pairs = load_parallel_pairs(VALIDATION_PATH)
-print(f"Validation pairs: {len(val_pairs)}")
+def main():
+    args = parse_args()
+    model_label = args.model_label or args.model_path
+    bleu_metric = evaluate.load("sacrebleu")
 
-val_ds = NLLBTranslationDataset(make_lang_pairs(val_pairs, DEU_LANG, FRS_LANG, bidirectional=False), tokenizer)
-data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
-val_loader = DataLoader(val_ds, batch_size=8, collate_fn=data_collator)
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print(f"Device: {device}")
+    print(f"Model path: {args.model_path}")
+    print(f"Model label: {model_label}")
 
-frs_lang_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_path)
+    model = AutoModelForSeq2SeqLM.from_pretrained(args.model_path)
+    add_frs_lang(tokenizer)
+    model.to(device)
+    model.eval()
 
-total_tokens = 0
-correct_tokens = 0
-total_loss = 0
-predictions_text = []
-references_text = []
+    # Evaluate de -> frs only (for comparison with existing MarianMT results)
+    val_pairs = load_parallel_pairs(args.validation_path)
+    print(f"Validation pairs: {len(val_pairs)}")
 
-with torch.no_grad():
-    for batch in tqdm(val_loader, desc="Evaluating de->frs"):
-        input_ids = batch["input_ids"].to(device)
-        attention_mask = batch["attention_mask"].to(device)
-        labels = batch["labels"].to(device)
+    val_ds = NLLBTranslationDataset(make_lang_pairs(val_pairs, DEU_LANG, FRS_LANG, bidirectional=False), tokenizer)
+    data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
+    val_loader = DataLoader(val_ds, batch_size=args.batch_size, collate_fn=data_collator)
 
-        # Loss + token accuracy (teacher forcing)
-        outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-        total_loss += outputs.loss.item() * input_ids.size(0)
+    frs_lang_id = tokenizer.convert_tokens_to_ids(FRS_LANG)
 
-        preds = torch.argmax(outputs.logits, dim=-1)
-        mask = labels != -100
-        correct_tokens += (preds == labels).masked_select(mask).sum().item()
-        total_tokens += mask.sum().item()
+    total_tokens = 0
+    correct_tokens = 0
+    total_loss = 0
+    predictions_text = []
+    references_text = []
 
-        # BLEU (generation)
-        generated_ids = model.generate(
-            input_ids=input_ids,
-            attention_mask=attention_mask,
-            forced_bos_token_id=frs_lang_id,
-            max_new_tokens=MAX_LENGTH,
-            max_length=None,
-            num_beams=6,
-        )
-        decoded_preds = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
+    with torch.no_grad():
+        for batch in tqdm(val_loader, desc="Evaluating de->frs"):
+            input_ids = batch["input_ids"].to(device)
+            attention_mask = batch["attention_mask"].to(device)
+            labels = batch["labels"].to(device)
 
-        labels_for_decode = labels.clone()
-        labels_for_decode[labels_for_decode == -100] = tokenizer.pad_token_id
-        decoded_labels = tokenizer.batch_decode(labels_for_decode, skip_special_tokens=True)
+            # Loss + token accuracy (teacher forcing)
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
+            total_loss += outputs.loss.item() * input_ids.size(0)
 
-        predictions_text.extend(decoded_preds)
-        references_text.extend([[l] for l in decoded_labels])
+            preds = torch.argmax(outputs.logits, dim=-1)
+            mask = labels != -100
+            correct_tokens += (preds == labels).masked_select(mask).sum().item()
+            total_tokens += mask.sum().item()
 
-token_accuracy = correct_tokens / total_tokens
-avg_loss = total_loss / len(val_ds)
-bleu_score = bleu_metric.compute(predictions=predictions_text, references=references_text)
+            # BLEU (generation)
+            generated_ids = model.generate(
+                input_ids=input_ids,
+                attention_mask=attention_mask,
+                forced_bos_token_id=frs_lang_id,
+                max_new_tokens=MAX_LENGTH,
+                max_length=None,
+                num_beams=6,
+            )
+            decoded_preds = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)
 
-result_str = (
-    "-------------------------------------------------------------------------------------\n"
-    f"NLLB-200-distilled-600M (de->frs)\n"
-    f"Token-wise Accuracy: {token_accuracy:.4f}\n"
-    f"Avg Loss: {avg_loss:.4f}\n"
-    f"BLEU Score: {bleu_score['score']:.2f}\n"
-)
+            labels_for_decode = labels.clone()
+            labels_for_decode[labels_for_decode == -100] = tokenizer.pad_token_id
+            decoded_labels = tokenizer.batch_decode(labels_for_decode, skip_special_tokens=True)
 
-print(result_str)
+            predictions_text.extend(decoded_preds)
+            references_text.extend([[l] for l in decoded_labels])
 
-print("Sample translations (de -> frs):")
-for i in range(min(5, len(predictions_text))):
-    print(f"  Pred: {predictions_text[i]}")
-    print(f"  Ref:  {references_text[i][0]}")
-    print()
+    token_accuracy = correct_tokens / total_tokens
+    avg_loss = total_loss / len(val_ds)
+    bleu_score = bleu_metric.compute(predictions=predictions_text, references=references_text)
 
-with open(RESULTS_PATH, "a", encoding="utf-8") as f:
-    f.write(result_str + "\n")
+    result_str = (
+        "-------------------------------------------------------------------------------------\n"
+        f"{model_label} (de->frs)\n"
+        f"Model Path: {args.model_path}\n"
+        f"Token-wise Accuracy: {token_accuracy:.4f}\n"
+        f"Avg Loss: {avg_loss:.4f}\n"
+        f"BLEU Score: {bleu_score['score']:.2f}\n"
+    )
+
+    print(result_str)
+
+    print("Sample translations (de -> frs):")
+    for i in range(min(5, len(predictions_text))):
+        print(f"  Pred: {predictions_text[i]}")
+        print(f"  Ref:  {references_text[i][0]}")
+        print()
+
+    with open(args.results_path, "a", encoding="utf-8") as f:
+        f.write(result_str + "\n")
+
+
+if __name__ == "__main__":
+    main()

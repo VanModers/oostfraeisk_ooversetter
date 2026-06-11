@@ -45,11 +45,18 @@ echo "=========================================="
 
 cd "${REPO_DIR}"
 
+echo "--- Validating current Hugging Face model before training ---"
+python nllb_model/validator.py \
+  --model-path "VanModers114/East_Frisian_NLLB_Model" \
+  --model-label "Current Hugging Face model before retraining"
+
 echo "--- Training ---"
 python nllb_model/trainer.py
 
-echo "--- Validating ---"
-python nllb_model/validator.py
+echo "--- Validating newly trained local model ---"
+python nllb_model/validator.py \
+  --model-path "./nllb_frs_model" \
+  --model-label "New local model after retraining"
 
 echo "=========================================="
 echo "Finished : $(date)"
