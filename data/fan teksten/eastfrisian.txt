@@ -555,7 +555,7 @@ Dat was baldóódiğ kold.
 Ferleeden nacht was 't häit.
 Dat was näit unferwacht ' t.
 Dat was läip oopensichtelk.
-Dat was läip fermóókelk.
+Dat was läip angeneem.
 Dat was wies hâard aarbaid.
 Dat was däi räecht beslus.
 Dat was fööer drei dóóeğ.
@@ -973,7 +973,7 @@ Soo móókent dat däi profiis.
 Dat is eerst däi anfang!
 Dat is eerst däi anfang.
 Dat is äinfach soo.
-Dat is net akróót dat wat ik bruukt heb.
+Dat is genaau dat, wat ik bruukt heb.
 Genaau dat wul ik.
 Jüüst dat bruukt häi.
 Dat is mîin. Dau dat t'rüeğ.
@@ -5148,7 +5148,7 @@ Häi skrift noch of un tau romóónen, man näit meer soo fóók as frauer.
 Häi is stolt up däi dóódsóóek dat häi noojt in siin leevend 'n dokter upsöcht het.
 'N zjenii bestaajt uut äin prosent inspiróósjoon un 99 prosent swäit.
 Us fóóder bleev mit us per post un telefoon in kuntakt, wiilst häi in ooversäj was.
-Sülst doo ik bâajd hâan neemen dau, kan ik kiin âaj upslóón, sünner däi dööel t' beseeren.
+Sülst doo ik bâajd hâan neemen dau, kan ik kiin âaj oopenslóón, sünner däi dööel t' beseeren.
 Mäinst duu näit, dat dit computerspil 'n biitje t' stur föör Tom weesen kun?
 Dokters sullent bii âal näej undwikkelns in d' medsiin up d' höeğt bliiven.
 Doo us lâang unnerhollen t'äen was, was mauder fan 't stóón möej.
@@ -8772,7 +8772,7 @@ Ik fróóğ mii, woo Tom 't skaft het, siin wóógen bii soo min bot t' parken.
 Ik wil, dat Jii näit soo gaau forent. Jii sörgent d'r anners föör, dat 't dat pupke slecht word't.
 Ik wil, dat duu näit soo gaau foren daajst. Duu sörğst d'r anners föör, dat dat pupke slecht word't.
 In d' tauken feeberwoi sal ik fiif joer Engelsk leert hebben.
-Ik bün nóó d' tauken bibliotäik góón, um 'n poer bauken tau dit teemó t' finnen.
+Ik bün nóó d' nóóest bibliotäik góón, um 'n poer bauken tau dit teemó t' finnen.
 Tom kun ik oovertüügen, man näit Marió.
 Disser bräif maut bit mörn in 't Engelsk ooverset't worden.
 Ik wil disser bräif bit mörn in 't Engelsk ooverset't hebben.
@@ -9160,7 +9160,7 @@ Tom läivde 't t' singen, doch singen höören wul hum nüms.
 Tom leet, as of häi up elker moment lösbruelen sul.
 Tom aarbaid't as kelner, man söcht nóó 'n beeterder aarbaidsstee.
 Tom is däi enkeld in us femiilje, däi al móól in Boston west het.
-Tom is riik nauğ, um sük, wor häi dat ook wul, 'n huus t' koopen.
+Tom is riik nauğ, um sük, wor ook immer häi dat wul, 'n huus t' koopen.
 Tom kan nuu fööl beeter Fransk as noch fööer drei móónd.
 Doo Tom näit däi draaj kriğt, sal häi in 't gefangenis lannen.
 Tom wul siin bóós äinliik um 'n gehaltsferhoogern beeden, man häi dee sük dat anners ooverläegen.
@@ -9523,7 +9523,7 @@ Zjenii is tau äin prosent ingeeven un tau neegenunnäitiğ prosent uutslooven.
 Up miin skaul gaf dat man Fransk as frömdtóól.
 Up miin skaul wur bloot Fransk as frömdtóól unnerricht't.
 Buutenlandsk anläegers trukkent höör geld uut d' Feräint Stóóten t'rüeğ.
-Mii móókt niks meer plesäär, as mii mit hum t' unnerhollen.
+Mii móókt niks meer spóós, as mii mit hum t' unnerhollen.
 Undskülligent Jii! Kunnent Jii wal 'n footo fan miin früen un mii móóken?
 Neement Jii mii dat näit kwóód! Wassent Jii wal soo frünnelk, 'n footo fan miin früen un mii t' móóken?
 In elker huus sul dat minst äin köölenmonoksiidmeller geeven.
@@ -9931,7 +9931,7 @@ Sünner gâaud taudóóden kan man ook niks gauds kooken.
 Sünner gâaud taudóóden kan man kiin gaud eeten móóken.
 Doo duu dat móókst, daajst duu dii an däi laağachtiğkaid blootstellen.
 Doo Jii dat móókent, daunt Jii Jau an däi laağachtiğkeid blootstellen.
-Doo duu bii mii nóó huus tau kumst, fertel ik dii dat ferhóól in âal enkelhaiden.
+Doo duu nóó mii nóó huus tau kumst, fertel ik dii dat ferhóól in âal enkelhaiden.
 Doo Jii mii ferloovent, t' prooten, kan ik âals ferkloren.
 Doo dat medkóment kiin wirken het, sullent wii fiilicht däi dosis ferhoogern.
 Doo dat stemt, dan is häi näit ferantwoordelk föör dat melöör.
@@ -11768,8 +11768,8 @@ Uut d' fêert let't däi grôot fels as 'n ol slöt.
 Fan feeren säin, let't däi fels as 'n ol slöt.
 Nóó gerüchten traauent Tom un Marió bold.
 Deedent Jii bitte hir Jau nóóm, Jau adräes un Jau telefoonnummer dóólskriiven.
-Bitte bliiv sitten, bit däi bus häilmóóls t' stóón koomen is.
-Bitte bliivt sitten, bit däi bus häilmóóls t' stóón koomen is.
+Bitte bliiv sitten, bit däi bus häilmóóls tau 't stóón koomen is.
+Bitte bliivt sitten, bit däi bus häilmóóls tau 't stóón koomen is.
 Bitte bliivent Jii sitten, bit däi bus häil tau 't stóón koomen is.
 Bitte bliivent Jii bit tau 't kumplêet anhollen fan d' bus sitten.
 Pitsó is dat tsoord eeten, dat tau d' fandóóğsk leevendsstiil paast.
@@ -13446,7 +13446,7 @@ Alwoo ik geern bowl, bün ik in d' läest tiid näit bowlen góón.
 Wel mit 't sweerd dood't, däi maut mit 't sweerd dood't worden.
 Elker ferbinnen mit dat fluğtsoiğ was t'móól as ofsneeden.
 Fluğtsoigen fermöögelkent däi minsk, grôot distansen gaau t'rüeğ t' läegen.
-Nóódeem ik däi höövel anhooğ loopen was, was ik häil uut d' pûust.
+Nóódeem ik däi höeğt anhooğ loopen was, was ik häil uut d' pûust.
 Wii hebbent fööer, fandóóeğ nóó 't middóóğeeten in d' park kaiern t' góón.
 Nóó däi biibel bruukde God ses dóóeğ, um däi weerld t' ferskeppen.
 Bit tau d' fertrek fan d' stöörmfrunt gelt 'n windworskaauen.
