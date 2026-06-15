@@ -2460,8 +2460,8 @@ Doo man smookers höör tsigretten nimt, wordent s' nervöös un kibbelk.
 Ik lees sükker sóóken as beraumt romóónen, däi in feräinfolliğt Fransk umskreeven wurdent.
 Ik wul disser geleegenhaid d'r tau bruuken, Jau âal föör Jau mitaarbaid t' danken.
 Ik hol dat föör läip unworskiinelk, dat Tom dat gold, wat häi funnen het, hollen dürt.
-Ik wäit, dat 't hooğst unworskiinelk is, dat 't mii lingen sal, dii t' oovertüügen, dat duu dii fersinst.
-Ik wäit, dat mii 't man hooğst unworskiinelk lingen sal, dii d'r fan t' oovertüügen, dat duu dii fersinst.
+Ik wäit, dat 't hooğst unworskiinelk is, dat 't mii lingen sal, dii t' oovertüügen, dat duu dii fersüğst.
+Ik wäit, dat mii dat man hooğst unworskiinelk lingen sal, dii d'r fan t' oovertüügen, dat duu dii fersüğst.
 Ik hoop, Jau is klor, dat 't föör mii wies dat allerläest was, sünner Jau ferlof d'r hen t' góón.
 Ik hoop, jau is klor, dat 't föör mii wies dat allerläest was, sünner jau ferlof d'r hen t' góón.
 Ik hoop, dii is klor, dat 't föör mii wies dat allerläest was, sünner diin ferlof d'r hen t' góón.
@@ -2741,7 +2741,7 @@ Miin ollen möögent miin fründin näit. Säi finnent, säi was föör mii näi
 Fööl ollen hollent dat föör wichtiğ, dat höör kinner Fransk leeren.
 Gullydeksels bünt rund, um dat säi soo näit döör 't gat faalen köönent.
 Döör lüchtferfuulen is 't 'n daardel fan däi minsken up d' êer näit möögelk, dat melkpad t' säin.
-Föör 'n däil is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón döör 'n häimsk ökonoomsk dóólgaang bedingt.
+Däils is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón up 'n häimsk ökonoomsk dóólgaang t'rüeğ t' fören.
 Dat is praktisk allerweegens in d' weerld möögelk, mit 'n maudertóólprooter Engelsk t' leeren.
 Dat is kiin wunner, dat Tom slecht slöpt: häi drinkt je bit tau twalf kopkes kofje up d' dağ.
 Dat was 'n läip lastiğ wêek föör Marió, säi is froo, 't achter sük t' hebben.
@@ -4931,7 +4931,7 @@ Däi dokter rood Tom, t'minst drei kurfräej dóógen pro wêek in t' hollen.
 Däi kâauk is niks worden, um dat dat ferfalsdóótum fan 't meel ooverskreeden was.
 Däi kâauk is niks worden, um dat dat meel ferfaalen was.
 Däi jung gaf fööer, leesen t' köönen, man häi hul dat bauk ferkeert um.
-Däi mormoonen hebbent däi poligóómii ferbooden, man wat anhengers praktisäärent hum altiid noch.
+Däi mormoonen hebbent däi poligóómii ferbooden, man wat anhengers praktisäärent höör altiid noch.
 Duu sust oover mii wäiten, dat ik fööl tiid mit leesen ferbrengen dau.
 Wel beraumt het säeğt, dat fantasii wichtiger was as intelligens.
 Säi skreev hum, um hum t' säegen, dat säi tauken sömmer näit up fersîit koomen kun.
@@ -13352,7 +13352,7 @@ Dat is mii ne'ğeliik, woo aarm duu büst. Ik wil dii doch traauen.
 Ik wus näit, woo dat gaajt, doch ik fersöch 't trotsdeem.
 Ik bün eerst nóó twei üer 's mörns inslóópen.
 Ik kan d'r näit umtau, mii t' fróógen, of Tom mörn nóó d' skaul koomen sal.
-Ik kan Tom näit finnen. Häi is doch noch näit weğ of näit?
+Ik kan Tom näit finnen. Häi is doch noch näit weğ, of näit?
 Ik kan mii dat näit laisten, dit weekenäen nóó d' onsen t' foren. Ik bün plaite.
 Mit diin lâang, wiet hoer kan ik dii al fan feeren säin.
 Ik koop dat sülver fan 'n man, däi 'n mîin besit't.
