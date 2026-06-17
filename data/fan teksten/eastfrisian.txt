@@ -1280,7 +1280,7 @@ Föör buutenlanners is dat maielk Jóópóónsk t' leeren.
 Dat is stur, dit ferhóól kindgerecht um t' skriiven.
 Dat is ferbooden tsigretten an minnerjorigen t' ferkoopen.
 Dat is 'n ding fan d' unmöögelkkaid föör us oover däi äj t' góón.
-Dat is sinlös t' fersöyken hum d'r fan tau oovertüügen.
+Dat is sinlös t' fersöyken hum d'r fan t' oovertüügen.
 Dat let't d'r nóó as wassent wii tau 't groefst hóóst uut.
 Dat let't net as of wii dat läiepst bold ooverstóón haarent.
 Dat let't as of duu 'n biitje taunoomen hest.
@@ -5603,8 +5603,8 @@ Sülst lütje kinner hebbent 'n anbooren sin d'r föör, wat gerecht un wat näi
 Elker joer wordent fööl kinner fan höör äigen femiiljenleeden undfört.
 Dr. Hellebrandt is buutengewôon professoor an disser ekselläent uniwersitäit.
 Lóót dii tau niks prowosäären, wat duu lóóterweğ beraust!
-Draauel näit t' fróógen, doo duu miin ferkloren näit ferstaajst!
-Draauelnt Jii näit t' fróógen, doo Jii miin ferkloren näit ferstóónt!
+Trüegel näit t' fróógen, doo duu miin ferkloren näit ferstaajst!
+Trüegelnt Jii näit t' fróógen, doo Jii miin ferkloren näit ferstóónt!
 Gift dat enner 'n anner land, wat soo staark däi póótriootismus upböt't as Amerikó?
 Wäitent jii noch, woo wii as kinner mitnanner in d' tsoo góón bünt?
 Wäist duu noch, woo wii as kinner mitnanner in d' tsoo góón bünt?
@@ -6675,7 +6675,7 @@ Doo duu dat bedüüden fan 'n woord näit kenst, slóó 't in 't woordenbauk nó
 Doo duu nóó Amerikó gaajst, sust duu diin Engelsk uppuläären.
 Doo twei minsken altiid dat sülviğ mäinen hebbent, is äien fan höör ooverflaudiğ.
 Doo ik wat föör dii daun kan, draauel näit, mii 't t' säegen!
-Doo 't wat gift, wat ik föör dii daun kan, dan let näit un lóót mii 't wäiten.
+Doo 't wat gift, wat ik föör dii daun kan, dan trüegel näit un lóót mii 't wäiten.
 Doo häi wiider soo fööl drinkt, sal häi frauer of lóóter krank worden.
 Doo Tom nauğ geld hat haar, was häi mit Marió nóó Boston foren.
 Ik heb allerweegens nóó Tom söcht, man ik kun hum näit finnen.
@@ -7003,7 +7003,7 @@ Doo siin frâau näit west haar, haar häi siin aarbaidsstee näit wesselt.
 Sul häi lóóter koomen, köönent Jii mit däi kunferens sünner hum anfangen.
 Sul häi t' lóót koomen, köönent Jii mit däi kunferens sünner hum anfangen.
 Wat deest duu móóken, doo in diin nóóberskup 'n füer uutbreeken dee?
-Wat deedent Jii móóken, doo in höör nóóberskup 'n füer uutbreeken dee?
+Wat deedent Jii móóken, doo in Jau nóóberskup 'n füer uutbreeken dee?
 Doo ik man wust haar, woo Tom t'mâaud was, was ik näit mit Marió uutgóón.
 Doo ik 'n buutenlanner was, kun ik worskiinelk ook kiin râau fisk eeten.
 Was ik wat eerder hengóón, haar 'k däi läest tsuğ noch kreegen.
@@ -8948,7 +8948,7 @@ Ik broch däi häiel óóvend d'r mit tau, dichtsels fan Kenji Miyazawa t' leese
 Ik kan recht gaud Fransk, man näit soo gaud as Engelsk.
 Ik erkende däi mester fut weer, um dat ik hum t'fööer druepen haar.
 Ik wil mörn Tom anraupen un hum beeden, us t' helpen.
-Ik läiv miin näej woonen, um dat 't läip diecht bii d' bóónhof liğt.
+Ik läiv miin näej woonen, um dat häi läip diecht bii d' bóónhof liğt.
 Ik heb twei joer in Jóópóón leevt, man nuu leev ik in Kalifornien.
 Ik mağ hum, näit um dat häi hoffelk is, man um dat häi eerelk is.
 Ik wäit, dat Jii redaktöör fan 'n populeerwäitenskuppelk tiidskrift bünt.
@@ -9910,7 +9910,7 @@ Dat was 'n häil sâacht tsuğ. Häi hul an elker lütje stóósjoon.
 Dat wêer was angeneem, man d'r wassent bold kiin minsken in d' park.
 Dat wassent gaud fiif kilomeeter fan d' bóónhof bit nóó d' skaul.
 Dat leet mii düüdelk, dat däi plóón wat ferbeeterns nöödiğ haar.
-Dat is soo gaud as unmöögelk, dat duu däi aarbaid in äin dağ skirst.
+Dat is soo gaud as unmöögelk, dat duu däi aarbaid up äin dağ skirst.
 Föör n'rmóól is 't stur, sük an 't leevend in 'n fröem kultüer an t' paasen.
 Dat spöölt kiin grôot ruel, an wekker uniwersitäit duu diin ofslus móókt hest.
 Gift dat 'n möögelkkaid, 'n inloopen t-shirt weer groot t' kriigen?
