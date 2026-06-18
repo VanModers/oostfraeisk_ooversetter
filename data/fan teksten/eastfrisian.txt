@@ -787,7 +787,7 @@ Róósen feroorsóókt unfallen.
 Dat fö'joer kumt nóó d' winter.
 Steerns tinkeldent an d' heemel.
 Bliiv d'r fan of!
-Hollent Jii jau d'r fan of!
+Bliivt d'r fan of!
 Miid däi stee!
 Miident Jii däi stee!
 Bliiv noch 'n setje hir!
@@ -2451,7 +2451,7 @@ Miin läieft föör dii ferloovt mii näit, dii âals an t' fertrauen. Menniğ d
 Miin fóóder proot't altiid Fransk, miin mauder altiid Engelsk mit mii.
 Baukt jau flüügen frautiidiğ, um dat dissent rund däi wiinachtstiid gaau beläeğt bünt.
 Miin Dóómen un Heeren, weegen 'n unfal up d' fluğhóóven sal sük däi ankumst ferletten.
-Dat is näit altiid möögelk, gaud t' eeten, doo man in dit däil fan d' weerld raajst.
+Dat is näit altiid möögelk, gaud t' eeten, doo man in disser däil fan d' weerld raajst.
 Fiif dóóeğ, nóódeem säi höör ofslus móókt haar, flooğ miin dochter fan d' fluğhóóven Ōsaka uut nóó Düütskland tau.
 Däi korten wassent fan d' begün fan 't spööl an teegen höör.
 Däi idee mağ maal lóóten, man ik denk, wii sullent Tom un Mary jüüst nuu besöyken.
@@ -3531,7 +3531,7 @@ Lesserhand gung däi weerld up d' 21. desember 2012 doch näit unner.
 Doo Tom an däi bräifkâast gung, fun häi fiif bräiven, fan däi fäär reekens wassent.
 Doo Tom an däi bräifkâast gung, fun häi fiif bräiven, d'r unner fäär reekens.
 Doo ik hum um meer geld beed'de, wur miin fóóder fergrelt un fung an, mii an t' bölken.
-Doo ik fóóer um meer geld bad, gung häi recht hooğ un bölkde mii an.
+Doo ik fóóder um meer geld bad, wur häi raajn dül un bölkde mii an.
 Wat söölent wii mit lüü móóken, däi, swor krank of beseert, kiin uutsicht up beeterskup hebbent?
 Wekker bewiis hest duu d'r föör, dat Tom däien is, wekker däi halskäed fan diin mauder stool?
 Wii hebbent dat recht, föör us un föör tauken leeden 'n seeker taukumst t' föördern.
@@ -5654,8 +5654,8 @@ Wii erneerent us fóók fan dingen, däi, sünner dat wii dat wäitent, us sundh
 Wii wäitent näit, wor Tom stekt, man wii mautent hum, soo gaau as 't gaajt, uutfinniğ móóken.
 Wii wäitent näit, wor Tom is, man wii mautent hum soo gaau as möögelk finnen.
 Wii wurdent fan 't gekwitter fan däi föögels in d' boomen buuten us kóómer wóóker móókt.
-Wii bünt hir, um dat 't us taustaajt, bii disser besliesens bedäiliğt t' weesen.
-Wii bünt hir, um dat wii d'r 'n recht up hebbent, bii disser besliesens mit inbegreepen t' weesen.
+Wii bünt hir, um dat 't us taustaajt, bii disser undskäidens bedäiliğt t' weesen.
+Wii bünt hir, um dat wii d'r 'n recht up hebbent, bii disser undskäidens mit inbetrukken t' weesen.
 Waaskernt Jii Jau hâan fóók mit wóóter un säiep, minst twintiğ sekunnen lang.
 Um dat häi näit kumpóóbel was siin unsküld t' bewiisen, mus häi siin häimóótstad ferlóóten.
 Tom haar in miin stee däi sülviğ beslus móókt as ik.
@@ -5708,7 +5708,7 @@ Dat restaaurant was läip lös, soo dat ik in rüst leesen kun, wiilst ik at.
 Däi öffenliikkaid het 'n recht gewoer t' worden, wat mit öffenlîik geller geböört.
 Däi programäärder beheft 'n technisk probleem mit däi server.
 Dat eeten was näit wies lekker, man anners was däi fier 'n erfolğ.
-As êerst wul ik mii mörn 'n räecht däiltiidstee söyken.
+As êerst wul ik mii mörn 'n fernüftiğ däiltiidstee söyken.
 Dat êerst, wat ik mörn móóken wil, is, 'n gâaud däiltiidaarbaid t' finnen.
 Siin stieltau skriel oorensuusen móókt Tom häil maal.
 Däi ooveräinkumst was 'n kumpromislöesen fan däi bâajd regäärens.
@@ -5719,7 +5719,7 @@ Däi man dor günt is däi echtgóó fan däi frâau, däi mii Fransk biibrengt.
 Um dat säi sülst kiin kinner haarent, beslootent s', 'n wicht t' adoptäären.
 Säi erkende däi bröske as däien weer, däi säi fööer 'n poer móónd ferlooren haar.
 Säi söch in höör taaske nóó d' huusslöödel, man kun hum näit finnen.
-Dat was näit stur föör höör dat antern föör dat probleem t' finnen.
+Dat was näit stur föör höör, dat antern föör dat probleem t' finnen.
 Säi besloot eerst up 't oller fan twintiğ joer, singerske t' worden.
 Säi sneed däi kâauk in 6 stükken un gaf elker kind äien.
 Doo jii säegent, jii köönent däi aarbaid näit móóken, um dat jii t' fööl t' daun hebbent, is dat man 'n lâaj uutwendsel.
@@ -5954,7 +5954,7 @@ Doo duu man 'n biitje gaauer loopen daajst, kaast duu höör inhóólen.
 Doo däi spagettii hangenbliivent, doo jii höör an d' müer smiitent, dan bünt säi klor.
 Doo däi spagettii hangen bliivent, doo duu höör an d' müer smitst, dan bünt säi klor.
 Doo däi spagettii hangen bliivent, doo Jii höör an d' müer smiitent, dan bünt säi klor.
-Doo säi man wust haar, dat ik in Tokio was, haar säi bii mii up fersîit koomen.
+Doo säi man wust haar, dat ik in Tokio was, was säi bii mii up fersîit koomen.
 Doo ik âal tiid fan d' weerld haar, dee ik mii 'n boot baauen un nóó däi Fidzjiailâan saajeln.
 Doo ik däi artikkel fanwêek näit kriiğ, sal ik beswêerd bii Paypal inläegen.
 Ik haar noojt löövt, dat mii soo wat oojt geböören kun.
@@ -6388,8 +6388,8 @@ Hest duu näit wust, dat dat in d' parkstróóet frauer 'n skiineesk restaaurant
 Diwergäärend berichten deedent däi bóós feranlóóten, siin standpunkt t' ooverdenken.
 Kinner leerent fan 'n läip jueng oller of an, up rütmisk geluuden in t' góón.
 Bit duu tau d' knast uut büst, is säi worskiinelk al traaut.
-Eer ik teegenproot laisten kunt haar, was ik al in handskellen un up d' weğ in 't gefangenis.
-Eer ik teegenproot inläegen kunt haar, wassent mii al handskellen anläeğt worden un ik befun mii up d' weğ in 't gefangenis.
+Eer ik teegenprooten kunt haar, was ik al in handskellen un up d' weğ in 't gefangenis.
+Eer ik weerspröök inläegen kunt haar, wassent mii al handskellen anläeğt worden un ik befun mii up d' weğ in 't gefangenis.
 Up 't äen fan d' unnerricht see däi mester: "Nauğ föör fandóóeğ."
 Soo wiid ik säin kun, sağ ik niks as maisfäel.
 Tom het sük as 't let't um 'n ferkeersstaau up d' bundsstróóet 19 ferlóótert.
@@ -6793,7 +6793,7 @@ Wii mautent us ooverläegen, woo wii Tom d'r tau anmaudigen kunnent, dat räecht
 Wii hebbent 'n häil gâaud manskup un düs âal grund, optimistisk t' weesen.
 Wii reselwäärdent us d'r up, dat elker gefal däi priis fan 5.000.000 jen t' hooğ was.
 Wii köönent us dat näit laisten, soo wiider t' móóken as bit nuu tau.
-Wii froogent hum oover dat huusinterkom, of häi gaau dóólkoomen kun.
+Wii froogent hum oover dat huusspreekanlóóeğ, of häi gaau dóólkoomen kun.
 Spiitelkerwîis gungent däi naarungsmiddelföörróóden fööer 't äen fan d' winter t'äen.
 Tom siin computer stört'de of, un häi ferloor wat wichtiğ dóótäjen.
 Tom was näit äinfach soo góón. Häi haar t'minst forwal säeğt.
@@ -8727,7 +8727,7 @@ Eerst nóó fiif joer höörde ik fan siin hochtiid.
 Dat reegende soo staark, dat wii beslootent, hum 'n anner móól t' besöyken.
 Alleniğ haar dii dat worskiinelk näit möögelk west.
 Dat is fiilicht näit däi bäest wiin, däi 't gift, man häi is doch recht gaud.
-Dat is minner däi hiets as däi fuchten, däi mii möej móókt.
+Dat is minner däi hiets as dat fuchten, däi mii möej móókt.
 Föör 'n anwaasend kind is 't unmöögelk, 'n stüen lang stiel t' sitten.
 Dat is makkelk, wat t' plóónen man stur, dat uut t' fören.
 Dat is makkelker, 'n slecht dichtsel t' skriiven, as 'n gâaud t' ferstóón.
@@ -9317,7 +9317,7 @@ Säi nam mii unner höör fidjes un broch mii âals bii, wat säi wus.
 Säi óómde däip in un fung an, fan höör lóóeğ t' fertellen.
 Säi ooverflooğ dat register, um t' säin, of höör nóóm d'r in stun.
 Säi keek in dat register, um t' säin, of höör nóóm d'r in föörkwam.
-Säi hul 'n wunnerachtiğ anspróóek bii 't hochtiidsundfangst fan höör fründ.
+Säi hul 'n wunnerboer anspróóek bii 't hochtiidsundfangst fan höör fründ.
 Up däi fan däi reporter unferwacht't stelt fróóeğ leet säi róódlös.
 Säi bekeek 'n poer kläär un weelde dat dürst uut.
 Säi wus, dat häi bedröyvt was, doch säi kun däi grund d'r föör näit uutmóóken.
