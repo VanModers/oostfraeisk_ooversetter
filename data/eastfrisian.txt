@@ -19184,7 +19184,7 @@ häi het 't âal ferfumfaajt
 häi het 't âal in 't dróód
 häi het 't âal in 't dróód
 häi het 't blaudspäjen hat
-häi het 't gebruuk d'r fan
+häi het gebruuk d'r fan
 häi het 't óómen fergeeten
 häi het 't unner d' leeden
 häi het twei linker fauten
@@ -41088,7 +41088,7 @@ Dat is hum in d' kop slóón. Dat rukt hir soo möysiğ.
 Mit läiverlóó is beeter as wen dat soo hóóstiğ gaajt. Doo duu maud hest un dürst dan kum man heer.
 'n grôot fier hollen. D'r sit't kiin mulliğkaid nauğ in d'r grund man kan d'r hóóst mit kiin plauğ of spóó döörkoomen.
 Gebeedel. Häi ferbabbelde sük.
-Häi het 't gebruuk d'r fan. Häi kwam fan buuten.
+häi het gebruuk d'r fan. Häi kwam fan buuten.
 Tau d' tiid uutfaalen. "ord let't näit fan ord" see däi köster as siin dochter drei kinner up 'n móól kreeğ "mii gung 't in 't êerst jüüst soo".
 Hooğ in 't nüst staajt däi äibeer. Ik heb krumpen as 'n sniider.
 Köert ribben. Däi kâark is uut.
@@ -96638,7 +96638,7 @@ Kan ik Linux näit d'r tau brengen NTFS t' stöönen?
 Perdong, dat is doch möögelk. Däi softwarepakeeten 'fuse' un 'ntfs-3g' köönent bruukt worden, um däi taugreep up NTFS-dóóteisüsteemen in Linux möögelk t' móóken Dat ntfs-3g-pakeet is 'n open-source-implementäären fan 't Microsoft NTFS-dóóteisüsteem.
 Dat büd't stöön föör 't leesen, skriiven un manipuläären fan NTFS-partisjoonen unner Linux. Dat fuse-pakeet is 'n implementäären fan 'n dóóteisüsteen in d' userspace, däi 't fermöögelkt, mit dóóteisüsteemen sünner kerneltaugreep t' aarbaiden.
 T'sóómen bäident disser pakeeten fuel stöön föör NTFS-dóóteisüsteemen in Linux, soo dat bruukers NTFS-partisjoonen up höör süsteemen inhangen un d'r up taugriipen köönent.
-Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör 't gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
+Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör d' gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
 Enkeld fan däi fan Linux stöönt dóóteisüsteemen bünt ekt4 un Btrfs.
 Gift dat tips, woo man sük 'n gâaud superheld föör 'n rullenspil mit früen uutdenkt?
 Däi krakter fan 'n superheld let't sük best uut 'n ooverörnt teemó ofläiden. D'r kan man dan ook gaau dat achtergrundferhóól fan d' held uut bilden, um t' ferkloren woo däi figüer tau höör staarkten un swakten kumt.
@@ -99804,7 +99804,7 @@ Ik fraaj mii doo jii d'r bii bünt
 In us tûun gift dat 'n tîik, däi ik läip besünners fin, dan ik woon achter d' Äiems.
 In us tûun gift dat 'n lütje tîik, däi ik läip besünners fin, dan ik woon achter d' Äiems.
 Kenst duu däi lütje tiiken, däi döör d' lücht fläigent?
-Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo dat gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären.
+Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo däi gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären.
 Oostfräisk besit't in Düütskland upstünds kiin äigenstenniğ offisjäel stóótus un word't föör n'rmóól bii dat Leeğdüütsk unnerörnt, wat döör däi Europeesk Skartó fan däi Regjoonóól- of Minnerhaidstóólen skütst is. Man dat gift ook bestreevens dat Oostfräisk, weegen siin grôot ofstand tau dat tradisjoonäel Leeğdüütsk, uptsoord an t' kennen.
 häi löpt weer
 Föör Henri siin dööep
@@ -100113,7 +100113,7 @@ Nöym 3 möögelkkaiden tau 't dürsóóem bruuken fan natürelk resursen.
 1. Redusäären, weerferwenden, recyceln: Äien fan däi dürsóóem möögelkkaiden tau 't bruuken fan natürelk resursen bestaajt in 't anwenden fan däi drei R's.
 Dat undholt däi reduksjoon fan 't ferbruuken fan näit fernäjerboer resursen, dat weerferwenden fan produkten in stee fan höör undsörgen un dat recycling fan materióólen tau 't skeppen fan näej produkten.
 2. Fernäjerboer energiien: 'N anner möögelkkaid, natürelk resursen dürsóóm t' bruuken, bestaajt d'r in, fernäjerboer energiiwellen as wind-, solaar- un wóóterkracht t' bruuken. Disser resursen wordent up natürelk wîis weer upfült un skóóden däi umweerld näit.
-Döör 't gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
+Döör d' gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
 3. Dürsóóem burkeräj un fiskereipraktikken: Burkeräj un fiskeräj bünt twei branzjen, däi staark up natürelk resursen anweesen bünt.
 Dürsóóem landwirtskaftelk praktikken as früchtwessel, grunderhollen un dat redusäären fan 't insetten fan pestisiiden un düngmiddels köönent d'r tau biidróógen, dat land un siin resursen t' erhollen.
 Net soo köönent dürsóóem fiskereipraktikken as fangstbegrensens un ferantwoordensfuel fangstmetooden d'r tau biidróógen, ooverfiskern t' fermiiden un suen fiskpopulóósjoonen t' erhollen.
@@ -100142,7 +100142,7 @@ Outdoor-spöölen of aktiivitäiten (frisbee, bâal, kortenspöölen).
 Bii 'n histoorsk geböörnis sal 'n bladjeooverskrift móókt worden. Däi fal fan d' Berliiner müer
 Däi Berliiner müer faalt un maarkäärt dat äen fan 'n Eeró.
 Identifisäär dat ferkeert woord in däi folgend sats: Ik heb t' fööl sküld t' betóólen.
-Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii 't gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen."
+Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii d' gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen."
 Móók 'n f'rheersäegen, woo dit baudel ennen sal. Däi bâajd lâan steekent in 'n doodloopend weğ fast wat höör hannelsofkoomen anbelangt.
 Dat is stur tauferlessiğ f'rheer t' säegen, woo dat baudel tüsken däi bâajd lâan un höör hannelsofkoomen ennen sal, um dat 't fan meerder faktooren ofhangen daajt, as wirtskafts-, politisk un diploomóótsk ooverläegens.
 Allerdings is dat möögelk, dat ferhannelns f'rankooment un 'n baidsiidiğ föördäiliğ feräinboren ofslooten word't, of 'n land kun tauspróóken móóken, um 'n äinigen t' ferkriigen.
@@ -101467,7 +101467,7 @@ Tom het mit siin näej kameró 'n bild fan siin oel upnoomen. Däi fent, däi ji
 Tom fun bii d' strand 'n anspöylt flessenpost. Dat was dat interessantst bauk wat säi oojt leesen haar.
 Miin Dóómen un Heeren, applaaus bitte föör däi eerengast fan däi fandóóğsk óóvend! Dat wêer is mooj.
 Oover dat funksjoonäel bedüüden fan dat endocannabinoid-süsteem is bit nuu tau man min bekent. Düs bünt ook däi sundhaidswirkens fan 't smooken fan cannabis näit nauğ düüdelk. 'N wies glaausinniğ minsk kan 'n häiel situóósjoon mit man 'n poer lütje anholdspunkten begriipen. Ik wil dat duu soo 'n minsk worst.
-Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii 't gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen.". Teegenan word't 'n apartmenthuus baaut, wat us uutkiik fernäilen sal.
+Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii d' gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen.". Teegenan word't 'n apartmenthuus baaut, wat us uutkiik fernäilen sal.
 Ik läiv däi fründskup, ik läiv 't leevend, man ik hóót Düütskland, dan dat wil us unnerdrükken! 1958 wur däi stóótue in d' Hiroshima-freedenspark upricht't.
 Dat word't annoomen, dat däi skat ennerwor in d' baarğ fergróóven liğt. In 't ferleeden gaf dat noojt soo fööl snäj.
 Dat was häil oopensichtelk, dat Thomas d'r näit weesen wul. Dat gaf hóóst nüms, däi näit laağde, doo däi singer fan d' büüen ful.
@@ -102718,7 +102718,7 @@ Miin feersäier is hóóst 15 joer old, man dat bild is noch gaud. Ik keek hum m
 'N keerl is soo old, as häi sük föylt, un 'n frâau soo old, as säi let't. Us mauder haar kiin anner wóól as dat óóvendeeten uut resten t'sóómen t' stellen.
 Stóótistikken wiisent, dat dat weerldbefolken taunimt. Doo ik Jau telefoonnummer kent haar, haar 'k Jau anraupen.
 Wor hest duu west? Wii wullent net al däi skendaarms raupen. Tom is soo old, dat sülst däi olsten in 't lauğ hum man as oel man kennen leert hebbent.
-Dat Vietnam Veterans Memorial eert däi leeden fan däi US-striidkrachten, däi in d' Wjetnamoorlauğ kemfdent. Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo dat gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären.
+Dat Vietnam Veterans Memorial eert däi leeden fan däi US-striidkrachten, däi in d' Wjetnamoorlauğ kemfdent. Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo däi gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären.
 Ik kan dat bold näit ferwachten, dat dat fö'joer kumt un wii unner d' kaarsenboomen sitten köönent. Ik bün dii läip dankbor föör âals, wat duu föör mii dóón hest.
 Jii haarent ' n lâang dağ. Man sul siin tiid altiid soo besteeden, dat 't däi kinner helpt, in 't leevend f'ran t' koomen.
 Sâacht ferdween dat läest biitje fan däi skuumiğ krôon in d' däiept fan unennelk ferdooven. Lincoln befool, âal slóóven in 't land fräj t' lóóten.
@@ -104389,7 +104389,7 @@ Ik sit mit lüü fan 'n server in dat kafee un Oen woont achter d' Äiems. Mari�
 Dat begriip ik näit, dat Tom hen düren sal, man Mary näit. Frau up bäer un frau upwóókt däi minsk frisk un munter móókt.
 Duu sust prowiant inpakken, dat duu bii diin wannern wat t' eeten hest. Ik heb Tom mitdäilt, dat ik mit siin dorbäiden näit t'free was.
 Säi was t'löörstelt un dül up sük sülst, um dat säi soo was. 3. 'N düstoopsk taukumst: In 'n düüster, postapokóólüptisk weerld strid't 'n lütje gruep fan ooverleevenden d'r um, däi selskup weer up t' baauen un hôop in 't ansicht fan oovermesternd kaansen weerheer t' stellen.
-Wat föör musik höörst duu geern bii 't foren? Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör 't gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
+Wat föör musik höörst duu geern bii 't foren? Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör d' gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
 Ik haar erkennen must, dat Tom us hüelp bruukde. Wii bünt hir, um dat 't us taustaajt, bii disser undskäidens bedäiliğt t' weesen.
 Däi wiindrûuv mit bäjen un 'n rôod wiinranktsoord. Dat is an däi tiid, dat wii d'r oover nóódenkent, woo wii däi lóóeğ beeternt.
 Tom läivde 't t' singen, doch singen höören wul hum nüms. Ik bün gewoer worden, dat Tom unnerwiilst drei móól um drunkenhaid an 't stüer föörlóóden wur.
@@ -106340,7 +106340,7 @@ Tom säeğt, Marió höf näit hir t' bliiven, doo säi dat näit wul. Ik haar g
 Däi unnertäikenerstóóten ferklordent, säi wassent sins, meer móótreegels föör 'n diräekt wóópenstielstand t' ergriipen. Säi feroordäildent dat nóó höör inskatten bloot "drüppenwîis fersörgen mit hülpsgauden" as ook 'n "unminskelk dooden fan tsiwiilisten" up d' söyek nóó leevendsmiddels. Tom het bit 2.30 üer 'n poer häil wichtiğ dingen t' daun.
 'N büelt piercst jööğdelken bliivent mit däi partner 'n leevend lâang t'sóómen - besünners doo sük däi nöösring fan däi äien in d' tanspâang fan däi anner ferfangen het! Ik begriip wal näit höör woorden, man wal, dat säi Fransk prootent.
 D'r was noch 'n biitje wóóter up d' flesboom oover. Wult duu mii weer fersküünen, duu läelk bengel?
-Ik heb dii lâang näit meer säin. Döör 't gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
+Ik heb dii lâang näit meer säin. Döör d' gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
 Ik heb miin kameró äinliik näit fergeeten. Ik wul äinfach näit footogróófäären. Dat gift d'r wat häil wichtigs, wor wii oover prooten mautent.
 Dat gift 'n fîin bedüüdensferskeel tüsken däi bâajd woorden. Däi huud word't d'r mit tau 'n representóótiif gestalt't boovenflâakt föör äigen of fröem blikken.
 Tau 't erföörskern fan 't klöörworneemen wurdent psüüchofüüsk eksperimenten an ruuğweğ 20 lüü dóón. Dat Baskisk is nóó dat ooverweegend oordäil fan dat relewâant föörskern mit kiin anner bekent tóól geneetsk besibt.
@@ -111689,7 +111689,7 @@ In d' sömmertiid bruukt man 'n sünnenskiirm, um dat gesiecht skâar t' spenden
 Wiisent Jii däi föördäilen: Wiisent Jii, woo Jau layout dat leesen un begriipen fan dat protokol fermakkelkt un woo 't moojer let't. Bäident Jii alternóótiiven: Stellent Jii möögelk kumpromissen fööer, däi Jau bâajd befreedigen kunnent. Dat was in astronoomsk kringen 'n häit debatäärt teemó, Pluuto däi planeetenstóótus of t' kennen.
 Glük is näit dat tsiil, glük is däi weğ. Hebbent Jii Jau al undslooten, wel Jii up Jau boorsdóóğsfier nöygen willent?
 Wii mautent ermiddeln, wel dat füer läeğt het, döör dat Tom siin huus dóólbraande. Dat is je skîit wat dau ik dan nuu?
-Bii sömmerdağ un anfang haarst köönent taifuunen däi stad häimsöyken. In d' ferleeden joren hebbent s' kiin nöymensweerd skóó móókt. Döör 't gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
+Bii sömmerdağ un anfang haarst köönent taifuunen däi stad häimsöyken. In d' ferleeden joren hebbent s' kiin nöymensweerd skóó móókt. Döör d' gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
 Up d' söyek nóó näej woonhuusen gift dat föör fööl minsken in Düütskland hürden. Hüren un baaukösten stiigent däils massiif. In baalensruumen gift dat t' min, up 't land draiğt 'n ooveranbod. Us mester het fersöcht, 'n näej metôod fan d' Engelskunnerricht an t' wenden.
 Ferstüürven. Moin Tîid, wii hebbent jau uptreeden bii Róódio Oostfräisland höört, dat leep je wies gaud.
 Tom wul siin swempakje teegen 'n grooterder umtuuskern; man däi ferkooper see an hum, dat dat näit gung. Ik höör altiid geern klassisk musik in miin freitiid.
@@ -112036,7 +112036,7 @@ Ik proot Engelsk näit as maudertóól, un mii word't klor, dat ik noch fööl t
 Düs sul as êerst disser of sülst programäärt worden of 'n bestóónd, as däi Unity-, Unreal-, Lumbayard- of 'n anner weelt worden. Eerst nóó fiif joer höörde ik fan siin hochtiid.
 Doo duu d'r bii Tom siin boorsdóóğsfier näit bii weesen wult, maust duu näit. Us leevend hangt grootendäils fan ölje of, wat uut anner lâan importäärt word't.
 Miin fóóder staajt steeds teegen ses üer up, sülst in d' winter. Unnerwiilst sul dii doch düüdelk weesen, dat ik näit al t' gaud Fransk proot.
-Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör 't gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent. Tom un Marió hebbent sük fan sibskup un früen geld läint, um 'n lütje bakkeräj t' eröfnen.
+Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör d' gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent. Tom un Marió hebbent sük fan sibskup un früen geld läint, um 'n lütje bakkeräj t' eröfnen.
 Ik fersöyk äinfach bloot d'r achter koomen, woosoo äien soo wat daajt. Ik haar glük, dat ik noch mit Tom prooten kun, eer häi nóó Boston ofraajsde.
 Tom het noch näit nauğ geld, um sük dat aauto t' koopen, wat häi wil. Ik bün häil fan streek, dat Tom künniğt het, sünner föördeem mit Marió d'r oover t' prooten.
 Ik mis dii. Bedankt, dat jii ook infoposts 'n like daunt!
@@ -113205,7 +113205,7 @@ Fandóóeğ sal 't altiid weer insent reegen; düs nimst duu beeter diin skiirm 
 Tom bekeek döör dat fenster dat skip, wat net in d' hóóven inleep. Ik höörde, man haar 'n skeelet funnen, wat in d' keller fan 'n huus in d' parkstróóet bedulven west haar.
 Môoj wêer fandóóeğ. Haarten nóó fööer, soo staark is dit ferlangen! Lóót't us mitnanner us taukumst skeppen un 'n näej döyğd leeren!
 Disser leevweesens stamment fan lêeğ orgóónismen as kwabben of. Wii lóótent us näit döör disser lüü in beslağ neemen.
-Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii 't gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen.". Dat bild, wat oover d' kemiin hangt, het Tom mii skunken.
+Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii d' gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen.". Dat bild, wat oover d' kemiin hangt, het Tom mii skunken.
 Duu mağst öljefanten. Tom wul, dat Marió Johannes un Elke tau 't óóvendeeten nöygen dee.
 Däi heemel wur al düüsterder, un däi wind blees al staarker. In 't loopend joer wurdent 86 miljaarden euro föör d' buutenseekerhaid uutgeeven, bit tau 't äen fan däi leegislatüerperiôod sullent 't meer as 600 miljaarden weesen. "Düütskland móókt sük weer weer weerachtiğ", see Haase.
 Niks let't us gaauer ollern as däi nood, dat wii gaau old wordent. Fööl lüü unnerstriikent höör tekst, man dat brengt niks.
@@ -113650,7 +113650,7 @@ Ik bün reegelmóótiğ in 'n restaaurant diecht bii. Lóót't us dor fandóóe�
 Däi skendaarms döörsöchent stünnenlang Tom siin kóómers, man kunnent dat moordwóópen näit finnen. Meskiin hebbent Jii recht.
 Däi jung fan miin nóóber het fandóóeğ miin dochter in d' skaul uutlaağt. Alwoo wii näit fööl geld hebbent, wil ik dit skilderóózje koopen.
 Ik hol dat föör unworskiinelk, dat Tom interäes hebben kun, Jau Jau oel MP3-spööler of t' koopen. Dat gift meerder möögelkkaiden, däi insats fan fernäjerboer energiien t' föördern:: Finansjäel föördäilen: Regäärens köönent stürfergünstigens, subwensjoonen of inspiisfergaudens föör fernäjerboer energiien t' beskikken stellen, um inwestisjoonen in disser technoloogiien t' föördern.
-Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo dat gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären. Doo däi lüü uutskaajent, äien kumpelmenten t' móóken, woo gaud man doch Fransk proot'de, kan man seeker weesen, dat 't wies gaud is.
+Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo däi gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären. Doo däi lüü uutskaajent, äien kumpelmenten t' móóken, woo gaud man doch Fransk proot'de, kan man seeker weesen, dat 't wies gaud is.
 Dat is al recht lóót. Móók dii man eerst klor föör 't bäer, un mörnfrau proot' wii dan wiider! Primitîif reekenapparóóten gaf dat al lâang fööer 't undwikkeln fan d' computer.
 Rechtelk aspekten: Ooverprüüfen fan rechtelk anföörderns, as dóótenskuts un oorhebberrechten. T'sóómenaarbaid: T'sóómenaarbaid mit anner ofdäilens un stakeholders, as kunnen un leeveranten, um seeker t' stellen, dat däi software däi wünskert resultóóten leevert. Däi geluudemissjoonen fan 'n windrad hangent fan meerder faktooren of, as däi gröet't fan däi rotoor, däi antóól fan däi rotoorblóóden, däi windgaauiğkaid un däi distans tüsken dat windrad un Jau standoord.
 Beskriiv, woo man pankâauk móókt. Köönent Jii us 'n ekstrórebat fan 5 % daun, doo wii fan disser artikkel 50 stük neement?

@@ -10714,7 +10714,7 @@ Kan ik Linux näit d'r tau brengen NTFS t' stöönen?
 Perdong, dat is doch möögelk. Däi softwarepakeeten 'fuse' un 'ntfs-3g' köönent bruukt worden, um däi taugreep up NTFS-dóóteisüsteemen in Linux möögelk t' móóken Dat ntfs-3g-pakeet is 'n open-source-implementäären fan 't Microsoft NTFS-dóóteisüsteem.
 Dat büd't stöön föör 't leesen, skriiven un manipuläären fan NTFS-partisjoonen unner Linux. Dat fuse-pakeet is 'n implementäären fan 'n dóóteisüsteen in d' userspace, däi 't fermöögelkt, mit dóóteisüsteemen sünner kerneltaugreep t' aarbaiden.
 T'sóómen bäident disser pakeeten fuel stöön föör NTFS-dóóteisüsteemen in Linux, soo dat bruukers NTFS-partisjoonen up höör süsteemen inhangen un d'r up taugriipen köönent.
-Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör 't gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
+Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör d' gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
 Enkeld fan däi fan Linux stöönt dóóteisüsteemen bünt ekt4 un Btrfs.
 Gift dat tips, woo man sük 'n gâaud superheld föör 'n rullenspil mit früen uutdenkt?
 Däi krakter fan 'n superheld let't sük best uut 'n ooverörnt teemó ofläiden. D'r kan man dan ook gaau dat achtergrundferhóól fan d' held uut bilden, um t' ferkloren woo däi figüer tau höör staarkten un swakten kumt.
@@ -13880,7 +13880,7 @@ Ik fraaj mii doo jii d'r bii bünt
 In us tûun gift dat 'n tîik, däi ik läip besünners fin, dan ik woon achter d' Äiems.
 In us tûun gift dat 'n lütje tîik, däi ik läip besünners fin, dan ik woon achter d' Äiems.
 Kenst duu däi lütje tiiken, däi döör d' lücht fläigent?
-Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo dat gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären.
+Dat Oostfräisk word't ook fandóóeğ noch in wîid däilen fan Oostfräisland in d' aldağ proot't un däint fööl minsken as aldóógelk kummunikóósjoonsmiddel. Ook doo däi gebruuk in d' jungerder generóósjoon t'rüeğgóón is, lóótent sük besünners dat westelk Oostfräisland as ook däi ruum um däi stad Auerk wiiderhen as hooğbörgen fan däi tóól identifisäären.
 Oostfräisk besit't in Düütskland upstünds kiin äigenstenniğ offisjäel stóótus un word't föör n'rmóól bii dat Leeğdüütsk unnerörnt, wat döör däi Europeesk Skartó fan däi Regjoonóól- of Minnerhaidstóólen skütst is. Man dat gift ook bestreevens dat Oostfräisk, weegen siin grôot ofstand tau dat tradisjoonäel Leeğdüütsk, uptsoord an t' kennen.
 häi löpt weer
 Föör Henri siin dööep
@@ -14189,7 +14189,7 @@ Nöym 3 möögelkkaiden tau 't dürsóóem bruuken fan natürelk resursen.
 1. Redusäären, weerferwenden, recyceln: Äien fan däi dürsóóem möögelkkaiden tau 't bruuken fan natürelk resursen bestaajt in 't anwenden fan däi drei R's.
 Dat undholt däi reduksjoon fan 't ferbruuken fan näit fernäjerboer resursen, dat weerferwenden fan produkten in stee fan höör undsörgen un dat recycling fan materióólen tau 't skeppen fan näej produkten.
 2. Fernäjerboer energiien: 'N anner möögelkkaid, natürelk resursen dürsóóm t' bruuken, bestaajt d'r in, fernäjerboer energiiwellen as wind-, solaar- un wóóterkracht t' bruuken. Disser resursen wordent up natürelk wîis weer upfült un skóóden däi umweerld näit.
-Döör 't gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
+Döör d' gebruuk fan fernäjerboer energiien köönent wii us ofhangelkkaid fan näit fernäjerboer resursen as kööel, ölje un eerdgas minnern.
 3. Dürsóóem burkeräj un fiskereipraktikken: Burkeräj un fiskeräj bünt twei branzjen, däi staark up natürelk resursen anweesen bünt.
 Dürsóóem landwirtskaftelk praktikken as früchtwessel, grunderhollen un dat redusäären fan 't insetten fan pestisiiden un düngmiddels köönent d'r tau biidróógen, dat land un siin resursen t' erhollen.
 Net soo köönent dürsóóem fiskereipraktikken as fangstbegrensens un ferantwoordensfuel fangstmetooden d'r tau biidróógen, ooverfiskern t' fermiiden un suen fiskpopulóósjoonen t' erhollen.
@@ -14218,7 +14218,7 @@ Outdoor-spöölen of aktiivitäiten (frisbee, bâal, kortenspöölen).
 Bii 'n histoorsk geböörnis sal 'n bladjeooverskrift móókt worden. Däi fal fan d' Berliiner müer
 Däi Berliiner müer faalt un maarkäärt dat äen fan 'n Eeró.
 Identifisäär dat ferkeert woord in däi folgend sats: Ik heb t' fööl sküld t' betóólen.
-Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii 't gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen."
+Dat ferkeert woord in däi sats is "sküld". Dat räecht woord sul "sküllen" in d' pluróól weesen, um bii d' gebruuk fan "fööl" in d' sats t' paasen. Düs sul däi kurrigäärt sats weesen: "Ik heb t' fööl sküllen t' betóólen."
 Móók 'n f'rheersäegen, woo dit baudel ennen sal. Däi bâajd lâan steekent in 'n doodloopend weğ fast wat höör hannelsofkoomen anbelangt.
 Dat is stur tauferlessiğ f'rheer t' säegen, woo dat baudel tüsken däi bâajd lâan un höör hannelsofkoomen ennen sal, um dat 't fan meerder faktooren ofhangen daajt, as wirtskafts-, politisk un diploomóótsk ooverläegens.
 Allerdings is dat möögelk, dat ferhannelns f'rankooment un 'n baidsiidiğ föördäiliğ feräinboren ofslooten word't, of 'n land kun tauspróóken móóken, um 'n äinigen t' ferkriigen.

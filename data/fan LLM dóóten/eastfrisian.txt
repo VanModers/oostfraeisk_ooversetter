@@ -359,7 +359,7 @@ Kan ik Linux näit d'r tau brengen NTFS t' stöönen?
 Perdong, dat is doch möögelk. Däi softwarepakeeten 'fuse' un 'ntfs-3g' köönent bruukt worden, um däi taugreep up NTFS-dóóteisüsteemen in Linux möögelk t' móóken Dat ntfs-3g-pakeet is 'n open-source-implementäären fan 't Microsoft NTFS-dóóteisüsteem.
 Dat büd't stöön föör 't leesen, skriiven un manipuläären fan NTFS-partisjoonen unner Linux. Dat fuse-pakeet is 'n implementäären fan 'n dóóteisüsteen in d' userspace, däi 't fermöögelkt, mit dóóteisüsteemen sünner kerneltaugreep t' aarbaiden.
 T'sóómen bäident disser pakeeten fuel stöön föör NTFS-dóóteisüsteemen in Linux, soo dat bruukers NTFS-partisjoonen up höör süsteemen inhangen un d'r up taugriipen köönent.
-Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör 't gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
+Nee, Linux stöönt däi dóóteisüsteemtüüp fan NTFS näit. Jii mautent däi fastplóóet näj f'rmóótäären, um hum föör d' gebruuk up Linux-süsteemen föör t' beräiden. Ik undfeel, dat Jii däi dóóten up d' fastplóóet t'eerst up 'n anner medium seekernt, eer Jii hum f'rmóótäärent.
 Enkeld fan däi fan Linux stöönt dóóteisüsteemen bünt ekt4 un Btrfs.
 Gift dat tips, woo man sük 'n gâaud superheld föör 'n rullenspil mit früen uutdenkt?
 Däi krakter fan 'n superheld let't sük best uut 'n ooverörnt teemó ofläiden. D'r kan man dan ook gaau dat achtergrundferhóól fan d' held uut bilden, um t' ferkloren woo däi figüer tau höör staarkten un swakten kumt.
