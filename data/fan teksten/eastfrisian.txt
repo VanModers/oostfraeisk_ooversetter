@@ -394,7 +394,7 @@ Jii hebbent mii näit hulpen.
 Säi hebbent mii näit hulpen.
 Duu móókst gâaud aarbaid.
 Duu móókst mii näit bâang!
-Säi móókent mii näit bâang!
+Jii móókent mii näit bâang!
 Säi móókent mii näit bâang.
 Duu móókst mii näit bâang.
 Duu drinkst t' fööl.
@@ -844,7 +844,7 @@ Säeğ mii, wel siin haud dat is!
 Säeğ mii woosoo säi bruelt.
 Säeğ mii woosoo duu weeruem koomen büst.
 Säeğ mii dat duu mii noch altiid läifst!
-Säeğ höör wiider wat ik dii säeğt heb!
+Säeğ höör wiider, wat ik dii säeğt heb!
 Fertel us fan diin femiilje!
 Bedankt dat duu d'r büst.
 Bedankt dat duu koomen büst, Tom.
@@ -4866,7 +4866,7 @@ Wii set'dent us dóól un prüüfdent âal enkelhaiden bit wii 'n ooveräinstemm
 Wii höördent, dat Tom sülstmoord begóón het, man wii kunnent dat bold näit lööven.
 Wii mautent däi möögelkkaid in bedenken hollen, dat Tom an däi roofooverfal bedäiliğt was.
 Wii bünt âal fööer 't wet gliik, doch däi riiken hebbent fóók 'n grôot föördäil.
-Säint Jii genaau hen, dan köönent Jii säin, woo ik miin lippen bii 't uutprooten fan dat woord beweegen dau.
+Kiikent Jii genaau hen, dan köönent Jii säin, woo ik miin lippen bii 't uutprooten fan dat woord beweegen dau.
 Kiik genaau tau un duu kaast säin, woo miin lippen sük bii 't uutprooten fan dat woord beweegent.
 Nóó dat näej wet köönent echtkeerls fan d' aarbaid freineemen, um sük um höör kinner t' kümmern.
 Tom siin grappen bünt alleräiwiğt un wordent nóó 'n poer bäärkes sülst noch beeter.
@@ -7023,7 +7023,7 @@ Ik fersöch miin oel aauto t' ferkoopen, man kiin äien wees 'n koopinteräes.
 Ik heb fersöcht dii telefoonsk t' berekken, man ik bün näit döörkoomen.
 Ik heb däi kinner anweesen, rüstiğ t' weesen, man säi hebbent wiider skendóól móókt.
 Ik doch, fiilicht wacht'de fööer d' bóónhof Tom up us.
-Ik haar hum föör 'n Amerikóóner hollen, man häi ferwees sük as Engelskman.
+Ik haar hum föör 'n Amerikóóner hollen, man häi erwees sük as Engelskman.
 Ik hol dat föör läip unworskiinelk, dat Tom oojt dat sörğrecht föör däi kinner kriigen sal.
 Ik fin, dat Tom siin sülstmóókt kaukjes beeter smóókent as däi fan Marió.
 Ik fermaud'de, dat häi 'n löögen fertelde, man dat ferwunnerde mii näit.
@@ -7252,7 +7252,7 @@ Dat regäären daajt näit siin bäest, um dat woonruumprobleem t' löesen.
 Dat wicht kreeğ 'n flâaut, man kwam weer bii, doo wii höör wóóter in 't gesiecht gootent.
 Däi êerst stap bii 't löesen fan 'n probleem is, t' erkennen, dat 't äien gift.
 Dat gesiecht fan däi fürweerman was ferbittert, doo häi tau 't braanend huus uut kwam.
-Dat uutstellen büd't däip insicht in antîik kultürstuufen.
+Dat uutstellen büd't däiep insichten in antîik kultürstuufen.
 Däi inzjeniöören sprengdent däi brüeğ, um dat häi instörtensgeford't was.
 Dat poer het upstünds näit fóók skendóól, man dee 't frauer häil fóók.
 Däi firmó beskunk hum mit 'n gollen kloek up d' dağ fan siin uutskäiden.
@@ -8049,7 +8049,7 @@ Duu maust diin hand heeven, doo duu in 't fergóódern wat säegen wult.
 Säi hebbent 'n recht up anweesenhaid fan 'n afkóót bii 't ferhöör.
 Duu hest in âal däi joren, däi ik dii ken, näit äin móól fan hallo teegen mii säeğt.
 Duu haarst dat rönnen winnen kunt, doo duu man 'n biitje gaauer loopen wast.
-Duu kaast däi melk näit meer fan d' kofje trennen, doo duu hum d'r insent in sküd't hest.
+Duu kaast däi melk näit meer fan d' kofje trennen, doo duu hum d'r insent in kipt hest.
 Duu kaast däi melk näit meer fan d' kofje trennen, doo duu hum d'r inkipt hest.
 Man kan näit dat unmöögelk fulbrengen, sünner dat absuerd t' fersöyken.
 Doo ik güster däi stróóet langsgung, wur ik tüüeğ fan 'n unfal.
@@ -9458,7 +9458,7 @@ Ik ken fööl fransk woorden, man ik kan näit wies Fransk prooten.
 Ik heb net däi tellers wuskern, un nuu maut ik däi mül d'r uut brengen.
 Ik hoop, duu hest näit fööer, dat kläid tau däi fier t' dróógen.
 Ik hoop, dat Jóópóón artikkel 9 fan siin ferfóóten inhollen sal.
-Ik heb höört, dat 'n süüdamerikóónsk camper fan 'n anakundó freeten wur.
+Ik heb höört, dat 'n süüdamerikóónsk camper fan 'n anakondó freeten wur.
 Ik höörde, woo äien uut däi mäeng fööer d' bóónhof miin nóóm reep.
 Ik heb noch näit nauğ materióól sóómelt, um 'n bauk t' skriiven.
 Ik heb 'n dochter, däi in 'n restaaurant in d' Parkstróóet as kookske aarbaid't.
@@ -11718,7 +11718,7 @@ Dat fan hum föörslóón löesen kwam häilundal näit in fróóeğ.
 Däi roovers kwamment achter d' boomen weğ un ooverfullent hum.
 Däi riiken wordent riiker un däi aarmen wordent aarmer.
 Däi fróóeğ is näit soo makkelk t' beantern, as 't eerst däi anskiin hebben mağ.
-Däi prominäent psüücholôoğ glikt in siin lóóten miin unkel.
+Däi prominäent psüücholôoğ glikt in siin uutsäin miin unkel.
 Däi geböör föör däi klewäärunnerricht undholt dat bruuken fan 't klewäär.
 Däi skendaarms start'dent 'n offensîiv teegen wat droogendealers.
 Däi skendaarms unnersöchent däi unfaloorsóóek akróót.
