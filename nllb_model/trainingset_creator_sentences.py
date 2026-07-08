@@ -1,4 +1,5 @@
 import argparse
+import os
 from pathlib import Path
 
 import torch
@@ -7,24 +8,76 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from dataset_creator import FRS_LANG, DEU_LANG, add_frs_lang, MAX_LENGTH
 
 
+REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_MODEL_PATH = "VanModers114/East_Frisian_NLLB_Model"
-DEFAULT_INPUT_FILE = Path("data/krektüren/deu.txt")
-DEFAULT_GERMAN_OUTPUT = Path("data/auto_translated/german.txt")
-DEFAULT_EASTFRISIAN_OUTPUT = Path("data/auto_translated/eastfrisian.txt")
+DEFAULT_INPUT_FILE = REPO_ROOT / "data" / "krektüren" / "deu.txt"
+DEFAULT_CORRECTED_GERMAN_FILE = REPO_ROOT / "data" / "fan teksten" / "german.txt"
+DEFAULT_GERMAN_OUTPUT = REPO_ROOT / "data" / "auto_translated" / "german.txt"
+DEFAULT_EASTFRISIAN_OUTPUT = REPO_ROOT / "data" / "auto_translated" / "eastfrisian.txt"
 DEFAULT_COUNT = 10000
 DEFAULT_BATCH_SIZE = 16
 
 
 def parse_german_text(raw_line: str) -> str:
     """Extract German text from a plain line or TSV row."""
-    line = raw_line.rstrip("\n")
+    line = raw_line.strip()
     if not line:
         return ""
 
-    parts = line.split("\t")
+    parts = line.split("\t", 2)
     if len(parts) >= 2:
         return parts[1].strip()
     return line.strip()
+
+
+def read_sentence_set(path: Path) -> set[str]:
+    if not path.exists():
+        return set()
+    return {
+        line.strip()
+        for line in path.read_text(encoding="utf-8-sig").splitlines()
+        if line.strip()
+    }
+
+
+def select_sentences(raw_lines, count: int, excluded: set[str]) -> list[str]:
+    """Select unique, uncorrected German sentences from the end of the source."""
+    selected = []
+    seen = set(excluded)
+
+    for raw_line in reversed(raw_lines):
+        text = parse_german_text(raw_line)
+        if not text or text in seen:
+            continue
+        seen.add(text)
+        selected.append(text)
+        if len(selected) == count:
+            break
+
+    return selected
+
+
+def remove_sentences_from_source(path: Path, excluded: set[str]) -> tuple[int, int]:
+    """Atomically remove source rows whose German sentence has been corrected."""
+    temp_path = path.with_name(f".{path.name}.tmp")
+    removed = 0
+    kept = 0
+
+    try:
+        with path.open("r", encoding="utf-8-sig") as source, temp_path.open(
+            "w", encoding="utf-8", newline="\n"
+        ) as destination:
+            for line in source:
+                if parse_german_text(line) in excluded:
+                    removed += 1
+                    continue
+                destination.write(line.rstrip("\r\n") + "\n")
+                kept += 1
+        os.replace(temp_path, path)
+    finally:
+        temp_path.unlink(missing_ok=True)
+
+    return removed, kept
 
 
 def batched(iterable, batch_size):
@@ -61,10 +114,21 @@ def main():
     )
     parser.add_argument("--model-path", default=DEFAULT_MODEL_PATH)
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT_FILE)
+    parser.add_argument(
+        "--corrected-german",
+        type=Path,
+        default=DEFAULT_CORRECTED_GERMAN_FILE,
+        help="German corrections to exclude from selection.",
+    )
     parser.add_argument("--german-output", type=Path, default=DEFAULT_GERMAN_OUTPUT)
     parser.add_argument("--eastfrisian-output", type=Path, default=DEFAULT_EASTFRISIAN_OUTPUT)
     parser.add_argument("--count", type=int, default=DEFAULT_COUNT)
     parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE)
+    parser.add_argument(
+        "--clean-input-only",
+        action="store_true",
+        help="Remove corrected sentences from the input file and exit without loading the model.",
+    )
     args = parser.parse_args()
 
     if args.count <= 0:
@@ -75,6 +139,12 @@ def main():
     if not args.input.exists():
         raise FileNotFoundError(f"Input file not found: {args.input}")
 
+    corrected = read_sentence_set(args.corrected_german)
+    if args.clean_input_only:
+        removed, kept = remove_sentences_from_source(args.input, corrected)
+        print(f"Removed {removed} corrected row(s); kept {kept} row(s) in {args.input}")
+        return
+
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
 
@@ -83,23 +153,19 @@ def main():
     add_frs_lang(tokenizer)
 
     if hasattr(model.config, "max_length") and model.config.max_length is not None:
-            model.config.max_length = None
+        model.config.max_length = None
     if hasattr(model, "generation_config") and getattr(model.generation_config, "max_length", None) is not None:
         model.generation_config.max_length = None
 
     model.to(device)
     model.eval()
 
-    all_lines = args.input.read_text(encoding="utf-8").splitlines()
+    all_lines = args.input.read_text(encoding="utf-8-sig").splitlines()
     if not all_lines:
         print("Input file is empty. Nothing to translate.")
         return
 
-    selected = all_lines[-args.count :]
-    selected.reverse()  # Bottom-up: longest sentences first if source is length-sorted.
-
-    german_texts = [parse_german_text(line) for line in selected]
-    german_texts = [text for text in german_texts if text]
+    german_texts = select_sentences(all_lines, args.count, corrected)
 
     if not german_texts:
         print("No usable sentences found in selected lines.")
