@@ -82,7 +82,7 @@ def batched(iterable, batch_size):
         yield iterable[i : i + batch_size]
 
 
-def translate_batch(texts, tokenizer, model, device, torch):
+def translate_batch(texts, tokenizer, model, device):
     tokenizer.src_lang = DEU_LANG
     encoded = tokenizer(
         texts,
@@ -148,12 +148,14 @@ def main():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
 
-    # The pushed tokenizer uses the newer list form for extra_special_tokens.
-    # Passing an empty mapping keeps Transformers 4.49 compatible; all language
-    # tokens, including frs_Latn, are already embedded in tokenizer.json.
-    tokenizer = AutoTokenizer.from_pretrained(args.model_path, extra_special_tokens={})
+    tokenizer = AutoTokenizer.from_pretrained(args.model_path)
     model = AutoModelForSeq2SeqLM.from_pretrained(args.model_path)
     add_frs_lang(tokenizer)
+
+    if hasattr(model.config, "max_length") and model.config.max_length is not None:
+        model.config.max_length = None
+    if hasattr(model, "generation_config") and getattr(model.generation_config, "max_length", None) is not None:
+        model.generation_config.max_length = None
 
     model.to(device)
     model.eval()
@@ -176,12 +178,11 @@ def main():
     print(f"Translating {total} sentence(s)...")
 
     written = 0
-    with (
-        args.german_output.open("w", encoding="utf-8", newline="\n") as ger_file,
-        args.eastfrisian_output.open("w", encoding="utf-8", newline="\n") as frs_file,
-    ):
+    with args.german_output.open("a", encoding="utf-8") as ger_file, args.eastfrisian_output.open(
+        "a", encoding="utf-8"
+    ) as frs_file:
         for batch in batched(german_texts, args.batch_size):
-            frs_batch = translate_batch(batch, tokenizer, model, device, torch)
+            frs_batch = translate_batch(batch, tokenizer, model, device)
 
             for ger, frs in zip(batch, frs_batch):
                 ger_file.write(ger + "\n")
