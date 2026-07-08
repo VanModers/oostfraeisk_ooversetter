@@ -2,6 +2,9 @@ import argparse
 import os
 from pathlib import Path
 
+import torch
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+
 from dataset_creator import FRS_LANG, DEU_LANG, add_frs_lang, MAX_LENGTH
 
 
@@ -141,9 +144,6 @@ def main():
         removed, kept = remove_sentences_from_source(args.input, corrected)
         print(f"Removed {removed} corrected row(s); kept {kept} row(s) in {args.input}")
         return
-
-    import torch
-    from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
