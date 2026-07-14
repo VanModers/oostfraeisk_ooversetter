@@ -2,9 +2,12 @@
 
 The verifier records one-based row indices in ``verifyer/verified_indices.txt``.
 Rows which still need work are also listed in
-``verifyer/sentences-to-correct.txt``.  This script selects verified rows from
-``tatoeba_frs_export.tsv``, excludes every still-flagged row, and writes a
-headerless UTF-8 TSV in Tatoeba's list-with-translations format::
+``verifyer/sentences-to-correct.txt``. This script selects verified rows from
+the corrected, aligned ``german_tatoeba.txt`` and
+``eastfrisian_tatoeba.txt`` files, excludes every still-flagged row, and uses
+``tatoeba_frs_export.tsv`` only to obtain the corresponding Tatoeba sentence
+IDs. It writes a headerless UTF-8 TSV in Tatoeba's list-with-translations
+format::
 
     German sentence ID<TAB>German sentence<TAB>East Frisian translation
 
@@ -31,6 +34,8 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 DEFAULT_SOURCE = BASE_DIR / "tatoeba_frs_export.tsv"
+DEFAULT_GERMAN = BASE_DIR / "german_tatoeba.txt"
+DEFAULT_FRISIAN = BASE_DIR / "eastfrisian_tatoeba.txt"
 DEFAULT_VERIFIED = BASE_DIR / "verifyer" / "verified_indices.txt"
 DEFAULT_CORRECTIONS = BASE_DIR / "verifyer" / "sentences-to-correct.txt"
 DEFAULT_OUTPUT = BASE_DIR / "tatoeba_frs_verified_3000.tsv"
@@ -78,6 +83,43 @@ def read_export_rows(path: Path) -> list[ExportRow]:
     if not rows:
         raise ValueError(f"{path}: no export rows found")
     return rows
+
+
+def read_aligned_sentences(path: Path) -> list[str]:
+    """Read an aligned sentence file without stripping meaningful spaces."""
+    with path.open(encoding="utf-8") as source:
+        return [line.rstrip("\r\n") for line in source]
+
+
+def use_corrected_aligned_text(
+    export_rows: list[ExportRow],
+    german_sentences: list[str],
+    frisian_sentences: list[str],
+) -> list[ExportRow]:
+    """Combine export IDs with the corrected aligned German/Frisian text."""
+    counts = {
+        "export": len(export_rows),
+        "German": len(german_sentences),
+        "East Frisian": len(frisian_sentences),
+    }
+    if len(set(counts.values())) != 1:
+        details = ", ".join(f"{name}={count:,}" for name, count in counts.items())
+        raise ValueError(f"aligned source files have different row counts: {details}")
+
+    corrected_rows: list[ExportRow] = []
+    for index, (export_row, german_text, frisian_text) in enumerate(
+        zip(export_rows, german_sentences, frisian_sentences), start=1
+    ):
+        if export_row.german_text != german_text:
+            raise ValueError(
+                f"row {index}: German text does not match the Tatoeba ID export"
+            )
+        if not german_text.strip() or not frisian_text.strip():
+            raise ValueError(f"row {index}: aligned sentence text must not be empty")
+        corrected_rows.append(
+            ExportRow(export_row.german_id, german_text, frisian_text)
+        )
+    return corrected_rows
 
 
 def read_verified_indices(path: Path) -> set[int]:
@@ -191,7 +233,24 @@ def write_submission(path: Path, rows: list[ExportRow]) -> None:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--count", type=int, default=3000, help="pairs to write")
-    parser.add_argument("--source", type=Path, default=DEFAULT_SOURCE)
+    parser.add_argument(
+        "--source",
+        type=Path,
+        default=DEFAULT_SOURCE,
+        help="three-column export used for Tatoeba sentence IDs",
+    )
+    parser.add_argument(
+        "--german",
+        type=Path,
+        default=DEFAULT_GERMAN,
+        help="corrected aligned German sentences",
+    )
+    parser.add_argument(
+        "--frisian",
+        type=Path,
+        default=DEFAULT_FRISIAN,
+        help="corrected aligned East Frisian sentences",
+    )
     parser.add_argument("--verified", type=Path, default=DEFAULT_VERIFIED)
     parser.add_argument("--corrections", type=Path, default=DEFAULT_CORRECTIONS)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
@@ -200,7 +259,12 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
-    rows = read_export_rows(args.source)
+    export_rows = read_export_rows(args.source)
+    rows = use_corrected_aligned_text(
+        export_rows,
+        read_aligned_sentences(args.german),
+        read_aligned_sentences(args.frisian),
+    )
     verified_indices = read_verified_indices(args.verified)
     correction_indices = read_correction_indices(args.corrections)
     selected_rows, selected_indices = select_rows(
