@@ -5599,7 +5599,7 @@ mit forsiğkaid let't sük d'r niks an dwingen
 noch näit häil drööeğ achter d' ooren weesen
 nüms dürt God siin nóóm un woord wóónbruuken
 nuu kan kan h' sük bii d' nööes langs kiiken
-ooster wind un reegen - drei dóóeğ of neegen
+oosterwind un reegen - drei dóóeğ of neegen
 paas up dat d'r kiin klağt oover dii kooment
 paas up! däi drummel hóólt dii doo duu lüğst
 's nachts daunt däiven un düüvels höör waark
@@ -9303,7 +9303,7 @@ däi wind bullerde in d' skösstäin
 däi wind faajstert döör d' boomen
 däi wind flöystert döör d' boomen
 däi wind waajt döör d' wâajt döör
-däi wind waajt uut d' süüder hauk
+däi wind waajt uut d' süüdelk hauk
 däi wóólters bünt noch näit läimt
 däi wooren bünt net akróót koomen
 däi wuel maut eerst klat't worden
@@ -10432,7 +10432,7 @@ dat het fannacht düğtiğ fucht't
 dat het hum in d' macht kreegen
 dat het 't gefal häil näit west
 dat huus het d' höeğt noch näit
-dat huus liğt in d' wester hörn
+dat huus liğt in d' westelk hörn
 dat is âal ferheert un fernäilt
 dat is âal ferwöylt un ferrüd't
 dat is däi klinkerkloer worhaid
@@ -22081,7 +22081,7 @@ slóód as biilóóeğ
 smacht as 'n wulf
 soo rood as blaud
 staark as 'n boer
-stîif ooster wind
+stîif oosterwind
 stiikelwiren sküt
 stroom oftswakken
 sük bedekt hollen
@@ -25776,7 +25776,7 @@ sük uprisken
 sük upsetten
 sük upwinden
 sülvern gaud
-süüder lücht
+süüderlücht
 swâart göert
 swâart kofje
 swâart krîid
@@ -26227,8 +26227,8 @@ old un kold
 oobstmuuser
 óókern boom
 oopen graup
-ooster siid
-ooster wind
+oostsiid
+oosterwind
 oover stüer
 ooversetter
 pêer hollen
@@ -26309,8 +26309,8 @@ sük wunnern
 sund móóken
 sund worden
 sünner kuer
-süüder siid
-süüder wind
+süüdsiid
+süüderwind
 süüniğ knap
 swâart bäär
 Swâart Piit
@@ -26369,8 +26369,8 @@ wel is d'r?
 wel kniipen
 wel próólen
 welliğ hoer
-wester siid
-wester wind
+westsiid
+westerwind
 wies hollen
 wiet kiddik
 wiet peeper
@@ -26628,7 +26628,7 @@ oo jaases!
 oopen bäin
 oopen füer
 oopen liif
-ooster wal
+oostwal
 oover âals
 paal stóón
 peerhollen
@@ -26691,7 +26691,7 @@ sük teemen
 sük üütern
 sük wóóter
 sükker lüü
-süüder wal
+süüdwal
 swiit fööl
 swoer wêer
 tee móóken
@@ -26747,7 +26747,7 @@ wel dekken
 wel eeseln
 wel töyven
 wen .. ook
-wester wal
+westwal
 wiel knóój
 wiel râaus
 wiet stiep
