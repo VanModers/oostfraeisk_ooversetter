@@ -217,7 +217,7 @@ maiboom maiboom hol dii fast - mörn kumt dä fröem gast - däi wil us dä maib
 säi hebbent lâang oover däi kau mitnanner ferhannelt eer däi koop klor wur man t'läest wassent säi doch näit sins worden
 Sünnerklóós kan näit koomen - dan häi is al lâang dood - häi liğt in d' kâark fan Roomen - mit siin bâajd bäintjes bloot
 um 't elk un äien fan paas t' móóken un fan elk tau siin bemint dat bünt däi hachelkst sóóken däi man in däi weerld fint
-Wii saajelnt mit däi noorder wind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
+Wii saajelnt mit däi noordwind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
 "Loop liikuut" see däi stürk tau d' eekster bii ' folgen. "Maust duu sülst köönen" see däi eekster un hüpkede achteran.
 Antjemöy höör kraaj is dood häi het fan däi tâak klebattert liğt up rüeğ un rööğt kiin pôot Antjemöy höör kraaj is dood
 däi pelssakken mautent 's sömmers mit 'n biitje kamfer in 'n blikken truem inpakt worden dat d'r kiin motten in kooment
@@ -2594,7 +2594,7 @@ däi lütje kraaben krabbelnt un kruupent äien al um d' fauten rund
 däi lüü bünt mii t' fiimelk d'r heb 'k näit geern wat mit t' daun
 däi müer is t' wiid föörfaalen anners was dat d'r näit unnerróókt
 däi muusen krabbeln in d' sträj rund? dat bünt je eemer miigelkes
-däi noorder wind huult in d' skösstäin un drükt an dööer un blien
+däi noordwind huult in d' skösstäin un drükt an dööer un blien
 däi oel plóóets was upbraant un düs baaudent wii höör fan näjs up
 däi pêer bünt soo daarten dat säi hóóst häil näit t' töögeln bünt
 däi ruunooms haarent kiin baudel un düs wul kiin frâau s' traauen
@@ -3624,7 +3624,7 @@ däi haalms fan 't koorn bünt fanjoer fööl langer as anners
 däi het anner aarften up d' böön as sükker updrööğt boonen
 däi kiin stok föör d' huen het maut mit wust um sük goojen
 däi lobben hangent d'r bii dóól un slóónt höör um d' bäien
-däi noorder wind is altiid kold ne'ğeliik wor häi heerkumt
+däi noordwind is altiid kold ne'ğeliik wor häi heerkumt
 däi oel profeeten bünt dood un däi näjen döygent näit fööl
 dat baudel is niks meer weerd dat smiit man up d' mesbüelt
 dat braaut net soo lâang as dat dat d'r 'n unwêer lösbrekt
@@ -4747,7 +4747,7 @@ dat is soo 'n halsstoriğ dönner as dat man äien gift
 dat kan 'k bewiesen wel fööl drinkt maut fööl piesen
 dat kan näit missen däi fööl drinkt maut fööl piesen
 dat land staajt âal blank soo wiid as man kiiken kan
-dat liğt up d' fiifundaartiğst gróód noorder bräed't
+dat liğt up d' fiifundaartiğst gróód noordelk bräed't
 dat maut eerst maal worden fööer dat dat mooj word't
 dat muğ hum näit geböören siin söön groot t' brengen
 dat peerd is hink dat het wies 'n spiiker in d' faut
@@ -6120,7 +6120,7 @@ mit looven un bäiden maut äien biinanner koomen
 'n winter sünner snäj is as 'n kopke sünner tee
 noch 'n danske twäj dräj un dan is däi lüst uut
 nóó miin gissen haar dat anners uutkoomen musst
-noorder wind in d' junii waajt koorn in 't land
+noordwind in d' junii waajt koorn in 't land
 raağ näit soo fööl mit hum dat brengt doch niks
 richelpóólen wordent mit slóóej in grund haauen
 rif greep häi 't raur un skoot däi boontje dood
@@ -7536,7 +7536,7 @@ dat kollen het siin häiel lippen ferspaukt
 dat kumt altiid weer up swiinsk proot dóól
 dat kwóód arnt al däiper un däiper bii hum
 dat leevend gaajt döör un wóóter blift nat
-dat liğt up d' 53ste gróód noorder bräed't
+dat liğt up d' 53ste gróód noordelk bräed't
 dat löpt hum d' rüeğ bii hooğ as pütwóóter
 dat lücht fan d' fürtoorn blinkt soo lecht
 dat môoj wicht het mii d' spróóek ferslóón
@@ -24391,7 +24391,7 @@ in d' hörn fan 't füer
 in d' kracht ferfaalen
 in d' Läärder gewesten
 in d' leegerwal koomen
-in d' noorder bred'ten
+in d' noordelk  bred'ten
 in däi redulten koomen
 in dat wîidst bedüüden
 in middent döörsniiden
@@ -25294,7 +25294,7 @@ gissen is fóók missen
 gliidend aarbaidstiid
 godsbedröyvt smóókelk
 griisgröyen melkswâam
-gróód noorder bräed't
+gróód noordelk bräed't
 grôot bumbaardäärtîik
 grôot düüvelsnaajgorn
 grôot haufiisdernööes
@@ -33603,7 +33603,7 @@ nóó miin mäinen
 nóó ölje booren
 nóógels knippen
 noojt un nümmer
-noorder bräed't
+noordelk bräed't
 of h' wal kumt?
 ofdanken hollen
 ofgefal trennen
@@ -34813,7 +34813,7 @@ nóó wat ampeln
 nóó wat kiiken
 nóó wiinachten
 nóókend wiifke
-noorder steern
+noordersteern
 nööten knakken
 nööten knappen
 nütst je niks!
@@ -35955,9 +35955,9 @@ nood uutstóón
 nöödiğ hebben
 nóókend moers
 nóókend snieğ
-noorder kâant
-noorder lücht
-noorder tiemp
+noordkâant
+noorderlücht
+noordtiemp
 nor seer daun
 Nörder Bladje
 Nörder wulkje
@@ -37014,8 +37014,8 @@ nóó d' kâant
 nóó dat bauk
 nóó huus tau
 nóó un fööer
-noorder siid
-noorder wind
+noordsiid
+noordwind
 nuu is flaud
 nuu man tau!
 oel dağ kumt
@@ -37898,8 +37898,8 @@ nood hebben
 nood liiden
 nöödiğ daun
 nóómelk dit
-noorder äen
-noorder wal
+noordäen
+noordwal
 noorsk holt
 noorsk jüel
 n'rmóól nul
@@ -45054,7 +45054,7 @@ Koopen un büüten sünner nood steelt däi botter fan 't brood. Däi kwóóed h
 Dat dat bloot näit in aarbaid uutort. Dat is 'n häecht ferband.
 Dat swiin het finnen. Móók dor näit soo fööl algóósje fan!
 'n langwaarpiğ fent. Fiif lüü.
-Siin oogen braanent as füer. Gróód noorder bräed't.
+Siin oogen braanent as füer. Gróód noordelk bräed't.
 Häi gaf hum 'n klop up d' kop. Häi is d'r näit nóó t'mâaud um d'r mit hen t' góón.
 Sük strüüven. Häi löpt oover d' stróóet.
 Teegen ses üer word't 't lecht. Ik kun 't antau näit hollen.
@@ -45330,7 +45330,7 @@ Bii ... anhooğ. Wel d'r bii hóólen däi d'r küen fan het.
 Däi lappen floogent hum um däi ooren soo hoo häi d'r in. Dat döğt raajn niks.
 Dat is 'n hürt huus. Dat taau maut näjs ferspliest worden.
 Dôof nööten. 'n lîik liinje.
-Drink duu gauswiin d'r kaast wal mit daun. Noorder äen.
+Drink duu gauswiin d'r kaast wal mit daun. noordäen.
 Geld in aksien anläegen. Häi gift kiin bliik fan sük dat häi noch leevt.
 Häi is d'r up ferstiivt as däi kau up dat ferkeert kalf. Sük t'rüeğtrekken.
 Häi löytert d'r wat mit rund un kriğt d'r niks örnelks fan t'räecht. Ik lóót mii näit fan dii ferlakken.
@@ -45339,7 +45339,7 @@ Bóós bliiven. Däi lappen hungen d'r bii dóól soo hebbent säi kum streeken.
 Dat dönnerskind is altiid soo dwäilsk dat d'r häil niks mit hum an t' fangen ist. Dat is 'n huusbieğ.
 Dat taau meer bot daun. Móól ... móól.
 Dôof ööer. 'n linnen dauk.
-Drink gaau up! Noorder bräed't.
+Drink gaau up! noordelk bräed't.
 Geld in d' büüdel daun. Häi gift kiin luud fan sük.
 Häi is d'r up uut. Sük t'sóómen geeven.
 Häi löytert wat rund. Ik lóót mii näit in miin loon bekniipen.
@@ -45348,7 +45348,7 @@ Bóós in siin äigen huus weesen. Däi lappen slóónt höör um d' bäien.
 Dat dönnert dat dat drunst. Dat is 'n indiisiğ keerl.
 Dat taau sit't näit gaud dat is wat ferbunnen. Móól soo fööl geld.
 Dôof tii. 'n loek ôoğ.
-Drink man noch äien d'r kaast duu beeter fan piesen as fan 'n köerst brood. Noorder kâant.
+Drink man noch äien d'r kaast duu beeter fan piesen as fan 'n köerst brood. noordkâant.
 Geld in d' wäiek setten. Häi gift kiin luud meer fan sük.
 Häi is d'r uutsked't. Sük t'sóómendaun.
 Häi löytert wat rund. Hannel driiven.
@@ -45356,7 +45356,7 @@ Ik lóót mii näit langer fan dii fersküünen un doo duu näit betóólst dan 
 Wel d'r ook wal kwam Hinnerk kwam näit. Bóós Joost.
 Däi lasten wordent âal hooger. Dat dönnert döör 't häiel huus doo säi mit wóógen oover d' böön forent.
 Dat is 'n jentiğ stok. Dat täik het andreeven.
-'n löes aarbaider. noorder lücht.
+'n löes aarbaider. noorderlücht.
 Geld inböören. Häi gift mii kiin körrelke d'r fan.
 Häi is d'r weer. Sük t'sóómenriiten.
 Häi löytert weer soo lâang dat 't wies weer t' lóót word't. Hannel un wannel.
@@ -45372,7 +45372,7 @@ Bii âal däi gaangen kunnent wii us hóóst näit t'räecht finnen. Jâan Brüe
 Wel d'r unner hebben. Bóós oover wel weesen.
 Däi latten liegent d'r t' doon up. Dat dood't soo weğ.
 Dat is 'n kâant jung. Dat teemt sük näit.
-'n lok in d' kop. Noorder siid.
+'n lok in d' kop. noordsiid.
 Geld is dat hoovdmiddel um döör d' weerld t' koomen. Häi gift niks d'r nóó.
 Häi is düğtiğ groot worden. Sük twillen.
 Häi luddert däi häiel dağ wat rund. Ik lóót mii näit noch 'n móól bedräigen!
@@ -45388,7 +45388,7 @@ Bii âals is wat un bii 'n sliipstäin is 'n draajer. Jâan Deegen haar neegen t
 Wel duun fauern. Bóós weesen.
 Däi ledder het tain tróómen. Dat dóógelk brood.
 Dat is 'n keerl as 'n äiken. Dat telefoon is beset't.
-'n lokóól betoiben. Noorder steern.
+'n lokóól betoiben. noordersteern.
 Geld kläinmóóken. Häi gift noch kiin blik fan sük dat häi noch leevt.
 Häi is dül in d' kop. Sük um d' äigen âas draajen.
 Häi lüğt as drükt. Unnerleegen weesen.
@@ -45397,7 +45397,7 @@ Jâan Eeverts. Wel duuven het fläigent ook duuven tau.
 Däi lêeğt in siin haart. Dat dóóğlecht brekt an.
 Lipsk moers. Dat is 'n keerl as 'n boer.
 Dat teller is sköört. 'n looden blok.
-Noorder tiemp. Pikkerğ maur.
+noordtiemp. Pikkerğ maur.
 Geld löesen. Häi gift siin folk 'n knâap loon.
 Häi is dül up mii um dat ik hum dat näit daun wul. Sük um wat besörgen.
 Häi lüğt as 'n haidkooper. Ik lööv dat baudel is falikant.
@@ -45406,7 +45406,7 @@ Wel êer andaun. Däi leepel maut eerst belakt worden eer d'r mit eeten word't.
 Küüdel miin küüdel in wel siin büüdel? - in miin äigen büüdel! - küüdel miin küüdel in wel siin hand?  - in miin äigen hand! Dat dookde soo dat däi drüppen fan d' boomen fullent.
 Lipsk pûup. Dat is 'n keerl as 'n boom.
 Dat tikkert an 't fenster. 'n looden dak.
-Noorder wal. Geld maut trüllen düs is dat rund.
+noordwal. Geld maut trüllen düs is dat rund.
 Häi gift sük häil kiin mâajt um klor t' worden. Häi is echt.
 Sük um wat braanen. Häi lüğt dat häi swaart word't.
 Ik lööv dat daajt däi wind däi 'n dööer of lûuk al hen un weer weğt un slaajt. Bii äeb kan man nóó Baltrem tau loopen.
@@ -45414,7 +45414,7 @@ Jâan fan Feeren. Wel eeseln.
 Wóóğt 't man móótje! ik wil dii insent weer dritsen! Däi leet mii näit meer soo kuntant tau.
 Dat dookt. Dat is 'n keerl föör d' fuust.
 Dat tinkelt mii fööer d' oogen. 'n lóóden haaj.
-Noorder wind. Geld un blôot moers dor is 't mäiest äilend fan in d' weerld.
+noordwind. Geld un blôot moers dor is 't mäiest äilend fan in d' weerld.
 Häi giirt d'r altiid soo nóó dat 't äien hóóst tau 'n häikel is doo man dat süğt. Häi is eerder koomen.
 Sük umkiiken. Häi lüğt dat hum däi swôor fan d' kop bast't.
 Ik lööv dat häi upstünds 'n lütje draaj an het. Bii aier fangst duu maarders.
@@ -45422,7 +45422,7 @@ Jâan fan Hóógel. Wel fan achter in 't huus kumt het kiin geld.
 Däi let't as düer tiiden. Dat doovert döör 't huus dat däi fensters trielent.
 Dat is 'n keerl föör d' fuust däi fastholt ook wen 't suust un bruust. Dat tinnen dak blunk unner dat gräel lücht fan d' süen.
 Móólen früecht. 'n lóóeğ hâau.
-Noorder wind in d' junii waajt koorn in 't land. Geld un gaud.
+noordwind in d' junii waajt koorn in 't land. Geld un gaud.
 Häi gilpt d'r al teegen an soo dat man häil näit t' woord koomen kan. Häi is eernst.
 Sük umslóón. Häi lüğt groef.
 T'sóómenfat't maut ik säegen ... Ik lööv dat is dii wal näit recht anstenniğ dat duu 'n böskup föör mii dóón sast.
@@ -48382,7 +48382,7 @@ Sünner gedau. Häi nimt slóóptebletten.
 Tuffels mit melkstiep. Hum bot wiisen.
 Up d' dönnerdağ. Ik wil dat land etten lóóten.
 Jii mautent däi blöymen fanóóvend noch eeven ooverbruusen. Däi anker stoppen.
-Däi noorder wind huult in d' skösstäin un drükt an dööer un blien. Dat füer is gaud in d' glâaj.
+Däi noordwind huult in d' skösstäin un drükt an dööer un blien. Dat füer is gaud in d' glâaj.
 Dat is soo 'n kröypeläj mit däi pêer man kumt d'r häil näit mit föörgels. Meer is 't ook näit.
 Dat woord daun. Möyt däi pêer!
 'n saftiğ steak. Oostfräisland is 'n land fan freihaid - däi näit eeten wil däi höft näit.
@@ -48391,7 +48391,7 @@ Häi is mii näit soo dür as miin äigen blaud. Sünner geld kaast duu as koopm
 Häi nimt sük 'n kau mit 'n kalf d'r tau. Tuffels mit stiep.
 Hum bünt âal tittels ofkent worden. Up d' düert mautent wii d'r anners mit um.
 Ik wil dii baistern doo duu näit kikst dat duu fut kumst. Jii mautent däi gliiven diechtmóóken un gaud stoppen anners puust't däi wind d'r döör.
-Däi anker tsakken lóóten. Däi noorder wind is altiid kold ne'ğeliik wor häi heerkumt.
+Däi anker tsakken lóóten. Däi noordwind is altiid kold ne'ğeliik wor häi heerkumt.
 Dat füer is in d' róóek. Dat is soo 'n kröypeläj mit hum dat häi döör d' tiid kumt.
 Meer kun 'n d'r näit ofleesen um dat 't pepier al ferspaukt was. Dat woord fan 'n skoojer gelt hir näit.
 'n sak hóófer. Oostfräisland is 'n pankâauk - dat rand is dat bäest d'r fan.
@@ -52889,7 +52889,7 @@ Lütje boombikker. Dat kribbelt fan tiiken.
 Näej blaud. Duu maust beeter antüüden.
 Ofgefal weğlappen. Säi leet läip ferbruelt.
 Häi het hum siin gaud in hêeğ un plêeğ geeven. Häi is up d' flüğt góón.
-Häi staajt d'r soo holten hen. In d' noorder bred'ten.
+Häi staajt d'r soo holten hen. In d' noordelk  bred'ten.
 Wat an d' hand weesen. 'k was benaaut in d' kop.
 Wii hebbent fan us fóóder slóógen kreegen. Wult duu ook lösskup mit firen?
 Däi dööer girt. Däi spróóden bünt drok an 't nüst baauen.
@@ -54942,7 +54942,7 @@ Duu maust mii däi botter näit t' dik up d' brüeğ smeeren. Rôod föögelmîi
 Säi wullent höör uutleskern. Soo 'n sluukhals as häi is däi is häil näit t' fersóódigen.
 Häi het 'n âar in d' kop. Häi kan näit katten as ook huen hebben.
 Häi trielt as 'n blad an d' boom. In 'n liest inkludäären.
-Wat glad striiken. Wii saajelnt mit däi noorder wind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
+Wat glad striiken. Wii saajelnt mit däi noordwind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
 Däi fesóón was näit up sköötsmóóet. Däi tiid staajt stiel.
 Dat het mii spit't. Dat land maut plauğt worden.
 'n beloop fan daartiğ euro. D'r döör büüdeln.
@@ -57009,7 +57009,7 @@ Häi het noch leert woo 'n füer mit fürstäin un stóól anböt't word't. Häi
 Häi wil hum näit kennen un niks fan hum wäiten. Ik bün soo laf ik maut eerst wat t' eeten hebben anners faal ik um.
 Wat is d'r? Bü' jii d'r?
 Däi góóp het hum t' fóóten häi maut up bäer. Däi wind is flak um oost.
-Dat iikamt is hum updróógen. Dat liğt up d' 53ste gróód noorder bräed't.
+Dat iikamt is hum updróógen. Dat liğt up d' 53ste gróód noordelk bräed't.
 'n däär fan oes. D'r is je niks um bii.
 Fan sük weesen. Fööer dook un dağ.
 Rööğt jau näit! Häi beleevt soo fööl ferdräit.
@@ -57024,7 +57024,7 @@ Häi het noch 'n flöögel an 't huus ansetten lóóten. Häi klampt sük d'r mi
 Häi wil mii anpollern. Ik bün soo lueğ t' bäien dat ik hóóst kiin faut röögen kan.
 Wat is häi helsk. Bliikend striimen.
 Däi görden fan d' sakken bünt köt. Däi wind is soo bullerğ.
-Dat iis het binnen drei dóóeğ weğdaajt. Dat liğt up d' fiifundaartiğst gróód noorder bräed't.
+Dat iis het binnen drei dóóeğ weğdaajt. Dat liğt up d' fiifundaartiğst gróód noordelk bräed't.
 'n daarten fent. D'r is kiin bedenk bii.
 Duuk dii man an mii. Fan sülst.
 Fööer gerûum tiid. Häi beloovde mii siin hüelp.
@@ -86015,7 +86015,7 @@ In äin toğ drunk ik miin glas uut, bestelde mii dan noch twei annernt un löes
 Doo gung 'k in buuten.
 Mank d' Auerker stad siin düüsterğ loonen kroopent dunker fiigööken as müegen nóó 't lücht.
 Däi lateernen beseerdent miin oogen, dat geraup ferteerde mii fan binnen.
-As 'n ferdreeven slingerde ik däi noorder wâal anhooğ, teegen mii däi Äimsiger Stróóet, un fööer höör reesent grôot betongen denkmóólen däi ferteldent fan "dood" un "noojt weer".
+As 'n ferdreeven slingerde ik däi noordwal anhooğ, teegen mii däi Äimsiger Stróóet, un fööer höör reesent grôot betongen denkmóólen däi ferteldent fan "dood" un "noojt weer".
 Uut an 't waalpad krüüsend loonen glee flikkernd dook fan 't tsentrum siin muulen nóó däi föörsteeden tau.
 Ik kweem bii d' haltstee.
 Däi 550 stun as 'n kasteel fan beskóóven middent in 't niks.
@@ -90060,7 +90060,7 @@ Ook dat UN-büro föör humóónitêer baudels (OCHA) proot'de fan "skrikkelk hu
 Up d' middewêek wassent däi bewooners fan Góósó-stad teegen d' oorlauğ up d' stróóet góón. Hunnert minsken droogent transparenten mit däi upskriften "Red't Góósó, 't langt!" of "Góósó gaajt dood fan moord, smacht un unnerdrükken".
 Däi êerst fóósen fan 't inneemen fan d' stad loopen unnerwiilst al. An 't offensîiv sullent nóó angóóven fan d' armee fiif diwisjoonen bedäiliğt worden. Ferdeegensminister Iisrael Katz het buutendeem dat inberaupen fan ruuğweğ 60.000 anner reserwisten geneemiğt.
 Däi reserwdenst fan ruuğweğ 200.000 anner suldóóten sal ferlangert worden.
-Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noorder Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit.
+Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noordelk Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit.
 Man sul däi bewooners fan d' stad Góósó worskaauen un höör ewóókuäären möögelk móóken, ferklorde armeespreeker Defrin. Iisrael siin striidkrachten kuntruläären nóó siin angóóven al däi buutenbetsirken fan däi stad.
 Of däi minsken fööer d' angreepen flüğten köönent, is häilundal undüüdelk. Däi läider fan däi UN-flüğtlingsorgóónisóósjoon föör Palestiinensers (UNRWA), Philippe Lazzarini, worskaaude, dat fööl minsken düğtiğ unnerföd't bünt.
 Däi föör Palestiinenserangeleegenhaiden taustenniğ Iisraeelsk behööerd Cogat haar hôoğ fertreeders fan 't sundhaidsweesen in d' Góósóstrîip t' beloovt, dat befolken unnerbrengenssteeden in 't süüed fan 't gewest tau beskikken t' stellen.
@@ -99678,7 +99678,7 @@ Kumof un uutbilden Jawaharlal Nehru wur in 1889 as êerst söön fan däi walheb
 Gaius Julius Caesar (13. julii in Room; † 15. meert 44 f.Kr. ook dor) was 'n roomsk stóótsman, feldheer un aautoor, däi döörslóónd tau 't äen fan däi Roomsk Republik un tau höör lóóterder umwanneln in 'n monokróótii, dat soo nöymt prinsiipóót (Kaiserriik), biidrooğ.
 Fan däi póótriisisk femiilje Julier stammend, dee häi däi amtenloopbóón absulwäären un kwam in 't joer 59 f.K. tau 't hôoğst politisk amt, dat kunsuulóót.
 Kört föördeem of in siin amtstiid sloot häi 'n inf'rmäel bund mit däi rîik Marcus Licinius Crassus un däi erfolğrîik militeer Gnaeus Pompeius Magnus, dat soo benöymt Triumvirat.
-In däi folgend joren gung Caesar as stadholler (prokunsuul) in däi noorder prowinsen Illyrien as ook Gallia Cis- un Transalpina, wor häi in däi joren 58 bit 51 f.Kr. häil Gallien ferooverde (Galsk Oorlauğ).
+In däi folgend joren gung Caesar as stadholler (prokunsuul) in däi noordelk prowinsen Illyrien as ook Gallia Cis- un Transalpina, wor häi in däi joren 58 bit 51 f.Kr. häil Gallien ferooverde (Galsk Oorlauğ).
 In däi ansluutend Roomsk Börgeroorlauğ fan 49 bit 45 f.Kr. set'de häi sük teegen siin bundsgenoot fan waleer Pompeius un däi siin anhengers döör un ferkreeğ däi aläinheerskup.
 Fan 46 f.Kr. of an fung häi an mit 'n grundläegend neiörnen fan 't roomsk stóótsweesen. Kört nóódeem häi in disser róóem tau 'n diktóótoor up leevendstiid fernöymt worden was, ful häi 'n attendóód tau 't offer.
 Siin grootnêev un hoovdâarv Gaius Octavius, däi lóóterder kaiser Augustus, set'de dat prinsiipóót as näej stóótsföörm fan 't Roomsk Riik döör. Caesar höört tau däi wichtiğst un inflaudrîikst politikkers fan d' antîik.
@@ -100741,7 +100741,7 @@ Dat haar as foelğ, dat Oen in 't maur fersunk. In d' woordskat wur dat Engelsk 
 Kaast duu bitte noch däi temóóten gäiten? Âal laagent, man nüms ferklort mii, wat geböört is.
 Däi bóódkóómer in Tom siin näej huus is dübbeld soo groot as däi in siin oel. Binnen d' müren lağ 'n machtiğ móóğsk drank, däi däi besitter unstaarvelkkaid ferläinen sul. 'N büelt lüü kendent däi eksistens fan disser drank un wassent ferlangend, hum t' steelen, man däi bibliotäik wur fan móóğsk kreóótüren staark bewóókt.
 Wel haar doo docht, dat Tom bloot noch sööm joer t' leeven haar? Ik heb allerweegens nóó Tom söcht, man ik kun hum näit finnen.
-Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noorder Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit. Eerst hul ik 't föör 'n ferdraajt idee, doch ennerwenner murk ik, woo gaud 't was.
+Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noordelk Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit. Eerst hul ik 't föör 'n ferdraajt idee, doch ennerwenner murk ik, woo gaud 't was.
 Woo meer tiid Tom un Marió t'sóómen taubrochent, soo beeter leerdent säi sük kennen. Däi russisk droonen- un rekeeteninslóógen wassent Moskaau siin antern up däi siit weeken un móónden föördert wóópenrüst un däi upraupen tau räecht diploomóótii, see däi ukrainsk president Selenskyj. Rusland nütst dat uut, dat 'n däil fan däi weerld sük blind stelde, doo kinner dood't worden deedent.
 Trek diin nâat kläär uut. Nóó däi dood fan höör man truk säi däi fäär kinner alleniğ up.
 In elker immenkörf kan 't man äin immenmauer geeven. Doo man 'n kuntrakt unnertäikent, stemt man bepóólt bestemmens un kundiisjes tau.
@@ -100849,7 +100849,7 @@ Nóó gerüchten traauent Tom un Marió bold. Doo duu diin geld wiider soo ferkl
 Dit is 'n sats, däi soo fööl sülven telt as 'n haiku. Säi stemment fiilicht näit mit hum ooveräien, man t'minst staajt häi tau dat, wor häi an löövt.
 Wen ooverhôop, dan gaajt 't höör fandóóeğ 'n biitje beeter as güster. Tom un Marió sittent up d' weerandó un unnerhollent sük.
 'N moojweersperiôod ferloovde us 't, däi âarnt t' baargen. Móókent Jii bitte dat fenster oopen un lóótent Jii wat frisk lücht in d' kóómer!
-Däi suem fan däi winkels fan 'n dreikâant is 180 gróód. As 'n ferdreeven slingerde ik däi noorder wâal anhooğ, teegen mii däi Äimsiger Stróóet, un fööer höör reesent grôot betongen denkmóólen däi ferteldent fan "dood" un "noojt weer".
+Däi suem fan däi winkels fan 'n dreikâant is 180 gróód. As 'n ferdreeven slingerde ik däi noordwal anhooğ, teegen mii däi Äimsiger Stróóet, un fööer höör reesent grôot betongen denkmóólen däi ferteldent fan "dood" un "noojt weer".
 Mit siin machogedau wil häi us man beindrükken un wiisen, wat föör 'n gâaud keerl häi is. Ik wil mii d'r föör undskülligen, dat ik dii fööer diin fründin as dudkop beliiktäikent heb.
 Tom see, häi haar wat rors up d' güntsiid fan d' baarğ säin. Wii unnerbreekent dit sennen föör 'n iilfermellen.
 Uut nóólessiğkaid is dii dat ooverkoomen. Ik heb lüst up kiino, man ik maut noch miin huusupgóóven móóken.
@@ -101915,7 +101915,7 @@ Woosoo is dat umstreeden, of 'n baarğ mit 4810 m höeğt hooger as äien mit 56
 Ik heb altiid soo miin twiivels, doo äien fan sük beweert, meer as fiif tóólen flaajdiğ t' beheerskern. Doo duu 't näit murken hebben sust, ik wacht al twei stüen.
 Doo ik kind was, besöchent wii up elker weekenäen miin besollen. Däi kóóter fung däi muus mit 'n sprung un frat hum up.
 Undlasten fan 't justiitssüsteem döör 't legóólisäären fan cannabis, wat d'r tau fört, dat däi skendaarms un däi justiits sük up wichtigerder ferbreekens kunsenträären köönent. Däi puäent fan däi grap liğt in däi ferraskernd draaj up 't äen. Doo sük twei minsken róóken daunt, ferwacht't man n'rmóólerwîis, dat säi sük begröytent of wat beprootent.
-Säi is eerst twei joer old, man al kumpóóbel, bit hunnert t' tellen. In däi folgend joren gung Caesar as stadholler (prokunsuul) in däi noorder prowinsen Illyrien as ook Gallia Cis- un Transalpina, wor häi in däi joren 58 bit 51 f.Kr. häil Gallien ferooverde (Galsk Oorlauğ).
+Säi is eerst twei joer old, man al kumpóóbel, bit hunnert t' tellen. In däi folgend joren gung Caesar as stadholler (prokunsuul) in däi noordelk prowinsen Illyrien as ook Gallia Cis- un Transalpina, wor häi in däi joren 58 bit 51 f.Kr. häil Gallien ferooverde (Galsk Oorlauğ).
 Säi aarbaid't hir, man äinliik befind't sük höör büro in d' êerst stok. 'Förmiddağ' bedüd't 'däi tiid fööer middağ' up Oostfräisk. Däi dóóğstiiden bünt: mörn, förmiddağ, middağ, nóóómiddağ, óóvend, nacht.
 Soo lâang as 't näit t' besworelk is, bünt däi minsken geern frünnelk mit anner minsken. Fandóóeğ maut ik noch 'n poer upgóóven föör d' uniwersitäit klorkriigen, däi oover agenten un technisk anlóógen góónt.
 Ik hóót dat, niks t' ferstóón, doo Fransk proot't word't. Tom säeğt, dat 't föör hum näit stur was, Marió höör Fransk t' ferstóón.
@@ -111433,7 +111433,7 @@ Ik wed, wii hebbent us âal al meer as äin móól genaau disser fróóeğ stelt
 'N aktuóólisäärt uutgóóev fan dat leksikon sal anner móónd ferskiinen. Tom het sük d'r näit oover aargert, wat duu säeğt hest, man d'r oover, woo duu 't säeğt hest.
 Däilent Jii us bitte mit, doo Jii tau d' näej termiin näit t' beskikken stóónt. Data Science spöölt 'n undskäidend ruel bii 't fermöögelken fan KI-bóósäärt beslusföörmen, indeem 't inkiiken un föörskaau uut massîiv dóótenmengen leevert.
 Let't gaud! Duu kaast dii geern ook as êerst nöymen, löpt je näit oover d' JFM. Dat kaast näit koopen.
-Dat is däil fan us identitäit un ik wor wies kwóód d'r fan, dat man fersöcht, us däi ansteeker weğ t' neemen. Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noorder Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit.
+Dat is däil fan us identitäit un ik wor wies kwóód d'r fan, dat man fersöcht, us däi ansteeker weğ t' neemen. Iisrael siin armee gaf buutendeem al "êerst worskaauen" an medsiinsk behöörden un internóósjoonóóel orgóónisóósjoonen in d' noordelk Góósóstrîip uut. Up disser wîis sul dat ferläegen fan dat befolken in d' süüed fan d' küstenstrîip föörred't worden, däilde dat iisraeelsk militeer mit.
 Dat was skóó, doo duu dii 'n dräepen mit Tom undgóón leetst, wiilst duu in Boston büst. Ik neem an, dat man noojt oover däi dood fan siin kind weğkoomen sal.
 In 't hotel gaf dat in d' bóódkóómer 'n lîin tau 't uphangen fan nâat kläär. Dat US-department föör sundhaid säeğt, dat minsken minst tweiunhalf stüen in d' wêek trainäären sullent.
 Däi "straajt" blâau lüchtwellen ferspräident sük soo in d' tsiktsak oover dat häiel firmament un kooment amäen oover fööl umweegen nóó d' eerdboom. Stel dii fööer, duu smitst 'n bâal teegen 'n müer. Däi bâal pralt of un flüğt t'rüeğ nóó dii. Man dat gift ook däi möögelkkaid, 'n priwóót krankenferseekern of t' sluuten - dit kan in fööl gefallen günstigerder un beeterder laistungen anbäiden.
@@ -113850,7 +113850,7 @@ Häi het us oostfräisk flâağ mit 'n tekst up d' wand fan d' brüeğ spraajt. 
 Miin bäep wur mit läiverlóó fergeetelk un gebrekkelk. Doo wii däi Mont Blanc as däi hôoğst baarğ fan Europó bekiikent, dan is däi Mount Everest um 4038.86 m hooger as däi Mont Blanc.
 Wees näit soo stiifkopsk! Däi SDLC is däi süsteemundwikkelns-leevendstsüüklus, däi 'n proses is, däi tau 't plóónen, undwikkeln, prüüfen un implementäären fan 'n inf'rmóósjoonssüsteem bruukt word't. Däi fiif fóósen fan d' SDLC bünt: 1.
 Bóósäärend up 'n standard-nootenkóóló dee 'n punkttóól fan 84 bii 'n test n'rmóólerwîis 'n nôot fan B undspreeken. Fiilicht wil wel anners diin oel skriivtóóvel hebben, doo duu hum näit meer wult.
-In däi folgend joren gung Caesar as stadholler (prokunsuul) in däi noorder prowinsen Illyrien as ook Gallia Cis- un Transalpina, wor häi in däi joren 58 bit 51 f.Kr. häil Gallien ferooverde (Galsk Oorlauğ). Gâaud dağ.
+In däi folgend joren gung Caesar as stadholler (prokunsuul) in däi noordelk prowinsen Illyrien as ook Gallia Cis- un Transalpina, wor häi in däi joren 58 bit 51 f.Kr. häil Gallien ferooverde (Galsk Oorlauğ). Gâaud dağ.
 Dat gift grund tau 't gissen, dat Tom däi persoon is, däi Mary höör aarmband stoolen het. Miin besfóóer drinkt elker mörn mit 'n koppel fan oel manlüü kofje.
 Worskiinelk is 't wies 'n muskêet, doch ik doo. Ik wil däi häiel geskiecht höören. Lóót kiin enkelhaid uut!
 Disser bräif is persöönelk. Ik wil näit, dat annerswel hum lest. Ik haar 'n fróóeğ an Jau, man doo 't Jau jüüst näit paasen daajt, dan kan ik ook 'n anner móól weerkoomen.
@@ -114639,7 +114639,7 @@ Wii firdent tau dit histoorsk geböörnis demokróótii, freihaid un dat interfr
 Däi kunsuum fan unsuen, kaloriienrîik dieeten un 'n sittend leevendswîis mit min körperliik aktiivitäit köönent tau gewichtstaunóóem un 'n ferhoogert risiko föör 't undwikkeln fan tüüp-2-diabetes fören. Tom sat up d' weerandó, drunk kofje, smookde 'n tsigräet un keek tau, woo däi weerld an hum f'roover truk.
 "Befun sük in däi kóómer 'n lîik?" - "Nee, dor was kiin lîik.". Dit fluğtsoiğ is kumpóóbel, 40 persoonen t'móól t' beföördern.
 Tom is dat tsoord minsk, däi altiid ferlangt, noojt d'r um beeden daajt, dat man wat daajt. 1860 wur Lincoln tau d' president fan d' Feräint Stóóten weelt.
-As 'n ferdreeven slingerde ik däi noorder wâal anhooğ, teegen mii däi Äimsiger Stróóet, un fööer höör reesent grôot betongen denkmóólen däi ferteldent fan "dood" un "noojt weer". Dat gift up d' güntsiid fan us stróóet 'n oel däif, wor duu bii uppaasen sust.
+As 'n ferdreeven slingerde ik däi noordwal anhooğ, teegen mii däi Äimsiger Stróóet, un fööer höör reesent grôot betongen denkmóólen däi ferteldent fan "dood" un "noojt weer". Dat gift up d' güntsiid fan us stróóet 'n oel däif, wor duu bii uppaasen sust.
 Säegent Jii Tom, 't was 'n feeler. Tom wur läip nervöös, doo häi t'móól beeden wur, 'n räied t' hollen.
 Wii neement us laks altiid mit nóó Leeğsaksen, däi saksk laks dor kaast je näit eeten, mit âal dat flas wat däi hebbent. Tom beskülliğde Marió, hum siin geld stoolen t' hebben, doch säi bestreed dat.
 Däi wóólsiiğ was 'n grôot triumf föör däi partäj fan däi kandidóót. Tom dee Marió anbefeelen, dat säi uutskaajen sul, soo t' daun, as was säi traaut.

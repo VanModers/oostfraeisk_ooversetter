@@ -157,7 +157,7 @@ maiboom maiboom hol dii fast - mörn kumt dä fröem gast - däi wil us dä maib
 säi hebbent lâang oover däi kau mitnanner ferhannelt eer däi koop klor wur man t'läest wassent säi doch näit sins worden
 Sünnerklóós kan näit koomen - dan häi is al lâang dood - häi liğt in d' kâark fan Roomen - mit siin bâajd bäintjes bloot
 um 't elk un äien fan paas t' móóken un fan elk tau siin bemint dat bünt däi hachelkst sóóken däi man in däi weerld fint
-Wii saajelnt mit däi noorder wind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
+Wii saajelnt mit däi noordwind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
 "Loop liikuut" see däi stürk tau d' eekster bii ' folgen. "Maust duu sülst köönen" see däi eekster un hüpkede achteran.
 Antjemöy höör kraaj is dood häi het fan däi tâak klebattert liğt up rüeğ un rööğt kiin pôot Antjemöy höör kraaj is dood
 däi pelssakken mautent 's sömmers mit 'n biitje kamfer in 'n blikken truem inpakt worden dat d'r kiin motten in kooment
@@ -2930,7 +2930,7 @@ däi föögels fangen wil maut näit mit knüppels d'r in slóón
 däi fos hort wal man häi let't näit siin löes näit kniipen
 däi haalms fan 't koorn bünt fanjoer fööl langer as anners
 däi lobben hangent d'r bii dóól un slóónt höör um d' bäien
-däi noorder wind is altiid kold ne'ğeliik wor häi heerkumt
+däi noordwind is altiid kold ne'ğeliik wor häi heerkumt
 däi oel profeeten bünt dood un däi näjen döygent näit fööl
 dat gaajt hum tau dat äin ôor in un tau dat anner weer uut
 dat gaajt man näit al soo in d' weerld as man sük 't denkt
@@ -4897,7 +4897,7 @@ mit looven un bäiden maut äien biinanner koomen
 'n lumpenerder fent as häi is gift dat wal näit
 'n winter sünner snäj is as 'n kopke sünner tee
 nóó miin gissen haar dat anners uutkoomen musst
-noorder wind in d' junii waajt koorn in 't land
+noordwind in d' junii waajt koorn in 't land
 raağ näit soo fööl mit hum dat brengt doch niks
 richelpóólen wordent mit slóóej in grund haauen
 's móóndóóğs gaajt kiin knecht of maid in denst
@@ -25036,8 +25036,8 @@ nood uutstóón
 nöödiğ hebben
 nóókend moers
 nóókend snieğ
-noorder kâant
-noorder lücht
+noordkâant
+noorderlücht
 nor seer daun
 Nörder Bladje
 Nörder wulkje
@@ -25678,8 +25678,8 @@ niidsk eeten
 nóó dat bauk
 nóó huus tau
 nóó un fööer
-noorder siid
-noorder wind
+noordsiid
+noordwind
 nuu man tau!
 óólen tuuken
 oopen oovend
@@ -26219,7 +26219,7 @@ nóó taumten
 nood hebben
 nood liiden
 nóómelk dit
-noorder wal
+noordwal
 nümmer meer
 nüms as duu
 ofhóóldenst
