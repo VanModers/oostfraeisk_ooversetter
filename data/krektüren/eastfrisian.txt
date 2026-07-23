@@ -179,9 +179,9 @@ Säi köönent Tom näit helpen.
 Duu kaast mii näit ferlóóten.
 Jii köönent mii näit ferlóóten.
 Dat kaast näit säegen
-Dat köönent s ' näit beweeren.
+Dat köönent Jii näit beweeren.
 Duu kaast mii näit bâang móóken.
-Säi móókent mii näit bâang.
+Jii móókent mii näit bâang.
 Duu kaast Tom näit uphollen.
 Säi köönent nuu näit uphollen.
 Duu kaast nuu näit uutskaajen.
@@ -202,7 +202,7 @@ Säi hebbent mii näit hulpen.
 Duu móókst gâaud aarbaid.
 Duu móókst mii näit bâang!
 Jii móókent mii näit bâang!
-Säi móókent mii näit bâang.
+Jii móókent mii näit bâang.
 Duu móókst mii näit bâang.
 Duu drinkst t' fööl.
 Duu forst t' gaau.
@@ -5214,7 +5214,7 @@ Duu sust diin hoer fóóker oopen dróógen. Dat let't mooj!
 Duu sust dii bii bâab d'r föör undskülligen, dat duu näit up tiid tau 't middóóğeeten weer in huus wast.
 Duu wäist wal, dat ik dat sünner hüelp unmöögelk skiren kan, of näit?
 Eer duu hum besöyken foren daajst, sust duu dii beeter ferseekern, of häi in huus is.
-Duu kaast näit ferwachten, beeter in 't Fransk t' worden, doo duu näit leerst.
+Duu kaast näit ferwachten, beeter in Fransk t' worden, doo duu näit leerst.
 Duu kaast Tom näit däi oel lastwóógen dor foren lóóten. Lóót hum mit diin näej wóógen foren!
 Duu kaast mii näit slóón, Tom! Ik spööl al siit miin kinnertiid tennis.
 Wat äien 't mäiest wil, dat erkent man altiid an dat, wat häi daajt.
