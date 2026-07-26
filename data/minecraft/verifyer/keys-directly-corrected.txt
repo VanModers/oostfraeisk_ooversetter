@@ -1,0 +1,19 @@
+Key: accessibility.onboarding.accessibility.button | DE: Barrierefreiheit … | FRS_ALT: Taugaangelkkaid … | FRS_NEU: Biljeerenfreihaid
+Key: accessibility.onboarding.accessibility.button | DE: Barrierefreiheit … | FRS_ALT: Biljeerenfreihaid | FRS_NEU: Biljeerenfreihaid …
+Key: accessibility.onboarding.accessibility.button | DE: Barrierefreiheit … | FRS_ALT: Biljeerenfreihaid … | FRS_NEU: Biljeerenfreihaid …
+Key: accessibility.onboarding.screen.narrator | DE: Drücke die Eingabetaste, um die Sprachausgabe zu aktivieren. | FRS_ALT: Drük däi Enter-tâast, um däi spróókuutgóóev t' aktiiväären. | FRS_NEU: Drük däi Entertâast, um däi spróókuutgóóev t' aktiiväären.
+Key: accessibility.onboarding.screen.title | DE: Willkommen in Minecraft!
+
+Möchtest du die Sprachausgabe aktivieren oder die Barrierefreiheitseinstellungen besuchen? | FRS_ALT: Wilkoomen bii Minecraft! 
+
+Wult duu däi spróókuutgóóev aktiiväären of däi taugaangelkkaidsinstellens besöyken? | FRS_NEU: Wilkoomen bii Minecraft! 
+
+Wult duu däi spróókuutgóóev aktiiväären of däi biljeerenfreihaidsinstellens bekiiken?
+Key: addServer.resourcePack | DE: Server‐Ressourcenpakete | FRS_ALT: Server-ressourcepakeeten | FRS_NEU: Server-ressursenpakeeten
+Key: addServer.resourcePack.disabled | DE: Deaktiviert | FRS_ALT: Uutskalt't | FRS_NEU: Deaktiiväärt
+Key: addServer.resourcePack.enabled | DE: Aktiviert | FRS_ALT: Anskalt't | FRS_NEU: Aktiiväärt
+Key: advMode.notAllowed | DE: Nur ein Operator im Kreativ-Modus kann Befehle eingeben | FRS_ALT: Bloot 'n operóótoor in kreóótiif kan befeelen ingeeven | FRS_NEU: Bloot 'n operóótoor in d' kreóótiif-modus kan befeelen ingeeven
+Key: advMode.previousOutput | DE: Letzte Ausgabe | FRS_ALT: Läest Uutgóóev | FRS_NEU: Läest uutgóóev
+Key: advancement.advancementNotFound | DE: Unbekannter Fortschritt ‚%s‘ | FRS_ALT: Unbekäent f'ruutgaang %s | FRS_NEU: Unbekent f'ruutgaang %s
+Key: advancements.adventure.adventuring_time.description | DE: Entdecke alle Biome | FRS_ALT: Unddek âal biomen | FRS_NEU: Unddek âal bioomen
+Key: advancements.adventure.arbalistic.description | DE: Erlege fünf unterschiedliche Kreaturen mit einem Armbrustschuss | FRS_ALT: Móók fiif ferskeelend kreóótüren mit 'n krüüsbôoğ dood | FRS_NEU: Skäit fiif ferskeelend kreóótüren mit 'n krüüsbôoğ dood
