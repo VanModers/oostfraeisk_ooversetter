@@ -853,7 +853,7 @@ Bedankt dat jii Tom hulpen hebbent!
 Bedankt dat Jii Tom hulpen hebben!
 Bedankt föör dat nöygen!
 Bedankt dat duu mii nöyğt hest!
-Bedankt dat duu f'rbiikoomen büst!
+Bedankt, dat duu f'rbiikoomen büst!
 Bedankt föör dat geskenk.
 Bedankt föör däi intreedenskorten!
 Bedankt föör Jau róód.
@@ -899,7 +899,7 @@ Dat helpt mii, in t' slóópen.
 Dit huus höört hum.
 Dat is 'n ansäin winkel.
 Dat is 'n seeriöös geskeft.
-Dat is 'n benóóel probleem.
+Dat is 'n banóól probleem.
 Dat is 'n belanglös probleem.
 Dat is 'n häil gâaud sóóek.
 Dat is recht unferwacht't.
@@ -1312,7 +1312,7 @@ Dat was häit as man wat, alsoo truk ik miin mantel uut.
 Dat glüksspil dreev hum in d' ruiin.
 Dat was stur föör Tom kiin mîin t' fertrekken.
 Dat was höör lütje süster, däi höör spöölrêev kötmóókt het.
-Dat was man wat wat ik in 'n bladje leesen heb.
+Dat was bloot wat, wat ik in 'n bladje leesen heb.
 Dat was fööl läiper as wii 's anfangs dochent.
 Dat was näit recht kold, man 't was altiid nat.
 Dat was düüdelk dat Tom Mary tuutjen wul.
@@ -1460,7 +1460,7 @@ Elker stuudent mit 'n ofslus fan us uniwersitäit het minst twei joer fan 'n mau
 Charles Moore undwikkelde Forth in 'n fersöyk, däi produktiivitäit fan d' programäärder t' stiigern, sünner reekenlaistung t' offern.
 "Däi wustjes bünt mii bii 't kooken in 't häiet wóóter spiitelkerwîis busten." – "Móókt niks, Tom! Däi smóókent trotsdeem!"
 Doo ik däi melk tau d' köylskap uut hóól, dau ik nóóderhand däi köylskapsdööer diecht, indeem ik hum mit d' elbôoğ 'n gnueb geev. Woo daajst duu 't?
-Tom wul siin oel wiideorekorder ferkoopen, in stee fan hum weğ t' smiiten, man doo hum nüms köf, smeet häi hum lesserhand weğ.
+Tom wul siin oel wiideorekorder ferkoopen, in stee fan hum weğ t' smiiten, man doo hum nüms köf, smeet häi hum t'läest weğ.
 Tom wul altiid dokter worden, man siin skaulnooten hebbent näit häilmóóls langt, um hum 'n plats an 'n medsiinsk fakultäit t' seekern.
 Dat is 'n tiid in 't joer, doo minsken mit femiilje un früen t'sóómenkooment, um passó t' begóón un póóske t' firen.
 Meer as hunnert tüen an stof un sandkörrelgrôot partikkels neement däi êer aldóóeğ uut 't âal unner beskööt, man mäisttiids stilkens.
@@ -4969,7 +4969,7 @@ Doo duu dat geld wiider soo tau 't fenster uut sloiderst, büst duu gaauer plait
 Doo man kiin äigen ideen het, maut man halt wekker klaauen.
 Haar sük dat melöör in 'n stad taudróógen, haar 't tau 'n katastrôof fört.
 Doo miin mauder noch leevt haar, haar säi mii doo hulpen.
-Sünner siin biitiidsk róók haar us manskup dat spööl ferlooren.
+Sünner siin rechttiidiğ dräeper haar us manskup dat spööl ferlooren.
 Doo âal diin früen beslooten haarent, fan 'n brüeğ t' springen, sprungst duu ook?
 Ik bün mii recht seeker, dat Tom al fergeeten het, wat ik hum güster fertelde.
 Mörn heb ik 't drok. Düs heb ik äien besörğt, däi mii fertreeden daajt.
@@ -5419,7 +5419,7 @@ Tom stelde Marió 'n poer läip persöönelk fróógen, däi säi sük tau anter
 Tom un Marió sağğent sük in däi späigel, däi an d' müer hung.
 Tom un Marió willent traauen, soo dróó säi mit dat stuudium klor bünt.
 Eerstmóóliğ siit 'n wêek dürs Tom fandóóeğ fâast födsel tau sük neemen.
-Dat kumt d'r fan of doo man sük näit bii d' sóóek is!
+Dat kumt d'r fan, doo man sük näit bii d' sóóek is!
 Dat lüchtstofrör fangt an t' flikkern. Wii mautent hum uutwesseln.
 Dit bauk fermiddelt 'n gaud bild fan 't leevend in Noordamerikó in d' tiid fan d' börgeroorlauğ.
 Säi seedent teegen mii, ik sul mii beeter föylen, doo ik disser medsiin neemen dee.
@@ -6235,7 +6235,7 @@ Däi feerferkeer wur instelt, um dat häi näit meer wirtskaftelk was.
 Säi köönent up d' móóndağ of dingsdağ koomen, man näit up d' middewêek of dönnerdağ.
 Niks fan âals, wat ik säegen kun, dee Tom oojt tau 'n sinnenswanneln beweegen.
 Dat gift niks, wat ik oojt säegen kun, dat Tom d'r tau brengen dee, siin ansicht t' annern.
-Niks is läiper as wat halfhaartiğ t' daun.
+Niks is läiper, as wat halfslağtiğ t' daun.
 Däi tsuğ sal in fiif menüüten offoren. Jii sullent jau man läiver hóósten.
 Däi tsuğ sal in fiif menüüten offoren. Säi sullent sük beeter hóósten.
 Däi tsuğ sal in fiif menüüten offoren. Duu sust dii beeter hóósten.
@@ -10838,7 +10838,7 @@ Häi nimt sük sülst näit t' eernst, un dat móókt hum noch grappiger. Ik den
 Doo duu 'n film söchst, däi anners is un dii tau 't laagen brengt, dan is "The Menu" net dat räecht föör dii.
 The Menu is 'n wunnerlîik, satiirsk kumeedje, däi siin beloeft fan 'n sinful uutnannersetten mit däi minskelk eksistens näit inlöest. Däi krakters bünt ooverdreeven un lóótent d'r bloot föör dor tau t' weesen, dat publikum up höör kösten tau 't laagen t' brengen.
 Lesserhand wirkt däi film eer soo, as dee häi sük oover siin taukiikers lüstiğ móóken, in stee fan 'n sinful kummentaar tau d' selskup of t' geeven. Man dat bäest beskriiven föör The Menu is "interessant" - spiitelkerwîis in d' negótîif sin.
-Däi krakters bünt t' ooverdreeven, däi film is t' groef un däi dióólooğ t' benóól, um hum tau 'n wies geselliğ beleevsel t' móóken. Lesserhand is The Menu 'n interessant eksperiment, dat bloot kiin räecht erkennissen of unnerhollen büd't.
+Däi krakters bünt t' ooverdreeven, däi film is t' groef un däi dióólooğ t' banóól, um hum tau 'n wies geselliğ beleevsel t' móóken. Lesserhand is The Menu 'n interessant eksperiment, dat bloot kiin räecht erkennissen of unnerhollen büd't.
 Ferklor mii detailäärt, woosoo däi mainstream medien mii anläigent un däi êer flak is!
 Bii diin fróóeğ hannelt 't sük 'n suggestiiffróóeğ. Häi daajt dat beweeren undhollen, dat däi mainstream medien dii anläigen deedent, un dat beweeren däi êer was flak. Dat kan bii nóórichten fan sülst geleegenliik tau feelers koomen. Man fóók hannelt 't sük hir kiinssins um bewust löögens.
 Dat is ook t' beachten, dat mainstream medien fóók fiksjoonóóel inhollens uutstróólent, däi föör 't unnerhollen däinent. Biispillen d'r föör bünt films, seerien un höörspillen.

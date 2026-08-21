@@ -660,7 +660,7 @@ Bedankt dat jii Tom hulpen hebbent!
 Bedankt dat Jii Tom hulpen hebben!
 Bedankt föör dat nöygen!
 Bedankt dat duu mii nöyğt hest!
-Bedankt dat duu f'rbiikoomen büst!
+Bedankt, dat duu f'rbiikoomen büst!
 Bedankt föör dat geskenk.
 Bedankt föör däi intreedenskorten!
 Bedankt föör Jau róód.
@@ -706,7 +706,7 @@ Dat helpt mii, in t' slóópen.
 Dit huus höört hum.
 Dat is 'n ansäin winkel.
 Dat is 'n seerjöös geskeft.
-Dat is 'n banóóel probleem.
+Dat is 'n banóól probleem.
 Dat is 'n belanglös probleem.
 Dat is 'n häil gâaud sóóek.
 Dat is recht unferwacht't.
@@ -1119,7 +1119,7 @@ Dat was häit as man wat, alsoo truk ik miin mantel uut.
 Däi glüksspil dreev hum in d' ruuwîin.
 Dat was stur föör Tom kiin mîin t' fertrekken.
 Dat was höör lütje süster, däi höör spöölrêev kötmóókt het.
-Dat was man wat wat ik in 'n bladje leesen heb.
+Dat was bloot wat, wat ik in 'n bladje leesen heb.
 Dat was fööl läiper as wii 's anfangs dochent.
 Dat was näit recht kold, man 't was altiid nat.
 Dat was düüdelk dat Tom Mary tuutjen wul.
@@ -3970,7 +3970,7 @@ Doo duu dat geld wiider soo tau 't fenster uut sloiderst, büst duu gaauer plait
 Doo man kiin äigen iideeden het, maut man halt wekker klaauen.
 Haar sük dat melöör in 'n stad taudróógen, haar 't tau 'n kóótóstrôof fört.
 Doo miin mauder noch leevt haar, haar säi mii doo hulpen.
-Sünner siin biitiidsk róók haar us manskup dat spööl ferlooren.
+Sünner siin rechttiidiğ dräeper haar us manskup dat spööl ferlooren.
 Doo âal diin früen beslooten haarent, fan 'n brüeğ t' springen, sprungst duu ook?
 Ik bün mii recht seeker, dat Tom al fergeeten het, wat ik hum güster fertelde.
 Mörn heb ik 't drok. Düs heb ik äien besörğt, däi mii fertreeden daajt.
@@ -4291,7 +4291,7 @@ Tom stelde Mariijó 'n poer läip persöönelk fróógen, däi säi sük tau ant
 Tom un Mariijó sağğent sük in däi späigel, däi an d' müer hung.
 Tom un Mariijó willent traauen, soo dróó säi mit dat stuudjum klor bünt.
 Eerstmóóliğ siit 'n wêek dürs Tom fandóóeğ fâast födsel tau sük neemen.
-Dat kumt d'r fan of doo man sük näit bii d' sóóek is!
+Dat kumt d'r fan, doo man sük näit bii d' sóóek is!
 Dat lüchtstofrör fangt an t' flikkern. Wii mautent hum uutwesseln.
 Dit bauk fermiddelt 'n gaud bild fan 't leevend in Noordameeriikó in d' tiid fan d' börgeroorlauğ.
 Säi seedent an mii, ik sul mii beeter föylen, doo ik disser meedsiin neemen dee.
@@ -4749,7 +4749,7 @@ Däi feerferkeer wur instelt, um dat häi näit meer wirtskaftelk was.
 Säi köönent up d' móóndağ of dingsdağ koomen, man näit up d' middewêek of dönnerdağ.
 Niks fan âals, wat ik säegen kun, dee Tom oojt tau 'n sinnenswanneln beweegen.
 Dat gift niks, wat ik oojt säegen kun, dat Tom d'r tau brengen dee, siin ansicht t' annern.
-Niks is läiper as wat halfhaartiğ t' daun.
+Niks is läiper, as wat halfslağtiğ t' daun.
 Däi tsuğ sal in fiif menüüten offoren. Jii sullent jau man läiver hóósten.
 Däi tsuğ sal in fiif menüüten offoren. Säi sullent sük beeter hóósten.
 Däi tsuğ sal in fiif menüüten offoren. Duu sust dii beeter hóósten.
