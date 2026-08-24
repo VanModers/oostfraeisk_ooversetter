@@ -13,9 +13,9 @@ Model weights are published on Hugging Face and are not stored in this repositor
 
 ## Oostfräisk wersjoon
 
-Dit repository daajt däi dóótensatsen un däi code för däi Oostfräisk Ooversetter undhollen. Dat hoovdmodel is nuu dat multilinguóóel [`East_Frisian_NLLB_Model`](https://huggingface.co/VanModers114/East_Frisian_NLLB_Model). Dit model wur fan Meta siin `nllb-200-distilled-600M` fine-tuned un kan tüsken Düütsk, Oostfräisk un Engelsk ooversetten.
+Dit repository daajt däi dóótensatsen un däi code föör däi Oostfräisk Ooversetter undhollen. Dat hoovdmodel is nuu dat multilinguóóel [`East_Frisian_NLLB_Model`](https://huggingface.co/VanModers114/East_Frisian_NLLB_Model). Dit model wur fan Meta siin `nllb-200-distilled-600M` fine-tuned un kan tüsken Düütsk, Oostfräisk un Engelsk ooversetten.
 
-Däi modelgewichten bünt up Hugging Face spaichert un näit meer direkt in dit repository t' finnen. Däi ollerder Marian-models för Düütsk → Oostfräisk un Oostfräisk → Düütsk bliivent as äigen modellen up Hugging Face beskikbor.
+Däi modelgewichten bünt up Hugging Face spaichert un näit meer direkt in dit repository t' finnen. Däi ollerder Marian-models föör Düütsk → Oostfräisk un Oostfräisk → Düütsk bliivent as äigen modellen up Hugging Face beskikbor.
 
 ## Published models
 
