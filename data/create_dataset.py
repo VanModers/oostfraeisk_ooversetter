@@ -198,9 +198,45 @@ def get_db_rows(query: str) -> list:
 
 # ── Main ────────────────────────────────────────────────────────────────────
 
+def validate_manual_alignment():
+    """Reject missing/unequal manual files before opening generated outputs."""
+    paths = [FAN_TEKSTEN / name for name in ("german.txt", "eastfrisian.txt")]
+    if not any(path.exists() for path in paths):
+        return
+    if not all(path.exists() for path in paths):
+        raise ValueError(f"Both manual parallel files must exist: {paths}")
+    counts = []
+    for path in paths:
+        with path.open(encoding="utf-8") as stream:
+            counts.append(sum(1 for _ in stream))
+    if counts[0] != counts[1]:
+        raise ValueError(f"Manual parallel file length mismatch: {dict(zip(map(str, paths), counts))}")
+
+
+def load_evaluation_texts():
+    """Load the separate evaluation set to protect manual data before augmentation."""
+    paths = [REPO_DIR / "validation data" / name
+             for name in ("german.txt", "eastfrisian.txt")]
+    if not any(path.exists() for path in paths):
+        return [], []
+    sides = [path.read_text(encoding="utf-8").splitlines() for path in paths]
+    if len(sides[0]) != len(sides[1]):
+        raise ValueError("Evaluation parallel file length mismatch")
+    return tuple([text.strip() for text in side if text.strip()] for side in sides)
+
+
+def overlaps_evaluation(german, frisian, evaluation_texts):
+    """Catch full evaluation sentences embedded in longer manual paragraphs."""
+    return any(text in german for text in evaluation_texts[0]) or any(
+        text in frisian for text in evaluation_texts[1]
+    )
+
+
 def main():
     print(f"DB: {DB_PATH}")
     assert DB_PATH.exists(), f"Database not found: {DB_PATH}"
+    validate_manual_alignment()
+    evaluation_texts = load_evaluation_texts()
 
     with (open(OUT_GER,     "w", encoding="utf-8") as ger_out,
           open(OUT_FRS,     "w", encoding="utf-8") as frs_out,
@@ -320,8 +356,11 @@ def main():
         if (FAN_TEKSTEN / "german.txt").exists():
             with (open(FAN_TEKSTEN / "german.txt",     encoding="utf-8") as gf,
                   open(FAN_TEKSTEN / "eastfrisian.txt", encoding="utf-8") as ff):
-                for g, f in zip(gf, ff):
+                for line_number, (g, f) in enumerate(zip(gf, ff), 1):
                     g, f = g.rstrip("\n"), f.rstrip("\n")
+                    if overlaps_evaluation(g, f, evaluation_texts):
+                        print(f"  Excluded manual line {line_number}: contains evaluation text")
+                        continue
                     if is_valid_pair(g, f, allow_both_blank=True):
                         ger_texts.append(g)
                         frs_texts.append(f)

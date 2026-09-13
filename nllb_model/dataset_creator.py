@@ -1,5 +1,8 @@
 import os
-import random
+import json
+from pathlib import Path
+from data_split import prepare_split
+from itertools import zip_longest
 import torch
 from torch.utils.data import Dataset
 
@@ -94,14 +97,26 @@ def add_frs_lang(tokenizer, model=None, random_init=False):
     return frs_id
 
 
+def read_aligned_pairs(src_path, tgt_path):
+    """Read every row; reject unequal lengths instead of silently losing data."""
+    pairs = []
+    with open(src_path, encoding="utf-8") as src, open(tgt_path, encoding="utf-8") as tgt:
+        for line_number, (s, t) in enumerate(zip_longest(src, tgt), 1):
+            if s is None or t is None:
+                raise ValueError(
+                    f"Parallel file length mismatch at line {line_number}: "
+                    f"{src_path} / {tgt_path}"
+                )
+            pairs.append((s.strip(), t.strip()))
+    return pairs
+
+
 def load_parallel_pairs(path):
     """Load parallel german.txt / eastfrisian.txt and return list of (ger, frs) tuples."""
     ger_path = os.path.join(path, "german.txt")
     frs_path = os.path.join(path, "eastfrisian.txt")
 
-    with open(ger_path, "r", encoding="utf-8") as gf, \
-         open(frs_path, "r", encoding="utf-8") as ff:
-        pairs = [(g.strip(), f.strip()) for g, f in zip(gf, ff)]
+    pairs = read_aligned_pairs(ger_path, frs_path)
 
     return [(g, f) for g, f in pairs if is_usable_pair(g, f, allow_both_blank=True)]
 
@@ -111,9 +126,7 @@ def load_tatoeba_eng_pairs(tatoeba_path):
     eng_path = os.path.join(tatoeba_path, "english_tatoeba.txt")
     frs_path = os.path.join(tatoeba_path, "eastfrisian_tatoeba.txt")
 
-    with open(eng_path, "r", encoding="utf-8") as ef, \
-         open(frs_path, "r", encoding="utf-8") as ff:
-        pairs = [(e.strip(), f.strip()) for e, f in zip(ef, ff)]
+    pairs = read_aligned_pairs(eng_path, frs_path)
 
     return [(e, f) for e, f in pairs if is_usable_pair(e, f)]
 
@@ -128,9 +141,7 @@ def load_db_eng_pairs(path):
     eng_path = os.path.join(path, "english_db.txt")
     frs_path = os.path.join(path, "eastfrisian_for_english_db.txt")
 
-    with open(eng_path, "r", encoding="utf-8") as ef, \
-         open(frs_path, "r", encoding="utf-8") as ff:
-        pairs = [(e.strip(), f.strip()) for e, f in zip(ef, ff)]
+    pairs = read_aligned_pairs(eng_path, frs_path)
 
     return [(e, f) for e, f in pairs if is_usable_pair(e, f)]
 
@@ -175,74 +186,30 @@ class NLLBTranslationDataset(Dataset):
 
 
 def get_dataset(path, tokenizer, val_size=1000, bidirectional=True,
-                tatoeba_path=None, db_eng_path=None):
-    """Load parallel data, split into train/val, then tokenize.
+                tatoeba_path=None, db_eng_path=None, external_path=None,
+                manifest_path=None):
+    """Create the shared purged split before reversing directions/tokenizing.
 
-    Args:
-        path: directory containing german.txt and eastfrisian.txt
-        tokenizer: NLLB tokenizer with frs_Latn registered
-        val_size: number of DEU-FRS pairs to hold out for validation
-        bidirectional: also add reverse-direction pairs (FRS->DEU, FRS->ENG)
-        tatoeba_path: optional directory with english_tatoeba.txt /
-                      eastfrisian_tatoeba.txt (9k Tatoeba ENG-FRS pairs)
-        db_eng_path: optional directory with english_db.txt /
-                     eastfrisian_for_english_db.txt (~26k DB ENG-FRS pairs)
+    The manifest records original corpus line numbers, content IDs, exclusions
+    and input hashes. Generated files remain unchanged.
     """
-    raw_pairs = load_parallel_pairs(path)
-    print(f"Loaded {len(raw_pairs)} DEU-FRS parallel pairs from {path}")
+    train, validation, manifest = prepare_split(
+        path, val_size, tatoeba_path, db_eng_path, external_path
+    )
+    print("Split:", manifest["counts"])
+    if manifest_path is not None:
+        destination = Path(manifest_path)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
 
-    # Split raw pairs BEFORE creating bidirectional data to prevent leakage
-    rng = random.Random(42)
-    indices = list(range(len(raw_pairs)))
-    rng.shuffle(indices)
-    val_indices = set(indices[:val_size])
-
-    deu_train = [raw_pairs[i] for i in range(len(raw_pairs)) if i not in val_indices]
-    deu_val   = [raw_pairs[i] for i in range(len(raw_pairs)) if i in val_indices]
-    print(f"DEU-FRS split: {len(deu_train)} train, {len(deu_val)} val")
-
-    train_lang_pairs = make_lang_pairs(deu_train, DEU_LANG, FRS_LANG, bidirectional=bidirectional)
-    val_lang_pairs   = make_lang_pairs(deu_val,   DEU_LANG, FRS_LANG, bidirectional=bidirectional)
-
-    # Optionally add English <-> FRS pairs from Tatoeba
-    if tatoeba_path is not None:
-        eng_raw = load_tatoeba_eng_pairs(tatoeba_path)
-        print(f"Loaded {len(eng_raw)} ENG-FRS Tatoeba pairs from {tatoeba_path}")
-
-        eng_rng = random.Random(43)
-        eng_indices = list(range(len(eng_raw)))
-        eng_rng.shuffle(eng_indices)
-        eng_val_size = min(200, len(eng_raw) // 10)
-        eng_val_idx = set(eng_indices[:eng_val_size])
-
-        eng_train = [eng_raw[i] for i in range(len(eng_raw)) if i not in eng_val_idx]
-        eng_val   = [eng_raw[i] for i in range(len(eng_raw)) if i in eng_val_idx]
-        print(f"ENG-FRS Tatoeba split: {len(eng_train)} train, {len(eng_val)} val")
-
-        train_lang_pairs += make_lang_pairs(eng_train, ENG_LANG, FRS_LANG, bidirectional=bidirectional)
-        val_lang_pairs   += make_lang_pairs(eng_val,   ENG_LANG, FRS_LANG, bidirectional=bidirectional)
-
-    # Optionally add English <-> FRS pairs from the dictionary DB
-    if db_eng_path is not None:
-        db_eng_raw = load_db_eng_pairs(db_eng_path)
-        print(f"Loaded {len(db_eng_raw)} ENG-FRS DB pairs from {db_eng_path}")
-
-        db_rng = random.Random(44)
-        db_indices = list(range(len(db_eng_raw)))
-        db_rng.shuffle(db_indices)
-        db_val_size = min(500, len(db_eng_raw) // 10)
-        db_val_idx = set(db_indices[:db_val_size])
-
-        db_eng_train = [db_eng_raw[i] for i in range(len(db_eng_raw)) if i not in db_val_idx]
-        db_eng_val   = [db_eng_raw[i] for i in range(len(db_eng_raw)) if i in db_val_idx]
-        print(f"ENG-FRS DB split: {len(db_eng_train)} train, {len(db_eng_val)} val")
-
-        train_lang_pairs += make_lang_pairs(db_eng_train, ENG_LANG, FRS_LANG, bidirectional=bidirectional)
-        val_lang_pairs   += make_lang_pairs(db_eng_val,   ENG_LANG, FRS_LANG, bidirectional=bidirectional)
+    def expand(rows):
+        result = []
+        for src, tgt, src_lang, tgt_lang, _, _ in rows:
+            result.extend(make_lang_pairs([(src, tgt)], src_lang, tgt_lang, bidirectional))
+        return result
 
     print("Tokenizing training data...")
-    train_ds = NLLBTranslationDataset(train_lang_pairs, tokenizer, max_length=MAX_LENGTH)
+    train_ds = NLLBTranslationDataset(expand(train), tokenizer, max_length=MAX_LENGTH)
     print("Tokenizing validation data...")
-    val_ds   = NLLBTranslationDataset(val_lang_pairs,   tokenizer, max_length=MAX_LENGTH)
-
+    val_ds = NLLBTranslationDataset(expand(validation), tokenizer, max_length=MAX_LENGTH)
     return {"train": train_ds, "validation": val_ds}

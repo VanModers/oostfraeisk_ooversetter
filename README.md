@@ -29,7 +29,7 @@ Däi modelgewichten bünt up Hugging Face spaichert un näit meer direkt in dit 
 
 Training starts from `facebook/nllb-200-distilled-600M`. Because NLLB does not provide a dedicated East Frisian language token, `nllb_model/dataset_creator.py` registers `frs_Latn` and initializes its embedding from the Dutch `nld_Latn` embedding. German uses `deu_Latn`, and English uses `eng_Latn`.
 
-The dataset is split before reverse-direction examples are created, preventing a pair in one direction from entering training while its reverse direction appears in validation. The split is reproducible, using fixed random seeds for each data source. Training uses a maximum sequence length of 512 tokens.
+The dataset is split and overlapping training rows are excluded before reverse-direction examples are created. Selection uses deterministic content hashes and a fixed seed. Training uses a maximum sequence length of 512 tokens.
 
 The current trainer is configured for:
 
@@ -41,35 +41,29 @@ The current trainer is configured for:
 
 ## Training data
 
-At the current checked-in dataset revision, the NLLB pipeline loads:
+The current generated corpora and the purged internal split contain:
 
-| Parallel source | Raw aligned pairs | Training pairs | Validation pairs |
-| --- | ---: | ---: | ---: |
-| German–East Frisian generated corpus | 115,518 | 114,518 | 1,000 |
-| Tatoeba English–East Frisian corpus | 10,018 | 9,818 | 200 |
-| Dictionary English–East Frisian phrases | 27,164 | 26,664 | 500 |
-| **Total** | **152,700** | **151,000** | **1,700** |
+| Parallel source | Raw aligned pairs | Training pairs | Validation pairs | Excluded pairs |
+| --- | ---: | ---: | ---: | ---: |
+| German?East Frisian generated corpus | 116,349 | 97,523 | 1,000 | 17,826 |
+| Tatoeba English?East Frisian corpus | 10,018 | 4,642 | 200 | 5,176 |
+| Dictionary English?East Frisian phrases | 27,164 | 19,619 | 500 | 7,045 |
+| **Total** | **153,531** | **121,784** | **1,700** | **30,047** |
 
-Every retained pair is added in both directions. The final tokenized datasets therefore contain **302,000 training examples** and **3,400 validation examples**.
+Every retained pair is added in both directions: **243,568 training examples**
+and **3,400 internal validation examples**. The separate evaluation set in
+`validation data/` remains **100 German?East Frisian pairs**.
 
-These figures describe the checked-in generated files and the latest recorded NLLB training run.
+The shared splitter removes normalized duplicate/blank pairs and excludes training
+rows overlapping validation text or sentence spans across languages, including
+inside concatenated paragraphs. The trainer saves input hashes and exclusions in
+`nllb_frs_model/data_split_manifest.json`.
 
-The 115,518 German–East Frisian pairs are generated from:
-
-| Component | Pairs |
-| --- | ---: |
-| Individual dictionary phrases | 39,573 |
-| Combined dictionary phrases | 19,787 |
-| Template sentences generated from dictionary nouns | 26,564 |
-| Original manually translated/text-corpus rows | 14,798 |
-| Combined text-corpus augmentation | 14,796 |
-| **Total** | **115,518** |
-
-The local WFDOT dictionary contains 111,379 entries. The generator uses 39,573 usable phrase entries and 4,855 contributing nouns from a deterministic 5,000-noun sample. The accepted noun meanings are inserted into four simple sentence templates. Dictionary phrases with English translations produce the additional 27,164 English–East Frisian pairs.
-
-The Tatoeba English corpus reuses 10,018 East Frisian translations from the manually translated German corpus. It adds English alignments rather than 10,018 entirely new East Frisian sentences.
-
-The loader does not deduplicate aligned pairs.
+The generated German corpus consists of 39,573 individual dictionary phrases,
+19,787 combined dictionary phrases, 26,564 noun-template sentences, 15,213 retained
+manual rows and 15,212 manual concatenations. The generator excludes a manual
+paragraph overlapping the separate evaluation set before augmentation. Tatoeba
+adds English alignments to Frisian translations already used in the German corpus.
 
 ## Repository layout
 

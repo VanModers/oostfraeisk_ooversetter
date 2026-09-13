@@ -157,7 +157,7 @@ maiboom maiboom hol dii fast - mörn kumt dä fröem gast - däi wil us dä maib
 säi hebbent lâang oover däi kau mitnanner ferhannelt eer däi koop klor wur man t'läest wassent säi doch näit sins worden
 Sünnerklóós kan näit koomen - dan häi is al lâang dood - häi liğt in d' kâark fan Roomen - mit siin bâajd bäintjes bloot
 um 't elk un äien fan paas t' móóken un fan elk tau siin bemint dat bünt däi hachelkst sóóken däi man in däi weerld fint
-Wii saajelnt mit däi noordwind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
+Wii saajelnt mit däi noorder wind flak fööer d' wind. Noorden was däi koors un noorden lağ 't an. Róód woo was däi wind?
 "Loop liikuut" see däi stürk tau d' eekster bii ' folgen. "Maust duu sülst köönen" see däi eekster un hüpkede achteran.
 Antjemöy höör kraaj is dood häi het fan däi tâak klebattert liğt up rüeğ un rööğt kiin pôot Antjemöy höör kraaj is dood
 däi pelssakken mautent 's sömmers mit 'n biitje kamfer in 'n blikken truem inpakt worden dat d'r kiin motten in kooment
@@ -2930,7 +2930,7 @@ däi föögels fangen wil maut näit mit knüppels d'r in slóón
 däi fos hort wal man häi let't näit siin löes näit kniipen
 däi haalms fan 't koorn bünt fanjoer fööl langer as anners
 däi lobben hangent d'r bii dóól un slóónt höör um d' bäien
-däi noordwind is altiid kold ne'ğeliik wor häi heerkumt
+däi noorder wind is altiid kold ne'ğeliik wor häi heerkumt
 däi oel profeeten bünt dood un däi näjen döygent näit fööl
 dat gaajt hum tau dat äin ôor in un tau dat anner weer uut
 dat gaajt man näit al soo in d' weerld as man sük 't denkt
@@ -4897,7 +4897,7 @@ mit looven un bäiden maut äien biinanner koomen
 'n lumpenerder fent as häi is gift dat wal näit
 'n winter sünner snäj is as 'n kopke sünner tee
 nóó miin gissen haar dat anners uutkoomen musst
-noordwind in d' junii waajt koorn in 't land
+noorder wind in d' junii waajt koorn in 't land
 raağ näit soo fööl mit hum dat brengt doch niks
 richelpóólen wordent mit slóóej in grund haauen
 's móóndóóğs gaajt kiin knecht of maid in denst
@@ -5338,7 +5338,7 @@ nóó lechtmies traaut däi fos 't iis näit meer
 nuu word't je noch gekker as 't oojt west het
 oel ferleegen wôor let't sük slecht ferkoopen
 säet gaajt fööer sieb - sieb gaajt fööer swet
-säi bünt noch näit in d' musterruel indróógen
+säi bünt noch näit in d' müsterruel indróógen
 säi ferklaajt höör tiid mit soo 'n duem keerl
 säi het dat eeten t' eemer muus kooken lóóten
 säi het fanmiddağ man soo wat t'räecht graust
@@ -5599,7 +5599,7 @@ mit forsiğkaid let't sük d'r niks an dwingen
 noch näit häil drööeğ achter d' ooren weesen
 nüms dürt God siin nóóm un woord wóónbruuken
 nuu kan kan h' sük bii d' nööes langs kiiken
-oosterwind un reegen - drei dóóeğ of neegen
+ooster wind un reegen - drei dóóeğ of neegen
 paas up dat d'r kiin klağt oover dii kooment
 paas up! däi drummel hóólt dii doo duu lüğst
 's nachts daunt däiven un düüvels höör waark
@@ -7699,7 +7699,7 @@ häi het sük ferbabbelt un fastproot't
 häi het sük mit kuer móóeğ ferdüürven
 häi het 't âal weer klormóóken lóóten
 häi holt fööl fan 'n lekker gebróódje
-häi is bii 't militeer mustert worden
+häi is bii 't militeer müstert worden
 häi is d'r soo recht liisóóm bii daun
 häi is fööl hanniger as ik docht haar
 häi is fräj wat groot föör siin oller
@@ -7756,7 +7756,7 @@ häi timmert hum gaud äien in d' frêet
 häi trekt hum däi huud oover d' ooren
 häi wäit däi plauğ gaud t' handhóóven
 häi wäit sük fan gits näit t' baargen
-häi was soo blîid dat häi d'r weer was
+häi was soo froo dat häi d'r weer was
 häi wil fan kiin godsdenst wat wäiten
 häi wil mii d'r kiin iimel fan geeven
 häi wil näit nóó siin woorden lüstern
@@ -9303,7 +9303,7 @@ däi wind bullerde in d' skösstäin
 däi wind faajstert döör d' boomen
 däi wind flöystert döör d' boomen
 däi wind waajt döör d' wâajt döör
-däi wind waajt uut d' süüdelk hauk
+däi wind waajt uut d' süüder hauk
 däi wóólters bünt noch näit läimt
 däi wooren bünt net akróót koomen
 däi wuel maut eerst klat't worden
@@ -10432,7 +10432,7 @@ dat het fannacht düğtiğ fucht't
 dat het hum in d' macht kreegen
 dat het 't gefal häil näit west
 dat huus het d' höeğt noch näit
-dat huus liğt in d' westelk hörn
+dat huus liğt in d' wester hörn
 dat is âal ferheert un fernäilt
 dat is âal ferwöylt un ferrüd't
 dat is däi klinkerkloer worhaid
@@ -12146,7 +12146,7 @@ häi plauğt mit annermans kalf
 häi proot't an d' mund f'rbii
 häi proot't 'n anner dióólekt
 häi proot't 'n bekful Engelsk
-häi ritst 'n haart in d' boom
+häi rütst 'n haart in 't boom
 häi sal dii kiin hoer krummen
 häi sal d'r wal mit henköönen
 häi sal wal um daartiğ weesen
@@ -14322,7 +14322,7 @@ häi het sük dat upferdocht
 häi het sük häil uutslóóvt
 häi het 't âal ferfumfaajt
 häi het 't âal in 't dróód
-häi het gebruuk d'r fan
+häi het 't gebruuk d'r fan
 häi het 't óómen fergeeten
 häi het 't unner d' leeden
 häi het twei linker fauten
@@ -14560,7 +14560,7 @@ mit maid up haksellóó góón
 'n buutengewôon professoor
 'n däif het 'n grôot recht
 'n daukje föör 't blauden 
-'n doktooraarbaid begläiden
+'n dokteraarbaid begläiden
 'n föörskriivend gramóótik
 'n fürfreeter fan 'n keerl
 'n godsdenst föör d' âarnt
@@ -15842,7 +15842,7 @@ dat rukt hir soo bäistiğ
 dat sit't âal döörnanner
 dat sit't âal in d' drek
 dat skeel miin kiin bust
-dat skeepsfolk anmustern
+dat skeepsfolk anmüstern
 dat skip feğt hum düğtiğ
 dat skip liğt an d' kóój
 dat skip liğt in 't oost
@@ -16679,7 +16679,7 @@ dat staajt in d' keeren
 dat staajt ooverâal ful
 dat süğt soo lumpen uut
 dat sülviğ het dat dóón
-dat süüd het meer süen
+dat süüed het meer süen
 dat telefoon is beset't
 dat uutstellen besöyken
 dat waajt dat dat huult
@@ -18346,7 +18346,7 @@ dat kumt hum haard an
 dat kumt mii gaud uut
 dat kumt uut 't groef
 dat kwam falikant uut
-dat laajt in 't süüd
+dat laajt in 't süüed
 dat lekt as 'n täiems
 dat let't je ketoolsk
 dat let't je klüchtiğ
@@ -22081,7 +22081,7 @@ slóód as biilóóeğ
 smacht as 'n wulf
 soo rood as blaud
 staark as 'n boer
-stîif oosterwind
+stîif ooster wind
 stiikelwiren sküt
 stroom oftswakken
 sük bedekt hollen
@@ -25036,8 +25036,8 @@ nood uutstóón
 nöödiğ hebben
 nóókend moers
 nóókend snieğ
-noordkâant
-noorderlücht
+noorder kâant
+noorder lecht
 nor seer daun
 Nörder Bladje
 Nörder wulkje
@@ -25678,8 +25678,8 @@ niidsk eeten
 nóó dat bauk
 nóó huus tau
 nóó un fööer
-noordsiid
-noordwind
+noorder siid
+noorder wind
 nuu man tau!
 óólen tuuken
 oopen oovend
@@ -25776,7 +25776,7 @@ sük uprisken
 sük upsetten
 sük upwinden
 sülvern gaud
-süüderlücht
+süüder lecht
 swâart göert
 swâart kofje
 swâart krîid
@@ -26219,7 +26219,7 @@ nóó taumten
 nood hebben
 nood liiden
 nóómelk dit
-noordwal
+noorder wal
 nümmer meer
 nüms as duu
 ofhóóldenst
@@ -26227,8 +26227,8 @@ old un kold
 oobstmuuser
 óókern boom
 oopen graup
-oostsiid
-oosterwind
+ooster siid
+ooster wind
 oover stüer
 ooversetter
 pêer hollen
@@ -26309,8 +26309,8 @@ sük wunnern
 sund móóken
 sund worden
 sünner kuer
-süüdsiid
-süüderwind
+süüder siid
+süüder wind
 süüniğ knap
 swâart bäär
 Swâart Piit
@@ -26369,8 +26369,8 @@ wel is d'r?
 wel kniipen
 wel próólen
 welliğ hoer
-westsiid
-westerwind
+wester siid
+wester wind
 wies hollen
 wiet kiddik
 wiet peeper
@@ -26628,7 +26628,7 @@ oo jaases!
 oopen bäin
 oopen füer
 oopen liif
-oostwal
+ooster wal
 oover âals
 paal stóón
 peerhollen
@@ -26691,7 +26691,7 @@ sük teemen
 sük üütern
 sük wóóter
 sükker lüü
-süüdwal
+süüder wal
 swiit fööl
 swoer wêer
 tee móóken
@@ -26747,7 +26747,7 @@ wel dekken
 wel eeseln
 wel töyven
 wen .. ook
-westwal
+wester wal
 wiel knóój
 wiel râaus
 wiet stiep

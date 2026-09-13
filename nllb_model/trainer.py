@@ -47,6 +47,8 @@ dataset = get_dataset(
     "data", tokenizer,
     tatoeba_path="data/tatoeba",
     db_eng_path="data",         # loads data/english_db.txt if present (run data/create_dataset.py first)
+    external_path="validation data",
+    manifest_path=f"{OUTPUT_DIR}/data_split_manifest.json",
 )
 train_ds = dataset["train"]
 val_ds = dataset["validation"]
