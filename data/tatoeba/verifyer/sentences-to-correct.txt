@@ -1,2 +1,3 @@
 Line 3420 | DE: Madrid ist die Hauptstadt und die wichtigste Stadt Spaniens. | FY: Madrid is däi hoovdstad un däi wichtiğst stad fan Spóónjen.
 Line 3506 | DE: Die Übereinkunft war eine Kompromisslösung der beiden Regierungen. | FY: Däi ooveräinkumst was 'n kumpromislöesen fan däi bâajd regäärens.
+Line 3831 | DE: Ich fände es toll, wenn du für mich Abendessen kochen würdest. | FY: Ik dee dat mooj finnen doo duu föör mii óóvendeeten kooken deest.
