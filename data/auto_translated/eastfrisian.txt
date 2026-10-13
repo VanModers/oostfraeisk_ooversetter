@@ -3077,7 +3077,7 @@ Disser plantentsoord waast bloot in troopsk regjoonen.
 Dat is däi môojst kûul, däi ik oojt säin heb.
 Dat is däi häietst sömmer siit 50 joer.
 Dat is äien fan däi släechst films, däi ik oojt säin heb.
-Dat is äien fan däi beläivst restaaurants in Boston.
+Dat is äien fan däi beläivtst restaaurants in Boston.
 Dat is äien fan däi wunnerlîikst dingen, däi ik oojt säin heb.
 Dat word't as wichtiğ baudel bekeeken.
 Dat is 'n gâaud geleegenhaid sük t' kennen t' leeren.
@@ -6152,7 +6152,7 @@ Häi besloot, elker dağ in siin dóóğbauk t' skriiven.
 Häi gung tau 't huus uut un see näit móól "up weersäin".
 Häi ferleet dat huus, sünner ook man "up weersäin" t' säegen.
 Häi is näit intelligent nauğ, in d' kop t' reeken.
-Häi is äien fan däi beläivst skaulers fan siin klâas.
+Häi is äien fan däi beläivtst skaulers fan siin klâas.
 Häi is blîid oover däi f'ruutgaangen, däi häi in d' läest tiid móókt het.
 Häi is nuu bii d' aarbaid, man sal teegen sööem nóó huus tau koomen.
 Häi is 'n ridder. Häi kan soo wat näit säeğt hebben.
@@ -8635,10 +8635,10 @@ Däi minsken hebbent nuu 'n beeterder bilden as frauer.
 Pariis, wat an d' Seine liğt, is 'n môoj stad.
 Um däi stöörm kun dat skip näit uutloopen.
 Us erfolğ hangt d'r fan of, of häi us helpt of näit.
-Apelsiinensaft is däi beläivst in Amerikó.
-Apelsîin is däi beläivst in Amerikó.
-appelsiinensaft is däi beläivst in Amerikó.
-appelsiinensaft is däi beläivst in Amerikó.
+Apelsiinensaft is däi beläivtst in Amerikó.
+Apelsîin is däi beläivtst in Amerikó.
+appelsiinensaft is däi beläivtst in Amerikó.
+appelsiinensaft is däi beläivtst in Amerikó.
 Bloot äien kent dat antern up disser fróóeğ.
 Bloot äin lütje fent het däi ferkeersunfal ooverleevt.
 Oo, dat spit't mii! Ik wus näit, dat dat teegen däi reegels ferstöt't.
