@@ -1,5 +1,0 @@
-Line 3420 | DE: Madrid ist die Hauptstadt und die wichtigste Stadt Spaniens. | FY: Madrid is däi hoovdstad un däi wichtiğst stad fan Spóónjen.
-Line 3506 | DE: Die Übereinkunft war eine Kompromisslösung der beiden Regierungen. | FY: Däi ooveräinkumst was 'n kumpromislöesen fan däi bâajd regäärens.
-Line 3831 | DE: Ich fände es toll, wenn du für mich Abendessen kochen würdest. | FY: Ik dee dat mooj finnen doo duu föör mii óóvendeeten kooken deest.
-Line 3981 | DE: Warum kümmert ihr euch nicht selbst um das Problem? Ihr seid dafür verantwortlich. | FY: Woosoo kümmernt jii jau näit sülst um dat probleem? Jii bünt d'r föör ferantwoordelk.
-Line 3992 | DE: Er zerbricht sich den Kopf darüber, wie er mit der Angelegenheit umgehen soll. | FY: Häi brekt sük däi kop d'r oover, woo häi mit däi angeleegenhaid umgóón sal.

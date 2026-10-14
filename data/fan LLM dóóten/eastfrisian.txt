@@ -182,7 +182,7 @@ Wekker droogen bünt nóó professoor Nutt noch minner skóódelk as cannabis?
 Dat bünt: GHB, benzodiazephin, ketamin, methadon, mephedron, butóón, khat, anabolica, ecstasy, LSD, buprenorfin, psilocybin. Disser droogen bünt nóó professoor Nutt minner skóódelk as cannabis.
 Hir bii is t' beachten, dat sük däi kwóódiğkaid fan 'n drôoğ uut twei ferskeelend däilen t'sóómenset't. Nóómelk uut dat skóópotensióól föör däi kunsuument un föör dâard lüü. Nóó d' drooğ bünt däi bâajd kumponenten ferskeelend staark.
 Wekker programärtóól sul ik as begünner best leeren?
-As begünner gift dat 'n rîiğ fan programärtóólen, däi sük gaud t' leeren äigent. Enkeld fan däi mäiest anbefoolen programärtóólen föör begünners bünt: 1.
+As begünner gift dat 'n rîiğ fan programärtóólen, däi sük gaud t' leeren äigent. Enkeld fan däi mäiest undfoolen programärtóólen föör begünners bünt: 1.
 Python: Python is 'n beläivt, makkelk t' leeren tóól, däi in fööl anwennens, fan webundwikkeln bit tau dóótenanalüües, inset't word't. Dat het 'n heller süntax un 'n umfangrîik bibliotäik an tools un frameworks.
 2. JavaScript: JavaScript is däi tóól fan 't webundwikkeln un word't fóók in kumbinóósjoon mit HTML un CSS bruukt. Dat is makkelk t' leeren un het 'n bräied stöön döör däi undwikkelder-cummunity.
 3. Java: Java is 'n objektorientäärt programäärtóól, däi in fööl anwennens, fan mobîil apps bit tau grôot unnerneemensanwennens, inset't word't. Dat is 'n stâark tóól mit 'n grôot nummer fan tools un frameworks.
@@ -209,7 +209,7 @@ Dat is an t' befeelen sük d'r bii an däi game-engine t' orientäären, man kun
 Um 'n computer spil sülst programäären t' köönen, is up d' êerst stee nöödiğ 'n grundlóóeğ föör 't spil t' skeppen, wor 't up upbaaut. Däi word't in mäiest gefallen as däi engine beliiktäikent.
 Düs sul as êerst disser of sülst programäärt worden of 'n bestóónd, as däi Unity-, Unreal-, Lumbayard- of 'n anner weelt worden.
 Um d'r 'n beslus oover t' móóken wat föör 'n engine nöödiğ is, maut eerst undsked't worden wat föör 'n spil undwikkelt worden sal. Word't 't 'n skier tekstbóósäärt spööl, kan man dit al äinfach mit elker programärtóól föörnanner kreegen worden.
-Bii spöölen däi 3D of 2D gróófikken ofbilden söölent, word't d'r nóó äien fan däi eksistäärend of 'n äigen engine bruukt. Sullent föör 't spööl däi al eksistäärend engines häil näit paasen, word't anbefoolen mit DirektX of Vulkan 'n äigen engine t' undwikkeln.
+Bii spöölen däi 3D of 2D gróófikken ofbilden söölent, word't d'r nóó äien fan däi eksistäärend of 'n äigen engine bruukt. Sullent föör 't spööl däi al eksistäärend engines häil näit paasen, word't undfoolen mit DirektX of Vulkan 'n äigen engine t' undwikkeln.
 In däi mäiest gefallen langt 't äien fan däi eksistäärend engines t' ferwenden, um dat disser tiid sporent in 't undwikkeln un up däi näejst stand fan d' technik bünt. Um dat ferwenden mit däi eksistäärend engines t' leeren, bäident däi undwikkelders fan disser fööl dokumentóósjoon un tutorials an.
 T' undfeelen is sük mit däi grundlóógen fan gamedesign t' beskeftigen, um 'n computerspil t' programäären gift dat ferskäiden möögelkkaiden. T.b. lóótent sük mit RPg Maker gaau un äinfach simpel 8bit spillen móóken, mit däi Unreal Engellin lóótent sük kumplisäärderder tittels móóken mit mien programäärerforen, d'r tau gift 't up Youtube fööl tutorials. Anners kaast duu Unity of anner software nütsen, doo diin fokus d'r up liğt t' programäären, dan leer best, C+, C, C, of Java
 Wat bedüd't dat spreekwoord "Däi düüvel skit't altiid up däi grôotst büelt?"
@@ -703,12 +703,12 @@ Jóó, ik kan dat ferstóón - Bayley is läip dür! Dat gift fööl anner maark
 Dat is 'n gâaud möögelkkaid, däi melk t' ersetten un däi smóók fan däi kofje näit t' ferannern.
 Is dat skóódelk, doo ik elker dağ 'n biitje Gin drink?
 Generel is 't föör diin körper altiid belastend kuer t' drinken, um dat däi in diin leever ofbaaut worden maut un anner prosessen in d' körper hemt / behinnert.
-Of 'n lütje mäeng Gin föör dii langfristiğ skóódelk is, hangt fan diin sundhaidstaustand un anner belastensfaktooren, as t.b. medikómenteninnóóem of. Ik dee dii anbefeelen näit elker dağ Gin t' drinken man ook móól 'n poer dóóeğ pâaus in t' läegen tüskendöör.
+Of 'n lütje mäeng Gin föör dii langfristiğ skóódelk is, hangt fan diin sundhaidstaustand un anner belastensfaktooren, as t.b. medikómenteninnóóem of. Ik dee dii undfeelen näit elker dağ Gin t' drinken man ook móól 'n poer dóóeğ pâaus in t' läegen tüskendöör.
 Dat hangt fan ferskeelend faktooren of, as tau 'n biispil fan däi mäeng fan däi kunsuumäärt Gin, däi fóókhaid fan 't kunsuumäären, däi indiwiduäel sundhaid un dat oller. In móóten kan kuer as Gin meskiin sundhaidelk föördäilen bäiden, as t.b.
 dat dóólen fan dat risiko fan haart-kraisloop-erkrankens. 'N moderóóet mäeng fan kuer word't in 't almäien as 'n drankje pro dağ föör fraaulüü un bit tau twei drankjes pro dağ föör manlüü definäärt. 'N standarddrankje is d'r bii döör d' bâank ruuğweğ 14 g boer kuer.
 Man dat is wichtiğ t' beachten, dat ooverdóódiğ kurkunsuum negótîif uutwirkens up d' sundhaid hebben kan. T' fööl kuer kan däi leever un anner orgóónen skóódigen, dat risiko fan bepóólt kankerorden ferhoogern un tau psüüchisk krankhaiden as depressjoonen un angsttaustâan fören.
 Boovendeem is dat möögelk, dat sülst 'n lütje mäeng an kuer dat risiko fan sundhaidsprobleemen ferhoogert, besünners doo man oller word't of al sundhaidsprobleemen het.
-Doo Jii reegelmóótiğ kuer, ook Gin, kunsuumäärent, is 't róódsóóm, sük an däi anbefoolen grensen t' hollen un up Jau almäien sundhaid t' achten. Doo Jii bedenken hebbent of Jau näit seeker bünt, of Jau kurkunsuum sund is, sullent Jii mit 'n dokter prooten.
+Doo Jii reegelmóótiğ kuer, ook Gin, kunsuumäärent, is 't róódsóóm, sük an däi undfoolen grensen t' hollen un up Jau almäien sundhaid t' achten. Doo Jii bedenken hebbent of Jau näit seeker bünt, of Jau kurkunsuum sund is, sullent Jii mit 'n dokter prooten.
 Kumt d'r up an wat duu unner 'n biitje ferstaajst...
 Nöym mii 'n lüstiğ grap oover Poolen.
 Wat is dat minst besöcht inrichten in Poolen? Dat fundbüro.
@@ -746,7 +746,7 @@ Dit kunsept is in 't akódemsk berek näit näj un glikt däi kunsepten fan Open
 Bii oopen (ferwaltens-) dóóten hannelt 't sük um inf'rmóósjoonen, däi fan öffenlîik steeden sóómelt, móókt of betóólt wurdent, soo benöymt inf'rmóósjoonen fan d' öffenlîik sektoor, un föör dat almäien weerbruuken fräj beskikbor bünt. Däi litsens läeğt d'r bii däi bruukenskundiisjes fast.
 Disser prinsiipen föör oopen dóóten wordent tels in d' Open Definition beskreeven.
 Oopen dóóten bünt dóóten, däi fan elk un äien sünner begrensen bruukt, wiiderferbred't un wiiderferwend't worden dürent. Regäärens, unnerneemens un priwóótpersoonen köönent oopen dóóten bruuken, um sosjóóel, wirtskaftelk un ökolooğsk meerweerden t' bóóten.
-Kaast duu mii 'n poer programäärtóólen anbefeelen, däi ik as begünner leeren kan um 'n möögelkst makkelk instap in 't programäären t' hebben?
+Kaast duu mii 'n poer programäärtóólen undfeelen, däi ik as begünner leeren kan um 'n möögelkst makkelk instap in 't programäären t' hebben?
 Jóó, fan sülst! Hir bünt wat programäärtóólen, däi sük gaud föör instiigers äigent: Python: 'N läip beläivt programäärtóól mit 'n makkelk süntaks un 'n grôot community.
 Python kan in fööl anwendensberekken inset't worden, inbegreepen webundwikkeln, dóótenanalüües, meskiinäel leeren un fööl meer. Java: 'N anner läip beläivt programäärtóól, däi fóók up skaul un an uniwersitäiten leert word't.
 Java is 'n objektorientäärt tóól, däi up fööl platföörms löpt un in fööl berekken as Android-app-undwikkeln, webundwikkeln un meer inset't word't. JavaScript: 'N skripttóól, däi hoovdsóókelk föör 't undwikkeln fan webanwendens bruukt word't.
@@ -754,7 +754,7 @@ JavaScript word't fóók in ferbinnen mit HTML un CSS bruukt, um interaktîif be
 Ruby is fóók däi tóól fan d' wóól föör 't undwikkeln fan webanwendens un is bekent föör dat beläivt Ruby-on-Rails-framework. Scratch: 'N wisuäel programäärtóól, däi besünners föör kinner un begünners undwikkelt wur.
 Scratch bruukt gróófsk blokken, um code t' erstellen, wat dat programäären makkelk un taugaangelk móókt. Dat bünt man wattent fan däi fööl programäärtóólen, däi sük föör begünners äigent.
 Dat is wichtiğ t' bedenken, dat elker tóól höör äigen staarkten un swakten het un dat däi wóól fan däi tóól fan däi indiwiduäel tsiilen un interessen ofhangt.
-Kaast duu mii 'n poer programäärtóólen anbefeelen, däi ik as begünner leeren kan um 'n möögelkst makkelk instap in 't programäären t' hebben?
+Kaast duu mii 'n poer programäärtóólen undfeelen, däi ik as begünner leeren kan um 'n möögelkst makkelk instap in 't programäären t' hebben?
 Jóó, dat gift wat programäärtóólen, däi föör begünners gaud äigent bünt. Enkeld d'r fan bünt Python, JavaScript un Scratch. Disser tóólen hebbent 'n relóótiif makkelk süntaks un 'n grôot community fan undwiklers, däi begünners helpen köönent.
 Wat föör seekerhaidsäigenskuppen het 'n raajspas?
 'N modêern raajspas undholt meerder seekerhaidsäigenskuppen, däi d'r tau biidróógent, däi identitäit fan däi pasinhebber t' ooverprüüfen un falskerns t' ferhinnern.
@@ -788,7 +788,7 @@ Dee sük nüms an däi ferkeersreegels hollen un elk bii rood in stee fan gröyn
 Bii gröyn is däi worskiinelkkaid ooverforen t' worden düüdelk minner. Geel gift dat näit bii fautgaangerampels. Acht ook bii gröyn altiid d'r up, of dii däi forder süğt un ook anhollen sal. As fiitser: Hôoğst föörsicht doo duu dii in d' dôod winkel fan 'n fortüüğ befinnen daajst.
 Klingeln un sük ferseekern dat däi forder anholt of wachten.
 In Düütskland gift dat bii 'n fautgaangerampel kiin geelfóóes. Doo däi ampel up rood staajt, hebbent fautgaangers man 'n poer sekunnen tiid, eer däi aautos däi stróóet ooverkweerent. Dat is unklauk, bii rood oover d' stróóet t' góón, um dat 't tau 'n gefoer föör d' äigen seekerhaid worden kan.
-Dat word't düs anbefoolen, bii rood an t' hollen un t' wachten, bit däi ampel up gröyn skalt't. Uutförelk ferkloren: Dat ferwenden fan ampels an stróótenkrüüsens is 'n wichtiğ aspekt föör d' stróótenferkeer un däi seekerhaid fan fautgaangers un aautoforders.
+Dat word't düs undfoolen, bii rood an t' hollen un t' wachten, bit däi ampel up gröyn skalt't. Uutförelk ferkloren: Dat ferwenden fan ampels an stróótenkrüüsens is 'n wichtiğ aspekt föör d' stróótenferkeer un däi seekerhaid fan fautgaangers un aautoforders.
 In Düütskland bünt fautgaangerampels soo kunsipäärt, dat säi 'n seeker oovergaang föör fautgaangers oover stróóten ferseekernt. 'N wichtiğ däil fan disser kunstruksjoon is dat feelen fan 'n geelfóóes.
 'N geelfóóes dee bii 'n fautgaangerampel min sin móóken, um dat häi däi oovergaang föör fautgaangers unnöödiğ ferkumplisäären dee. Bii geel hebbent fautgaangers kiin heller föörstellen d'r fan, of säi noch seeker oover d' stróóet góón köönent of säi stóón bliiven sullent.
 Dat kun tau ferwaaren un unseekerhaid fören, wat echter dat risiko ferhoogern sul, dat fautgaangers ooverforen wordent. In stee d'r fan bünt fautgaangerampels in Düütskland soo kunsipäärt, dat säi of up rood of up gröyn stóónt.
@@ -799,7 +799,7 @@ Däi info dat in Düütskland kiin geel gift is näit häil kurrekt, in däi mä
 Man däi anner aspekten bünt kurrekt un ik fraaj mii dat Jii mit däi seekerhaidssüsteemen fan ampels fertraut bünt.
 Bedankt föör dat hôoğst interessâant ferkloren. Ik sal dit bii miin tauken anterns bedenken.
 Unner betrekken up däi film "rainman" wil ik noch ergensen, dat 't wichtiğ is, näit stóón t' bliiven, doo däi ampel up rood skalt't, wiilst man sük al up d' forbóón befinnen daajt.
-Jii hebbent recht. Dat gift in Düütskland bii fautgaangerampels wies kiin geelfóósen. Mit dat anbefeelen bii d' gröyen, in stee fan bii d' rôod ampelfóóes, däi stróóet t' ooverkweeren góó ik ooveräien.
+Jii hebbent recht. Dat gift in Düütskland bii fautgaangerampels wies kiin geelfóósen. Mit dat undfeelen bii d' gröyen, in stee fan bii d' rôod ampelfóóes, däi stróóet t' ooverkweeren góó ik ooveräien.
 Bünt disser ampelsiğnóólen up däi häiel weerld gliik of betrekt sük diin antern bloot up Öösterriik?
 Nóó däi **Kuntrakt oover Stróótenferkeerstäikens**, wat in 1968 ofslooten wur, bünt lüchtsiğnóólanlóógen as ampels internóósjoonóól standardisäärt. Fandóóeğ bünt däi klöörsiğnóólen fan ampels weerldwiid hóóst äinhaidelk: - rood bedüd't stop - geel/oranzj bedüd't föörsicht - gröyn/blaaugröyn bedüd't foren of góón Dat kan regjoonóóel ferskeelen in 't ferwenden fan anner sümboolen geeven, tau 'n biispil piilen of äigen ampels föör radforders. Bii d' däilnóóem an d' stróótenferkeer undfeelt 't sük altiid, däi lokóóel besünnerğkaiden föördeem in erforen t' brengen um unfallen t' fermiiden.
 'N fiktîif tjóóterstük hannelt fan däi läieft fan twei minsken, däi uut ferskeelend femiiljen stamment. Däi bâajd femiiljen bünt nanner ferfrömt, düs köönent sük däi läivenden man stilkens dräepen.
