@@ -449,3 +449,6 @@ FodyWeavers.xsd
 .vscode/settings.json
 
 venv/
+
+# Local Hugging Face token for the Tatoeba verifyer (never commit secrets).
+data/tatoeba/verifyer/verifyer_config.json
