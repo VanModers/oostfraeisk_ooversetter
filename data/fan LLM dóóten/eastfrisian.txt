@@ -605,11 +605,11 @@ Dat söcht woord is "smart".
 Kaast duu mit mii 'n roleplay spöölen, wiilst duu miin läiefst anime krakter imitäärst? Duu anterst dan soo, as häi dat daun dee un fersöchst ook soo t' hanneln.
 Geern spööl ik 'n roleplay mit dii. Man ik kan bloot fersöyken soo t' antern, as diin läiefst anime krakter. Miin hannelns beskrenkent sük t'minst bit nuu up dat antern in skriftföörm. Wel is dan diin läiefst anime krakter?
 Godlös, man jóó, dat kan ik.
-Kaast duu mii bitte bii folgend matemóótik-upgóóev helpen? Heer Müller wil sük 'n näj motoorrad koopen. In d' stad süğt häi 'n yamaha, däi hum gefaalt, föör 8572€. Häi hannelt bii d' ferkooper 'n rebat fan 10% uut. Kumt häi mit 7800€ uut? Woo fööl maut häi betóólen?
-Häi maut 7714,80€ betóólen un kumt düs mit siin budget uut. Um dat Heer Müller 'n 10% rebat up däi oorsprungelk priis uuthannelt het, betóólt häi in d' ennenseffekt bloot 90% alsoo: 90% * 8572€ = 7714,90€. Um dat dit minner is as 7800€, kumt häi mit siin budget uut.
+Kaast duu mii bitte bii folgend matemóótik-upgóóev helpen? Heer Müller wil sük 'n näj motoorrad koopen. In d' stad süğt häi 'n yamaha, däi hum gefaalt, föör 8572€. Häi hannelt bii d' ferkooper 'n rabat fan 10% uut. Kumt häi mit 7800€ uut? Woo fööl maut häi betóólen?
+Häi maut 7714,80€ betóólen un kumt düs mit siin budget uut. Um dat Heer Müller 'n 10% rabat up däi oorsprungelk priis uuthannelt het, betóólt häi in d' ennenseffekt bloot 90% alsoo: 90% * 8572€ = 7714,90€. Um dat dit minner is as 7800€, kumt häi mit siin budget uut.
 Doo duu fróógen tau miin antern hest, beanter ik dii höör geern.
-Jóó, Heer Müller kan mit 7800 € uutkoomen. Nóó däi rebat bedrağt däi priis föör 't motoorrad 7716 €. Häi maut alsoo 7716 € betóólen.
-Um uut t' finnen, of Heer Müller mit 7800€ uutkumt, maut t'eerst bereekent worden, woo fööl däi Yamaha mit rebat köst't. D'r föör bereekent man t'eerst däi ferbliivend andäil fan däi oorsprungelk priis, alsoo 100%-10%=90%.
+Jóó, Heer Müller kan mit 7800 € uutkoomen. Nóó däi rabat bedrağt däi priis föör 't motoorrad 7716 €. Häi maut alsoo 7716 € betóólen.
+Um uut t' finnen, of Heer Müller mit 7800€ uutkumt, maut t'eerst bereekent worden, woo fööl däi Yamaha mit rabat köst't. D'r föör bereekent man t'eerst däi ferbliivend andäil fan däi oorsprungelk priis, alsoo 100%-10%=90%.
 Achternóó word't däi priis as folgend uutreekent: 8572€*90%=8572€*0,9=7714,8€. Dat is minner as 7800€, Heer Müller kan alsoo däi Yamaha koopen.
 Ferklor mii däi puäent fan däi folgend grap: "Róókent sük twei jeegers. Bâajd dood."
 Däi puäent fan däi grap liğt d'r in dat sük däi bâajd jeegers róókent, wat d'r in dit gefal mit däi sin fan ofskäiten stelt worden sal. Dat het as foelğ, dat bâajd jeegers näit meer an 't leeven bünt.
@@ -974,7 +974,7 @@ Disser dóótenbank word't oover dat inbaaut WLAN-ferbinnen fan us firmó altiid
 Bruukent Jii doch hüelp bii 't bedäinen, köönent Jii dat bedriifsanläiden as PDF up us homepage dóólhóólen. Boovendeem is 'n hemmeln fan däi kameró näit nöödiğ, um dat dat lotus-beskichten fan däi liens 'n ferfuulen ferhinnert.
 Bii skóóden an d' apparóót wendent Jii Jau bitte an 'n fan us tsertifisäärt waarkstee, um dat weegen däi hooğspannenskumponenten 'n reparóótüer döör däi nütser näit föörsäin is.
 Hunnert, dat let't je 'n gâaud apparóót t' weesen. Ik bün mii man noch näit häilmóóls seeker woosoo ik disser features bruuk, kunnent Jii mii 'n anwendensundfeelen geeven?
-Perfekt, mit dit antern sul ik nuu oover âals beskäid wäiten, wat däi technisk aspekt fan däi mikrowäel anbelangt. Kaast duu mii nuu inf'rmóósjoonen oover däi priisen un möögelk rebataksjoonen geeven?
+Perfekt, mit dit antern sul ik nuu oover âals beskäid wäiten, wat däi technisk aspekt fan däi mikrowäel anbelangt. Kaast duu mii nuu inf'rmóósjoonen oover däi priisen un möögelk rabataksjoonen geeven?
 Boovendeem was 'n groef ooversicht fan däi reparóótürkösten noch hülpsóóm, doo däi kuen d'r nóó frağt.
 Ik heb bloot disser besünner mâark in 't program. Däi fan us produsäärt modellen kentäikent sük d'r döör, dat säi mit 'n infrórôod kameró beset't bünt, däi ooverwóókt wenner däi tsiiltemperótüer berekt is.
 Woosoo sul ik net akróót 'n mikrowäel mit infrórood-temperótürsensoor koopen? Brengt mii dat ennerwekker besünner föördäilen?
