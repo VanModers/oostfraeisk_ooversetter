@@ -498,7 +498,7 @@ Jii mautent näit smooken.
 Säi dürent näit smooken.
 Duu maust nóó d' kapper góón.
 Duu bruukst uurlaaub.
-Jii bruukent wakansje.
+Jii bruukent uurlaaub.
 Duu bruukst ' n näej haud.
 Dat kun dii insent dat leevend redden.
 Dat kun wal 'n hochtiid weesen.
@@ -1367,7 +1367,7 @@ Doo man fan 'n twäidtóól in däi äigen maudertóól ooverset't, in stee d'r 
 Ik wäit näit, wel dat woordenbauk uutfunnen het. Was 't 'n Sumerer? Was 't 'n Skiinêes? Man äien wäit ik: dat woordenbauk is 'n wunnerboer uutfinnen.
 Doo Jii näit 'n tóól uutset't wassent bit Jii 'n grootwuesen minsk wassent, söölent Jii läip, läip unworskiinelk oojt as 'n maudertóólprooter in disser tóól klingen.
 Doo man mit 'n kind nóó buuten gaajt un nóó d' móón wist, bekikt häi däi móón. Móókt man dat sülviğ mit 'n hund, bekikt häi däi finger.
-Weegen däi grôot baarğ unróód, däi säi oover menniğ joer ansóómelt haar, was 't däi fürweerlüü näit möögelk bii däi in höör huus inspeert frâau t' koomen.
+Weegen däi grôot büelt an unróód, däi säi oover fööl joren ansóómelt haar, was 't däi fürweerlüü näit möögelk, däi in höör huus inspeert frâau t' berekken.
 Meer geld drükken is 'n fan menniğ lâan praktisäärt móótreegel, um 'n inflóósjoon t'fööer koomen, man up lâang sicht móókt dat däi lóóeğ man slechter.
 Ik hol dat 'n föör 'n skâan dat menniğ frömdtóólmesters dat klor kreegen hebben, höör uniwersitäitsofslus tau móóken, sünner oojt fan 'n maudertóólprooter leert t' hebben.
 In fööl lâan is föör gewoon doo 'n koppel fan minsken fan ferskeelend tóóliğ heerkumst t'sóómen kumt, Engelsk däi tóól, däi proot't word't.
@@ -1459,7 +1459,7 @@ Doo duu dii näit mit sünnenkrêem insmeeren wult, is dat diin sóóek. Man bek
 Elker stuudent mit 'n ofslus fan us uniwersitäit het minst twei joer fan 'n maudertóólprooter leert.
 Charles Moore undwikkelde Forth in 'n fersöyk, däi produktiivitäit fan d' programäärder t' stiigern, sünner reekenlaistung t' offern.
 "Däi wustjes bünt mii bii 't kooken in 't häiet wóóter spiitelkerwîis busten." – "Móókt niks, Tom! Däi smóókent trotsdeem!"
-Doo ik däi melk tau d' köylskap uut hóól, dau ik nóóderhand däi köylskapsdööer diecht, indeem ik hum mit d' elbôoğ 'n gnueb geev. Woo daajst duu 't?
+Doo ik däi melk tau d' köylskap uut hóól, dau ik nóóderhand däi köylskapsdööer diecht, indeem ik hum mit d' elbôoğ 'n gnueb geev. Woo daajst duu dat?
 Tom wul siin oel wiideorekorder ferkoopen, in stee fan hum weğ t' smiiten, man doo hum nüms köf, smeet häi hum t'läest weğ.
 Tom wul altiid dokter worden, man siin skaulnooten hebbent näit häilmóóls langt, um hum 'n plats an 'n medsiinsk fakultäit t' seekern.
 Dat is 'n tiid in 't joer, doo minsken mit femiilje un früen t'sóómenkooment, um passó t' begóón un póóske t' firen.
@@ -1972,7 +1972,7 @@ Ik wäit näit, of Jii dat murken hebbent, man Tom kumt in d' läest tiid näit 
 Aläien góó ik näit in 't kiino, um dat ik nóó d' film geern mit wel d'r oover proot.
 Ik traude miin oogen bold näit, doo ik däi bredóóel renowäärens sağ, däi Tom an siin huus föörnoomen haar.
 Häi fraajde sük d'r up, dat weekenäen mit höör in höör mäinsóóem landhuus in Somerset t' ferbrengen.
-Häi ooverleet siin häiel fermöögen däi dochter fan 'n oel fründ - un ferwacht'de d'r niks föör t'rüeğ.
+Häi ooverleet siin häiel fermöögen däi dochter fan 'n oel fründ - un ferwacht'de kiin teegenlaistung.
 Fan däi moment of an, as Marió bóós wur, het säi sük bii höör unnergeevenen läip unbeläivt móókt.
 Eerst sal ik däi priisen fergliiken un eerst dan sal ik besluuten, of ik däi kameró koop.
 Alwoo miin fründ wegetaarier was, heb ik hum näit säeğt dat in däi tsoep wat fläisk was.
@@ -5232,7 +5232,7 @@ Tom gung in d' mesterkóómer, alwoo däi skaulers dat äinliik näit dürsent.
 Tom fun dat, wat Marió drooğ, föör däi anlóót unmis.
 Tom fun näit, dat dat, wat Marió anhaar, föör däi anlóót paaselk was.
 Tom haar näit nauğ geld, um Marió dat t' koopen, wat säi sük fan hum wünskert haar.
-Tomaso besloot niks t' säegen, bit âal annernt höör mäinen kund dóón hebbent.
+Tom besloot niks t' säegen, bit âal annernt höör mäinen kund dóón hebbent.
 Tom begreep näit, woosoo sük däi produkten fan siin firmó soo slecht ferköffent.
 Tom kan näit koopen, wat häi wil, um dat häi näit nauğ geld het.
 Tom het mii frağt, woo lâang miin ollen traaut wassent, eer säi sük skäiden leetent.
@@ -7195,7 +7195,7 @@ Tom bruukde näit lâang nóó t' denken, eer häi Mary siin antern gaf.
 Tom haar näit móól däi fatsuun t' wachten, bit ik uutproot't haar.
 Tom ferklorde däi skendaarm, woo 't tau dat melöör koomen was.
 Tom het sük undsked't, kiin folkenbâal t' spöölen, um dat hum dat näit gaud gung.
-Tom kwam bold näit oover d' kluuten as häi anfang twintiğ was.
+Tom kwam bold näit oover d' runnen as häi anfang twintiğ was.
 Tom sloot däi oogen, wiilst däi krankenswester däi nóódel in siin aarm införde.
 Tom het mii fööer ruuğweğ 'n hâalf stüen anraupen un säeğt, dat häi unnerweegens was.
 Tom reep Marió höör früen an, um dat häi löövde, dissent wussent fiilicht, wor säi was.
@@ -8376,7 +8376,7 @@ Ik haar noojt docht, dat 't up soo 'n stee soo 'n mooj hotel gift.
 Ik heb skiineesk kooken leert, doo ik in Boston woonde.
 Ik wäit, dat Tom hóóst âals dürt, wat häi wil.
 Ik heb 'n gâaud föörróód an bräifmaarken, um weegen nóó 't postamt t' sporen.
-Ik wil mii äinfach bloot ferseekern, dat duu diin däil fan 't feräinboren inhollen daajst.
+Ik wil äinfach bloot seekerstellen, dat duu diin däil fan 't feräinboren inhollen daajst.
 Ik wil man seeker góón, dat 't bii siin anbod kiin hóóek gift.
 Ik hoop, dat blift dii besport, âal däi duem feelers t' móóken, däi ik móókt heb.
 Ik hoop, duu forst.
@@ -8463,7 +8463,7 @@ Kört fööer d' eksplosjoon wur 'n sük ferdechtiğ ferhollend keerl säin.
 'N bauk, wat 't näit weerd is, leesen t' worden, is 't fan anfang an näit weerd, köft t' worden.
 "Woosoo forst duu nóó Jóópóón?" - "Um an 'n kunferens in Tokio däil t' neemen."
 "Wor is miin briel?" - "Däi hest duu up d' köökentóóvel liegen lóóten."
-"Kan man disser pils eeten?" - "Äin móól kan man 't âal eeten."
+"Kan man disser pils eeten?" - "Äin móól kan man âals eeten."
 "Ik maut dii d'r fan ofhollen, dat t' daun." - "D'r fan ofhollen, wat t' daun?"
 "Kan Tom trumpêet spöölen?" - "Nee, man häi is wal 'n häil gâaud singer."
 Diin mauder sal sük worskiinelk teegen diin baarğbestallen uutprooten.
@@ -9093,7 +9093,7 @@ Wii mussent us plóónen ofannern, um dat wii näit nauğ geld haarent.
 Wii kwamment tau däi beslus, dat wii dat beweegen stöönen sullent.
 Us wordent däi geforden fan dat passiifsmooken düüdelk bewust.
 Gif up däi funken acht, däi tau d' kemiin uut stuuvent!
-Knap dat häi in huus was, mook häi sük fut d'r an, 'n móóltiid t' räiden.
+Knap dat häi in huus was, mook häi sük fut d'r an, 'n móóltiid t' beräiden.
 "UdSSR" staajt föör "Unjoon fan däi Sosjóólistisk Sowjetrepubliken".
 Tom, Marió, Johannes un Elke spöölent fóók mitnanner striikkwartets.
 Tom siin hemd was näit plet't, un häi haar fergeeten, sük t' kemmen.
@@ -9887,7 +9887,7 @@ Góónt wii nóó mii! Ik wil dii d'r wat wiisen.
 Lóót däi fersmookt lücht tau d' kóómer uut un frisk lücht binnen.
 Tau 't leeren sul man näit dwungen, man animäärt worden.
 Tau 't leeren sul man näit dwungen worden. Tau 't leeren sul man anmaudiğt worden.
-Dat Titicacameer, dat grôotst meer fan Amerikó, is in Peruu.
+Dat Titicacameer, dat grôotst meer fan Amerikó, is in Peru.
 Nóó däi heemel t' oordäilen, kun 't fannóómiddağ reegen.
 Nóó dat as däi heemel let't sööl' wii môoj wêer kriigen.
 Dat is kiin gehäimnis, dat Tom näit fan diin mäinen is.
@@ -12249,7 +12249,7 @@ Dat hir is äien fan däi woordenbauken, wor ik dii güster fan fertelt heb.
 Dat is 'n häil wichtiğ meeting. Jii sullent dat näit ferpaasen.
 Dat is 'n häil wichtiğ fergóódern, duu sust hum näit ferpaasen.
 Dit woonen liğt in d' fiitsofstand fan d' uniwersitäit.
-Disser unfal gaajt up däi nóólessiğkaid fan däi forder t'rüeğ.
+Disser unfal gaajt up däi forlessiğkaid fan däi forder t'rüeğ.
 Fandóóeğ söölent säi dat probleem näit meer beaarbaiden köönen.
 Säi wassent beräid, däi gefoer up sük t' neemen, fan d' fäind doodskooten t' worden.
 Säi wassent âal soo möej, dat säi bloot noch góópen kunnent.
