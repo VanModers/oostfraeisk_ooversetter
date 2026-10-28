@@ -1,6 +1,6 @@
 python/layers/__pycache__
 python_tensorflow/__pycache__/
-oostfraeiskorg_dataset_creator/oostfraeiskorg_dataset_creator/bin/Debug/net7.0/WFDOT.db
+/data/dictionary/WFDOT.db*
 /translator_net/.vs/translator_net
 python_pytorch/__pycache__/
 python_tensorflow/__pycache__/
@@ -443,9 +443,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-/oostfraeiskorg_dataset_creator/.vs
-/oostfraeiskorg_dataset_creator/oostfraeiskorg_dataset_creator/bin/Debug
-/oostfraeiskorg_dataset_creator/oostfraeiskorg_dataset_creator/obj
 .vscode/settings.json
 
 venv/

@@ -5,12 +5,12 @@ Creates a TSV file of East Frisian (frs) translations of German (deu) Tatoeba
 sentences, ready to be submitted to Tatoeba for bulk import.
 
 Source files:
-  - data/fan teksten/german.txt      – German sentences (one per line)
-  - data/fan teksten/eastfrisian.txt – Corresponding frs translations (one per line)
-  - data/krektüren/deu copy.txt      – All German Tatoeba sentences with IDs
+  - data/tatoeba/training/german.txt      – German training sentences
+  - data/tatoeba/training/eastfrisian.txt – Corresponding frs translations
+  - data/tatoeba/reference.tsv      – All German Tatoeba sentences with IDs
     (format: English_text TAB German_text TAB CC-BY attribution with sentence IDs)
 
-Output (all written to data/tatoeba/):
+Output (all written to data/tatoeba/, separate from training/):
   tatoeba_frs_export.tsv    – Tatoeba bulk-import file
                               Format: german_id TAB german_text TAB frs_text
   eastfrisian_tatoeba.txt   – frs sentences only (one per line, aligned)
@@ -19,7 +19,7 @@ Output (all written to data/tatoeba/):
                               (for multi-language training)
 
 Rules:
-  - Only sentence pairs whose German text appears verbatim in deu copy.txt are
+  - Only sentence pairs whose German text appears verbatim in reference.tsv are
     included (those are guaranteed to be real Tatoeba sentences).
   - Each unique German sentence appears at most once (first East Frisian
     translation encountered wins).
@@ -36,13 +36,11 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 
 BASE_DIR = Path(__file__).parent          # data/tatoeba/
-REPO_DIR = BASE_DIR.parent.parent         # repository root
-FAN_TEKSTEN_DIR = REPO_DIR / "data" / "fan teksten"
-KREKTÜREN_DIR   = REPO_DIR / "data" / "krektüren"
+TRAINING_DIR = BASE_DIR / "training"
 
-GERMAN_FILE         = FAN_TEKSTEN_DIR / "german.txt"
-FRISIAN_FILE        = FAN_TEKSTEN_DIR / "eastfrisian.txt"
-TATOEBA_GERMAN_FILE = KREKTÜREN_DIR / "deu copy.txt"
+GERMAN_FILE         = TRAINING_DIR / "german.txt"
+FRISIAN_FILE        = TRAINING_DIR / "eastfrisian.txt"
+TATOEBA_GERMAN_FILE = BASE_DIR / "reference.tsv"
 
 # Output files (all in the same directory as this script)
 OUTPUT_FILE  = BASE_DIR / "tatoeba_frs_export.tsv"
@@ -54,7 +52,7 @@ ENGLISH_OUT  = BASE_DIR / "english_tatoeba.txt"
 # Step 1 – Build a lookup: german_text → german_sentence_id
 #          from the Tatoeba German reference file.
 #
-# deu copy.txt format per line:
+# reference.tsv format per line:
 #   English_text\tGerman_text\tCC-BY 2.0 (France) Attribution: tatoeba.org
 #       #<english_id> (<user>) & #<german_id> (<user>)
 # ---------------------------------------------------------------------------
@@ -92,10 +90,10 @@ with open(TATOEBA_GERMAN_FILE, encoding="utf-8") as fh:
 print(f"  Loaded {len(german_to_id):,} unique German Tatoeba sentences.")
 
 # ---------------------------------------------------------------------------
-# Step 2 – Walk the parallel fan-teksten files and collect matches
+# Step 2 – Walk the parallel training files and collect matches
 # ---------------------------------------------------------------------------
 
-print("Scanning fan teksten parallel files …")
+print("Scanning Tatoeba training files …")
 
 output_pairs: list[tuple[int, str, str]] = []   # (german_id, german_text, frs_text)
 seen_german: set[str] = set()                    # deduplication key
@@ -149,7 +147,7 @@ print(f"Writing output files to: {BASE_DIR}")
 with open(OUTPUT_FILE, "w", encoding="utf-8") as out:
     out.write("# East Frisian (frs) translations of German (deu) Tatoeba sentences\n")
     out.write("# Format: german_sentence_id<TAB>german_sentence_text<TAB>frs_translation_text\n")
-    out.write("# Generated from: data/fan teksten/  (verified against data/krektüren/deu copy.txt)\n")
+    out.write("# Generated from: data/tatoeba/training/  (matched against data/tatoeba/reference.tsv)\n")
     out.write(f"# Total pairs: {len(output_pairs)}\n")
     out.write("#\n")
     for german_id, german_text, frisian_text in output_pairs:

@@ -1,6 +1,8 @@
 import os
 import difflib
 import string
+import argparse
+from pathlib import Path
 
 def load_dictionary(dict_path):
     with open(dict_path, "r", encoding="utf-8") as f:
@@ -36,11 +38,12 @@ def suggest_replacement(word, dictionary):
 
 
 def main():
-    base_path = "data/fan teksten"
-    val_path = "validation data"
+    parser = argparse.ArgumentParser(description="Review spelling in an aligned text corpus.")
+    parser.add_argument("dataset", nargs="?", type=Path, default=Path(__file__).parent)
+    base_path = parser.parse_args().dataset
     ger_path = os.path.join(base_path, "german.txt")
     frs_path = os.path.join(base_path, "eastfrisian.txt")
-    dict_path = os.path.join(base_path, "frs.dic")
+    dict_path = Path(__file__).parent / "frs.dic"
     out_path = os.path.join(base_path, "eastfrisian_updated.txt")
 
     # Load dictionary

@@ -10,8 +10,11 @@ from dataset_creator import FRS_LANG, DEU_LANG, add_frs_lang, MAX_LENGTH
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_MODEL_PATH = "VanModers114/East_Frisian_NLLB_Model"
-DEFAULT_INPUT_FILE = REPO_ROOT / "data" / "krektüren" / "deu.txt"
-DEFAULT_CORRECTED_GERMAN_FILE = REPO_ROOT / "data" / "fan teksten" / "german.txt"
+DEFAULT_INPUT_FILE = REPO_ROOT / "data" / "tatoeba" / "pending.tsv"
+DEFAULT_CORRECTED_GERMAN_FILES = [
+    REPO_ROOT / "data" / "tatoeba" / "training" / "german.txt",
+    REPO_ROOT / "data" / "additional" / "german.txt",
+]
 DEFAULT_GERMAN_OUTPUT = REPO_ROOT / "data" / "auto_translated" / "german.txt"
 DEFAULT_EASTFRISIAN_OUTPUT = REPO_ROOT / "data" / "auto_translated" / "eastfrisian.txt"
 DEFAULT_COUNT = 10000
@@ -117,8 +120,9 @@ def main():
     parser.add_argument(
         "--corrected-german",
         type=Path,
-        default=DEFAULT_CORRECTED_GERMAN_FILE,
-        help="German corrections to exclude from selection.",
+        nargs="+",
+        default=DEFAULT_CORRECTED_GERMAN_FILES,
+        help="German training files to exclude from selection (defaults to both text sources).",
     )
     parser.add_argument("--german-output", type=Path, default=DEFAULT_GERMAN_OUTPUT)
     parser.add_argument("--eastfrisian-output", type=Path, default=DEFAULT_EASTFRISIAN_OUTPUT)
@@ -139,7 +143,7 @@ def main():
     if not args.input.exists():
         raise FileNotFoundError(f"Input file not found: {args.input}")
 
-    corrected = read_sentence_set(args.corrected_german)
+    corrected = set().union(*(read_sentence_set(path) for path in args.corrected_german))
     if args.clean_input_only:
         removed, kept = remove_sentences_from_source(args.input, corrected)
         print(f"Removed {removed} corrected row(s); kept {kept} row(s) in {args.input}")

@@ -12,7 +12,7 @@ import unicodedata
 from itertools import zip_longest
 from pathlib import Path
 
-VERSION = "purged-multilingual-v1"
+VERSION = "purged-multilingual-v2"
 
 
 def prepare_split(path, val_size=1000, tatoeba_path=None, db_eng_path=None,
@@ -140,8 +140,12 @@ def split_records(rows, quotas, external=(), seed=42):
     """
     if any(n < 0 for n in quotas.values()):
         raise ValueError("Validation quotas must be nonnegative")
-    seen, clean, removed = set(), [], []
+    seen, clean, removed, empty_pairs = set(), [], [], []
     for row in rows:
+        # Intentional empty-input/empty-output examples belong in training.
+        if not row[0].strip() and not row[1].strip():
+            empty_pairs.append(row)
+            continue
         if not normalize(row[0]) or not normalize(row[1]):
             removed.append((row, "blank"))
             continue
@@ -166,6 +170,7 @@ def split_records(rows, quotas, external=(), seed=42):
     hits = overlapping_rows(training, validation)
     removed.extend((row, "internal_overlap") for i, row in enumerate(training) if i in hits)
     training = [row for i, row in enumerate(training) if i not in hits]
+    training.extend(empty_pairs)
     if not training or not validation:
         raise ValueError("Split must retain nonempty training and validation sets")
     manifest = {

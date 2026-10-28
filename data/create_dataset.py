@@ -1,6 +1,5 @@
 """
-Python port of oostfraeiskorg_dataset_creator/Program.cs
-Generates parallel training data from the WFDOT.db dictionary database.
+Combines dictionary data, Tatoeba training texts, and additional training texts.
 
 Outputs (written to the same directory as this script, i.e. data/):
   german.txt                      - German training sentences
@@ -14,12 +13,13 @@ Usage:
 
 import sqlite3
 import random
+from itertools import zip_longest
 from pathlib import Path
 
-# ── Constants matching Program.cs ──────────────────────────────────────────
+# ── Generation settings ────────────────────────────────────────────────────
 MAX_TEXT_LENGTH     = 5000
-MANUAL_DATASET_MUL  = 1   # how many times to write each fan-teksten pair
-MANUAL_DATASET_COMB_MUL = 2  # how many shuffle+smash passes for fan teksten
+MANUAL_DATASET_MUL  = 1   # how many times to write each training-text pair
+MANUAL_DATASET_COMB_MUL = 2  # shuffle+smash passes over both text sources together
 SQL_SEED            = 42
 NOUN_LIMIT          = 5000
 TEXT_ABBREVIATIONS  = {"bzw"}
@@ -27,10 +27,8 @@ TEXT_ABBREVIATIONS  = {"bzw"}
 # ── Paths ───────────────────────────────────────────────────────────────────
 SCRIPT_DIR   = Path(__file__).parent
 REPO_DIR     = SCRIPT_DIR.parent
-DB_PATH      = (REPO_DIR / "oostfraeiskorg_dataset_creator" /
-                "oostfraeiskorg_dataset_creator" / "bin" / "Debug" /
-                "net7.0" / "WFDOT.db")
-FAN_TEKSTEN  = SCRIPT_DIR / "fan teksten"
+DB_PATH      = SCRIPT_DIR / "dictionary" / "WFDOT.db"
+TEXT_SOURCES = (SCRIPT_DIR / "tatoeba" / "training", SCRIPT_DIR / "additional")
 OUT_GER      = SCRIPT_DIR / "german.txt"
 OUT_FRS      = SCRIPT_DIR / "eastfrisian.txt"
 OUT_ENG_DB   = SCRIPT_DIR / "english_db.txt"
@@ -198,19 +196,16 @@ def get_db_rows(query: str) -> list:
 
 # ── Main ────────────────────────────────────────────────────────────────────
 
-def validate_manual_alignment():
-    """Reject missing/unequal manual files before opening generated outputs."""
-    paths = [FAN_TEKSTEN / name for name in ("german.txt", "eastfrisian.txt")]
-    if not any(path.exists() for path in paths):
-        return
-    if not all(path.exists() for path in paths):
-        raise ValueError(f"Both manual parallel files must exist: {paths}")
-    counts = []
-    for path in paths:
-        with path.open(encoding="utf-8") as stream:
-            counts.append(sum(1 for _ in stream))
-    if counts[0] != counts[1]:
-        raise ValueError(f"Manual parallel file length mismatch: {dict(zip(map(str, paths), counts))}")
+def load_text_pairs(directory):
+    """Read a complete aligned source, preserving duplicates and blank rows."""
+    pairs = []
+    with ((directory / "german.txt").open(encoding="utf-8") as german,
+          (directory / "eastfrisian.txt").open(encoding="utf-8") as frisian):
+        for line_number, (g, f) in enumerate(zip_longest(german, frisian), 1):
+            if g is None or f is None:
+                raise ValueError(f"Parallel file length mismatch in {directory} at line {line_number}")
+            pairs.append((g.rstrip("\n"), f.rstrip("\n")))
+    return pairs
 
 
 def load_evaluation_texts():
@@ -235,7 +230,7 @@ def overlaps_evaluation(german, frisian, evaluation_texts):
 def main():
     print(f"DB: {DB_PATH}")
     assert DB_PATH.exists(), f"Database not found: {DB_PATH}"
-    validate_manual_alignment()
+    text_sources = [(directory, load_text_pairs(directory)) for directory in TEXT_SOURCES]
     evaluation_texts = load_evaluation_texts()
 
     with (open(OUT_GER,     "w", encoding="utf-8") as ger_out,
@@ -348,55 +343,51 @@ def main():
 
         print(f"  {tmpl_count} noun template pairs")
 
-        # ── Step 4: Fan teksten — individual + smashed ────────────────────────
-        print("\nStep 4: Fan teksten (manual texts)...")
+        # ── Step 4: Training texts — individual + smashed ────────────────────
+        print("\nStep 4: Tatoeba and additional training texts...")
         frs_texts: list[str] = []
         ger_texts: list[str] = []
 
-        if (FAN_TEKSTEN / "german.txt").exists():
-            with (open(FAN_TEKSTEN / "german.txt",     encoding="utf-8") as gf,
-                  open(FAN_TEKSTEN / "eastfrisian.txt", encoding="utf-8") as ff):
-                for line_number, (g, f) in enumerate(zip(gf, ff), 1):
-                    g, f = g.rstrip("\n"), f.rstrip("\n")
-                    if overlaps_evaluation(g, f, evaluation_texts):
-                        print(f"  Excluded manual line {line_number}: contains evaluation text")
-                        continue
-                    if is_valid_pair(g, f, allow_both_blank=True):
-                        ger_texts.append(g)
-                        frs_texts.append(f)
-                        for _ in range(MANUAL_DATASET_MUL):
-                            ger_out.write(g + "\n")
-                            frs_out.write(f + "\n")
+        for directory, pairs in text_sources:
+            print(f"  {directory}: {len(pairs)} source pairs")
+            for line_number, (g, f) in enumerate(pairs, 1):
+                if overlaps_evaluation(g, f, evaluation_texts):
+                    print(f"  Excluded {directory.name} line {line_number}: contains evaluation text")
+                    continue
+                if is_valid_pair(g, f, allow_both_blank=True):
+                    ger_texts.append(g)
+                    frs_texts.append(f)
+                    for _ in range(MANUAL_DATASET_MUL):
+                        ger_out.write(g + "\n")
+                        frs_out.write(f + "\n")
 
-            print(f"  {len(ger_texts)} source pairs written")
+        print(f"  {len(ger_texts)} source pairs written")
 
-            pairs_list = [[f, g] for f, g in zip(frs_texts, ger_texts)]
-            for pass_num in range(MANUAL_DATASET_COMB_MUL):
-                seeded_shuffle(pairs_list, SQL_SEED)
-                acc_frs = acc_ger = ""
-                accumulating = False
-                smash_count = 0
-                for pair in pairs_list:
-                    f, g = pair[0].replace("\n", " "), pair[1].replace("\n", " ")
-                    if not f or not g:
-                        continue
-                    g = cut_sentence_if_necessary(f, g)
-                    f = add_point(first_char_to_upper(f))
-                    g = add_point(first_char_to_upper(g))
-                    if not accumulating:
-                        acc_frs += f
-                        acc_ger += g
-                        ger_out.write(acc_ger + "\n")
-                        frs_out.write(acc_frs + "\n")
-                        smash_count += 1
-                        acc_frs = acc_ger = ""
-                    else:
-                        acc_frs += f + " "
-                        acc_ger += g + " "
-                    accumulating = not accumulating
-                print(f"  Smash pass {pass_num + 1}: {smash_count} pairs")
-        else:
-            print("  Fan teksten files not found, skipping.")
+        pairs_list = [[f, g] for f, g in zip(frs_texts, ger_texts)]
+        for pass_num in range(MANUAL_DATASET_COMB_MUL):
+            seeded_shuffle(pairs_list, SQL_SEED)
+            acc_frs = acc_ger = ""
+            accumulating = False
+            smash_count = 0
+            for pair in pairs_list:
+                f, g = pair[0].replace("\n", " "), pair[1].replace("\n", " ")
+                if not f or not g:
+                    continue
+                g = cut_sentence_if_necessary(f, g)
+                f = add_point(first_char_to_upper(f))
+                g = add_point(first_char_to_upper(g))
+                if not accumulating:
+                    acc_frs += f
+                    acc_ger += g
+                    ger_out.write(acc_ger + "\n")
+                    frs_out.write(acc_frs + "\n")
+                    smash_count += 1
+                    acc_frs = acc_ger = ""
+                else:
+                    acc_frs += f + " "
+                    acc_ger += g + " "
+                accumulating = not accumulating
+            print(f"  Smash pass {pass_num + 1}: {smash_count} pairs")
 
     # ── Summary ───────────────────────────────────────────────────────────────
     print("\nDone. Line counts:")
