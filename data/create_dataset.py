@@ -6,6 +6,8 @@ Outputs (written to the same directory as this script, i.e. data/):
   eastfrisian.txt                 - East Frisian (line-aligned with german.txt)
   english_db.txt                  - English phrases from DB (only rows with English)
   eastfrisian_for_english_db.txt  - East Frisian aligned with english_db.txt
+  tatoeba/training/english_tatoeba.txt + eastfrisian_tatoeba.txt
+                                  - English alignments for the Tatoeba training texts
 
 Usage:
   python data/create_dataset.py
@@ -208,6 +210,25 @@ def load_text_pairs(directory):
     return pairs
 
 
+def regenerate_tatoeba_english(directory):
+    """Use the local reference to align English with every current training pair."""
+    english_by_german = {}
+    with (directory / "reference.tsv").open(encoding="utf-8") as reference:
+        for line in reference:
+            fields = line.rstrip("\n").split("\t", 2)
+            if len(fields) == 3 and fields[0].strip():
+                english_by_german.setdefault(fields[1], fields[0])
+    training = directory / "training"
+    pairs = load_text_pairs(training)
+    english_pairs = [(english_by_german[g] if g.strip() else "", f) for g, f in pairs]
+    with ((training / "english_tatoeba.txt").open("w", encoding="utf-8") as english,
+          (training / "eastfrisian_tatoeba.txt").open("w", encoding="utf-8") as frisian):
+        for e, f in english_pairs:
+            english.write(e + "\n")
+            frisian.write(f + "\n")
+    print(f"Tatoeba English/FRS: {len(english_pairs)} aligned training pairs")
+
+
 def load_evaluation_texts():
     """Load the separate evaluation set to protect manual data before augmentation."""
     paths = [REPO_DIR / "validation data" / name
@@ -232,6 +253,7 @@ def main():
     assert DB_PATH.exists(), f"Database not found: {DB_PATH}"
     text_sources = [(directory, load_text_pairs(directory)) for directory in TEXT_SOURCES]
     evaluation_texts = load_evaluation_texts()
+    regenerate_tatoeba_english(SCRIPT_DIR / "tatoeba")
 
     with (open(OUT_GER,     "w", encoding="utf-8") as ger_out,
           open(OUT_FRS,     "w", encoding="utf-8") as frs_out,

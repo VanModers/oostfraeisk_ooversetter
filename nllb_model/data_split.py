@@ -25,6 +25,10 @@ def prepare_split(path, val_size=1000, tatoeba_path=None, db_eng_path=None,
     if db_eng_path is not None:
         files.append(("dictionary_en", Path(db_eng_path) / "english_db.txt",
                       Path(db_eng_path) / "eastfrisian_for_english_db.txt", "eng_Latn"))
+    additional = Path(path) / "additional"
+    if (additional / "english.txt").exists() or (additional / "eastfrisian_for_english.txt").exists():
+        files.append(("additional_en", additional / "english.txt",
+                      additional / "eastfrisian_for_english.txt", "eng_Latn"))
     hashes = {}
 
     def read(source, src, tgt, language):

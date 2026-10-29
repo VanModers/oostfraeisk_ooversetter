@@ -3,7 +3,7 @@ import tempfile
 import json
 from pathlib import Path
 
-from data_split import normalize, overlapping_rows, split_records
+from data_split import normalize, overlapping_rows, prepare_split, split_records
 
 
 def row(source, target, language="deu_Latn", corpus="de", line=1):
@@ -55,6 +55,19 @@ class SplitTests(unittest.TestCase):
 
     def test_unicode_normalization(self):
         self.assertEqual(normalize("CAFÉ!"), normalize("cafe\u0301"))
+
+    def test_additional_english_feedback_is_included_with_english_language(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "german.txt").write_text("\n".join(f"source{i}" for i in range(20)), encoding="utf-8")
+            (root / "eastfrisian.txt").write_text("\n".join(f"target{i}" for i in range(20)), encoding="utf-8")
+            additional = root / "additional"
+            additional.mkdir()
+            (additional / "english.txt").write_text("Hello\n", encoding="utf-8")
+            (additional / "eastfrisian_for_english.txt").write_text("Moin\n", encoding="utf-8")
+            train, validation, _ = prepare_split(root, val_size=3)
+            self.assertIn(("Hello", "Moin", "eng_Latn", "frs_Latn", "additional_en", 1), train)
+            self.assertEqual(len(validation), 3)
 
     def test_dataset_uses_purged_split_and_writes_manifest_before_reversing(self):
         from dataset_creator import get_dataset

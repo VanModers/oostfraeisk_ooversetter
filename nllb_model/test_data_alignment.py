@@ -80,6 +80,18 @@ class AlignmentTests(unittest.TestCase):
                 ("Hallo", "Moin"), ("Hallo", "Moin"), ("orphan", ""), ("", ""),
             ])
 
+    def test_english_regeneration_preserves_translation_variants(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            training = root / "training"
+            training.mkdir()
+            (root / "reference.tsv").write_text("Hello\tHallo\tattribution\n", encoding="utf-8")
+            (training / "german.txt").write_text("Hallo\nHallo\n", encoding="utf-8")
+            (training / "eastfrisian.txt").write_text("Moin\nMoin!\n", encoding="utf-8")
+            generator.regenerate_tatoeba_english(root)
+            self.assertEqual((training / "english_tatoeba.txt").read_text(encoding="utf-8"), "Hello\nHello\n")
+            self.assertEqual((training / "eastfrisian_tatoeba.txt").read_text(encoding="utf-8"), "Moin\nMoin!\n")
+
 
 if __name__ == "__main__":
     unittest.main()

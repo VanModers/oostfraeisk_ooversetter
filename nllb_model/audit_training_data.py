@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SOURCES = {
     "tatoeba_de": ("data/tatoeba/training/german.txt", "data/tatoeba/training/eastfrisian.txt"),
     "additional": ("data/additional/german.txt", "data/additional/eastfrisian.txt"),
+    "additional_en": ("data/additional/english.txt", "data/additional/eastfrisian_for_english.txt"),
     "de": ("data/german.txt", "data/eastfrisian.txt"),
     "tatoeba": ("data/tatoeba/training/english_tatoeba.txt", "data/tatoeba/training/eastfrisian_tatoeba.txt"),
     "dictionary_en": ("data/english_db.txt", "data/eastfrisian_for_english_db.txt"),
@@ -87,7 +88,7 @@ def audit(baseline):
     }
     # Whole-row equality misses evaluation sentences inside augmented paragraphs.
     report["external_full_text_substring_matches"] = {}
-    for name in ("de", "tatoeba", "dictionary_en"):
+    for name in ("de", "tatoeba", "dictionary_en", "additional_en"):
         matches = []
         for column, language in ((0, "de"), (1, "frs")):
             if column == 0 and name != "de":
