@@ -2,7 +2,8 @@
 
 Each East Frisian sentence is read aloud automatically through the East
 Frisian TTS Hugging Face Space (the same endpoint the oostfraeisk.org website
-uses). Press [p] to repeat the audio, [m] to toggle the automatic playback.
+uses). Press [p] to repeat the audio, [m] to toggle the automatic playback
+and [b] to go back to the previous sentence and undo its stored result.
 """
 
 import json
@@ -62,6 +63,68 @@ def get_specific_line(file_path, line_number):
     except Exception as e:
         return f"Error reading file: {e}"
     return ""
+
+
+def read_verified_indices(log_path):
+    """Load the verified line indices, ignoring comments and blank lines."""
+    indices = set()
+    if not os.path.exists(log_path):
+        return indices
+    with open(log_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            try:
+                indices.add(int(line.strip()))
+            except ValueError:
+                continue
+    return indices
+
+
+def append_line(path, text):
+    """Append one line to a log file and flush it right away."""
+    with open(path, 'a', encoding='utf-8') as f:
+        f.write(f"{text}\n")
+
+
+def remove_verified_index(log_path, index):
+    """Remove `index` from the verified log, keeping comments and line order."""
+    if not os.path.exists(log_path):
+        return
+    with open(log_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    with open(log_path, 'w', encoding='utf-8') as f:
+        for line in lines:
+            try:
+                if int(line.strip()) == index:
+                    continue
+            except ValueError:
+                pass
+            f.write(line)
+
+
+def remove_error_entry(error_path, index):
+    """Remove the correction entry for `index` from the error log.
+
+    Uses the same leading pattern as create_verified_submission.py
+    (``Line <index> | ...``), so only the matching row is dropped.
+    """
+    if not os.path.exists(error_path):
+        return
+    pattern = re.compile(r"^Line\s+(\d+)\s+\|")
+    with open(error_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    with open(error_path, 'w', encoding='utf-8') as f:
+        for line in lines:
+            match = pattern.match(line.strip())
+            if match and int(match.group(1)) == index:
+                continue
+            f.write(line)
+
+
+def undo_verified_index(log_path, error_path, verified_indices, index):
+    """Undo the stored result for `index` so it can be reviewed again."""
+    verified_indices.discard(index)
+    remove_verified_index(log_path, index)
+    remove_error_entry(error_path, index)
 
 # ---------------------------------------------------------------------------
 # Text-to-speech helpers
@@ -385,14 +448,7 @@ def show_and_speak(current_line, total_lines, de_text, frs_text, cache=None, rea
 def run_translation_check(de_path, frs_path, log_path, error_path):
     global AUTO_READ
     # Load all previously processed line indices into a set for O(1) lookups
-    verified_indices = set()
-    if os.path.exists(log_path):
-        with open(log_path, 'r', encoding='utf-8') as f:
-            for line in f:
-                try:
-                    verified_indices.add(int(line.strip()))
-                except ValueError:
-                    continue
+    verified_indices = read_verified_indices(log_path)
 
     total_lines = get_total_lines(de_path)
     if total_lines == 0:
@@ -414,17 +470,17 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
     else:
         print("Audio: disabled (no Hugging Face token configured)")
     print("Commands: [y] = Correct, [n] = Incorrect, [p] = Play again, "
-          "[m] = Mute/Unmute, [r] = Reload from Disk, [exit] = Stop\n")
+          "[m] = Mute/Unmute, [r] = Reload from Disk, "
+          "[b] = Back (undo previous), [exit] = Stop\n")
 
     try:
         with open(de_path, 'r', encoding='utf-8-sig') as de_file, \
-             open(frs_path, 'r', encoding='utf-8-sig') as frs_file, \
-             open(log_path, 'a', encoding='utf-8') as log_file, \
-             open(error_path, 'a', encoding='utf-8') as err_file:
+             open(frs_path, 'r', encoding='utf-8-sig') as frs_file:
 
             # Read both files up front so we can prefetch ahead by index.
             de_lines = [line.rstrip('\n') for line in de_file]
             frs_lines = [line.rstrip('\n') for line in frs_file]
+            line_count = min(len(de_lines), len(frs_lines))
 
             # Background synthesis cache, active only when a token is available.
             cache = TtsCache() if TTS_TOKEN else None
@@ -442,17 +498,23 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
                     print("Audio cache ready.\n")
 
             try:
-                for current_line, (de_line, frs_line) in enumerate(zip(de_lines, frs_lines), 1):
+                # Index-based loop so [b] can jump back to earlier sentences.
+                current_index = start_line_number - 1
+                while current_index < line_count:
+                    current_line = current_index + 1
+
                     # Dynamically skip any line that exists in your verified_indices set
                     if current_line in verified_indices:
+                        current_index += 1
                         continue
 
-                    de_text = de_line.strip()
-                    frs_text = frs_line.strip()
+                    de_text = de_lines[current_index].strip()
+                    frs_text = frs_lines[current_index].strip()
 
                     if not de_text or not frs_text:
-                        log_file.write(f"{current_line}\n")
-                        log_file.flush()
+                        append_line(log_path, current_line)
+                        verified_indices.add(current_line)
+                        current_index += 1
                         continue
 
                     if cache is not None:
@@ -461,7 +523,7 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
                     show_and_speak(current_line, total_lines, de_text, frs_text, cache=cache)
 
                     while True:
-                        user_input = input("Valid? (y/n/p/m/r/exit): ").lower().strip()
+                        user_input = input("Valid? (y/n/p/m/r/b/exit): ").lower().strip()
 
                         if user_input == 'p':
                             speak(frs_text, cache=cache)
@@ -479,31 +541,46 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
                             print("\n--- Reloading file from disk... ---")
                             de_text = get_specific_line(de_path, current_line)
                             frs_text = get_specific_line(frs_path, current_line)
+                            # Keep the in-memory copy in sync with the file.
+                            de_lines[current_index] = de_text
+                            frs_lines[current_index] = frs_text
                             show_and_speak(current_line, total_lines, de_text, frs_text,
                                            cache=cache, read_aloud=False)
-                            continue 
+                            continue
+
+                        if user_input == 'b':
+                            # Jump to the most recently handled sentence and undo
+                            # its stored result, so it can be reviewed again.
+                            earlier = [i for i in verified_indices if i < current_line]
+                            if not earlier:
+                                print("No earlier sentence to go back to.\n")
+                                continue
+                            target = max(earlier)
+                            undo_verified_index(log_path, error_path, verified_indices, target)
+                            print(f"\nStatus: Back to line {target}. "
+                                  f"Its previous result was undone.\n")
+                            current_index = target - 1
+                            break
 
                         if user_input == 'y':
-                            log_file.write(f"{current_line}\n")
-                            log_file.flush() 
+                            append_line(log_path, current_line)
+                            verified_indices.add(current_line)
                             print("Status: Verified.\n")
+                            current_index += 1
                             break
 
                         elif user_input == 'exit':
                             print(f"\nExiting. Next time you will resume at the next unverified line.")
                             return
-                        
-                        else:
-                            err_file.write(f"Line {current_line} | DE: {de_text} | FY: {frs_text}\n")
-                            err_file.flush()
-                            log_file.write(f"{current_line}\n")
-                            log_file.flush()
-                            print(f"Status: Sent to {error_path}\n")
-                            break
 
-                    # Queue the next sentences for background synthesis.
-                    if cache is not None:
-                        cache.schedule(frs_lines[current_line:current_line + PREFETCH_AHEAD])
+                        else:
+                            append_line(error_path,
+                                        f"Line {current_line} | DE: {de_text} | FY: {frs_text}")
+                            append_line(log_path, current_line)
+                            verified_indices.add(current_line)
+                            print(f"Status: Sent to {error_path}\n")
+                            current_index += 1
+                            break
 
                 print("--- All lines have been reviewed! ---")
             finally:

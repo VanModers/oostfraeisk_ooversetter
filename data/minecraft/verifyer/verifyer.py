@@ -30,6 +30,53 @@ def save_json(file_path, data):
     except Exception as e:
         print(f"FEHLER beim Speichern der JSON-Datei: {e}")
 
+def read_verified_keys(log_path):
+    """Lädt die bereits geprüften Keys (Kommentar- und Leerzeilen werden ignoriert)."""
+    keys = set()
+    if not os.path.exists(log_path):
+        return keys
+    with open(log_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            key = line.strip()
+            if key and not key.startswith("#"):
+                keys.add(key)
+    return keys
+
+def append_line(path, text):
+    """Hängt eine Zeile an eine Logdatei an und schreibt sie sofort auf die Platte."""
+    with open(path, 'a', encoding='utf-8') as f:
+        f.write(f"{text}\n")
+
+def remove_verified_key(log_path, key):
+    """Entfernt `key` aus der Verifiziert-Datei, Kommentare bleiben erhalten."""
+    if not os.path.exists(log_path):
+        return
+    with open(log_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    with open(log_path, 'w', encoding='utf-8') as f:
+        for line in lines:
+            if line.strip() == key:
+                continue
+            f.write(line)
+
+def remove_error_entry(error_path, key):
+    """Entfernt den Fehlereintrag `Key: <key> | ...` aus der Fehlerdatei."""
+    if not os.path.exists(error_path):
+        return
+    prefix = f"Key: {key} |"
+    with open(error_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    with open(error_path, 'w', encoding='utf-8') as f:
+        for line in lines:
+            if not line.startswith(prefix):
+                f.write(line)
+
+def undo_verified_key(log_path, error_path, verified_keys, key):
+    """Macht das gespeicherte Ergebnis für `key` rückgängig (Zurück-Funktion)."""
+    verified_keys.discard(key)
+    remove_verified_key(log_path, key)
+    remove_error_entry(error_path, key)
+
 def edit_text_popup(de_text, en_text, nl_text, prefill_text):
     """Öffnet ein großes Tkinter-Fenster mittig auf dem Bildschirm mit Referenzen."""
     result = {"text": None}
@@ -144,14 +191,12 @@ def run_minecraft_json_validator(de_path, frs_path, en_path, nl_path, log_path, 
         return
 
     # 2. Bereits überprüfte Keys laden
-    verified_keys = set()
-    if os.path.exists(log_abs):
-        with open(log_abs, 'r', encoding='utf-8') as f:
-            for line in f:
-                verified_keys.add(line.strip())
+    verified_keys = read_verified_keys(log_abs)
 
-    total_keys = len(de_data)
-    
+    keys = list(de_data.keys())
+    key_positions = {key: i for i, key in enumerate(keys)}
+    total_keys = len(keys)
+
     # 3. Header anzeigen
     print("=" * 65)
     print("    MINECRAFT ÜBERSETZUNGS-VALIDATOR (JSON / LIVE-CORRECT)")
@@ -164,98 +209,126 @@ def run_minecraft_json_validator(de_path, frs_path, en_path, nl_path, log_path, 
     print("  [c]    = Korrigieren (Öffnet großes Eingabefenster)")
     print("  [n]    = Falsch (In Fehlerdatei protokollieren)")
     print("  [r]    = Neu von Festplatte laden")
+    print("  [b]    = Zurück (vorherigen Eintrag rückgängig machen)")
     print("  [exit] = Beenden & Fortschritt speichern")
     print("=" * 65 + "\n")
 
-    with open(log_abs, 'a', encoding='utf-8') as log_file, \
-         open(error_abs, 'a', encoding='utf-8') as err_file, \
-         open(corrected_abs, 'a', encoding='utf-8') as corr_file:
+    position = 0
 
-        current_index = 0
+    while position < total_keys:
+        key = keys[position]
+        current_index = position + 1
 
-        for key, de_text in de_data.items():
-            current_index += 1
+        if key in verified_keys:
+            position += 1
+            continue
 
-            if key in verified_keys:
-                continue
+        de_text = de_data.get(key, "")
+        frs_text = frs_data.get(key, "")
+        en_text = en_data.get(key, "")
+        nl_text = nl_data.get(key, "")
 
-            frs_text = frs_data.get(key, "")
-            en_text = en_data.get(key, "")
-            nl_text = nl_data.get(key, "")
+        percentage = (current_index / total_keys) * 100
 
-            percentage = (current_index / total_keys) * 100
+        while True:
+            print(f"--- Key {current_index} / {total_keys} ({percentage:.1f}%) ---")
+            print(f"KEY: {key}")
+            print(f"DE : {de_text}")
+            print(f"EN : {en_text if en_text else '--- [FEHLT] ---'}")
+            print(f"NL : {nl_text if nl_text else '--- [FEHLT] ---'}")
+            print(f"FRS: {frs_text if frs_text else '--- [LEER / FEHLT] ---'}")
 
-            while True:
-                print(f"--- Key {current_index} / {total_keys} ({percentage:.1f}%) ---")
-                print(f"KEY: {key}")
-                print(f"DE : {de_text}")
-                print(f"EN : {en_text if en_text else '--- [FEHLT] ---'}")
-                print(f"NL : {nl_text if nl_text else '--- [FEHLT] ---'}")
-                print(f"FRS: {frs_text if frs_text else '--- [LEER / FEHLT] ---'}")
+            user_input = input("\n[y/c/n/r/b/exit] > ").lower().strip()
 
-                user_input = input("\n[y/c/n/r/exit] > ").lower().strip()
-
-                if user_input == 'r':
-                    print("\n--> Lade Dateien neu von Festplatte...")
-                    de_data = load_json(de_abs)
-                    frs_data = load_json(frs_abs)
-                    if en_abs: en_data = load_json(en_abs)
-                    if nl_abs: nl_data = load_json(nl_abs)
+            if user_input == 'r':
+                print("\n--> Lade Dateien neu von Festplatte...")
+                de_data = load_json(de_abs)
+                frs_data = load_json(frs_abs)
+                if en_abs: en_data = load_json(en_abs)
+                if nl_abs: nl_data = load_json(nl_abs)
+                if not de_data:
+                    print("Abbruch: Keine Daten in der Quelldatei.")
+                    return
+                # Die Datei kann sich geändert haben -> Position neu bestimmen.
+                keys = list(de_data.keys())
+                key_positions = {k: i for i, k in enumerate(keys)}
+                total_keys = len(keys)
+                if key in key_positions:
+                    position = key_positions[key]
+                    current_index = position + 1
+                    percentage = (current_index / total_keys) * 100
                     de_text = de_data.get(key, "")
                     frs_text = frs_data.get(key, "")
                     en_text = en_data.get(key, "")
                     nl_text = nl_data.get(key, "")
                     continue
+                # Key existiert nicht mehr: mit dem nächsten Eintrag weitermachen.
+                position = min(position, total_keys)
+                break
 
-                elif user_input == 'y':
-                    log_file.write(f"{key}\n")
-                    log_file.flush()
-                    print("Status: ✅ Verifiziert.\n")
+            elif user_input == 'b':
+                # Zum zuletzt bearbeiteten Key zurückspringen und das dort
+                # gespeicherte Ergebnis (Verifiziert/Fehler) rückgängig machen.
+                earlier = [k for k in keys[:position] if k in verified_keys]
+                if not earlier:
+                    print("Kein früherer Eintrag zum Zurückspringen vorhanden.\n")
+                    continue
+                target_key = earlier[-1]
+                undo_verified_key(log_abs, error_abs, verified_keys, target_key)
+                print(f"\n--> Zurück zu Key '{target_key}'. "
+                      f"Vorheriges Ergebnis wurde rückgängig gemacht.\n")
+                position = key_positions[target_key]
+                break
+
+            elif user_input == 'y':
+                append_line(log_abs, key)
+                verified_keys.add(key)
+                print("Status: ✅ Verifiziert.\n")
+                position += 1
+                break
+
+            elif user_input == 'c':
+                default_fill = frs_text if frs_text else de_text
+
+                # Pop-up mit zusätzlichen Sprachen aufrufen
+                new_frs_text = edit_text_popup(de_text, en_text, nl_text, default_fill)
+
+                if new_frs_text is not None and new_frs_text.strip() != "":
+                    new_frs_text = new_frs_text.strip()
+                    old_val = frs_text
+                    frs_text = new_frs_text
+
+                    frs_data[key] = new_frs_text
+                    save_json(frs_abs, frs_data)
+
+                    append_line(corrected_abs,
+                                f"Key: {key} | DE: {de_text} | FRS_ALT: {old_val} | FRS_NEU: {new_frs_text}")
+
+                    append_line(log_abs, key)
+                    verified_keys.add(key)
+
+                    print(f"Status: ✏️ Übernommen & verifiziert (Neu: {new_frs_text}).\n")
+                    position += 1
                     break
-
-                elif user_input == 'c':
-                    default_fill = frs_text if frs_text else de_text
-                    
-                    # Pop-up mit zusätzlichen Sprachen aufrufen
-                    new_frs_text = edit_text_popup(de_text, en_text, nl_text, default_fill)
-
-                    if new_frs_text is not None and new_frs_text.strip() != "":
-                        new_frs_text = new_frs_text.strip()
-                        old_val = frs_text
-                        frs_text = new_frs_text 
-                        
-                        frs_data[key] = new_frs_text
-                        save_json(frs_abs, frs_data)
-
-                        corr_file.write(f"Key: {key} | DE: {de_text} | FRS_ALT: {old_val} | FRS_NEU: {new_frs_text}\n")
-                        corr_file.flush()
-
-                        log_file.write(f"{key}\n")
-                        log_file.flush()
-
-                        print(f"Status: ✏️ Übernommen & verifiziert (Neu: {new_frs_text}).\n")
-                        # GEÄNDERT: 'continue' sorgt dafür, dass sofort sauber zum nächsten Key gesprungen wird
-                        continue
-                    else:
-                        print("❌ Bearbeitung abgebrochen. Zurück zum Eintrag...\n")
-
-                elif user_input == 'n':
-                    err_file.write(f"Key: {key} | DE: {de_text} | FRS: {frs_text}\n")
-                    err_file.flush()
-                    
-                    log_file.write(f"{key}\n")
-                    log_file.flush()
-                    print(f"Status: ❌ In Fehlerdatei ({error_path}) notiert.\n")
-                    break
-
-                elif user_input == 'exit':
-                    print("\nBeendet. Dein Fortschritt wurde gespeichert.")
-                    return
-
                 else:
-                    print("Ungültige Eingabe! Bitte y, c, n, r oder exit eingeben.\n")
+                    print("❌ Bearbeitung abgebrochen. Zurück zum Eintrag...\n")
 
-        print("\n🎉 Sämtliche Einträge wurden erfolgreich durchgegangen!")
+            elif user_input == 'n':
+                append_line(error_abs, f"Key: {key} | DE: {de_text} | FRS: {frs_text}")
+                append_line(log_abs, key)
+                verified_keys.add(key)
+                print(f"Status: ❌ In Fehlerdatei ({error_path}) notiert.\n")
+                position += 1
+                break
+
+            elif user_input == 'exit':
+                print("\nBeendet. Dein Fortschritt wurde gespeichert.")
+                return
+
+            else:
+                print("Ungültige Eingabe! Bitte y, c, n, r, b oder exit eingeben.\n")
+
+    print("\n🎉 Sämtliche Einträge wurden erfolgreich durchgegangen!")
 
 
 if __name__ == "__main__":
