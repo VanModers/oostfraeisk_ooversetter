@@ -18,8 +18,8 @@ Run from any directory::
 
     python data/tatoeba/create_verified_submission.py
 
-By default, exactly 3,000 pairs are written to
-``data/tatoeba/tatoeba_frs_verified_3000.tsv``.
+By default, all verified, non-flagged pairs are written to
+``data/tatoeba/tatoeba_frs_verified.tsv``. Use ``--count`` to limit the number.
 """
 
 from __future__ import annotations
@@ -38,7 +38,7 @@ DEFAULT_GERMAN = BASE_DIR / "german_tatoeba.txt"
 DEFAULT_FRISIAN = BASE_DIR / "eastfrisian_tatoeba.txt"
 DEFAULT_VERIFIED = BASE_DIR / "verifyer" / "verified_indices.txt"
 DEFAULT_CORRECTIONS = BASE_DIR / "verifyer" / "sentences-to-correct.txt"
-DEFAULT_OUTPUT = BASE_DIR / "tatoeba_frs_verified_3000.tsv"
+DEFAULT_OUTPUT = BASE_DIR / "tatoeba_frs_verified.tsv"
 
 CORRECTION_INDEX_RE = re.compile(r"^(?:Line|ID)\s+(\d+)\s+\|")
 
@@ -166,14 +166,14 @@ def select_rows(
     rows: list[ExportRow],
     verified_ids: set[int],
     correction_ids: set[int],
-    count: int,
+    count: int | None,
 ) -> tuple[list[ExportRow], list[int]]:
     """Return the first ``count`` verified, non-flagged rows by row order.
 
-    ``verified_ids`` / ``correction_ids`` are Tatoeba German sentence IDs.
-    Selection follows the (ID-sorted) row order of ``rows``.
+    ``count=None`` returns all eligible rows. ``verified_ids`` / ``correction_ids``
+    are Tatoeba German sentence IDs. Selection follows the (ID-sorted) row order.
     """
-    if count < 1:
+    if count is not None and count < 1:
         raise ValueError("count must be at least 1")
 
     row_ids = {row.german_id for row in rows}
@@ -183,6 +183,8 @@ def select_rows(
         raise ValueError(f"unknown Tatoeba sentence ID(s): {preview}")
 
     eligible_ids = verified_ids - correction_ids
+    if count is None:
+        count = len(eligible_ids)
     if len(eligible_ids) < count:
         raise ValueError(
             f"requested {count} corrected pairs, but only "
@@ -237,7 +239,7 @@ def write_submission(path: Path, rows: list[ExportRow]) -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--count", type=int, default=3000, help="pairs to write")
+    parser.add_argument("--count", type=int, default=None, help="limit to the first N pairs (default: all)")
     parser.add_argument(
         "--source",
         type=Path,
