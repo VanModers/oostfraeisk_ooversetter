@@ -16,8 +16,8 @@ Only sentences that are verified in the verifier and not flagged for correction 
 
 ## Workflow per sentence
 
-1. The app checks via the Tatoeba API whether the sentence already has an East Frisian translation. The next 5 open sentences are checked in the background (one request every two seconds). The sentence currently shown is always checked individually first, so you can start right away. If it already has a translation, it is skipped as “already present”.
-   If Tatoeba throttles requests (HTTP 429), the advance check stops. Individual checks then pause for 30 minutes.
+1. The app checks via the Tatoeba API whether the sentence already has an East Frisian translation. All open sentences are checked in the background, one request every 5 seconds (`SCAN_DELAY_SECONDS` in `tatoebaexporter.py`). For about 5700 sentences one pass takes roughly 8 hours. Afterwards the scan starts again after a pause of one hour (`RESCAN_PAUSE_SECONDS`), so sentences that are not yet on Tatoeba are checked repeatedly. The sentence currently shown is always checked individually first, so you can start right away. If a sentence already has a translation, it is marked “already present” and is no longer offered.
+   If Tatoeba throttles requests (HTTP 429), the background scan pauses for 30 minutes and then continues.
 2. **Copy & open Tatoeba**: The East Frisian sentence is copied to the clipboard and the Tatoeba page opens in the browser.
 3. On Tatoeba, add the translation, choose the language “Eastern Frisian (frs)”, paste it and save.
 4. **Inserted – verify & next**: The app queries the API again. If the translation is there, the sentence is marked as “inserted”. If not, you can still mark it as done or leave it open.

@@ -22,8 +22,8 @@ BASE_DIR = Path(__file__).resolve().parent
 TATOEBA_DIR = BASE_DIR.parent
 STATE_FILE = BASE_DIR / "exporter_state.json"
 LANG = "frs"
-PREFETCH_AHEAD = 5
-PREFETCH_DELAY_SECONDS = 2.0
+SCAN_DELAY_SECONDS = 5.0
+RESCAN_PAUSE_SECONDS = 60 * 60
 
 STATUS_INSERTED = "inserted"
 STATUS_UNVERIFIED = "inserted (unverified)"
@@ -92,14 +92,15 @@ class ExporterApp(tk.Tk):
 
         self.pairs = read_pairs()
         self.state = load_state(STATE_FILE)
-        self.checked = set()
         self.current = None
         self.busy = False
-        self.prefetching = False
+        self.scan_total = None
+        self.scan_done = 0
         self.results = queue.Queue()
 
         self._build_ui()
         self._show_next()
+        self._start_scan()
         self.after(100, self._poll_results)
 
     # -- User interface --------------------------------------------------
@@ -159,10 +160,13 @@ class ExporterApp(tk.Tk):
         inserted = sum(1 for item in self.state.values() if item["status"].startswith(STATUS_INSERTED))
         existing = sum(1 for item in self.state.values() if item["status"] == STATUS_EXISTING)
         skipped = sum(1 for item in self.state.values() if item["status"] == STATUS_SKIPPED)
-        self.stats_var.set(
+        text = (
             f"Open: {len(pending)} of {len(self.pairs)}   ·   inserted: {inserted}   ·   "
             f"already present: {existing}   ·   skipped: {skipped}"
         )
+        if self.scan_total:
+            text += f"   ·   scan: {self.scan_done} of {self.scan_total}"
+        self.stats_var.set(text)
         return pending
 
     # -- Workflow --------------------------------------------------------
@@ -186,15 +190,11 @@ class ExporterApp(tk.Tk):
         self.id_var.set(f"Tatoeba ID {sentence_id}")
         self.de_var.set(de_text)
         self.frs_var.set(frs_text)
-        if sentence_id in self.checked:
-            self._set_status(STATUS_READY)
-        else:
-            self._set_status("Checking this sentence on Tatoeba …")
-            self._run_async(
-                lambda: tatoeba_api.get_direct_translations(sentence_id, LANG),
-                lambda texts, error: self._on_current_check(sentence_id, texts, error),
-            )
-        self._prefetch(pending[1:1 + PREFETCH_AHEAD])
+        self._set_status("Checking this sentence on Tatoeba …")
+        self._run_async(
+            lambda: tatoeba_api.get_direct_translations(sentence_id, LANG),
+            lambda texts, error: self._on_current_check(sentence_id, texts, error),
+        )
         self._update_buttons()
 
     def _on_current_check(self, sentence_id, texts, error):
@@ -203,7 +203,6 @@ class ExporterApp(tk.Tk):
         if error:
             self._set_status(f"Could not check Tatoeba ({error}). You can still copy.")
             return
-        self.checked.add(sentence_id)
         if texts:
             self._finish(STATUS_EXISTING)
         else:
@@ -278,32 +277,38 @@ class ExporterApp(tk.Tk):
         self._update_buttons()
         threading.Thread(target=worker, daemon=True).start()
 
-    def _prefetch(self, pairs):
-        """Check the next open sentences in the background, slowly and only a few."""
-        sentence_ids = [sentence_id for sentence_id, _, _ in pairs if sentence_id not in self.checked]
-        if not sentence_ids or self.prefetching:
-            return
-        self.prefetching = True
-        threading.Thread(target=self._prefetch_worker, args=(sentence_ids,), daemon=True).start()
+    def _start_scan(self):
+        """Check all open sentences slowly and repeat the pass; present ones drop out."""
+        threading.Thread(target=self._scan_worker, daemon=True).start()
 
-    def _prefetch_worker(self, sentence_ids):
-        for sentence_id in sentence_ids:
-            time.sleep(PREFETCH_DELAY_SECONDS)
-            try:
-                texts = tatoeba_api.get_direct_translations(sentence_id, LANG)
-            except tatoeba_api.TatoebaRateLimited:
-                self.results.put((self._on_prefetch_done, True, None))
-                return
-            except Exception:
+    def _scan_worker(self):
+        while True:
+            pending = [sentence_id for sentence_id, _, _ in self.pairs if str(sentence_id) not in self.state]
+            self.results.put((self._on_scan_pass, len(pending), None))
+            for sentence_id in pending:
+                time.sleep(SCAN_DELAY_SECONDS)
                 texts = None
-            self.results.put((self._on_prefetch_item, (sentence_id, texts), None))
-        self.results.put((self._on_prefetch_done, False, None))
+                if str(sentence_id) not in self.state:
+                    try:
+                        texts = tatoeba_api.get_direct_translations(sentence_id, LANG)
+                    except tatoeba_api.TatoebaRateLimited:
+                        self.results.put((self._on_scan_note, (
+                            "Tatoeba is throttling requests. The background scan pauses for 30 minutes."
+                        ), None))
+                        time.sleep(tatoeba_api.COOLDOWN_SECONDS)
+                    except Exception:
+                        pass
+                self.results.put((self._on_scan_item, (sentence_id, texts), None))
+            time.sleep(RESCAN_PAUSE_SECONDS)
 
-    def _on_prefetch_item(self, result, error):
+    def _on_scan_pass(self, total, error):
+        self.scan_total = total or None
+        self.scan_done = 0
+        self._update_stats()
+
+    def _on_scan_item(self, result, error):
         sentence_id, texts = result
-        if texts is None:
-            return
-        self.checked.add(sentence_id)
+        self.scan_done += 1
         if texts and str(sentence_id) not in self.state:
             self.state[str(sentence_id)] = {
                 "status": STATUS_EXISTING,
@@ -315,13 +320,8 @@ class ExporterApp(tk.Tk):
                 return
         self._update_stats()
 
-    def _on_prefetch_done(self, rate_limited, error):
-        self.prefetching = False
-        if rate_limited:
-            self._set_status(
-                "Tatoeba is throttling requests. The advance check was stopped; "
-                "sentences will be checked one by one when shown."
-            )
+    def _on_scan_note(self, text, error):
+        self._set_status(text)
 
     def _poll_results(self):
         while True:
