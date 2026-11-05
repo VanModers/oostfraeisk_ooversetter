@@ -485,6 +485,18 @@ def speak(text, cache=None):
         print(f"  TTS: playback failed ({e})")
 
 
+def next_unverified_texts(rows, start_index, verified_ids, count):
+    """East Frisian texts of the next `count` unverified rows from `start_index` on."""
+    texts = []
+    for sid, _, frs in rows[start_index:]:
+        if len(texts) >= count:
+            break
+        if sid in verified_ids or not frs.strip():
+            continue
+        texts.append(frs.strip())
+    return texts
+
+
 def count_verified(verified_ids, id_to_index):
     """Number of Tatoeba rows that have already been verified."""
     return sum(1 for sid in id_to_index if sid in verified_ids)
@@ -544,8 +556,7 @@ def run_translation_check(tsv_path, log_path, error_path):
 
         # Prime the first sentences so the audio is ready when we get there.
         if cache is not None and start_index < total_rows:
-            warmup = [rows[i][2].strip() for i in range(start_index, min(start_index + PREFETCH_AHEAD, total_rows))]
-            warmup = [t for t in warmup if t]
+            warmup = next_unverified_texts(rows, start_index, verified_ids, PREFETCH_AHEAD + 1)
             if warmup:
                 print(f"Filling audio cache ({len(warmup)} sentences)...", flush=True)
                 cache.schedule(warmup)
@@ -573,8 +584,7 @@ def run_translation_check(tsv_path, log_path, error_path):
                     continue
 
                 if cache is not None:
-                    nxt = [rows[i][2].strip() for i in range(current_index, min(current_index + PREFETCH_AHEAD + 1, total_rows))]
-                    cache.schedule(nxt)
+                    cache.schedule(next_unverified_texts(rows, current_index, verified_ids, PREFETCH_AHEAD + 1))
 
                 show_and_speak(count_verified(verified_ids, id_to_index), total_rows, current_id, de_text, frs_text, cache=cache)
 
