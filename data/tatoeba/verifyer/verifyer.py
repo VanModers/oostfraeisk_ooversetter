@@ -106,6 +106,36 @@ def append_line(path, text):
         f.write(f"{text}\n")
 
 
+def sort_verified_log(log_path):
+    """Rewrite the verified log with its IDs in ascending order, comments on top."""
+    if not os.path.exists(log_path):
+        return
+    comments, ids = [], set()
+    with open(log_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            stripped = line.strip()
+            if not stripped:
+                continue
+            if stripped.startswith('#'):
+                comments.append(stripped)
+                continue
+            try:
+                ids.add(int(stripped))
+            except ValueError:
+                continue
+    with open(log_path, 'w', encoding='utf-8') as f:
+        for comment in comments:
+            f.write(f"{comment}\n")
+        for sid in sorted(ids):
+            f.write(f"{sid}\n")
+
+
+def append_verified_id(log_path, index):
+    """Record a verified Tatoeba ID and keep the log sorted."""
+    append_line(log_path, index)
+    sort_verified_log(log_path)
+
+
 def remove_verified_index(log_path, index):
     """Remove `index` from the verified log, keeping comments and line order."""
     if not os.path.exists(log_path):
@@ -455,10 +485,15 @@ def speak(text, cache=None):
         print(f"  TTS: playback failed ({e})")
 
 
-def show_and_speak(position, total_lines, current_id, de_text, frs_text, cache=None, read_aloud=True):
+def count_verified(verified_ids, id_to_index):
+    """Number of Tatoeba rows that have already been verified."""
+    return sum(1 for sid in id_to_index if sid in verified_ids)
+
+
+def show_and_speak(verified_count, total_lines, current_id, de_text, frs_text, cache=None, read_aloud=True):
     """Print the sentence pair and read the East Frisian sentence aloud."""
-    percentage = ((position - 1) / total_lines) * 100
-    print(f"ID {current_id}  ({position} / {total_lines}, {percentage:.2f}%)")
+    percentage = (verified_count / total_lines) * 100
+    print(f"ID {current_id}  ({verified_count} / {total_lines} verifiziert, {percentage:.2f}%)")
     print(f"DE:  {de_text}")
     print(f"FRS: {frs_text}")
 
@@ -522,7 +557,6 @@ def run_translation_check(tsv_path, log_path, error_path):
             current_index = start_index
             while current_index < total_rows:
                 current_id = rows[current_index][0]
-                position = current_index + 1
 
                 # Dynamically skip any row whose ID is already verified
                 if current_id in verified_ids:
@@ -533,7 +567,7 @@ def run_translation_check(tsv_path, log_path, error_path):
                 frs_text = rows[current_index][2].strip()
 
                 if not de_text or not frs_text:
-                    append_line(log_path, current_id)
+                    append_verified_id(log_path, current_id)
                     verified_ids.add(current_id)
                     current_index += 1
                     continue
@@ -542,7 +576,7 @@ def run_translation_check(tsv_path, log_path, error_path):
                     nxt = [rows[i][2].strip() for i in range(current_index, min(current_index + PREFETCH_AHEAD + 1, total_rows))]
                     cache.schedule(nxt)
 
-                show_and_speak(position, total_rows, current_id, de_text, frs_text, cache=cache)
+                show_and_speak(count_verified(verified_ids, id_to_index), total_rows, current_id, de_text, frs_text, cache=cache)
 
                 while True:
                     user_input = input("Valid? (y/n/p/m/r/b/exit): ").lower().strip()
@@ -567,7 +601,7 @@ def run_translation_check(tsv_path, log_path, error_path):
                         current_id = rows[current_index][0]
                         de_text = rows[current_index][1].strip()
                         frs_text = rows[current_index][2].strip()
-                        show_and_speak(position, total_rows, current_id, de_text, frs_text,
+                        show_and_speak(count_verified(verified_ids, id_to_index), total_rows, current_id, de_text, frs_text,
                                        cache=cache, read_aloud=False)
                         continue
 
@@ -587,7 +621,7 @@ def run_translation_check(tsv_path, log_path, error_path):
                         break
 
                     if user_input == 'y':
-                        append_line(log_path, current_id)
+                        append_verified_id(log_path, current_id)
                         verified_ids.add(current_id)
                         print("Status: Verified.\n")
                         current_index += 1
@@ -600,7 +634,7 @@ def run_translation_check(tsv_path, log_path, error_path):
                     else:
                         append_line(error_path,
                                     f"ID {current_id} | DE: {de_text} | FY: {frs_text}")
-                        append_line(log_path, current_id)
+                        append_verified_id(log_path, current_id)
                         verified_ids.add(current_id)
                         print(f"Status: Sent to {error_path}\n")
                         current_index += 1
