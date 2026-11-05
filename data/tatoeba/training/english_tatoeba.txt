@@ -3,8 +3,6 @@ Do you prefer to drink coffee or tea?
 I won!
 Go.
 Hi.
-Hi.
-Run!
 Run!
 Wow!
 Fire!
@@ -102,12 +100,9 @@ You can believe me.
 You can believe me.
 You can believe me.
 You can do it, Tom.
-You can lean on me.
-You can lean on me.
 You can let Tom go.
 You can let Tom go.
 You can let Tom go.
-You can lean on me.
 You can smoke here.
 You can smoke here.
 You can smoke here.
@@ -118,10 +113,8 @@ You can study here.
 You can trust them.
 You can use my car.
 You can use my car.
-You can use my car.
 You can't back out.
 Tom is unbeatable.
-You can't buy that.
 You can't buy that.
 You can't buy that.
 You can't buy that.
@@ -136,11 +129,9 @@ You can't leave me.
 You can't say that.
 You can't say that.
 You can't scare me.
-You can't scare me.
 You can't stop Tom.
 You can't stop now.
 You can't stop now.
-You can't use that.
 You can't use that.
 You can't do that.
 You cannot do this.
@@ -192,7 +183,6 @@ You must choose.
 You must choose.
 You must choose.
 You have to get up.
-You must go now.
 You have to listen.
 You have to see it.
 You just got lucky.
@@ -221,11 +211,9 @@ You look content.
 You look different.
 You look exhausted.
 You look fine, Tom.
-You look content.
 You look surprised.
 You look surprised.
 You look very busy.
-You look very good.
 You look very good.
 You look very good.
 You look very pale.
@@ -238,8 +226,6 @@ You made a promise.
 You made a promise.
 You made a promise.
 You made it happen.
-Maybe you're right.
-You may be right.
 You may be correct.
 You may be correct.
 You may use my car.
@@ -267,7 +253,6 @@ It might be a wedding.
 It may be important.
 It might prove useful.
 It only happened once.
-It really tastes good.
 It reminded me of you.
 It reminded me of you.
 It reminded me of you.
@@ -366,7 +351,6 @@ You are quite a man.
 You are quite a man.
 You are such a liar!
 You are such a liar!
-You are such a liar!
 You aren't Canadian.
 You aren't Canadian.
 You aren't Canadian.
@@ -392,7 +376,6 @@ You can rely on him.
 You can shower here.
 We haven't spoken to each other in a long time.
 We heard the news that you had passed the exam.
-We haven't spoken to each other in a long time.
 We love each other and that's all that matters.
 We love each other and that's all that matters.
 We missed our plane because of the traffic jam.
@@ -408,7 +391,6 @@ We need to get this done before we can go home.
 We need to get this done before we can go home.
 We need to get this done before we can go home.
 We need to get this done before we can go home.
-We haven't spoken to each other in a long time.
 We played together every day when we were kids.
 We played together every day when we were kids.
 We played together every day when we were kids.
@@ -418,8 +400,6 @@ We should've phoned ahead and reserved a table.
 We should've realized that Tom needed our help.
 We talked quietly so we wouldn't wake the baby.
 We lost the game because we were overconfident.
-We haven't spoken to each other in a long time.
-We haven't spoken to each other in a long time.
 We took a walk on the beach just before sunset.
 We tend to perceive what we expect to perceive.
 She owns a very big house.
@@ -513,7 +493,6 @@ So how did it go with Tom?
 Soak this sponge in water.
 Some of the girls laughed.
 Some people can't do that.
-Some people can't do that.
 Some people go after fame.
 Some people never grow up.
 Some snakes are poisonous.
@@ -597,7 +576,6 @@ Tell Tom to wait a moment.
 Tell Tom to wait a moment.
 Tell Tom to wait a moment.
 Tell me what I have to do.
-Tell me what I have to do.
 Tell me what I need to do.
 Tell me where the wine is.
 Tell me where the wine is.
@@ -613,7 +591,6 @@ Thanks for coming, Tom.
 Thank you for helping Tom.
 Thank you for helping Tom.
 Thank you for helping Tom.
-Thanks for the invite.
 Thank you for inviting me.
 Thank you for stopping by.
 Thank you for your gift.
@@ -793,7 +770,6 @@ I ate the apple.
 The attraction was mutual.
 The baby doesn't walk yet.
 The baby needs his mother.
-The baby needs his mother.
 The baby opened his mouth.
 The baby was sound asleep.
 The back of my neck hurts.
@@ -853,7 +829,6 @@ I'll mow the lawn tomorrow, unless it rains.
 I'll never be able to explain what happened.
 I'll never forget the day we first met.
 I'll never forget the day when we first met.
-I'll never forget the day we first met.
 I'll never forget what Tom told me that day.
 I'll probably come back here again tomorrow.
 I'll take care of the dog while you are out.
@@ -898,7 +873,6 @@ I'm meeting Tom for dinner. Do want to come?
 I'm not a child. Don't talk to me like I am.
 I'm not a coward, but I'm not stupid either.
 I'm not even sure if that would help or not.
-I'm not going if no one else is going.
 I'm not going if no one else is going.
 I'm not sure if I like this one or that one.
 I'm not sure whether to stay home or go out.
@@ -1323,8 +1297,6 @@ He got tired of being the devil's advocate and now agrees with every idea they s
 When Tom lost his job, he couldn't keep up his mortgage repayments and he was threatened with foreclosure.
 When Tom lost his job, he couldn't keep up his mortgage repayments and he was threatened with foreclosure.
 When I woke up today, I yawned, stretched, rubbed the sleep out of my eyes, and put on a pair of slippers.
-We were unsure what kind of person Tom would be and whether he would like living in the same house as us.
-We were unsure what kind of person Tom would be and whether he would like living in the same house as us.
 We still have more than halfway to go to get to the top of the mountain. Are you really already exhausted?
 We still have more than halfway to go to get to the top of the mountain. Are you really already exhausted?
 We still have more than halfway to go to get to the top of the mountain. Are you really already exhausted?
@@ -1357,7 +1329,6 @@ Sitting behind people at the movies who constantly chat and giggle doesn't make 
 Since there are rice paddies near my house, I often hear frogs croaking all night long this time of year.
 In summer and early autumn typhoons can strike the city. In recent years they haven't caused much damage.
 I get the feeling that you're telling me what you think I want to hear, instead of what you really think.
-Even though Tom knew he'd be teased about his height, he decided to try out for the basketball team.
 During hard times, people might not go on a trip, but they might be willing to pay extra for good coffee.
 A lot of people would like to become famous. However, a lot of famous people wish they weren't so famous.
 You may take photos of the outside of this museum, but you may not take pictures of the exhibits inside.
@@ -1396,7 +1367,6 @@ It was Tom's turn to cook, but he'd forgotten to buy the ingredients for the dis
 If you'd listen a little more carefully to what the teacher says, you'd probably be able to understand.
 I never see a library without wishing I had time to go there and stay till I had read everything in it.
 I live in a country where the cost of a liter of gasoline is cheaper than the cost of a liter of water.
-"Let's go see a movie tonight?" "I can't. I'm busy." "How about tomorrow night?" "I'm busy then, too."
 "Just close your eyes," whispered Tom, and when Mary closed her eyes, he kissed her softly on the lips.
 You should make sure that you get there on time. Tom won't wait more than ten minutes if you are late.
 You say I should know him quite well, but as a matter of fact, I was introduced to him only last week.
@@ -1406,7 +1376,6 @@ Tom spent fifteen minutes trying to pry open the drawer with a crowbar, but he c
 Tom said that he thought Mary wouldn't want to visit the place where her father had committed suicide.
 Tom rolled out of bed at 6:30, shuffled into the kitchen and put two slices of bread into the toaster.
 Tom put his career on the back burner and became a house husband, to enable Mary to pursue her career.
-Tom is always sleeping in class. It almost seems like he goes to school just to catch up on his sleep.
 Tom had so much money that he did not know what to do with it. It was far more than he needed to live.
 Tom doesn't like being around children because he's always afraid of catching a cold from one of them.
 Tom and Mary purchased a small parcel of land on the edge of town, where they plan to grow vegetables.
@@ -1460,7 +1429,6 @@ It took me a lot less time to housebreak my German shepherd than it took to hous
 If you spend too much time in the sun without putting on sunscreen, you are likely to get a sunburn.
 I usually speak French with my parents, but my brothers and I always speak to each other in English.
 I think it's unlikely that aliens similar to what we see in the movies have ever visited our planet.
-I'm skeptical when I hear someone claim to speak more than five languages fluently.
 Even though Tom knew he'd be teased about his height, he decided to try out for the basketball team.
 With social media it's possible to find out a lot of information about someone before meeting them.
 Tom's basement is filled with stuff that he hasn't used in years and will probably never use again.
@@ -1501,7 +1469,6 @@ I wanted to know if you'd heard anything about what's going to be discussed at t
 I heard that one way to stay healthy is to avoid eating any food with unpronounceable ingredients.
 I don't usually take the bus to work, but yesterday it was raining, so I didn't feel like walking.
 He was pressed for time, so he only skimmed through the morning paper before rushing out the door.
-Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime.
 From personal experience, I know that any encounter with him will leave a bad taste in your mouth.
 Everyone's got a reason to celebrate the beginning of the new year. They all survived the old one.
 Why are you always contradicting me? Can't you accept once in a while that I just might be right?
@@ -1528,7 +1495,6 @@ Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday are the seven 
 Listening to a language being spoken is very different from reading or writing the same language.
 Life would be terribly monotonous and deadly boring if everyone felt, thought and spoke the same.
 It was only after Tom had been lost for over an hour that he got the map out to see where he was.
-I've got nothing against waiting, but after two hours I'm beginning to feel a bit impatient.
 I have a lot to do today, so if you don't mind, I'd like to have this discussion at another time.
 He is usually straightforward and sincere and thereby gains the confidence of those who meet him.
 Few people take the trouble to read all the terms and conditions of a contract before signing it.
@@ -1775,7 +1741,6 @@ It is because light travels faster than sound that we see lightning before we he
 I'm afraid I'll have to disappoint you. I don't feel like participating in this discussion.
 I'd like to ask you a question, but if this is a bad time, I can come back at another time.
 I met Tom before I graduated from high school, but didn't meet Mary until many years later.
-I know I should sleep for at least eight hours a day, however I usually sleep less.
 I don't know what Tom advised you to do, but I'd suggest that you don't tell Mary about it.
 I could understand the first few sentences, but the rest of his speech was all Greek to me.
 Good friends are like stars. You don't always see them, but you know they are always there.
@@ -2196,7 +2161,6 @@ I hope you know that the last thing I want to do is go there without your permis
 I hope you know that the last thing I want to do is go there without your permission.
 I hope you know that the last thing I want to do is go there without your permission.
 I finally have time to reply to the mail that I have received these past three weeks.
-I finally have time to reply to the mail that I have received these past three weeks.
 I don't know what I'm going to do with my cat now that I'm moving to another country.
 His company went bankrupt, and to make matters worse, he met with a traffic accident.
 He was surprised to find the great artist's masterpiece hung on the wall upside down.
@@ -2315,7 +2279,6 @@ Tom was sentenced to five days in jail and a year on probation for drunken drivi
 Tom wanted Mary to talk to John about the problem she was having with his children.
 Tom wanted Mary to talk to John about the problem she was having with his children.
 Tom thought that he had woken up from his dream, but in fact he was still dreaming.
-Tom started studying French when he was a kid, so his pronunciation is very good.
 Tom looked at his watch and saw that he only had five minutes left until lunchtime.
 Tom hit the nail on the head when he said our team lacks enthusiasm and motivation.
 Tom decided that it wasn't necessary to take the medicine the doctor had given him.
@@ -2353,7 +2316,6 @@ She got so carried away listening to the Beatles that she missed the date with h
 She gave a tea party with the intention of introducing her daughter to her friends.
 Recently I have been feeling a little tired, so I have not gone swimming this week.
 People, goods and money are all free to move across national borders in the region.
-No matter how many people tell Tom he made a mistake, he still insists he's right.
 My robot will prepare meals, clean, wash dishes, and perform other household tasks.
 My grandmother used to use her sewing machine a lot up until about three years ago.
 Much can be learned by observing how a child interacts at play with other children.
@@ -2641,9 +2603,7 @@ Tom was going to be transferred to Boston, but they decided to fire him instead.
 Tom was already drinking his third beer before Mary had even finished her first.
 Tom usually plays a drum solo at least once every time his band gives a concert.
 Tom told Mary that it wasn't a good idea to have money just sitting in the bank.
-Tom thinks vaping is safer than smoking cigarettes, but Mary isn't so sure.
 Tom suggested that Mary should resign from her current job and find another one.
-Tom still works at the same bar he worked at when he was a college student.
 Tom spent all afternoon at the airport watching the airplanes land and take off.
 Tom served five days in jail last year after pleading guilty to drunken driving.
 Tom said that he was going to go to Boston and see if he could find a job there.
@@ -2757,9 +2717,6 @@ Tom thought that Mary wanted him to kiss her, but he wasn't sure, so he didn't.
 Tom thought he'd broken a bone in his foot, but an X-ray showed that he hadn't.
 Tom thinks that he's Mary's boyfriend, but Mary thinks that he's just a friend.
 Tom seemed quite surprised when he heard that Mary and John had gotten married.
-Tom said he wished he hadn't told Mary to try to convince John to do that.
-Tom said he thought Mary needed at least $300 to buy what she needed.
-Tom said he wished he hadn't told Mary to try to convince John to do that.
 Tom pulled into his garage, turned off the engine, and then got out of the car.
 Tom promised Mary that he'd pay back all the money that he'd borrowed from her.
 Tom noticed Mary's bracelet on her desk and wondered why she wasn't wearing it.
@@ -2770,7 +2727,6 @@ Tom has promised to pay us an extra $3,000 if we finish the job by next Monday.
 Tom had a lot on his mind, so he wasn't paying enough attention to his driving.
 Tom got out in front of the library and waited while Mary went to park the car.
 Tom fell heavily and hit his head on a rock, causing life-threatening injuries.
-Tom feels a little better after taking the medicine the doctor prescribed.
 Tom emptied the water out of the bottle before he refilled it with fresh water.
 Tom didn't want to wear the shirt that his mother had gotten him for Christmas.
 Tom didn't want to encourage Mary to do anything that might get her in trouble.
@@ -2836,14 +2792,10 @@ In order to get a better look at that picture, I'd like to get a little closer.
 Improved medical technology has been one of the spin-offs of the space program.
 If you're going to the supermarket, will you please bring me back some oranges?
 If he had given up smoking then, he might not be suffering from such a disease.
-I've already told Tom I plan on staying in Boston for three more weeks.
-I've already told Tom I plan on staying in Boston for three more weeks.
 I'm sure you're aware that you'll be the only one there who can't speak French.
 I'm sure you're aware that you'll be the only one there who can't speak French.
-I plan to contact Tom by phone tomorrow and ask him to help us.
 I'll get in touch with Tom by telephone tomorrow and ask him to give us a hand.
 I wouldn't say we've achieved our goal yet, but we're within striking distance.
-I wonder if Tom would mind babysitting our kids tomorrow night.
 I wish I could take back all those terrible things I said about you last night.
 I want to be able to walk down this street without worrying about getting shot.
 I think what impressed me most was the way Tom could talk to just about anyone.
@@ -2887,9 +2839,6 @@ You say you want to go to Boston? Why in the world would you want to go there?
 You may not agree with him, but at least he stands up for what he believes in.
 You could get into the Guinness Book of World Records as the heaviest drinker.
 You could at least try to be a bit more polite, even though it's not like you.
-Yesterday was the first time Tom had ever played in front of an audience.
-Yesterday was the first time Tom had ever played in front of an audience.
-Yesterday was the first time Tom had ever played in front of an audience.
 Would you mind making an extra cup of coffee whenever you decide to have some?
 Would you mind making an extra cup of coffee whenever you decide to have some?
 Women pay more than men for comparable personal care products 56% of the time.
@@ -2915,7 +2864,6 @@ Tom told me that he could live off his savings for a while if he lost his job.
 Tom thinks Mary should apologize to John for not doing what she said she'd do.
 Tom thinks Mary should apologize to John for not doing what she said she'd do.
 Tom soon discovered that he could speak French better than his French teacher.
-Tom said he thought there was a good chance Mary would be late.
 Tom never admits that he's wrong, because he thinks that's a sign of weakness.
 Tom made a promise to himself that he would never make the same mistake again.
 Tom isn't alone in thinking that Mary is the most beautiful girl in his class.
@@ -2925,7 +2873,6 @@ Tom has changed so much that I don't think you'd recognize him if you saw him.
 Tom has changed so much that I don't think you'd recognize him if you saw him.
 Tom has changed so much that I don't think you'd recognize him if you saw him.
 Tom forgot to turn off the microphone when he turned to say something to Mary.
-Tom found out that life on the road wasn't as easy as he thought it would be.
 Tom didn't seem surprised when he heard that Mary and John had gotten married.
 Tom did the best he could, but he wasn't able to get a higher grade than Mary.
 Tom described Mary quite well, so it was easy to recognize her when I saw her.
@@ -2971,7 +2918,6 @@ In the automotive industry of the 1970's, Japan beat the U.S. at its own game.
 In my opinion, a well-designed website shouldn't require horizontal scrolling.
 In my opinion, a well-designed website shouldn't require horizontal scrolling.
 In my opinion, a well-designed website shouldn't require horizontal scrolling.
-In countries like Norway and Finland, they have lots of snow in the winter.
 If you'd stop telling me not to be nervous, I probably wouldn't be so nervous.
 If you want to master a language, you need to learn to think in that language.
 If you want to master a language, you need to learn to think in that language.
@@ -2999,9 +2945,6 @@ I know you well enough to know that you didn't really want to go out with Tom.
 I have trouble seeing the blackboard from the seat the teacher assigned to me.
 I have trouble seeing the blackboard from the seat the teacher assigned to me.
 I googled "knife and fork" and "fork and knife" to see which got more results.
-I don't think you need to tell Tom what Mary said she's going to do.
-I don't think you need to tell Tom what Mary said she's going to do.
-I don't think you need to tell Tom what Mary said she's going to do.
 I don't need to buy a suit for the wedding because Tom has one he can lend me.
 I can't figure out how to transfer MP3 files from my iPod back to my computer.
 I bought a scarf for my grandfather on my father's side for his 88th birthday.
@@ -3065,7 +3008,6 @@ Tom spent the better part of the day writing an article for a local magazine.
 Tom spends all day speaking French at school and only speaks English at home.
 Tom said that he wanted to be alone and then he went upstairs to his bedroom.
 Tom said he thought Mary might have to stay in Boston until Monday.
-Tom said he didn't know Mary couldn't speak French very well.
 Tom said he liked what she had made for dinner, but he was only being polite.
 Tom pretended that it didn't matter to him that Mary was going out with John.
 Tom pretended that it didn't matter to him that Mary was going out with John.
@@ -3132,7 +3074,6 @@ People look at things differently depending on whether they are rich or poor.
 One hundred and sixteen people died as a result of a bomb attack in Pakistan.
 Of course, recognizing our common humanity is only the beginning of our task.
 Oceans are expected to rise by 50 centimeters by the end of the next century.
-Nothing makes us age faster than the thought that we're ageing fast.
 Nothing I do lately seems to turn out right. I'm losing confidence in myself.
 My grandfather on my mother's side is celebrating his 60th birthday tomorrow.
 My grandfather on my father's side is celebrating his 88th birthday tomorrow.
@@ -3281,7 +3222,6 @@ The world is worried about the nuclear capabilities of Iran and North Korea.
 The world is worried about the nuclear capabilities of Iran and North Korea.
 The two gunshot victims are in the intensive care unit at a nearby hospital.
 The true secret of writing a good letter is to write as if you were talking.
-The surgeon who operated on Tom is very experienced and highly regarded.
 The reason you have a headache is because you've been working too hard.
 The police caught Tom red-handed, breaking into a house in our neighborhood.
 The passengers were asleep in their cabins when the ship hit a huge iceberg.
@@ -3344,9 +3284,6 @@ If I were to study French, I'd prefer to study with a native French speaker.
 If I were to study French, I'd prefer to study with a native French speaker.
 If I hadn't had your cooperation, I couldn't have finished the work in time.
 If I had known about your illness, I could have visited you in the hospital.
-I've already told Tom I plan on staying in Boston for three more weeks.
-I've already told Tom I plan on staying in Boston for three more weeks.
-I'm sure Tom wouldn't be mad at Mary if there weren't a good reason to be.
 I'll be going to Boston next week, but I'm not really looking forward to it.
 I was just wondering how much it would cost to have my car washed and waxed.
 I was disappointed to see that my bonus was a bit less than I was expecting.
@@ -3385,7 +3322,6 @@ Don't compare yourself with your brother because he's a better man than you.
 Don't compare yourself with your brother because he's a better man than you.
 Do you speak the same language to your father that you speak to your mother?
 Children under thirteen years of age are not admitted to this swimming pool.
-Carrots are good for the eyes. Have you ever seen a rabbit with glasses on?
 Blind people read by touching, using a system of raised dots called Braille.
 Blind people read by touching, using a system of raised dots called Braille.
 Before making important decisions, Tom always consults his astrologer first.
@@ -3444,7 +3380,6 @@ Tom said the reason he broke up with Mary was that she was very possessive.
 Tom said that he thought Mary knew where John had found the key she'd lost.
 Tom pulled out his keys, but then he noticed the door was already unlocked.
 Tom made some extra money by renting one of his rooms to a college student.
-Tom lives in a small town where everyone knows everything about everyone.
 Tom is ambidextrous and can use his right hand equally as well as his left.
 Tom has finally returned to Boston after living in Chicago for three years.
 Tom has a speech impediment, which gets worse if he has to speak in public.
@@ -3506,7 +3441,6 @@ The good thing about this electronic dictionary is that it's easy to carry.
 The construction of a highway will contribute to the growth of the suburbs.
 The conference was scheduled for March, but it has been put off till April.
 The best way to learn a language is to live in a country where it's spoken.
-That wasn't the first time Tom got kicked out of the bar for fighting.
 Taking everything into consideration, the result is better than I expected.
 Since Tom was speaking in French, I couldn't understand what he was saying.
 She said that her husband hit her, but in fact it was the other way around.
@@ -3558,14 +3492,11 @@ I've been trying to figure out what Tom might have been doing at that time.
 I'm pretty sure that I've left the keys to my office in my raincoat pocket.
 I'm afraid we can't rule out the possibility that she may have the disease.
 I'd like to hear exactly how Tom managed to get that old car running again.
-I wonder if Tom would mind babysitting our kids tomorrow night.
 I will lend you this CD on condition that you don't lend it to anyone else.
 I thought there was a possibility that Tom was going to break the contract.
 I thought chances of Tom not noticing what Mary was doing were pretty slim.
 I think you're a great guy, but I don't have any romantic feelings for you.
 I think you're a great guy, but I don't have any romantic feelings for you.
-I think you're the one I've been waiting for for all these years.
-I think you're the one I've been waiting for for all these years.
 I think it's highly unlikely that we'll be able to escape from this prison.
 I think it's highly unlikely that we'll be able to escape from this prison.
 I think it's highly unlikely that I'll ever see my stolen motorcycle again.
@@ -3644,11 +3575,6 @@ Tom sent Mary a love letter, but he never did find out whether it arrived.
 Tom sent Mary a love letter, but he never did find out whether it arrived.
 Tom said to meet him at the little restaurant across from the post office.
 Tom said that he wanted to move to Boston because that's where Mary lives.
-Tom said he thought he'd be able to do that if he had some help.
-Tom said he thought he'd be able to buy what he needed for $300.
-Tom said he thought Mary needed at least $300 to buy what she needed.
-Tom said he wished he hadn't told Mary to try to convince John to do that.
-Tom said he thought Mary needed at least $300 to buy what she needed.
 Tom put two slices of bread into the toaster and pushed down on the lever.
 Tom made himself a cup of hot chocolate, but didn't have time to drink it.
 Tom is the type of person who likes to argue just for the sake of arguing.
@@ -3740,8 +3666,6 @@ If Tom had asked Mary for advice first, he wouldn't have had this problem.
 If I knew it was going to upset you so much, I wouldn't have mentioned it.
 I've lived most of my life in the plains where trees and hills are scarce.
 I've heard that plants are better adapted to space travel than people are.
-I've already told Tom I plan on staying in Boston for three more weeks.
-I've already told Tom I plan on staying in Boston for three more weeks.
 I'm sure Tom wouldn't be mad at Mary if there weren't a good reason to be.
 I'm going to tell you something about Tom that you might not want to hear.
 I'm going to tell you something about Tom that you might not want to hear.
@@ -3758,7 +3682,6 @@ I see that your manners haven't exactly improved in the last twenty years.
 I see that your manners haven't exactly improved in the last twenty years.
 I promised my parents I would visit them at least once every three months.
 I promised my parents I would visit them at least once every three months.
-I realized that I had grown up when I started heeding my parents' advice.
 I left home later than usual, but fortunately I was in time for the train.
 I know you think this is a stupid thing to do, but I plan to do it anyway.
 I know you think this is a stupid thing to do, but I plan to do it anyway.
@@ -3769,7 +3692,6 @@ I had to take a bus from Boston because all the flights had been canceled.
 I don't want to go back to school. I wish summer vacation would never end.
 I don't need you to remind me of anything. I know what I'm supposed to do.
 I don't need you to remind me of anything. I know what I'm supposed to do.
-I don't know what they're saying, but I know they're speaking French.
 I don't know my address yet, I'm going to stay with my friend for a while.
 How old do you have to be to get married without your parents' permission?
 He had no sooner gone out of the room than all of them burst out laughing.
@@ -3835,11 +3757,8 @@ Tom took one more look at Mary's picture and then threw it into the fire.
 Tom told me that he could hear something, but he wasn't sure what it was.
 Tom soon discovered that he knew more about science than his teacher did.
 Tom seems to have a lot of fun trying to cause as much trouble as he can.
-Tom said he'll go home as soon as he finishes doing what he's doing.
 Tom said that he thought Mary knew who John hoped would win the election.
 Tom said that he thought Mary knew who John hoped would win the election.
-Tom said he didn't know Mary was going to eventually leave him.
-Tom said he didn't know Mary was going to eventually leave him.
 Tom removed the hacksaw from his toolbox and asked Mary if she wanted it.
 Tom pressed a button, but nothing happened, so he pressed another button.
 Tom lives in a small town where everyone knows everything about everyone.
@@ -3952,14 +3871,8 @@ I have difficulty understanding abstract modern art, especially Mondrian.
 I had hardly sat down on the bench when I found it had just been painted.
 I had hardly sat down on the bench when I found it had just been painted.
 I found the book so interesting that I kept on reading it until daybreak.
-I don't think you need to tell Tom what Mary said she's going to do.
-I don't think you need to tell Tom what Mary said she's going to do.
 Do you believe in God?
 Do you believe in life after death?
-I don't think you need to tell Tom what Mary said she's going to do.
-I don't think you need to tell Tom what Mary said she's going to do.
-I don't think you need to tell Tom what Mary said she's going to do.
-I don't think you need to tell Tom what Mary said she's going to do.
 I don't know when I'll have time to finish reading the rest of this book.
 I don't know when I'll have time to finish reading the rest of this book.
 I didn't tell him the truth because I was afraid of hurting his feelings.
@@ -3975,7 +3888,6 @@ He's the type of man who'd rather crochet potholders than seek adventure.
 He who seeks wisdom is a wise man, he who thinks he's found it is a fool.
 He still writes novels from time to time, but not as often as he used to.
 He is proud of the fact that he has never consulted a doctor in his life.
-Genius is one percent inspiration and 99 percent perspiration.
 Father kept in touch with us by mail and telephone while he was overseas.
 Even if I use both hands, I can't crack an egg without breaking the yolk.
 Don't you think this computer game may be a little too difficult for Tom?
@@ -4034,12 +3946,7 @@ Tom took off his pants and carefully hung them over the back of a chair.
 Tom says he's snuggled with his girlfriend, but they haven't yet kissed.
 Tom says he wasn't here yesterday. It must've been someone else you saw.
 Tom saw Mary's car in his driveway and wondered why she'd come to visit.
-Tom said he thought Mary might have to stay in Boston until Monday.
-Tom said he saw something weird on the other side of that mountain.
-Tom said he didn't know Mary couldn't speak French very well.
 Tom said that doing that was a mistake and that he wouldn't do it again.
-Tom said he thought Mary might have to stay in Boston until Monday.
-Tom said he didn't know Mary couldn't speak French very well.
 Tom rushed home to get his washing off the line before the rain started.
 Tom probably doesn't know where Mary plans to spend her summer vacation.
 Tom opened up the crate with a crowbar and took out a stick of dynamite.
@@ -4048,10 +3955,7 @@ Tom needs at least nine hours of sleep every night or he can't function.
 Tom knew he barely had enough time to do everything that had to be done.
 Tom knew Mary would sit with John, but he was hoping she'd sit with him.
 Tom is the only American Mary knows whose father wasn't born in America.
-Tom hopes Mary knows she shouldn't do what John has told her to do.
-Tom hopes Mary knows she shouldn't do what John has told her to do.
 Tom hopes Mary knows she needs to do everything John has told her to do.
-Tom has written several short stories, but hasn't yet published a book.
 Tom has to study hard and catch up with the other students in his class.
 Tom has some food allergies, so he has to be careful about what he eats.
 Tom has some food allergies, so he has to be careful about what he eats.
@@ -4085,7 +3989,6 @@ The morning after I arrived there, I took a walk into the woods of oaks.
 The millionaire intended to purchase the masterpiece regardless of cost.
 The lawyer asked the judge to make allowance for the age of the accused.
 The hospital quarantined the infected patients to avoid cross infection.
-The first step in solving a problem is realizing there's a problem.
 The first gasoline powered automobile was invented in 1886 by Karl Benz.
 The economy still hasn't completely recovered from the financial crisis.
 The death of one man is a tragedy, the death of millions is a statistic.
@@ -4104,7 +4007,6 @@ She advised him not to use too much salt, but he wouldn't listen to her.
 Personally, I don't think it makes any difference who wins the election.
 People were told to stay indoors because of the violence in the streets.
 Over 4 million Australians communicate in a language other than English.
-Nothing makes us age faster than the thought that we're ageing fast.
 My mother's religion helped her to come to terms with my father's death.
 Money isn't everything, but if you have no money, you can't do anything.
 Money isn't everything, but if you have no money, you can't do anything.
@@ -4130,7 +4032,6 @@ If we knew what we were doing, it wouldn't be called research, would it?
 If I make an exception for you, everyone will expect the same treatment.
 I'm sure it wouldn't be too hard to find out who hacked into our system.
 I'll keep my fingers crossed that everything will go well for you today.
-I wonder if Tom would mind babysitting our kids tomorrow night.
 I wish you would tell me what I ought to do in this difficult situation.
 I wish I had time to go home and change into something more appropriate.
 I was walking in the park with a friend of mine when it started raining.
@@ -4141,7 +4042,6 @@ I want to do everything I can to make sure Tom is able to go to college.
 I think that you should know that whatever happens, I'll still love you.
 I think Tom has more than only a passing interest in what happens to me.
 I learned to drive a car and got a driver's license when I was eighteen.
-I don't think Tom wanted to show us the pictures on his smartphone.
 I didn't actually forget my camera. I just didn't want to take pictures.
 I did everything I could. Now it's your turn to contribute what you can.
 I can put up with a house being untidy, but I don't like it to be dirty.
@@ -4195,7 +4095,6 @@ Why don't you look into the problem yourself? It's your responsibility.
 Why don't you look into the problem yourself? It's your responsibility.
 Who would have thought back then that Tom had only seven years to live?
 While they were away on holiday, their neighbours looked after the dog.
-While they were away on holiday, their neighbours looked after the dog.
 While she was running after the naughty boy, one of her shoes came off.
 When you return to your company, don't forget to keep in touch with me.
 When was the last time you celebrated Christmas with your whole family?
@@ -4221,8 +4120,6 @@ Tom thought he had a chance to make a lot of money on the stock market.
 Tom spent three years in the Boston working as an undercover policeman.
 Tom showered Mary with gifts in the early stages of their relationship.
 Tom searched every nook and cranny of the house looking for his wallet.
-Tom said he doesn't think Mary really wants to do that again.
-Tom said he didn't know Mary couldn't speak French very well.
 Tom said he thought he heard Mary snoring in the back of the classroom.
 Tom quit going out with Mary because he didn't like her sense of humor.
 Tom knew that many of the cars in the parking lot belonged to students.
@@ -4230,12 +4127,10 @@ Tom knew that Mary was hungry, but he didn't offer her anything to eat.
 Tom is the captain of the soccer team and is also on the baseball team.
 Tom heard gunshots and looked out the window to see what was happening.
 Tom has written several short stories, but hasn't yet published a book.
-Tom's been meaning to clean out his badly cluttered garage for years.
 Tom has been having the same dream every night for the past six months.
 Tom has been avoiding me like the plague ever since he borrowed my car.
 Tom had one big ambition in life. That was to become a race car driver.
 Tom got involved with people he should never have gotten involved with.
-Tom drove all the way across town just to buy Mary a birthday cake.
 Tom dropped a cup on the floor and it shattered into a thousand pieces.
 Tom donated money to the Red Cross to help survivors of the earthquake.
 Tom doesn't have Mary's address in Boston, but he has her phone number.
@@ -4266,7 +4161,6 @@ The truck Tom was driving slid on the icy road and crashed into a tree.
 The root of the problem is a lack of communication between departments.
 The robots never get sick or complain and they can work 24 hours a day.
 The rise in house prices enabled him to sell his house at a big profit.
-The reason you have a headache is because you've been working too hard.
 The population of China is about eight times as large as that of Japan.
 The population of China is about eight times as large as that of Japan.
 The police compared the fingerprints on the gun with those on the door.
@@ -4342,13 +4236,10 @@ I'm going to get myself something to drink. Do you want something, too?
 I'll recommend him as chairman, whether you are in favour of it or not.
 I'll do everything within my power to make sure your children are safe.
 I'd prefer to only hire people to translate into their native language.
-I wonder if there'll be more snow this year than last year.
 I wonder how Tom will ever manage to pay for such an expensive wedding.
 I wasn't able to finish doing that as soon as I thought I'd be able to.
 I wanted to play tag with the other children, but they wouldn't let me.
 I thought he was angry at me because I didn't help him build his house.
-I think you're the one I've been waiting for for all these years.
-I think you're the one I've been waiting for for all these years.
 I studied French when I was seven, but now I only remember a few words.
 I spent three years looking for a good director, but couldn't find one.
 I saw a young man lying on the bench under the cherry tree in the park.
@@ -4358,7 +4249,6 @@ I feel like a kid who suddenly realizes that Santa Claus doesn't exist.
 I don't want to butt in all the time when the two of them are fighting.
 I don't think many people can say they are satisfied with their salary.
 I don't think I want to read Tom's report. The less I know, the better.
-I always enjoy listening to classical music in my free time.
 How can you protect yourself from the risk of mosquito-borne illnesses?
 Her silence seemed to confirm suspicions that she was hiding something.
 He's supposed to be living in Nagano. What's he doing at Tokyo station?
@@ -4379,7 +4269,6 @@ Does any other country fan the flames of patriotism as much as America?
 Do you remember the time we went to the zoo together when we were kids?
 Do you remember the time we went to the zoo together when we were kids?
 Do you feel like going out for a drive in the country over the weekend?
-Did you know there's a rumor going around that you two are dating?
 Around here, they roll up the sidewalks at 7 o'clock.
 Be sure to get in touch with me, if there is anything I can do for you.
 Be sure to get in touch with me, if there is anything I can do for you.
@@ -4443,7 +4332,6 @@ Tom told me that he and Mary spent their summer vacation at the beach.
 Tom told his commanding officer that he wasn't willing to kill anyone.
 Tom spent most days begging for money in front of tourist attractions.
 Tom should definitely visit an art museum or two while he's in France.
-Tom said he thought Mary might want to walk home by herself.
 Tom said I was already unconscious by the time the paramedics arrived.
 Tom refused to continue to ignore the way Mary was behaving at school.
 Tom put the twenty-dollar bill that Mary gave him in his shirt pocket.
@@ -4513,7 +4401,6 @@ How nice!
 Did you not know that?
 Lincoln ordered that all the slaves in the country should be set free.
 Legendary American singer Lou Reed has died at the age of seventy-one.
-Since it's written in easy English, even you can read that book.
 It's not a good idea to try studying and watching TV at the same time.
 It's hard to tell Englishmen from Americans just by the way they look.
 It's hard to tell Englishmen from Americans just by the way they look.
@@ -4535,17 +4422,12 @@ If only she had known I was in Tokyo, she would have come to visit me.
 If I had all the time in the world, I'd build a boat and sail to Fiji.
 If I do not get the item this week, I will make a complaint to PayPal.
 I would never have believed that such a thing could ever happen to me.
-I wonder if Tom has ever considered going to a specialist.
-I wonder whether a man could live with only two hours' sleep a night.
 I wish I could afford to send my daughter to an Ivy League university.
 I will see you on next Tuesday, that is to say, the 10th of September.
 I was just telling Tom that he should go out and buy something to eat.
 I want to go to heaven, but I don't want to die in order to get there.
 I want a cellular phone, but I don't have enough money to pay for one.
-I think you're the one I've been waiting for for all these years.
-I think you're the one I've been waiting for for all these years.
 I think the jokes that Tom tells are funnier than the ones Mary tells.
-I think you're the one I've been waiting for for all these years.
 I think you're the one I've been waiting for for all these years.
 I think that as long as I don't overeat, I will certainly lose weight.
 I think it'll cost you more than 10,000 yen to have this camera fixed.
@@ -4569,7 +4451,6 @@ I don't enjoy teaching children to swim when their parents are around.
 I didn't know hummingbirds could even fly upside down when frightened.
 I didn't have anything else to do so I thought I'd make myself useful.
 I can't stop you from revealing my secrets. However, I beg you not to.
-I can't see how anybody could've accomplished this without some help.
 I am going in the same direction. Come with me. I will take you there.
 I am going in the same direction. Come with me. I will take you there.
 I am going in the same direction. Come with me. I will take you there.
@@ -4591,8 +4472,6 @@ For breakfast I have two slices of toast with marmalade and black tea.
 First, we will present a petition to the mayor and collect signatures.
 Everything was exciting to me when I visited Spain for the first time.
 Ethnic minorities struggle against prejudice, poverty, and oppression.
-Early to bed and early to rise makes a man healthy, wealthy and wise.
-Early to bed and early to rise makes a man healthy, wealthy and wise.
 Don't you ever let me hear you talking to your mother like that again.
 Don't worry! Even if I drink, it doesn't have an effect on my driving.
 Don't worry! Even if I drink, it doesn't have an effect on my driving.
@@ -4646,17 +4525,11 @@ Tom was knocked off his bicycle and killed in a hit and run accident.
 Tom was just about to kiss Mary when his mother walked into the room.
 Tom was beat to a pulp by his father.
 Tom tried to persuade Mary to do something she knew she shouldn't do.
-Tom told Mary that he thought John wasn't the first one to do that.
 Tom told Mary that he didn't have enough time to get everything done.
 Tom speaks French better than any of the other students in his class.
 Tom set about solving the problem in a systematic and determined way.
 Tom said that he was planning to eat the whole watermelon by himself.
-Tom said he thought Mary needed to do that before she left.
-Tom said he thought he'd be able to do that if he had some help.
-Tom said he thought he'd be able to buy what he needed for $300.
 Tom said that he and Mary were planning to visit Australia next year.
-Tom said he thought he'd be able to do that if he had some help.
-Tom said he thought he'd be able to buy what he needed for $300.
 Tom said he thought Mary wasn't as cooperative as she should've been.
 Tom said he thought Mary needed at least $300 to buy what she needed.
 Tom rolled up his pant legs so people could see his bright red socks.
@@ -4668,7 +4541,6 @@ Tom likes to read English subtitles while watching movies in English.
 Tom kept dropping subtle hints about what he wanted for his birthday.
 Tom isn't particularly bothered about what other people think of him.
 Tom is worried that he won't have enough money to retire comfortably.
-Tom is upset because he didn't get the raise he'd been promised.
 Tom is a little unusual in that he doesn't drink tea, coffee or beer.
 Tom intended to walk home, but it started raining, so he took a taxi.
 Tom has been waiting for Mary all morning, but she still hasn't come.
@@ -4713,14 +4585,12 @@ There is nothing worse than doing something in a half-hearted manner.
 The train will be leaving in five minutes so you had better hurry up.
 The train will be leaving in five minutes so you had better hurry up.
 The train will be leaving in five minutes so you had better hurry up.
-The train was so crowded that I had to stand up the whole trip.
 The train was so packed that I had to stand up during the whole trip.
 The temperature went down to minus ten degrees centigrade last night.
 The smell of the flowers came in through the open windows of the bus.
 The rumor is going around that the actress is going to get a divorce.
 The restaurant we went to wasn't as expensive as I expected it to be.
 The rescuers searched the surroundings in hopes of finding the child.
-That happened to you because you were careless.
 The prosecuting attorney can't prove that somebody else didn't do it.
 The policeman aimed his gun at Tom and yelled, "Hold it right there!"
 The police couldn't find any footprints outside Tom's bedroom window.
@@ -4732,7 +4602,6 @@ The language of that tribe is as complex as any other human language.
 The inhabitants of the city depend upon the river for drinking water.
 The government will have to take drastic action to solve the problem.
 The front of Tom's shirt was stained with blood from a gunshot wound.
-The mist was so dense that I could not see even an inch ahead.
 The constant border wars between England and Scotland came to an end.
 The consequence of a wrong translation can sometimes be catastrophic.
 The consequence of a wrong translation can sometimes be catastrophic.
@@ -4801,12 +4670,10 @@ If I remember correctly, Tom and Mary got married in October of 2003.
 If I hadn't seen it with my own eyes, I would never have believed it.
 I've heard that the most beautiful women in the world live in Boston.
 I've heard that the most beautiful women in the world live in Boston.
-I've been back for a week, but I'm still suffering from jet lag.
 I've already drunk half a bottle of wine while I was waiting for you.
 I'm already twenty and I have no idea what I want to do with my life.
 I'll lend you my textbook if you promise not to write anything in it.
 I wonder whether a man could live with only two hours' sleep a night.
-I wonder if Tom knows why Mary was absent from school yesterday.
 I wonder if you could tell me if there is a post office in this area.
 I wish I could figure out how to get more people to visit my website.
 I went to Sendai and came right back without staying there overnight.
@@ -4820,7 +4687,6 @@ I have trouble falling asleep because I always have a lot on my mind.
 I had not been waiting long before I heard footsteps coming upstairs.
 I had heard that he was fat, but I didn't think he would be that fat.
 I had a feeling that Tom and Mary would decide not to buy that house.
-I grabbed my little sister's hand, and the two of us started to run.
 I got all choked up when I heard the voice of Ryo over the telephone.
 I doubt that Tom has the courage to stand up for what he believes in.
 I don't watch a lot of movies, but I can't resist a good documentary.
@@ -4835,7 +4701,6 @@ I can't imagine many people wanting to read this book more than once.
 I can't figure out how Tom managed to lose so much weight so quickly.
 I came to Tokyo three years ago and have been living here ever since.
 I came all this way. You could at least listen to what I have to say.
-I bought a house with the money I inherited from my grandfather.
 I always order the daily special when I eat lunch at this restaurant.
 How much do you think the average person spends eating out in a year?
 His oral agreement may not mean anything without his signed contract.
@@ -4846,12 +4711,9 @@ He walked back and forth on the platform while waiting for the train.
 He said his father was an architect and that he wanted to be one too.
 He managed to pass his driving test even though he was a poor driver.
 He just won't listen. Talking to him is like talking to a brick wall.
-He seems not to be aware of the conflict between my father and me.
 Having a full time job and raising two kids at the same time is hard.
 Even if the sun were to rise in the west, I wouldn't give up my plan.
 Even if the sun were to rise in the west, I would not change my mind.
-Electronic components can be cleaned using pure isopropyl alcohol.
-Electronic components can be cleaned using pure isopropyl alcohol.
 Early to bed and early to rise makes a man healthy, wealthy and wise.
 Early to bed and early to rise makes a man healthy, wealthy and wise.
 Early to bed and early to rise makes a man healthy, wealthy and wise.
@@ -4866,7 +4728,6 @@ Before I could protest, I was handcuffed and was on my way to prison.
 Before I could protest, I was handcuffed and was on my way to prison.
 At the end of the class, the teacher said, "That's enough for today."
 As far as the eye could see, nothing could be seen except cornfields.
-Apparently, Tom was late because there was a traffic jam on Rt. 19.
 Always do right. This will gratify some people and astonish the rest.
 All the houses on my street lost power this morning due to the storm.
 All of a sudden, large drops of rain began falling from the dark sky.
@@ -4891,7 +4752,6 @@ You had better take into consideration that you are no longer young.
 Yesterday I saw a girl whom I had met in the library a month before.
 Who's the gorgeous girl I saw wandering around in the mall with you?
 Who's the gorgeous girl I saw wandering around in the mall with you?
-Where on earth do you think Tom is going at this time of night?
 When you disembark the flight, you will go through passport control.
 When I was your age, I thought the same way as you about this issue.
 When I was in Boston someone broke into my room and stole my wallet.
@@ -4937,11 +4797,8 @@ Tom says he wants me to leave, but I don't think he really means it.
 Tom says he didn't know Mary was going to have to do that next week.
 Tom saw Mary standing by the fireplace and went over to talk to her.
 Tom said that we weren't allowed to take photographs in this museum.
-Tom said he didn't know Mary was going to eventually leave him.
 Tom said he'll go home as soon as he finishes doing what he's doing.
 Tom said he had room in his garage for me to keep some of my things.
-Tom said he didn't know Mary was going to eventually leave him.
-Tom said he didn't know Mary was going to eventually leave him.
 Tom put the key in the lock and paused a moment before he turned it.
 Tom put the key in the lock and paused a moment before he turned it.
 Tom put his bags in the trunk, then hopped in the car and drove off.
@@ -4953,12 +4810,10 @@ Tom just stood there watching Mary staring at herself in the mirror.
 Tom is still using the wallet I gave him on his thirteenth birthday.
 Tom is going to be waiting for Mary in front of the library at 2:30.
 Tom is a good employee. He gets things done quickly and efficiently.
-Tom hopes Mary knows she shouldn't do what John has told her to do.
 Tom has been getting a busy signal every time he tries to call Mary.
 Tom has already memorized the poem his teacher told him to memorize.
 Tom had so much he wanted to say, but not enough time to say it all.
 Tom got out of the swimming pool and dried himself off with a towel.
-Tom got Mary to scratch the part of his back he couldn't reach.
 Tom doesn't want to admit that Mary was right and that he was wrong.
 Tom didn't seem surprised when I told him he didn't have to do that.
 Tom didn't know if it would be worth his while applying for the job.
@@ -5057,7 +4912,6 @@ It's difficult for me to understand French when it's spoken quickly.
 It's difficult for me to understand French when it's spoken quickly.
 It's best to wear a cap on your head during the cold Moscow winters.
 It's best to discuss relationship issues directly with your partner.
-It was obvious Tom and Mary had strong feelings for each other.
 It suddenly occurred to Tom that his car keys weren't in his pocket.
 It is important to understand that each country has its own culture.
 It is important to understand that each country has its own culture.
@@ -5068,7 +4922,6 @@ In the summer, I go to the sea, and in the winter, to the mountains.
 In the United States, a tablespoon is equivalent to three teaspoons.
 In some countries, the punishment for treason can be life in prison.
 Immediately after the bell rang the teacher came into the classroom.
-If you're going to go to France, you should brush up your French.
 If you tell people what they want to hear, they'll do what you want.
 If you don't want to attend Tom's birthday party, you don't have to.
 If you don't want to attend Tom's birthday party, you don't have to.
@@ -5088,9 +4941,7 @@ I'm sorry if this comes as a shock, but I don't care what you think.
 I'm particularly impressed that Tom could remember all of our names.
 I'll mail you the report in a jiffy, so you won't have to wait long.
 I wouldn't ask Tom to do anything that he doesn't really want to do.
-I wonder if Tom would mind babysitting our kids tomorrow night.
 I wonder if you would mind lending me your car for a couple of days.
-I was lucky the train was late. Otherwise, I would've missed it.
 I thought she was angry at me because I didn't pay the bill in time.
 I thought it would be an opportunity for you to improve your French.
 I think it'll taste better if you add a little salt and pepper.
@@ -5110,8 +4961,6 @@ I haven't yet met anyone I'd want to spend the rest of my life with.
 I haven't seen you for a long time. Come and see me once in a while.
 I haven't really told you anything you shouldn't have already known.
 I have two dogs and I try to feed them each the same amount of food.
-I've read both of these books, but neither of them is interesting.
-I had to wait for Tom's reply for a long time, but it was worth it.
 I had forgotten all about today's meeting. I'm glad you reminded me.
 I guess I'm just too stupid to understand what you're trying to say.
 I grabbed my little sister's hand, and the two of us started to run.
@@ -5142,10 +4991,6 @@ Glaciers are frozen rivers. They flow like rivers, only much slower.
 Friendliness is a language the deaf can hear and the blind can read.
 Few treasures are worth as much as a friend who is wise and helpful.
 Do you want me to buy anything for you while I'm at the supermarket?
-Do you think Tom would like to go fishing with us next weekend?
-Do you think Tom would like to go camping with us next weekend?
-Do you think Tom would like to go camping with us next weekend?
-Do you think Tom would like to go camping with us next weekend?
 Do you know how many people in the world starve to death every year?
 Business people exchange cards at the beginning or end of a meeting.
 Business people exchange cards at the beginning or end of a meeting.
@@ -5174,7 +5019,6 @@ You speak French very well. I wish I could speak it as well as you.
 You should wear your hair down more often. It looks great that way.
 You should apologize to Dad for not coming home in time for supper.
 You know there's no way I can do that without some help, don't you?
-Before you go to visit him, you should make sure he's at home.
 You can't really expect to get better at French if you don't study.
 You can't let Tom drive that old truck. Let him drive your new car.
 You can't beat me, Tom. I've been playing tennis since I was a kid.
@@ -5218,15 +5062,12 @@ Tom thinks that Mary won't be able to pay all her bills this month.
 Tom tells everyone that he can't speak French, but that's not true.
 Tom suggested that they convert the old church into a concert hall.
 Tom shared the food that his mother had given him with his friends.
-Tom said he thought he might be allowed to do that again.
 Tom said that he thought Mary knew why John had become a policeman.
 Tom said that he doesn't think that Mary wants to do that tomorrow.
 Tom said he thought Mary would be able to do that without any help.
-Tom said he thought Mary might have to stay in Boston until Monday.
 Tom said he saw something weird on the other side of that mountain.
 Tom said he saw something weird on the other side of that mountain.
 Tom said he had a stomachache and didn't feel like eating anything.
-Tom said he didn't know Mary couldn't speak French very well.
 Tom really does detest giving speeches in front of large audiences.
 Tom reached for a dictionary that was on the very top of the shelf.
 Tom ran as fast as he could hoping that he wouldn't miss the train.
@@ -5243,7 +5084,6 @@ Tom knew he didn't need to do what Mary told him needed to be done.
 Tom keeps a pair of binoculars in the glove compartment of his car.
 Tom is well-read and can talk knowledgeably about almost any topic.
 Tom is pretty good at French, but he still makes a lot of mistakes.
-Tom hopes Mary knows she shouldn't do what John has told her to do.
 Tom heard a big explosion and ran outside to see what had happened.
 Tom has probably figured out by now that Mary is John's girlfriend.
 Tom has no intention of staying in Boston for the rest of his life.
@@ -5327,7 +5167,6 @@ The doctor said that Tom has to stay in bed for the next few weeks.
 The content of the letter had an interesting effect on my marriage.
 The company has sent several representatives to discuss the matter.
 The children competed with each other for their mother's attention.
-The bread I bought at the supermarket doesn't taste very good.
 The astronaut had to conduct many experiments in the space shuttle.
 The U.S. exports billions of dollars' worth of passenger airplanes.
 The F1 champion Michael Schumacher sustained a serious head injury.
@@ -5378,7 +5217,6 @@ Kyoto gets thousands of visitors from all over the world each year.
 It's very unlikely that Tom's children inherited anything from him.
 It's very difficult to communicate with people from other cultures.
 It's the sort of work that calls for a high level of concentration.
-It isn't enough to just say you're going to vote. You need to vote.
 It's important for the students to know what to expect on the test.
 It's better to have loved and lost than never to have loved at all.
 It's been a long time since I've seen any dragonflies in this area.
@@ -5425,7 +5263,6 @@ I waited for him at the station for an hour, but he didn't show up.
 I tried to sell my old car, but nobody was interested in buying it.
 I tried to reach you on the phone, but I was unable to get through.
 I told the children to be quiet, but they just kept on being noisy.
-I thought Tom might be waiting for us in front of the station.
 I thought he was an American but he turned out to be an Englishman.
 I think it's highly unlikely that Tom will get custody of the kids.
 I think Tom's homemade cookies are better than the ones Mary makes.
@@ -5469,8 +5306,6 @@ He consoled himself with the thought that it might have been worse.
 Have you decided who you're going to invite to your birthday party?
 Have you decided who you're going to invite to your birthday party?
 From time to time, I think about my mother who is no longer living.
-French was the only foreign language they taught at my school.
-French was the only foreign language they taught at my school.
 Forks go to the left side of the plate, and knives go to the right.
 For as long as Tom could remember, his parents had been overweight.
 Existing legislation does not take diversity of races into account.
@@ -5535,7 +5370,6 @@ When I last saw him, he was wearing a blue shirt and white slacks.
 When I entered the room, I could hear Mozart playing on the radio.
 When I didn't know how to answer the question, Tom gave me a hint.
 When I asked him to lend me some money, he turned down my request.
-What made Tom mad wasn't what you said, but the way you said it.
 What do you think is the best way to get to Tom's house from here?
 We will have to consider each application on a case-by-case basis.
 We were greatly relieved to find that the worst dangers were over.
@@ -5563,14 +5397,8 @@ Tom should be more careful not to bother Mary while she's working.
 Tom seemed very surprised when I told him about what had happened.
 Tom sat next to his father and watched the football game with him.
 Tom said that he wanted to go visit Santa Claus at the North Pole.
-Tom said he thought the statue weighed about 300 pounds.
-Tom said he doesn't think Mary really wants to do that again.
-Tom said he didn't know why Mary wanted to break up with him.
-Tom said he didn't know Mary couldn't speak French very well.
 Tom said he'd be very surprised if Mary didn't win the tournament.
-Tom said he doesn't think Mary really wants to do that again.
 Tom said he didn't think Mary wanted to be on the basketball team.
-Tom said he didn't know Mary couldn't speak French very well.
 Tom put the large picnic basket on the passenger seat next to him.
 Tom probably doesn't yet know how much time he'll have to do that.
 Tom preferred the company of his dogs over that of his fellow men.
@@ -5660,7 +5488,6 @@ The engineers blew up the bridge because it was about to collapse.
 The couple doesn't fight often these days, but they used to a lot.
 The company presented him with a gold watch on the day he retired.
 The company presented him with a gold watch on the day he retired.
-The bread I bought at the supermarket didn't taste very good.
 The boy who's swimming over there with Mary is my younger brother.
 The boy gathered a handful of peanuts and put them in a small box.
 The bottom 40% of the U.S. population has only 0.3% of the wealth.
@@ -5741,7 +5568,6 @@ I'm here to stop you from making the biggest mistake of your life.
 I'm here to stop you from making the biggest mistake of your life.
 I'm glad that they fixed the heating system, but now it's too hot.
 I'm assuming that the gunshot I heard was the one that killed Tom.
-I'd like to read the newspaper as soon as you finish with it.
 I wouldn't marry Tom even if he were the richest man in the world.
 I wouldn't marry Tom even if he were the richest man in the world.
 I was interested in him because his paintings really impressed me.
@@ -5774,7 +5600,6 @@ I don't like being the one who always has to take out the garbage.
 I don't like being the one who always has to take out the garbage.
 I don't know why Tom doesn't want to go sailing with us next week.
 I dislocated my ankle, and I also broke my tibia and fibula bones.
-I didn't know that the cost of living was so high in Australia.
 I couldn't sleep last night, so I decided to watch a horror movie.
 I converted the temperature from Fahrenheit to Celsius in my head.
 I can't find my glasses. I may have left them behind in the train.
@@ -5907,7 +5732,6 @@ It's a lovely day.
 Tom would probably have done something about that if he could've.
 Tom will probably tell Mary to come back home as soon as she can.
 Tom went without lunch because he didn't have enough time to eat.
-Tom wasn't sure if he should kiss Mary or not, so he didn't.
 Tom was sitting at his desk, flipping through an old photo album.
 Tom was sad because he was the only one not invited to the party.
 Tom was sad because he was the only one not invited to the party.
@@ -5927,13 +5751,6 @@ Tom seemed surprised when I told him Mary didn't want to do that.
 Tom saw two men lying on the floor, bleeding from gunshot wounds.
 Tom saw a girl sitting all alone, so he went over to talk to her.
 Tom said that neither one of his parents had ever been to Boston.
-Tom said he'd be able to help us do that tomorrow afternoon.
-Tom said he thought it wouldn't be possible to do that.
-Tom said he thought he knew what Mary planned to do.
-Tom said he thought Mary might want to walk home by herself.
-Tom said he doesn't think Mary really wants to do that.
-Tom said he didn't think Mary really needed to do that.
-Tom said he thought Mary might want to walk home by herself.
 Tom said Mary seemed reluctant to eat what he had cooked for her.
 Tom resented the fact that Mary got the promotion instead of him.
 Tom resented the fact that Mary got the promotion instead of him.
@@ -5956,7 +5773,6 @@ Tom is ready to resort to violence in order to get what he wants.
 Tom is more intelligent and sophisticated than most boys his age.
 Tom is mistaken if he thinks that he can always have his own way.
 Tom is good with his hands and has built many interesting things.
-Tom can say "I can only speak French" in thirty languages.
 Tom is a little older than the rest of the students in his class.
 Tom hopes Mary knows she has to do what John is asking her to do.
 Tom hasn't lost any weight even though he says he's been dieting.
@@ -6000,7 +5816,6 @@ There was so much stuff on his desk that he had nowhere to write.
 There are two chickens in the backyard and two in the front yard.
 There are sushi restaurants in almost every country in the world.
 There are many things which we cannot evaluate in terms of money.
-There are lots of restaurants and shops within walking distance.
 There are lots of restaurants and shops within walking distance.
 The woman downed the gin and lime that was served in one swallow.
 The village is now very different from what it was ten years ago.
@@ -6058,7 +5873,6 @@ Personally, I think that corporal punishment is a necessary evil.
 One of the men asked me to show him the way to the train station.
 On my way to school each day, I generally see many dogs and cats.
 Oil has played an important part in the progress of civilization.
-Of all the languages I've studied, French was the hardest.
 Never in my wildest dreams did I ever think you'd go out with me.
 My office is on the fourth floor of that gray six-story building.
 My office is on the fourth floor of that gray six-story building.
@@ -6119,11 +5933,8 @@ I've already told Tom that he doesn't need to come here tomorrow.
 I'm tired. I just want to go on the teacup ride and take it easy.
 I'm so glad that you asked me to give the opening speech tonight.
 I'm going to sit on the bench over there next to the street lamp.
-I'm fairly certain Tom and Mary have both already done that.
-I'm fairly certain Tom and Mary have both already done that.
 I'm angry with my boyfriend for forgetting about Valentine's Day.
 I'd suggest that you clean up a bit before your mother gets here.
-I wrote down everything I needed to buy on a scrap of paper.
 I would like to become a top model and travel all over the world.
 I wish everybody would stop telling me I need to be more careful.
 I was thinking you might like to go camping with us this weekend.
@@ -6136,7 +5947,6 @@ I told her that if I could be of any use I would be glad to help.
 I told her once and for all that I wouldn't go shopping with her.
 I told her once and for all that I wouldn't go shopping with her.
 I thought you wouldn't tell her that we hadn't done our homework.
-I think you're the one I've been waiting for for all these years.
 I think you're the one I've been waiting for for all these years.
 I think that actress is one of the most beautiful women on earth.
 I think it's time for me to spend a little time with my children.
@@ -6156,7 +5966,6 @@ I feel completely restored after a week in the country.
 I don't want to do what I'm planning to do, but I have no choice.
 I don't want to do anything to jeopardize my friendship with you.
 I don't want everybody on the Web to be able to access my photos.
-I don't think you need that much money to buy what you need.
 I don't think married people should have secrets from each other.
 I do not believe the weather will change for the worse next week.
 I didn't tell Tom about it because I didn't want to ruin his day.
@@ -6202,7 +6011,6 @@ Before you can love others, you need to be able to love yourself.
 Be careful about reading health books. You may die of a misprint.
 Austria is one of the largest producers of electricity in Europe.
 At the end of a working day, everybody is in a hurry to get home.
-Are you going somewhere tonight, or are you staying in?
 Can you tell butter from margarine?
 Apparently, Tom was already famous before he released that album.
 All you need is ignorance and confidence and the success is sure.
@@ -6213,7 +6021,6 @@ A person who won't read has no advantage over one who can't read.
 A man can be happy with any woman as long as he doesn't love her.
 A lot of back problems can be attributed to poor sitting posture.
 A female friend of ours took a trip to a small village last week.
-A ball hit the back of my head while I was playing soccer.
 "Tom doesn't like living in Boston." "Then why doesn't he leave?"
 "May I borrow Tom's lawn mower?" "I guess it would be all right."
 "I'm afraid Tom's not at home." "But the light's on in his room!"
@@ -6242,7 +6049,6 @@ When you're young and you're in love, the world seems beautiful.
 When it comes to mathematics, he is second to none in his class.
 When I was about to leave my house, I got a phone call from Tom.
 When I told them I'd done it, they looked at me like I was nuts.
-When I stood up, I realized that Tom was much taller than me.
 What will become of the children now that both parents are dead?
 What made Tom mad wasn't what you said, but the way you said it.
 What kind of music do you like to listen to when you're driving?
@@ -6292,9 +6098,7 @@ Tom took an envelope out of his briefcase and handed it to Mary.
 Tom told us this morning that he and Mary were moving to Boston.
 Tom told me that he thought I might be interested in doing that.
 Tom told Mary that she should quit pretending to be intoxicated.
-Tom told Mary that she should quit pretending to be intoxicated.
 Tom thought Mary was in Boston, but she was actually in Chicago.
-Tom thinks schools should teach children to obey authority.
 Tom thinks it's important for Mary to learn how to speak French.
 Tom thinks he can get rid of his cold if he takes this medicine.
 Tom suddenly realized what he was doing was very dangerous.
@@ -6302,12 +6106,7 @@ Tom stood alone under a big clock in the deserted train station.
 Tom says that he and Mary have played chess together many times.
 Tom says he isn't sure if he can do that, but he says he'll try.
 Tom said that he'd give me thirty dollars if I ate an earthworm.
-Tom said he thought I might need to do that this week.
-Tom said he thought I might need to do that by myself.
-Tom said he thought Mary needed to do that before she left.
-Tom said he didn't know Mary could speak French.
 Tom said that he did nothing wrong and that it wasn't his fault.
-Tom said he thought Mary needed to do that before she left.
 Tom said he thought he'd be able to do that if he had some help.
 Tom said he thought he'd be able to buy what he needed for $300.
 Tom said he thought he'd be able to buy what he needed for $300.
@@ -6320,10 +6119,8 @@ Tom put on so much weight that he had to have his pants let out.
 Tom pressed the green button and waited for something to happen.
 Tom picked up a magazine and started flipping through its pages.
 Tom noticed Mary's shoes were muddy, but he didn't say anything.
-Tom loved to sing, but nobody wanted to listen to his singing.
 Tom looked out the window at the ship that was coming into port.
 Tom lives alone in the mountains. No one has seen him for years.
-Tom lay awake for a long time thinking about what he should do.
 Tom knows that he needs to do something, but he's not sure what.
 Tom kissed Mary while John and Alice were looking the other way.
 Tom just closed his eyes and tried to ignore what was happening.
@@ -6371,7 +6168,6 @@ Tom advised Mary not to believe everything she reads on the Web.
 Today, I'm finally going to tell Tom what I really think of him.
 Though the doctor did his best, the patient's recovery was slow.
 This ought to bring in enough money to put us back in the black.
-This morning he said that he is leaving for Nara tomorrow.
 This lady witnessed an accident at three o'clock this afternoon.
 This is one of the most influential novels of the past 30 years.
 This increase in unemployment is a consequence of the recession.
@@ -6389,7 +6185,6 @@ There is a fundamental difference between your opinion and mine.
 There is a fundamental difference between your opinion and mine.
 There are still many things we don't know about the human brain.
 There are still many things left to learn about the human brain.
-There are lots of restaurants and shops within walking distance.
 There are lots of restaurants and shops within walking distance.
 The well being of the nation is the government's responsibility.
 The train was on the point of leaving when I got to the station.
@@ -6447,7 +6242,6 @@ Some children learn languages easily and others with difficulty.
 Since it's written in easy English, even you can read that book.
 She's been living for the last five years under an assumed name.
 She sent me a postcard that said she hates the smell of animals.
-She hasn't come here yet. I am afraid she may have lost her way.
 Running as fast as she could, she still failed to catch the bus.
 Roosevelt was born to a wealthy family in New York City in 1858.
 Please mail this letter the next time you go to the post office.
@@ -6465,7 +6259,6 @@ Now that you are grown-up, it is up to you to decide what to do.
 Nobody understood why the elephant suddenly turned on its owner.
 Nobody noticed that she was absent until the end of the meeting.
 No matter where you may travel, be sure to phone me once a week.
-However hard I try, I can't do it any better than she can.
 My wife usually doesn't drink coffee at night, and neither do I.
 My train leaves at six o'clock and arrives there at ten o'clock.
 My supervisor is making me do this so I'm in no hurry to finish.
@@ -6536,7 +6329,6 @@ I'd rather have it and not need it than need it and not have it.
 I'd like to talk to you about what happened at school yesterday.
 I wrote Tom a letter and asked him to come visit us this summer.
 I wrote Tom a letter and asked him to come visit us this summer.
-I wonder if there'll be more snow this year than last year.
 I wonder if Tom would be interested in investing in our project.
 I wonder if Tom knows why Mary was absent from school yesterday.
 I wonder if Tom knows why Mary was absent from school yesterday.
@@ -6546,7 +6338,6 @@ I was about to leave home when an old friend of mine dropped in.
 I want to know how he manages to make such good use of his time.
 I want to go to Australia once again before my passport expires.
 I took advantage of my business trip to see the sights of Paris.
-I think I now have enough money to buy the car I want.
 I think it's unlikely that Tom will get back in time for supper.
 I think it wouldn't be too hard to come up with a better system.
 I studied English very hard every day, but I didn't learn a lot.
@@ -6556,12 +6347,10 @@ I ought to have enough money saved up to buy a car by Christmas.
 I never see this picture without being reminded of my childhood.
 I never expected such a nice hotel in a place like this.
 I learned how to cook Chinese food while I was living in Boston.
-I know Tom is allowed to do almost anything he wants.
 I keep a good supply of stamps to save trips to the post office.
 I just want to make sure you live up to your end of the bargain.
 I just want to make sure that his offer has no strings attached.
 I hope you can avoid making all the stupid mistakes that I made.
-I hope you're the one who's going to be doing the driving.
 I heard that Tom is going to play tennis with us this afternoon.
 I have every reason to believe that he is innocent of the crime.
 I hadn't planned to do that, but I can if you really want me to.
@@ -6589,7 +6378,6 @@ I bought a house with the money I inherited from my grandfather.
 I attended the party with the intention of taking some pictures.
 I asked Tom if I was on the list of people invited to the party.
 I am working full-time at a bookshop until the end of September.
-I always thought Tom and Mary would eventually get married.
 I advised him to give up smoking, but he would not listen to me.
 How much time do you spend selecting the food that you will eat?
 How long does it take for light from the sun to reach the earth?
@@ -6629,7 +6417,6 @@ British Prime Minister Neville Chamberlain was forced to resign.
 Bring an umbrella because it is expected to rain this afternoon.
 Before going to study in Paris, I have to brush up on my French.
 As soon as he arrived in the capital, he got settled at a hotel.
-As I entered the bar, I heard a sad song playing on the jukebox.
 As I entered the bar, I heard a sad song playing on the jukebox.
 Apart from a few minor mistakes, your composition was excellent.
 Among the things found were umbrellas, shoes, and handkerchiefs.
@@ -6724,7 +6511,6 @@ Tom said that he was the one responsible for what had happened.
 Tom said he thought Mary might need to do that today.
 Tom said that he thinks Mary won't want to go swimming with us.
 Tom said that he didn't have enough time to make his own lunch.
-Tom said he didn't believe Mary would really do that.
 Tom said he thought there was a good chance Mary would be late.
 Tom said he didn't know Mary was going to eventually leave him.
 Tom pried up the floorboards looking for the hidden gold coins.
@@ -6793,7 +6579,6 @@ To investigate the incident would take us at least three weeks.
 To have doubts about oneself is the first sign of intelligence.
 To do him justice, we must admit that his intentions were good.
 Though they're twins, they don't have many interests in common.
-This is a sentence that has the syllable count of a haiku.
 This firm manufactures cars at the rate of two hundred per day.
 This dictionary is primarily intended for high school students.
 They thought it would be too expensive to build a factory here.
@@ -6928,7 +6713,6 @@ If you can see your breath when you exhale, you know it's cold.
 If you add one hundred to one thousand, you get eleven hundred.
 If we were to live on the moon, how large would the earth look?
 If the sun were to rise in the west, I wouldn't change my mind.
-If it hadn't been for the storm, I would've arrived sooner.
 If he keeps drinking like that, he'll have to take a taxi home.
 If he doesn't want to marry you, why did he get engaged to you?
 If Tom would smile more often, he'd probably have more friends.
@@ -6948,7 +6732,6 @@ I'm a professor, or rather an associate professor, to be exact.
 I'll be going on a picnic with Tom and his family next weekend.
 I would've left before Tom got here if I'd known he was coming.
 I wondered whether or not Tom wanted to go to Boston with Mary.
-I wonder if Tom has ever considered going to a specialist.
 I wonder if Tom would mind babysitting our kids tomorrow night.
 I wonder how Tom managed to park his car in such a small space.
 I wish you wouldn't drive so fast. You're making the baby sick!
@@ -6966,7 +6749,6 @@ I thought I told you I didn't want you to do that anymore.
 I think you're one of the most interesting women I've ever met.
 I think you and Tom have more in common than you want to admit.
 I think she probably just thinks of herself as one of the boys.
-I think it'll taste better if you add a little salt and pepper.
 I suggested to her that we go to the movies after he came home.
 I suddenly felt the urge to jump off the bridge into the river.
 I spent the whole evening reading the poetry of Kenji Miyazawa.
@@ -6986,7 +6768,6 @@ I just want to let you know that I'll be late tomorrow morning.
 I just want to get this thing over with as quickly as possible.
 I just got a beautiful bunch of flowers from one of my clients.
 I just found out that my boyfriend has been stepping out on me.
-I hope you're the one who's going to be doing the driving.
 I hope Tom isn't doing something he isn't supposed to be doing.
 I heard the news that there had been a big earthquake in Awaji.
 I have to leave because there's someone waiting for me outside.
@@ -7164,10 +6945,6 @@ Tom saw Mary sitting by herself on the bench next to the pond.
 Tom sat there silently watching Mary eat the last of the food.
 Tom sat on the sofa, flipping through the pages of a magazine.
 Tom sat in the driver's seat and adjusted the rearview mirror.
-Tom said he thought we shouldn't go to Mary's party.
-Tom said he thought it would be possible to do that.
-Tom said he thought he knew what Mary planned to do.
-Tom said he thought he might be allowed to do that again.
 Tom said it took him a little while to get used to doing this.
 Tom said he's going to try something he has never done before.
 Tom said he thought he might be allowed to do that again.
@@ -7233,7 +7010,6 @@ Tom and Mary sat at a small table in the garden playing chess.
 Tom and Mary sat at a small table in the garden playing chess.
 Tom and Mary looked embarrassed when John caught them kissing.
 Tom and Mary looked embarrassed when John caught them kissing.
-Tom and Mary know each other, but they're not really friends.
 Tom and Mary hugged each other and kissed each other's cheeks.
 Tom and Mary haven't yet told anyone they plan to get married.
 Tom and Mary haven't yet told anyone they plan to get married.
@@ -7296,7 +7072,6 @@ The invention of TV caused a drastic change in our daily life.
 The initial symptoms of the disease are fever and sore throat.
 The initial symptoms of the disease are fever and sore throat.
 The incidence of OCD is greatest among teens and young adults.
-The house is very old. It needs renovating before you sell it.
 The gondola ride wasn't as romantic as Tom and Mary had hoped.
 The forest was so thick that one could hardly walk through it.
 The entire sales staff has worked around the clock for a week.
@@ -7382,7 +7157,6 @@ My car, which broke down yesterday, has not been repaired yet.
 My brother and sister get up about seven-thirty every morning.
 Mt. Fuji, the highest mountain in Japan, is 3,776 meters high.
 Most car accidents occur due to the inattention of the driver.
-Mary resembles her mother in looks, but not in personality.
 Mary is still as beautiful as she was when she was a teenager.
 Many miners are afraid that the mine will be closed down soon.
 Many ethnic groups traditionally give money as a wedding gift.
@@ -7421,7 +7195,6 @@ In this paper, I compare the folklores of Germany and Holland.
 In this day and age, life without electricity is unimaginable.
 In the United States, fluoride is added to the drinking water.
 In the 6th century, the Anglo-Saxons adopted Roman characters.
-In spite of the heavy rain, he visited his friend in hospital.
 In my opinion, alcohol is not necessarily bad for your health.
 In case something goes wrong, please take care of my children.
 In a democracy, it is important that the press be independent.
@@ -7441,9 +7214,6 @@ If Tom had been careful, this accident wouldn't have happened.
 If I'd known Tom was going to be in Boston, I'd have told you.
 If I should be late getting home, please don't wait up for me.
 If I should be late getting home, please don't wait up for me.
-If I'd known your telephone number, I would've called you.
-If I'd known your telephone number, I would've called you.
-If I'd known your telephone number, I would've called you.
 If I had known her address, I would have written her a letter.
 I've gone a long time without reading a book and I am ashamed.
 I've always been a little jealous of your friendship with Tom.
@@ -7465,7 +7235,6 @@ I thought Tom might be waiting for us in front of the station.
 I thought I told you never to call me while I'm at the office.
 I thought I told you never to call me while I'm at the office.
 I think to clearly distinguish opinion from fact is important.
-I think Tom looked better before he shaved his beard off.
 I think Tom looked better before he shaved his beard off.
 I think it's time for me to buy my daughter a decent computer.
 I think it's time for me to buy my daughter a decent computer.
@@ -7491,7 +7260,6 @@ I had to stop Tom from making the biggest mistake in his life.
 I had hardly gotten into bed when the telephone began to ring.
 I guess I was too busy to notice that Tom was having problems.
 I got to the station three minutes before Tom's train arrived.
-I doubt very seriously Tom will be present at today's meeting.
 I don't think I could stand to spend six hours alone with you.
 I don't suppose you ever really get over the death of a child.
 I don't suppose you ever really get over the death of a child.
@@ -7522,7 +7290,6 @@ His shoes were so old that his toes were sticking out of them.
 Her father can afford to give her a big allowance every month.
 He went to Italy ten years ago and has lived there ever since.
 He went to Italy ten years ago and has lived there ever since.
-He wasn't foolish enough to tell that story around her.
 He was popular with girls because he was on the football team.
 He was passing by on his bicycle when he heard a cry for help.
 He stubbed out his cigar in the ashtray and stood up to leave.
@@ -7684,7 +7451,6 @@ Tom took off his shoes and socks and rolled up his pant legs.
 Tom took off his shirt and threw it into the washing machine.
 Tom took a blanket off the bed and wrapped it around himself.
 Tom told me that Mary had been injured in a traffic accident.
-Tom told everyone he was able to speak three languages.
 Tom told Mary that she should stop pretending to be offended.
 Tom threw his hands up into the air and said that he gave up.
 Tom threw away all the old newspapers that were in the attic.
@@ -7700,7 +7466,6 @@ Tom says that he doesn't remember having made such a promise.
 Tom says he doesn't think it would be a good idea to do that.
 Tom saw that Mary wasn't happy and went over to cheer her up.
 Tom sat alone at the kitchen table, drinking a cup of coffee.
-Tom said he thought the statue weighed about 300 pounds.
 Tom said he thought it could happen in Boston, too.
 Tom said he thought he should learn how to do that.
 Tom said he hopes you won't be late again tomorrow.
@@ -7769,7 +7534,6 @@ Tom asked Mary some questions that she didn't want to answer.
 Tom and his buddies slit the throats of eleven men and women.
 Tom and his buddies slit the throats of eleven men and women.
 Tom and Mary were worried about getting caught by the police.
-Tom, Mary and their children went to Boston last weekend.
 Tom and Mary went for a romantic moonlight walk on the beach.
 Tom and Mary talked about what they should do with the money.
 Tom and Mary spent the evening talking about John's problems.
@@ -7797,7 +7561,6 @@ This custom has become firmly established among the Japanese.
 This book, which was once a best seller, is now out of print.
 This airplane is capable of carrying 40 passengers at a time.
 Things are more like they are now than they ever were before.
-They say that the Vikings discovered America before Columbus.
 They disguised themselves as fishermen and escaped in a boat.
 They built their empire in Peru about five hundred years ago.
 These small letters can only be read with a magnifying glass.
@@ -7926,8 +7689,6 @@ It'll take Tom some time, but eventually he'll get over Mary.
 It'll be a long time before she gets over her father's death.
 It would never have occurred to me to say anything like that.
 It will not be long before one out of five people owns a car.
-It was obvious to everyone that Tom didn't want to be there.
-It was obvious to everyone that Tom didn't want to be there.
 It was not until a few days later that we heard the sad news.
 It was in 1912 that the Titanic sank during her first voyage.
 It was hard for me to sell my guitar, but I needed the money.
@@ -8072,7 +7833,6 @@ Go to sleep, Tom. You need to wake up early tomorrow morning.
 Go to sleep, Tom. You need to wake up early tomorrow morning.
 Forest conservation is an important issue all over the world.
 For your own safety, never ride in a car with a drunk driver.
-First, I don't have any money. Second, I don't have the time.
 Everything was covered with snow as far as the eye could see.
 Everything happened very quickly and it was all very strange.
 Everything at that store is 10 percent off the regular price.
@@ -8113,7 +7873,6 @@ After I shut the door, I remembered I had left my key behind.
 According to what they say, that boy is very good at singing.
 A silver wedding anniversary celebrates 25 years of marriage.
 A new team was formed in order to take part in the boat race.
-A man is as old as he feels and a woman as old as she looks.
 A good sailor only requires a short time to get his sea legs.
 A friend of mine is looking for someone who can speak French.
 "Would you get me a cup of coffee?" "With pleasure, my dear."
@@ -8151,7 +7910,6 @@ You don't realize its value until you have lost your health.
 You don't need to explain it to me. I already understand it.
 You can't fight a good fight with such a defeatist attitude.
 You can lie to everyone else, but you can't lie to yourself.
-You can lead a horse to water, but you can't make it drink.
 You can lead a horse to water, but you can't make him drink.
 You can go play with your friends when your chores are done.
 Write the amount on the check in letters as well as figures.
@@ -8199,7 +7957,6 @@ We attribute Edison's success to intelligence and hard work.
 Unless they have a good wine list, I don't want to eat here.
 Unfortunately, Tom was in the wrong place at the wrong time.
 Unfortunately, I believed all the lies that Tom was telling.
-U.S.S.R. stands for the Union of Soviet Socialist Republics.
 Two trains collided head-on in Italy, killing 22 passengers.
 Tom, Mary, John and Alice were all born on October 20, 2013.
 Tom's parents didn't want him to become a used car salesman.
@@ -8233,7 +7990,6 @@ Tom told the doctor that he'd fainted three times last week.
 Tom told me that he had been skydiving since he was sixteen.
 Tom told everyone he was able to speak three languages.
 Tom told Mary that she should quit pretending to be married.
-Tom told Mary that she should quit pretending to be married.
 Tom thought the used car salesman was trying to rip him off.
 Tom thought it would be funny to put an egg on Mary's chair.
 Tom thinks his country is the greatest country in the world.
@@ -8254,15 +8010,10 @@ Tom sat alone at the table with a half-empty bottle of wine.
 Tom said that he'd never eaten such a delicious meal before.
 Tom said he'd had nothing to do with what had happened.
 Tom said he thought he'd be able to do that today.
-Tom said he thought it wouldn't be possible to do that.
-Tom said he thought he knew what Mary planned to do.
 Tom said he doesn't think Mary will do that again.
-Tom said he doesn't think Mary really wants to do that.
-Tom said he didn't think Mary really needed to do that.
 Tom said his life has changed a lot in the last three years.
 Tom said he'd be able to help us do that tomorrow afternoon.
 Tom said he thought it wouldn't be possible to do that.
-Tom said he thought he knew what Mary planned to do.
 Tom said he thought Mary might want to walk home by herself.
 Tom said he doesn't think Mary really wants to do that.
 Tom said he didn't think Mary really needed to do that.
@@ -8292,7 +8043,6 @@ Tom knows that I don't care whether he comes with us or not.
 Tom kept talking and didn't let Mary get a word in edgewise.
 Tom just sat there, looking at his reflection in the window.
 Tom is rich enough to do just about anything he wants to do.
-Tom is looking for someone to teach French to his kids.
 Tom is irritating because he always has to have his own way.
 Tom hopes that Mary will like the present he bought for her.
 Tom has two sons. One is a doctor and the other is a lawyer.
@@ -8517,7 +8267,6 @@ It smells like Tom is wearing the same perfume that Mary is.
 It seems that our sense of direction is not always reliable.
 It seems as if I'm the only person here capable of doing it.
 It seems as if I'm the only person here capable of doing it.
-It makes little difference whether you go today or tomorrow.
 It is impossible for me to finish my term paper by tomorrow.
 It cost me quite a bit to take a taxi home from the station.
 Isn't it true that you visited her on the night in question?
@@ -8529,9 +8278,6 @@ Instead of watching television, the children played outside.
 In the park, some sat on benches, and others strolled about.
 In the course of our conversation, he referred to his youth.
 In spite of the language difficulty, we soon became friends.
-In Japan, people legally become adults at the age of twenty.
-Lincoln was elected President of the United States in 1860.
-Lincoln was elected President of the United States in 1860.
 If your prices are competitive, we will place a large order.
 If you want something done right, you should do it yourself.
 If you trust such a fellow, you'll lose everything you have.
@@ -8560,7 +8306,6 @@ I'm sure Tom told you Mary wanted to come to the party, too.
 I'm sorry, but I didn't understand what you said in English.
 I'm really worried that my parents aren't going to like Tom.
 I'm not going to tell you what happened until you calm down.
-I'm fairly certain Tom and Mary have both already done that.
 I'm fairly certain Tom and Mary have both already done that.
 I'll treat you like an adult when you start acting like one.
 I'll probably be back in Boston a couple of times next year.
@@ -8610,7 +8355,6 @@ I have an important meeting I have to attend this afternoon.
 I have a feeling that something dreadful is going to happen.
 I had never seen a windmill until I visited the Netherlands.
 I had a hard time trying to persuade him to cancel the trip.
-I had a hard time trying to persuade him to cancel the trip.
 I grew up in a very small town where everyone knew everyone.
 I enforce the rules even though I don't agree with them all.
 I don't think you need that much money to buy what you need.
@@ -8622,7 +8366,6 @@ I don't remember what time Tom told me to meet him tomorrow.
 I don't like the smell of the perfume Mary is wearing today.
 I don't know what you're cooking, but it smells really good.
 I don't have time to do all the things that need to be done.
-I don't have the courage to ask my boss to lend me his car.
 I didn't have enough time to eat everything that was served.
 I didn't have anything else to do, so I thought I'd drop by.
 I couldn't help but feel disappointed when I heard the news.
@@ -8701,7 +8444,6 @@ Are you really planning to spend the rest of your life here?
 Are you interested in participating in this discussion, Tom?
 Are you honestly telling me you never want to see Tom again?
 Are you going somewhere tonight, or are you staying in?
-Are you going somewhere tonight, or are you staying in?
 Are they arriving at ten o'clock in the morning or at night?
 An orphan at three, he was brought up by a distant relative.
 Am I correct in assuming that you wish you hadn't done that?
@@ -8733,7 +8475,6 @@ You really should've been more clear about what you wanted.
 You promised that you'd stand by me through thick and thin.
 You promised that you'd stand by me through thick and thin.
 You must remove your shoes when you enter a Japanese house.
-You have to blow out all the candles on your birthday cake.
 You don't seem to have any problem communicating in French.
 You don't need to be a rocket scientist to figure that out.
 You don't know how bad I want to learn how to speak French.
@@ -8817,7 +8558,6 @@ Tom walked through the revolving door into the hotel lobby.
 Tom waited for three hours, but nobody came to pick him up.
 Tom waited an hour in the hallway outside Mary's apartment.
 Tom tried to make up for his lack of sleep by taking a nap.
-Tom took the CD out of its case and put it into the player.
 Tom took out his cell phone so that he could take a selfie.
 Tom took his glasses off and put them on the bedside table.
 Tom took a flower out of the vase while no one was looking.
@@ -8826,7 +8566,6 @@ Tom thought Mary was the most beautiful woman in the world.
 Tom thinks schools should teach children to obey authority.
 Tom thinks Mary doesn't have an inkling of what's going on.
 Tom talked to Mary about things he usually kept to himself.
-Tom suddenly realized what he was doing was very dangerous.
 Tom signed his name with the new pen that he got from Mary.
 Tom showed no consideration whatsoever for Mary's feelings.
 Tom shared the apartment with Mary and three other friends.
@@ -8835,15 +8574,11 @@ Tom said he'd rather stay at a hotel near the airport.
 Tom said that he was really sleepy and wanted to go to bed.
 Tom said he thought he knew what the problem was.
 Tom said he thought I might need to do that this week.
-Tom said he thought I might need to do that by myself.
 Tom said that he had a bad headache and needed to lie down.
-Tom said he didn't know Mary could speak French.
-Tom said he thought I might need to do that this week.
 Tom said he thought I might need to do that by myself.
 Tom said he thought Mary needed to do that before she left.
 Tom said he saw something suspicious the morning Mary died.
 Tom said he saw a shark the other day when he was swimming.
-Tom said he didn't know Mary could speak French.
 Tom said Mary would help him, but I didn't think she would.
 Tom said Mary knew he might not need to do that by himself.
 Tom rinsed off the plates and put them into the dishwasher.
@@ -8897,7 +8632,6 @@ Tom didn't intend to spend so much time painting the fence.
 Tom didn't even write one letter to Mary while he was away.
 Tom didn't even have the decency to admit it was his fault.
 Tom did his utmost to stop his marriage from falling apart.
-Tom couldn't produce any evidence to back his statement up.
 Tom climbed a nearby tree to see if he could see the ocean.
 Tom claimed that the enormous property was at his disposal.
 Tom certainly seems to be spending a lot of time with Mary.
@@ -9021,7 +8755,6 @@ She's only two years old, but she can already count to 100.
 She's only two years old, but she can already count to 100.
 She's not here to defend herself against these accusations.
 She's feeling much better thanks to that medical treatment.
-Her illness kept her in the hospital for six weeks.
 She talked about Paris as if she had been there many times.
 While swimming in the pool, she lost her locker key.
 She got married soon after her graduation from the college.
@@ -9054,7 +8787,6 @@ Nothing could've prepared Tom for what was about to happen.
 Nobody noticed that she was absent until the meeting ended.
 Nobody noticed that she was absent until the meeting ended.
 No matter what you do, you're not going to get me to laugh.
-No matter how much I think about it, I can't understand it.
 No matter how much I think about it, I can't understand it.
 No matter how bad it gets, she won't die from that disease.
 No less than three hundred dollars was needed for the work.
@@ -9179,7 +8911,6 @@ I was planning to call him, but changed my mind and didn't.
 I want to travel this summer, but I don't know where to go.
 I want to see if I can find out what happened to those men.
 I want to hear the whole story. Don't skip any details.
-I want to go to Boston at least one more time before I die.
 I want to arrive at Kennedy Airport early in the afternoon.
 I tried to leave early, but people kept asking me for help.
 I thought you might like to know who's coming to our party.
@@ -9187,7 +8918,6 @@ I thought I would be nervous, but I was cool as a cucumber.
 I think you're the woman I've been waiting for all my life.
 I think you ought to forgive us, now that we've apologized.
 I think that games such as Candy Crush are a waste of time.
-I think I now have enough money to buy the car I want.
 I think I've found someone interested in buying your house.
 I think I've found someone interested in buying your house.
 I think I'm the only one working here who can speak French.
@@ -9207,10 +8937,8 @@ I need another can of paint to finish painting the ceiling.
 I liked the sour cherry strudel and the nut filled strudel.
 I like outdoor sports, such as baseball, tennis and soccer.
 I know you're not planning on staying here for a long time.
-I know Tom is allowed to do almost anything he wants.
 I just wanted to explain why I couldn't help the other day.
 I just told Tom that I wanted to help him clean the garage.
-I hope you're the one who's going to be doing the driving.
 I hope Tom stays in Boston for at least another three days.
 I hear that Tom now works at the same company as Mary does.
 I have to brush up my French before I go to Paris to study.
@@ -9294,8 +9022,6 @@ Having a college degree doesn't guarantee you'll get a job.
 Have you ever subscribed to any English language newspaper?
 Had I known your telephone number, I would have called you.
 Had I known your telephone number, I would have called you.
-If I'd known your telephone number, I would've called you.
-Had I known your telephone number, I would have called you.
 Go straight until you see the post office, then turn right.
 Go straight until you see the post office, then turn right.
 Generally speaking, men are physically stronger than women.
@@ -9355,7 +9081,6 @@ A well-made cup of coffee should require no cream or sugar.
 A study showed that eating too fast contributes to obesity.
 A portion of the island was destroyed by the massive waves.
 A lot of people are waiting to see what is going to happen.
-A group of foreigners arrived in Edo, i.e. Tokyo.
 A group of foreigners arrived in Edo, i.e. Tokyo.
 A fool always believes that it is the others who are fools.
 "Would you get me a cup of coffee?" "Sure. I'd be glad to."
@@ -9419,9 +9144,6 @@ When I go to see my grandson, I always give him something.
 When I arrived at the station, the train had already left.
 What's the name of the piece that the orchestra's playing?
 What would you like for dessert, ice cream or fresh fruit?
-What would you do if the world was going to end tomorrow?
-What would you do if the world was going to end tomorrow?
-What would you do if the world was going to end tomorrow?
 What time tomorrow evening would you like me to come over?
 What mountain do you think is the second highest in Japan?
 What mountain do you think is the second highest in Japan?
@@ -9490,7 +9212,6 @@ Tom suffered severe head injuries in a fall from his bike.
 Tom spoiled the movie for Mary by telling her how it ends.
 Tom spoiled the movie for Mary by telling her how it ends.
 Tom spent a lot of time playing games when he was a kid.
-Tom speaks French so badly that he's often misunderstood.
 Tom smelled Mary's perfume as soon as he entered the room.
 Tom should definitely start worrying about losing his job.
 Tom seems to always say the right thing at the right time.
@@ -9503,14 +9224,11 @@ Tom sat under a tree, sketching something in his notebook.
 Tom sat down on the park bench and began to read his book.
 Tom said that probably wouldn't happen again anytime soon.
 Tom said that he wasn't the only one who hated doing that.
-Tom said he thought Mary might need to do that today.
 Tom said he didn't think the cold bothered Mary.
 Tom said he didn't know what Mary was supposed to do.
 Tom said he didn't know Mary could speak French.
-Tom said he didn't believe Mary would really do that.
 Tom said that he and Mary would probably be a little late.
 Tom said he'd hurt my family if I didn't do what he asked.
-Tom said he thought Mary might need to do that today.
 Tom said he didn't believe Mary would really do that.
 Tom rolled up the poster and put it into a cardboard tube.
 Tom rented a truck to move his furniture to his new house.
@@ -9744,7 +9462,6 @@ Tell me what you're looking for and I'll help you find it.
 Suddenly a man appeared, grabbed my suitcase and ran away.
 Some dog owners wonder if it's OK to feed their dogs fish.
 Slavery in the United States was not abolished until 1865.
-Slavery in the United States was not abolished until 1865.
 Singing comes as naturally to her as flying does to birds.
 Since the light in his room is on, he must have come home.
 Since I wrote the report in a hurry, it had many mistakes.
@@ -9862,7 +9579,6 @@ It took Tom months to recover from his motorbike accident.
 It seems that the teacher mistook me for my older brother.
 It says in the Bible, "Man shall not live on bread alone."
 It rained yesterday after it had been dry for a long time.
-It never occurred to me that she was sick in the hospital.
 It makes no difference to me whether you are rich or poor.
 It is up to you to decide whether we will go there or not.
 It is not polite to interrupt someone while he is talking.
@@ -9892,9 +9608,6 @@ If you happen to see him, please give him my best regards.
 If you can't keep your promise, what excuse will you make?
 If we hadn't lost our way, we would have been here sooner.
 If we don't finish this job, we'll lose the next contract.
-What would you do if the world was going to end tomorrow?
-What would you do if the world was going to end tomorrow?
-What would you do if the world was going to end tomorrow?
 If he'd taken his doctor's advice, he might not have died.
 If by any chance he comes here, I'll let you know at once.
 If by any chance he comes here, I'll let you know at once.
@@ -9969,7 +9682,6 @@ I tried to give her some money, but she wouldn't take any.
 I trained my dog to bring me the newspaper in the morning.
 I thought a cup of coffee might make you feel better.
 I thought Tom could handle the job if I gave him a chance.
-I thought I told you I didn't want you to do that anymore.
 I think you'll regret it if you sell your father's guitar.
 I think we need to find out why Tom wasn't here yesterday.
 I think we need to find out who Tom plans to give that to.
@@ -10016,7 +9728,6 @@ I figured it wouldn't hurt to wait for a few more minutes.
 I especially want to thank our record-breaking sales team.
 I dropped by the bookstore and bought an interesting book.
 I don't understand why you hang out with Tom all the time.
-I don't think we'll be hearing from Tom for quite a while.
 I don't think that Tom knows that he has to do that today.
 I don't think a native speaker would ever say it that way.
 I don't think I can apply for a job anywhere. I'm too old.
@@ -10122,7 +9833,6 @@ Antonio Guzmán Blanco came to power in Venezuela in 1870.
 And to make matters worse, he met with a traffic accident.
 An hour has sixty minutes, and a minute has sixty seconds.
 Among the items found in the purse was the photo of a man.
-Although I enjoy bowling, I haven't gone bowling recently.
 All those who take up the sword shall perish by the sword.
 All communication with that airplane was suddenly cut off.
 Airplanes enable people to travel great distances rapidly.
@@ -10203,7 +9913,6 @@ What makes you think that Tom's interested in helping us?
 What language do you use when you talk with your parents?
 What have you done with my pen? It was here a minute ago.
 What has become of the book I put here a few minutes ago?
-What has become of the book I put here a few minutes ago?
 What difference does it make if people are looking at us?
 What changes the world is communication, not information.
 What changes the world is communication, not information.
@@ -10226,7 +9935,6 @@ We have to tell Tom before he hears it from someone else.
 We have to keep trying until we find a method that works.
 We have to figure out a way to keep Tom from seeing Mary.
 We have to do something to stop Tom from hurting himself.
-We have something very important that we have to discuss.
 We have something very important that we have to discuss.
 We have more important things that need to be dealt with.
 We don't really have to talk about this right now, do we?
@@ -10281,7 +9989,6 @@ Tom took off his wedding ring and threw it into the pond.
 Tom took a picture of his old camera with his new camera.
 Tom took a picture of his old camera with his new camera.
 Tom told me he didn't have any brothers and sisters.
-Tom told me he didn't have any brothers and sisters.
 Tom told me I should spend more time with my family.
 Tom told Mary not to blame herself for what had happened.
 Tom told Mary everything he knew about what had happened.
@@ -10300,9 +10007,7 @@ Tom says he can trace his ancestors back about 300 years.
 Tom sat down on a rock and removed a stone from his shoe.
 Tom sat down at the counter and ate a tuna fish sandwich.
 Tom said that he was very sleepy and wanted to go to bed.
-Tom said he thought we shouldn't go to Mary's party.
 Tom said he thought Mary's suggestion was good.
-Tom said he thought it would be possible to do that.
 Tom said he thought he knew what Mary planned to do.
 Tom said he intends to go to Australia next October.
 Tom said he hoped Mary would come to his party.
