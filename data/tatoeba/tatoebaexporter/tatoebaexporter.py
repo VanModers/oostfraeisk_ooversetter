@@ -52,11 +52,30 @@ def read_pairs():
     return [(row.german_id, row.german_text, row.frisian_text) for row in selected_rows]
 
 
+LEGACY_STATUS = {
+    "bereits vorhanden": STATUS_EXISTING,
+    "übersprungen": STATUS_SKIPPED,
+}
+
+
+def migrate_status(status):
+    """Map status values written by the German version of the app."""
+    if status in LEGACY_STATUS:
+        return LEGACY_STATUS[status]
+    if status.startswith("eingef"):
+        return STATUS_UNVERIFIED if "(" in status else STATUS_INSERTED
+    return status
+
+
 def load_state(path):
     if not path.exists():
         return {}
     with path.open(encoding="utf-8") as source:
-        return json.load(source)
+        state = json.load(source)
+    for item in state.values():
+        item["status"] = migrate_status(item["status"])
+    save_state(path, state)
+    return state
 
 
 def save_state(path, state):
