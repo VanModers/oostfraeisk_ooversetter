@@ -65,6 +65,27 @@ def get_specific_line(file_path, line_number):
     return ""
 
 
+def read_tsv_rows(file_path):
+    rows = []
+    try:
+        with open(file_path, 'r', encoding='utf-8-sig') as f:
+            for raw in f:
+                line = raw.rstrip('\n').rstrip('\r')
+                if not line.strip() or line.lstrip().startswith('#'):
+                    continue
+                parts = line.split('\t')
+                if len(parts) != 3:
+                    continue
+                try:
+                    sid = int(parts[0].strip())
+                except ValueError:
+                    continue
+                rows.append((sid, parts[1], parts[2]))
+    except Exception as e:
+        print(f"Error reading TSV: {e}")
+    return rows
+
+
 def read_verified_indices(log_path):
     """Load the verified line indices, ignoring comments and blank lines."""
     indices = set()
@@ -109,7 +130,7 @@ def remove_error_entry(error_path, index):
     """
     if not os.path.exists(error_path):
         return
-    pattern = re.compile(r"^Line\s+(\d+)\s+\|")
+    pattern = re.compile(r"^(?:Line|ID)\s+(\d+)\s+\|")
     with open(error_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     with open(error_path, 'w', encoding='utf-8') as f:
@@ -434,10 +455,10 @@ def speak(text, cache=None):
         print(f"  TTS: playback failed ({e})")
 
 
-def show_and_speak(current_line, total_lines, de_text, frs_text, cache=None, read_aloud=True):
+def show_and_speak(position, total_lines, current_id, de_text, frs_text, cache=None, read_aloud=True):
     """Print the sentence pair and read the East Frisian sentence aloud."""
-    percentage = ((current_line - 1) / total_lines) * 100
-    print(f"Line {current_line} / {total_lines} ({percentage:.2f}%)")
+    percentage = ((position - 1) / total_lines) * 100
+    print(f"ID {current_id}  ({position} / {total_lines}, {percentage:.2f}%)")
     print(f"DE:  {de_text}")
     print(f"FRS: {frs_text}")
 
@@ -445,26 +466,35 @@ def show_and_speak(current_line, total_lines, de_text, frs_text, cache=None, rea
         speak(frs_text, cache=cache)
 
 
-def run_translation_check(de_path, frs_path, log_path, error_path):
+def run_translation_check(tsv_path, log_path, error_path):
     global AUTO_READ
-    # Load all previously processed line indices into a set for O(1) lookups
-    verified_indices = read_verified_indices(log_path)
+    # Load all previously verified Tatoeba IDs into a set for O(1) lookups
+    verified_ids = read_verified_indices(log_path)
 
-    total_lines = get_total_lines(de_path)
-    if total_lines == 0:
-        print(f"\nERROR: Could not read source file or file is empty: {de_path}")
+    rows = read_tsv_rows(tsv_path)
+    if not rows:
+        print(f"\nERROR: Could not read source file or file is empty: {tsv_path}")
         return
 
-    # Find the first unverified line to display as the resume point
-    start_line_number = 1
-    for i in range(1, total_lines + 2):
-        if i not in verified_indices:
-            start_line_number = i
+    total_rows = len(rows)
+    # Map each Tatoeba ID to its position (0-based) in the (ID-sorted) row list.
+    id_to_index = {sid: i for i, (sid, _, _) in enumerate(rows)}
+
+    # Find the first unverified row to display as the resume point
+    start_index = 0
+    for i in range(total_rows + 1):
+        if i >= total_rows:
+            start_index = total_rows
+            break
+        sid = rows[i][0]
+        if sid not in verified_ids:
+            start_index = i
             break
 
     print(f"--- East Frisian Translation Validator ---")
-    print(f"Total Lines in File: {total_lines}")
-    print(f"Resuming at the first unverified line: {start_line_number}")
+    print(f"Total Rows in File: {total_rows}")
+    print(f"Resuming at the first unverified sentence: "
+          f"ID {rows[start_index][0] if start_index < total_rows else '-'}")
     if TTS_TOKEN:
         print("Audio: East Frisian sentences are read aloud via the HF TTS Space")
     else:
@@ -474,128 +504,121 @@ def run_translation_check(de_path, frs_path, log_path, error_path):
           "[b] = Back (undo previous), [exit] = Stop\n")
 
     try:
-        with open(de_path, 'r', encoding='utf-8-sig') as de_file, \
-             open(frs_path, 'r', encoding='utf-8-sig') as frs_file:
+        # Background synthesis cache, active only when a token is available.
+        cache = TtsCache() if TTS_TOKEN else None
 
-            # Read both files up front so we can prefetch ahead by index.
-            de_lines = [line.rstrip('\n') for line in de_file]
-            frs_lines = [line.rstrip('\n') for line in frs_file]
-            line_count = min(len(de_lines), len(frs_lines))
+        # Prime the first sentences so the audio is ready when we get there.
+        if cache is not None and start_index < total_rows:
+            warmup = [rows[i][2].strip() for i in range(start_index, min(start_index + PREFETCH_AHEAD, total_rows))]
+            warmup = [t for t in warmup if t]
+            if warmup:
+                print(f"Filling audio cache ({len(warmup)} sentences)...", flush=True)
+                cache.schedule(warmup)
+                cache.ready()
+                print("Audio cache ready.\n")
 
-            # Background synthesis cache, active only when a token is available.
-            cache = TtsCache() if TTS_TOKEN else None
+        try:
+            # Index-based loop so [b] can jump back to earlier sentences.
+            current_index = start_index
+            while current_index < total_rows:
+                current_id = rows[current_index][0]
+                position = current_index + 1
 
-            # Prime the first sentences so the audio is ready when we get there,
-            # and show that the cache is being filled.
-            if cache is not None:
-                first_unverified = max(start_line_number - 1, 0)
-                warmup = frs_lines[first_unverified:first_unverified + PREFETCH_AHEAD]
-                warmup = [text.strip() for text in warmup if text.strip()]
-                if warmup:
-                    print(f"Filling audio cache ({len(warmup)} sentences)...", flush=True)
-                    cache.schedule(warmup)
-                    cache.ready()
-                    print("Audio cache ready.\n")
+                # Dynamically skip any row whose ID is already verified
+                if current_id in verified_ids:
+                    current_index += 1
+                    continue
 
-            try:
-                # Index-based loop so [b] can jump back to earlier sentences.
-                current_index = start_line_number - 1
-                while current_index < line_count:
-                    current_line = current_index + 1
+                de_text = rows[current_index][1].strip()
+                frs_text = rows[current_index][2].strip()
 
-                    # Dynamically skip any line that exists in your verified_indices set
-                    if current_line in verified_indices:
-                        current_index += 1
-                        continue
+                if not de_text or not frs_text:
+                    append_line(log_path, current_id)
+                    verified_ids.add(current_id)
+                    current_index += 1
+                    continue
 
-                    de_text = de_lines[current_index].strip()
-                    frs_text = frs_lines[current_index].strip()
-
-                    if not de_text or not frs_text:
-                        append_line(log_path, current_line)
-                        verified_indices.add(current_line)
-                        current_index += 1
-                        continue
-
-                    if cache is not None:
-                        cache.schedule(frs_lines[current_line:current_line + PREFETCH_AHEAD])
-
-                    show_and_speak(current_line, total_lines, de_text, frs_text, cache=cache)
-
-                    while True:
-                        user_input = input("Valid? (y/n/p/m/r/b/exit): ").lower().strip()
-
-                        if user_input == 'p':
-                            speak(frs_text, cache=cache)
-                            continue
-
-                        if user_input == 'm':
-                            AUTO_READ = not AUTO_READ
-                            state = "on" if AUTO_READ else "off"
-                            print(f"Automatic playback: {state}\n")
-                            if AUTO_READ:
-                                speak(frs_text, cache=cache)
-                            continue
-
-                        if user_input == 'r':
-                            print("\n--- Reloading file from disk... ---")
-                            de_text = get_specific_line(de_path, current_line)
-                            frs_text = get_specific_line(frs_path, current_line)
-                            # Keep the in-memory copy in sync with the file.
-                            de_lines[current_index] = de_text
-                            frs_lines[current_index] = frs_text
-                            show_and_speak(current_line, total_lines, de_text, frs_text,
-                                           cache=cache, read_aloud=False)
-                            continue
-
-                        if user_input == 'b':
-                            # Jump to the most recently handled sentence and undo
-                            # its stored result, so it can be reviewed again.
-                            earlier = [i for i in verified_indices if i < current_line]
-                            if not earlier:
-                                print("No earlier sentence to go back to.\n")
-                                continue
-                            target = max(earlier)
-                            undo_verified_index(log_path, error_path, verified_indices, target)
-                            print(f"\nStatus: Back to line {target}. "
-                                  f"Its previous result was undone.\n")
-                            current_index = target - 1
-                            break
-
-                        if user_input == 'y':
-                            append_line(log_path, current_line)
-                            verified_indices.add(current_line)
-                            print("Status: Verified.\n")
-                            current_index += 1
-                            break
-
-                        elif user_input == 'exit':
-                            print(f"\nExiting. Next time you will resume at the next unverified line.")
-                            return
-
-                        else:
-                            append_line(error_path,
-                                        f"Line {current_line} | DE: {de_text} | FY: {frs_text}")
-                            append_line(log_path, current_line)
-                            verified_indices.add(current_line)
-                            print(f"Status: Sent to {error_path}\n")
-                            current_index += 1
-                            break
-
-                print("--- All lines have been reviewed! ---")
-            finally:
                 if cache is not None:
-                    cache.stop()
+                    nxt = [rows[i][2].strip() for i in range(current_index, min(current_index + PREFETCH_AHEAD + 1, total_rows))]
+                    cache.schedule(nxt)
+
+                show_and_speak(position, total_rows, current_id, de_text, frs_text, cache=cache)
+
+                while True:
+                    user_input = input("Valid? (y/n/p/m/r/b/exit): ").lower().strip()
+
+                    if user_input == 'p':
+                        speak(frs_text, cache=cache)
+                        continue
+
+                    if user_input == 'm':
+                        AUTO_READ = not AUTO_READ
+                        state = "on" if AUTO_READ else "off"
+                        print(f"Automatic playback: {state}\n")
+                        if AUTO_READ:
+                            speak(frs_text, cache=cache)
+                        continue
+
+                    if user_input == 'r':
+                        print("\n--- Reloading row from disk... ---")
+                        fresh = read_tsv_rows(tsv_path)
+                        if fresh and current_index < len(fresh):
+                            rows[current_index] = fresh[current_index]
+                        current_id = rows[current_index][0]
+                        de_text = rows[current_index][1].strip()
+                        frs_text = rows[current_index][2].strip()
+                        show_and_speak(position, total_rows, current_id, de_text, frs_text,
+                                       cache=cache, read_aloud=False)
+                        continue
+
+                    if user_input == 'b':
+                        # Jump to the most recently handled sentence (by position)
+                        # and undo its stored result, so it can be reviewed again.
+                        earlier = [rid for rid in verified_ids
+                                   if id_to_index.get(rid, -1) < current_index]
+                        if not earlier:
+                            print("No earlier sentence to go back to.\n")
+                            continue
+                        target_id = max(earlier, key=lambda rid: id_to_index.get(rid, -1))
+                        undo_verified_index(log_path, error_path, verified_ids, target_id)
+                        print(f"\nStatus: Back to ID {target_id}. "
+                              f"Its previous result was undone.\n")
+                        current_index = id_to_index[target_id]
+                        break
+
+                    if user_input == 'y':
+                        append_line(log_path, current_id)
+                        verified_ids.add(current_id)
+                        print("Status: Verified.\n")
+                        current_index += 1
+                        break
+
+                    elif user_input == 'exit':
+                        print(f"\nExiting. Next time you will resume at the next unverified sentence.")
+                        return
+
+                    else:
+                        append_line(error_path,
+                                    f"ID {current_id} | DE: {de_text} | FY: {frs_text}")
+                        append_line(log_path, current_id)
+                        verified_ids.add(current_id)
+                        print(f"Status: Sent to {error_path}\n")
+                        current_index += 1
+                        break
+
+            print("--- All sentences have been reviewed! ---")
+        finally:
+            if cache is not None:
+                cache.stop()
 
     except FileNotFoundError:
         print(f"\nERROR: Could not find the source files.")
 
 if __name__ == "__main__":
-    GERMAN_FILE   = "../german_tatoeba.txt"
-    FRISIAN_FILE  = "../eastfrisian_tatoeba.txt"
+    TSV_FILE      = "../tatoeba_frs_export.tsv"
     LOG_FILE      = "verified_indices.txt"
     CORRECT_FILE  = "sentences-to-correct.txt"
 
     load_tts_token()
     use_safe_console()
-    run_translation_check(GERMAN_FILE, FRISIAN_FILE, LOG_FILE, CORRECT_FILE)
+    run_translation_check(TSV_FILE, LOG_FILE, CORRECT_FILE)

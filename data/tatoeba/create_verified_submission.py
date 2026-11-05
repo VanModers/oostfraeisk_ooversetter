@@ -40,7 +40,7 @@ DEFAULT_VERIFIED = BASE_DIR / "verifyer" / "verified_indices.txt"
 DEFAULT_CORRECTIONS = BASE_DIR / "verifyer" / "sentences-to-correct.txt"
 DEFAULT_OUTPUT = BASE_DIR / "tatoeba_frs_verified_3000.tsv"
 
-CORRECTION_INDEX_RE = re.compile(r"^Line\s+(\d+)\s+\|")
+CORRECTION_INDEX_RE = re.compile(r"^(?:Line|ID)\s+(\d+)\s+\|")
 
 
 @dataclass(frozen=True)
@@ -164,34 +164,39 @@ def read_correction_indices(path: Path) -> set[int]:
 
 def select_rows(
     rows: list[ExportRow],
-    verified_indices: set[int],
-    correction_indices: set[int],
+    verified_ids: set[int],
+    correction_ids: set[int],
     count: int,
 ) -> tuple[list[ExportRow], list[int]]:
-    """Return the first ``count`` verified, non-flagged rows by source index."""
+    """Return the first ``count`` verified, non-flagged rows by row order.
+
+    ``verified_ids`` / ``correction_ids`` are Tatoeba German sentence IDs.
+    Selection follows the (ID-sorted) row order of ``rows``.
+    """
     if count < 1:
         raise ValueError("count must be at least 1")
 
-    invalid_indices = sorted(
-        index
-        for index in verified_indices | correction_indices
-        if index > len(rows)
-    )
-    if invalid_indices:
-        preview = ", ".join(map(str, invalid_indices[:10]))
-        raise ValueError(
-            f"row index exceeds the {len(rows)} source rows: {preview}"
-        )
+    row_ids = {row.german_id for row in rows}
+    unknown = sorted((verified_ids | correction_ids) - row_ids)
+    if unknown:
+        preview = ", ".join(map(str, unknown[:10]))
+        raise ValueError(f"unknown Tatoeba sentence ID(s): {preview}")
 
-    eligible_indices = sorted(verified_indices - correction_indices)
-    if len(eligible_indices) < count:
+    eligible_ids = verified_ids - correction_ids
+    if len(eligible_ids) < count:
         raise ValueError(
             f"requested {count} corrected pairs, but only "
-            f"{len(eligible_indices)} are currently eligible"
+            f"{len(eligible_ids)} are currently eligible"
         )
 
-    selected_indices = eligible_indices[:count]
-    selected_rows = [rows[index - 1] for index in selected_indices]
+    selected_rows: list[ExportRow] = []
+    selected_ids: list[int] = []
+    for row in rows:
+        if row.german_id in eligible_ids:
+            selected_rows.append(row)
+            selected_ids.append(row.german_id)
+            if len(selected_rows) >= count:
+                break
 
     german_ids = [row.german_id for row in selected_rows]
     if len(german_ids) != len(set(german_ids)):
@@ -201,7 +206,7 @@ def select_rows(
     if len(pairs) != len(set(pairs)):
         raise ValueError("selected rows contain duplicate sentence pairs")
 
-    return selected_rows, selected_indices
+    return selected_rows, selected_ids
 
 
 def write_submission(path: Path, rows: list[ExportRow]) -> None:
@@ -265,21 +270,21 @@ def main() -> None:
         read_aligned_sentences(args.german),
         read_aligned_sentences(args.frisian),
     )
-    verified_indices = read_verified_indices(args.verified)
-    correction_indices = read_correction_indices(args.corrections)
-    selected_rows, selected_indices = select_rows(
-        rows, verified_indices, correction_indices, args.count
+    verified_ids = read_verified_indices(args.verified)
+    correction_ids = read_correction_indices(args.corrections)
+    selected_rows, selected_ids = select_rows(
+        rows, verified_ids, correction_ids, args.count
     )
     write_submission(args.output, selected_rows)
 
-    excluded_verified = verified_indices & correction_indices
+    excluded_verified = verified_ids & correction_ids
     print(f"Source rows: {len(rows):,}")
-    print(f"Unique verified indices: {len(verified_indices):,}")
-    print(f"Unresolved correction indices: {len(correction_indices):,}")
+    print(f"Unique verified IDs: {len(verified_ids):,}")
+    print(f"Unresolved correction IDs: {len(correction_ids):,}")
     print(f"Verified rows excluded as unresolved: {len(excluded_verified):,}")
     print(
         f"Wrote {len(selected_rows):,} corrected pairs "
-        f"(source indices {selected_indices[0]:,}-{selected_indices[-1]:,})"
+        f"(IDs {selected_ids[0]:,}-{selected_ids[-1]:,})"
     )
     print(f"Output: {args.output}")
 
