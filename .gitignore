@@ -451,3 +451,5 @@ venv/
 data/tatoeba/verifyer/verifyer_config.json
 
 data/additional/raw
+docs/
+model_cards/
