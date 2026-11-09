@@ -6,7 +6,7 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=64G
-#SBATCH --time=3-00:00:00
+#SBATCH --time=16:00:00
 #SBATCH --output=nllb-%j.log
 
 set -euo pipefail
@@ -28,21 +28,26 @@ mkdir -p "$HF_HUB_CACHE" "$HF_XET_CACHE"
 # Pass these paths explicitly to every stage, even if CLI options override them.
 TRAIN_ARGS=("$@")
 OUTPUT_DIR="${NLLB_OUTPUT_DIR:-./nllb_frs_model}"
+CHECKPOINT_DIR="${NLLB_CHECKPOINT_DIR:-}"
 VALIDATION_PATH="${NLLB_VALIDATION_PATH:-$PWD/validation data}"
 for ((i=0; i<${#TRAIN_ARGS[@]}; i++)); do
   case "${TRAIN_ARGS[i]}" in
     --output-dir) OUTPUT_DIR="${TRAIN_ARGS[i+1]:?Missing value for --output-dir}" ;;
     --output-dir=*) OUTPUT_DIR="${TRAIN_ARGS[i]#*=}" ;;
+    --checkpoint-dir) CHECKPOINT_DIR="${TRAIN_ARGS[i+1]:?Missing value for --checkpoint-dir}" ;;
+    --checkpoint-dir=*) CHECKPOINT_DIR="${TRAIN_ARGS[i]#*=}" ;;
     --validation-path) VALIDATION_PATH="${TRAIN_ARGS[i+1]:?Missing value for --validation-path}" ;;
     --validation-path=*) VALIDATION_PATH="${TRAIN_ARGS[i]#*=}" ;;
   esac
 done
+CHECKPOINT_DIR="${CHECKPOINT_DIR:-/scratch/$USER/oostfraeisk_ooversetter_training/$(basename -- "$OUTPUT_DIR")-${SLURM_JOB_ID:-manual}}"
 export NLLB_OUTPUT_DIR="$OUTPUT_DIR"
+export NLLB_CHECKPOINT_DIR="$CHECKPOINT_DIR"
 export NLLB_VALIDATION_PATH="$VALIDATION_PATH"
 
-printf 'Job: %s\nNode: %s\nPython: %s\nOutput: %s\nBenchmark: %s\n' \
+printf 'Job: %s\nNode: %s\nPython: %s\nOutput: %s\nCheckpoints: %s\nBenchmark: %s\n' \
   "${SLURM_JOB_ID:-manual}" "${SLURMD_NODENAME:-unknown}" \
-  "$(command -v python)" "$OUTPUT_DIR" "$VALIDATION_PATH"
+  "$(command -v python)" "$OUTPUT_DIR" "$CHECKPOINT_DIR" "$VALIDATION_PATH"
 
 python nllb_model/check_training_env.py --require-cuda --require-bf16
 

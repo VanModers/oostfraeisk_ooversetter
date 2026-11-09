@@ -41,29 +41,35 @@ The current trainer is configured for:
 
 ## Training data
 
-The current generated corpora and the purged internal split contain:
+The training data combines dictionary phrases and noun templates, Tatoeba
+translations, additional parallel texts, and synthetic German translations of
+original East Frisian passages.
 
-| Parallel source | Raw aligned pairs | Training pairs | Validation pairs | Excluded pairs |
-| --- | ---: | ---: | ---: | ---: |
-| German?East Frisian generated corpus | 116,349 | 97,523 | 1,000 | 17,826 |
-| Tatoeba English?East Frisian corpus | 10,018 | 4,642 | 200 | 5,176 |
-| Dictionary English?East Frisian phrases | 27,164 | 19,619 | 500 | 7,045 |
-| **Total** | **153,531** | **121,784** | **1,700** | **30,047** |
+| Parallel source | Aligned pairs | Unique nonblank pairs |
+| --- | ---: | ---: |
+| Generated German/East Frisian corpus | 117,774 | 117,267 |
+| Tatoeba German/East Frisian | 10,699 | 10,694 |
+| Tatoeba English/East Frisian | 10,699 | 10,546 |
+| Dictionary English/East Frisian phrases | 27,501 | 27,396 |
+| Additional German/East Frisian | 4,877 | 4,813 |
+| Additional English/East Frisian | 8 | 8 |
+| Synthetic German/East Frisian | 2,694 | 2,694 |
 
-Every retained pair is added in both directions: **243,568 training examples**
-and **3,400 internal validation examples**. The separate evaluation set in
-`validation data/` remains **100 German?East Frisian pairs**.
+Unique counts use normalized bilingual pairs, excluding blanks. Sources overlap:
+the generated German corpus already includes Tatoeba and additional translations,
+so source counts are not additive.
 
-The shared splitter removes normalized duplicate/blank pairs and excludes training
-rows overlapping validation text or sentence spans across languages, including
-inside concatenated paragraphs. The trainer saves input hashes and exclusions in
+The retained split contains **153,092 training pairs** and **1,700 internal
+validation pairs**. Every pair is included in both directions: **306,184 training
+examples** and **3,400 internal validation examples**. Of the training pairs,
+**2,689 (1.76%)** come from the synthetic corpus. Synthetic pairs are training-only.
+The separate reviewed set in `validation data/` contains **300 German/East Frisian
+pairs**.
+
+The shared splitter removes normalized duplicate pairs and excludes detected
+validation overlap in either language, including inside concatenated paragraphs.
+The trainer saves input hashes and exclusions in
 `nllb_frs_model/data_split_manifest.json`.
-
-The generated German corpus consists of 39,573 individual dictionary phrases,
-19,787 combined dictionary phrases, 26,564 noun-template sentences, 15,213 retained
-manual rows and 15,212 manual concatenations. The generator excludes a manual
-paragraph overlapping the separate evaluation set before augmentation. Tatoeba
-adds English alignments to Frisian translations already used in the German corpus.
 
 ## Repository layout
 
@@ -71,9 +77,9 @@ adds English alignments to Frisian translations already used in the German corpu
 | --- | --- |
 | `nllb_model/` | Main NLLB dataset loader, trainer, validator, CLI, and Gradio application |
 | `data/` | Checked-in aligned corpora and dataset-generation utilities |
-| `data/create_dataset.py` | Generates German/East Frisian and dictionary English/East Frisian files from `WFDOT.db` and `data/fan teksten/` |
+| `data/create_dataset.py` | Generates German/East Frisian and dictionary English/East Frisian files from `WFDOT.db`, Tatoeba and additional texts |
 | `data/tatoeba/` | Tatoeba-aligned German, English, and East Frisian data and verification utilities |
-| `validation data/` | Separate 100-pair German–East Frisian evaluation set |
+| `validation data/` | Separate 300-pair German–East Frisian evaluation set |
 | `train_nllb.sbatch` | HPC/Slurm preflight, training, and validation workflow |
 | `pretrained_de_frs/` | Legacy German → East Frisian Marian training code |
 | `pretrained_frs_de/` | Legacy East Frisian → German Marian training code |
@@ -99,7 +105,7 @@ python nllb_model/check_training_env.py
 python nllb_model/trainer.py
 ```
 
-PyTorch 2.6 or newer is required by the environment preflight. The configured bfloat16 and fused-optimizer training path requires a compatible GPU. Training downloads the base NLLB model and writes the result to `./nllb_frs_model`, which is ignored by Git.
+PyTorch 2.6 or newer is required by the environment preflight. The configured bfloat16 and fused-optimizer training path requires a compatible GPU. Training also requires Transformers and Accelerate. Training downloads the base NLLB model and writes the result to `./nllb_frs_model`, which is ignored by Git.
 
 On a Slurm cluster, `train_nllb.sbatch` runs the environment check, validates the currently published Hugging Face model, trains a new local model, and validates the result.
 
@@ -108,7 +114,7 @@ On a Slurm cluster, `train_nllb.sbatch` runs the environment check, validates th
 `data/create_dataset.py` requires the local dictionary database at:
 
 ```text
-oostfraeiskorg_dataset_creator/oostfraeiskorg_dataset_creator/bin/Debug/net7.0/WFDOT.db
+data/dictionary/WFDOT.db
 ```
 
 The database is intentionally ignored by Git. Regeneration overwrites `data/german.txt`, `data/eastfrisian.txt`, `data/english_db.txt`, and `data/eastfrisian_for_english_db.txt`:
@@ -119,7 +125,9 @@ python data/create_dataset.py
 
 ## Validate a model
 
-The validator evaluates German → East Frisian on the separate 100-pair validation corpus and reports teacher-forced token accuracy, average loss, and generated-text SacreBLEU:
+The validator evaluates both German/East Frisian directions on the reviewed
+300-pair corpus and reports teacher-forced token accuracy, token-weighted loss,
+SacreBLEU BLEU and chrF. It uses greedy decoding and requires SacreBLEU:
 
 ```bash
 python nllb_model/validator.py \

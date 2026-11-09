@@ -2,6 +2,7 @@
 import argparse
 import json
 import os
+import shutil
 from importlib.metadata import version
 from pathlib import Path
 
@@ -21,6 +22,8 @@ MODEL_NAME = "facebook/nllb-200-distilled-600M"
 def parse_args():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output-dir", default=os.environ.get("NLLB_OUTPUT_DIR", "./nllb_frs_model"))
+    parser.add_argument("--checkpoint-dir", default=os.environ.get("NLLB_CHECKPOINT_DIR"),
+                        help="Training checkpoints and optimizer state; defaults to --output-dir.")
     parser.add_argument("--data-path", default="data")
     parser.add_argument("--validation-path", default=default_validation_path())
     parser.add_argument("--no-synthetic", action="store_true", help="Run the real-data-only control.")
@@ -38,6 +41,8 @@ def parse_args():
 
 def main():
     args = parse_args()
+    final_dir = Path(args.output_dir)
+    checkpoint_dir = Path(args.checkpoint_dir) if args.checkpoint_dir else final_dir
     require_safe_torch_load()
     set_seed(args.seed)
     print(f"Loading {MODEL_NAME}...")
@@ -51,13 +56,13 @@ def main():
         root, tokenizer, tatoeba_path=root / "tatoeba/training", db_eng_path=root,
         external_path=args.validation_path,
         synthetic_path=None if args.no_synthetic else root / "synthetic",
-        manifest_path=Path(args.output_dir) / "data_split_manifest.json",
+        manifest_path=checkpoint_dir / "data_split_manifest.json",
         bidirectional=True,
     )
     print("Mixture: full dataset, shuffled once per epoch in both directions")
 
     training_args = Seq2SeqTrainingArguments(
-        output_dir=args.output_dir, eval_strategy="epoch", save_strategy="epoch",
+        output_dir=str(checkpoint_dir), eval_strategy="epoch", save_strategy="epoch",
         per_device_train_batch_size=args.batch_size, per_device_eval_batch_size=args.batch_size,
         gradient_accumulation_steps=args.gradient_accumulation_steps,
         num_train_epochs=args.epochs, learning_rate=args.learning_rate,
@@ -75,7 +80,7 @@ def main():
         "versions": {name: version(name) for name in ("torch", "transformers", "accelerate")},
         "training_arguments": training_args.to_dict(),
     }
-    (Path(args.output_dir) / "run_config.json").write_text(
+    (checkpoint_dir / "run_config.json").write_text(
         json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
     trainer = Seq2SeqTrainer(
         model=model, args=training_args, train_dataset=dataset["train"],
@@ -86,9 +91,13 @@ def main():
     trainer.train(resume_from_checkpoint=args.resume_from_checkpoint)
     model.tie_weights()
     model.config.use_cache = True
-    trainer.save_model(args.output_dir)
-    tokenizer.save_pretrained(args.output_dir)
-    print(f"Model saved to {args.output_dir}")
+    final_dir.mkdir(parents=True, exist_ok=True)
+    trainer.save_model(str(final_dir))
+    tokenizer.save_pretrained(final_dir)
+    if checkpoint_dir.resolve() != final_dir.resolve():
+        for name in ("run_config.json", "data_split_manifest.json"):
+            shutil.copyfile(checkpoint_dir / name, final_dir / name)
+    print(f"Model saved to {final_dir}; training checkpoints: {checkpoint_dir}")
 
 
 if __name__ == "__main__":
