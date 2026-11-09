@@ -4,13 +4,14 @@ Prints JSON to stdout. --baseline identifies the Git revision against which
 manual additions are measured. No datasets are regenerated or modified.
 """
 import argparse
+import os
 from collections import Counter
 import hashlib
 import json
 from pathlib import Path
 import random
 import subprocess
-from data_split import prepare_split, overlapping_rows
+from data_split import prepare_split, overlapping_rows, default_validation_path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCES = {
@@ -133,15 +134,24 @@ def audit(baseline):
     report["manual_pairs_missing_from_generated"] = sum(p not in de_set for p in current)
     current_train, current_validation, manifest = prepare_split(
         ROOT / "data", tatoeba_path=ROOT / "data/tatoeba/training", db_eng_path=ROOT / "data",
-        external_path=ROOT / "validation data"
+        external_path=default_validation_path(), synthetic_path=ROOT / "data/synthetic"
     )
     overlap = overlapping_rows(current_train, current_validation)
+    external_pairs, _ = read_source(tuple(str(Path(default_validation_path()) / name)
+                                         for name in ("german.txt", "eastfrisian.txt")))
+    external_rows = [(s, t, "deu_Latn", "frs_Latn", "external", i)
+                     for i, (s, t) in enumerate(external_pairs, 1)]
+    external_overlap = overlapping_rows(current_train, external_rows)
     report["current_split"] = {
         "version": manifest["version"], "counts": manifest["counts"],
+        "by_corpus": manifest["by_corpus"], "synthetic": manifest.get("synthetic"),
+        "external_validation_path": default_validation_path(),
+        "overlap_policy": manifest["overlap_policy"],
         "training_rows_overlapping_internal_validation": len(overlap),
+        "training_rows_overlapping_external_validation": len(external_overlap),
     }
-    if overlap:
-        raise ValueError("Current split contains internal overlap")
+    if overlap or external_overlap:
+        raise ValueError("Current split contains held-out overlap")
     return report
 
 

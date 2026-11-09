@@ -7,16 +7,26 @@ rows that overlap its texts or sentence spans, in either language/direction.
 """
 from collections import Counter, defaultdict
 import hashlib
+import os
 import re
 import unicodedata
 from itertools import zip_longest
 from pathlib import Path
 
-VERSION = "purged-multilingual-v2"
+VERSION = "purged-multilingual-v4"
+MIN_OVERLAP_TOKENS = 8
+
+
+def default_validation_path():
+    """Use this repository's reviewed benchmark unless explicitly overridden."""
+    if os.environ.get("NLLB_VALIDATION_PATH"):
+        return os.environ["NLLB_VALIDATION_PATH"]
+    root = Path(__file__).resolve().parents[1]
+    return str(root / "validation data")
 
 
 def prepare_split(path, val_size=1000, tatoeba_path=None, db_eng_path=None,
-                  external_path=None):
+                  external_path=None, synthetic_path=None):
     """Read the same corpora for training and the standalone audit."""
     files = [("de", Path(path) / "german.txt", Path(path) / "eastfrisian.txt", "deu_Latn")]
     if tatoeba_path is not None:
@@ -50,12 +60,70 @@ def prepare_split(path, val_size=1000, tatoeba_path=None, db_eng_path=None,
         rows.extend(loaded)
         if source != "de":
             quotas[source] = min(200 if source == "tatoeba" else 500, len(loaded) // 10)
+    # Read current human data directly: generated files may predate new additions.
+    # These sources get no new holdout quota, preserving the existing benchmark.
+    manual_sources = [("additional_de", additional)]
+    if tatoeba_path is not None:
+        manual_sources.append(("tatoeba_de", Path(tatoeba_path)))
+    for source, directory in manual_sources:
+        if any((directory / name).exists() for name in ("german.txt", "eastfrisian.txt")):
+            rows.extend(read(source, directory / "german.txt", directory / "eastfrisian.txt", "deu_Latn"))
+    if tatoeba_path is not None:
+        reference = Path(tatoeba_path).parent / "reference.tsv"
+        if reference.exists():
+            hashes[str(reference)] = hashlib.sha256(reference.read_bytes()).hexdigest()
+            english_by_german = {}
+            for line in reference.read_text(encoding="utf-8").splitlines():
+                fields = line.split("\t", 2)
+                if len(fields) == 3 and fields[0].strip():
+                    english_by_german.setdefault(fields[1], fields[0])
+            rows.extend((english_by_german[r[0]], r[1], "eng_Latn", "frs_Latn", "tatoeba_en_current", r[5])
+                        for r in list(rows) if r[4] == "tatoeba_de" and r[0] in english_by_german)
     external = []
     if external_path is not None:
         directory = Path(external_path)
         external = read("external", directory / "german.txt", directory / "eastfrisian.txt", "deu_Latn")
     train, validation, manifest = split_records(rows, quotas, external)
+    # Freeze real validation first. Synthetic pairs are a separate train-only source.
+    if synthetic_path is not None:
+        directory = Path(synthetic_path)
+        if any((directory / name).exists() for name in ("german.txt", "eastfrisian.txt")):
+            synthetic = read("synthetic", directory / "german.txt", directory / "eastfrisian.txt", "deu_Latn")
+            hits = overlapping_rows(synthetic, external + validation)
+            seen = {record_id(row) for row in train + validation}
+            accepted, excluded = [], []
+            for i, row in enumerate(synthetic):
+                key = record_id(row)
+                if not normalize(row[0]) or not normalize(row[1]):
+                    reason = "synthetic_blank"
+                elif i in hits:
+                    reason = "synthetic_heldout_overlap"
+                elif key in seen:
+                    reason = "synthetic_duplicate"
+                else:
+                    accepted.append(row)
+                    seen.add(key)
+                    continue
+                excluded.append((row, reason))
+            train.extend(accepted)
+            manifest["counts"]["input"] += len(synthetic)
+            manifest["counts"]["train"] = len(train)
+            for reason, count in Counter(reason for _, reason in excluded).items():
+                manifest["counts"]["excluded"][reason] = count
+            manifest["excluded"].extend([r[4], r[5], record_id(r), reason] for r, reason in excluded)
+            manifest["synthetic"] = {"input": len(synthetic), "train": len(accepted),
+                                     "validation": 0, "path": str(directory)}
     manifest["input_sha256"] = hashes
+    manifest["overlap_policy"] = {
+        "whole_text": "exact normalized match, any length, either language",
+        "partial_text": "containment in either direction, by language",
+        "minimum_partial_tokens": MIN_OVERLAP_TOKENS,
+        "synthetic_training_overlap": "allowed; exact bilingual duplicates removed",
+    }
+    manifest["by_corpus"] = {
+        "train": dict(Counter(r[4] for r in train)),
+        "validation": dict(Counter(r[4] for r in validation)),
+    }
     return train, validation, manifest
 
 
@@ -71,9 +139,8 @@ def record_id(row):
 def spans(text):
     """Whole text plus all nonempty sentence fragments.
 
-    No minimum length: short dictionary phrases also occur in concatenations.
-    Token boundaries prevent 'an' matching inside 'another'. Splitting on
-    punctuation is intentionally conservative around abbreviations and numbers.
+    The overlap checker applies its minimum length before partial matching.
+    Token boundaries prevent 'an' matching inside 'another'.
     """
     result = {normalize(text)} - {""}
     for part in re.split(r"(?<=[.!?])\s+|\n+", text):
@@ -97,19 +164,26 @@ def text_index(rows):
     return texts, postings
 
 
-def overlapping_rows(rows, held_out):
+def overlapping_rows(rows, held_out, min_overlap_tokens=MIN_OVERLAP_TOKENS):
     """Return row indices overlapping a held-out whole text or sentence span.
 
-    Match in both containment directions, by language, including punctuation
-    and case variants. This also catches shorter originals inside held-out
-    concatenations. Not a semantic paraphrase or document-origin detector.
+    Exact whole-text matches are protected at any length. Partial matches must
+    contain at least min_overlap_tokens words: vocabulary and number overlap
+    alone is not evidence of leakage. Match both containment directions and
+    languages. This is not a paraphrase or document-origin detector.
     """
     texts, postings = text_index(rows)
     protected = defaultdict(set)
+    exact = defaultdict(set)
     for row in held_out:
         for text, language in ((row[0], row[2]), (row[1], row[3])):
-            protected[language].update(spans(text))
-    result = set()
+            value = normalize(text)
+            if value:
+                exact[language].add(" " + value + " ")
+            protected[language].update(value for value in spans(text)
+                                       if len(value.split()) >= min_overlap_tokens)
+    result = {i for language, values in texts.items()
+              for i, value in values.items() if value in exact[language]}
     for language, values in protected.items():
         for value in values:
             tokens = set(value.split())
@@ -127,6 +201,8 @@ def overlapping_rows(rows, held_out):
     for language, values in texts.items():
         for i, value in values.items():
             if i in result:
+                continue
+            if len(value.split()) < min_overlap_tokens:
                 continue
             candidates = min((protected_postings[language].get(t, set())
                               for t in set(value.split())), key=len)

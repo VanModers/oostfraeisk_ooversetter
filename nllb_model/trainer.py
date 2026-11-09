@@ -1,113 +1,95 @@
+"""Fine-tune base NLLB with bidirectional real and synthetic parallel data."""
+import argparse
+import json
+import os
+from importlib.metadata import version
+from pathlib import Path
+
 import torch
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, Seq2SeqTrainer, Seq2SeqTrainingArguments, DataCollatorForSeq2Seq, EarlyStoppingCallback
+from transformers import (
+    AutoModelForSeq2SeqLM, AutoTokenizer, DataCollatorForSeq2Seq,
+    EarlyStoppingCallback, Seq2SeqTrainer, Seq2SeqTrainingArguments, set_seed,
+)
+
 from check_training_env import require_safe_torch_load
-from dataset_creator import get_dataset, add_frs_lang, FRS_LANG, DEU_LANG, MAX_LENGTH
+from data_split import default_validation_path
+from dataset_creator import add_frs_lang, get_dataset
 
 MODEL_NAME = "facebook/nllb-200-distilled-600M"
-OUTPUT_DIR = "./nllb_frs_model"
-
-require_safe_torch_load()
-print(f"Loading {MODEL_NAME}...")
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
-
-# Register frs_Latn as a new language, seeded from Dutch (nld_Latn) embeddings
-add_frs_lang(tokenizer, model, random_init=False)
-
-data_collator = DataCollatorForSeq2Seq(tokenizer, model=model)
-
-#model.gradient_checkpointing_enable()
-
-training_args = Seq2SeqTrainingArguments(
-    output_dir=OUTPUT_DIR,
-    eval_strategy="epoch",
-    save_strategy="epoch",
-    per_device_train_batch_size=32,
-    per_device_eval_batch_size=32,
-    gradient_accumulation_steps=2,      # effective batch size = 64
-    num_train_epochs=40,  # More epochs
-    learning_rate=3e-5,
-    lr_scheduler_type="cosine",
-    warmup_steps=500,
-    weight_decay=0.05,
-    bf16=True,
-    logging_steps=100,
-    dataloader_num_workers=4,
-    dataloader_pin_memory=True,
-    optim="adamw_torch_fused",
-    save_total_limit=3,
-    load_best_model_at_end=True,
-    metric_for_best_model="eval_loss",
-    greater_is_better=False,
-)
-
-# Loads data/ at the project root (run as: python nllb_model/trainer.py)
-# Tatoeba ENG<->FRS and DB dictionary ENG<->FRS pairs are included when available.
-dataset = get_dataset(
-    "data", tokenizer,
-    tatoeba_path="data/tatoeba/training",
-    db_eng_path="data",         # loads data/english_db.txt if present (run data/create_dataset.py first)
-    external_path="validation data",
-    manifest_path=f"{OUTPUT_DIR}/data_split_manifest.json",
-)
-train_ds = dataset["train"]
-val_ds = dataset["validation"]
-
-# --- Custom Trainer to print translation after each evaluation ---
-class PrintTranslationTrainer(Seq2SeqTrainer):
-    def __init__(self, *args, tokenizer=None, **kwargs):
-        super().__init__(*args, **kwargs)
-        self.tokenizer = tokenizer
-
-    def evaluate(self, *args, **kwargs):
-        results = super().evaluate(*args, **kwargs)
-        # Print translation of the provided sentence
-        sentence = ("Die Energiepreise sind seit Beginn des Iran-Kriegs drastisch gestiegen - mit Folgen für Verbraucher und Wirtschaft."
-                    "Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig fordert im Bericht aus Berlin deshalb sofortige Entlastungen."
-                    "Vizekanzler Klingbeil will dort Deutschlands Unterstützung für die Ukraine unterstreichen - und der Union die Außenpolitik nicht komplett überlassen."
-                    "Ausgerechnet Polen war beim Ukraine-Gipfel in Washington nicht dabei."
-                    "Vor zehn Jahren prägte die damalige Kanzlerin Merkel den Satz \"Wir schaffen das\"."
-                    "Das Rotkehlchen ist von rundlicher Gestalt mit langen, dünnen Beinen."
-                    )
-        device = self.args.device
-        self.model.eval()
-
-        self.tokenizer.src_lang = DEU_LANG
-        inputs = self.tokenizer(sentence, return_tensors="pt", truncation=True, max_length=MAX_LENGTH)
-        inputs = {k: v.to(device) for k, v in inputs.items()}
-        tgt_id = self.tokenizer.convert_tokens_to_ids(FRS_LANG)
-        with torch.inference_mode():
-            out = self.model.generate(**inputs, forced_bos_token_id=tgt_id, max_new_tokens=MAX_LENGTH, max_length=None, num_beams=6)
-        translation = self.tokenizer.decode(out[0], skip_special_tokens=True)
-
-        print("\n[Sample translation after epoch evaluation]")
-        print(f"German: {sentence}\nOostfräisk: {translation}\n")
-
-        self.model.config.use_cache = False
-        self.model.train()
-        return results
 
 
-# Add early stopping callback: patience=3 (stop if no improvement for 3 evals)
-trainer = PrintTranslationTrainer(
-    model=model,
-    args=training_args,
-    train_dataset=train_ds,
-    eval_dataset=val_ds,
-    processing_class=tokenizer,
-    data_collator=data_collator,
-    tokenizer=tokenizer,
-    callbacks=[EarlyStoppingCallback(early_stopping_patience=3)]
-)
+def parse_args():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--output-dir", default=os.environ.get("NLLB_OUTPUT_DIR", "./nllb_frs_model"))
+    parser.add_argument("--data-path", default="data")
+    parser.add_argument("--validation-path", default=default_validation_path())
+    parser.add_argument("--no-synthetic", action="store_true", help="Run the real-data-only control.")
+    parser.add_argument("--learning-rate", type=float, default=3e-5)
+    parser.add_argument("--epochs", type=float, default=40)
+    parser.add_argument("--batch-size", type=int, default=32)
+    parser.add_argument("--gradient-accumulation-steps", type=int, default=2)
+    parser.add_argument("--warmup-steps", type=int, default=500)
+    parser.add_argument("--seed", type=int, default=42)
+    parser.add_argument("--gradient-checkpointing", action="store_true")
+    parser.add_argument("--resume-from-checkpoint", default=None)
+    args = parser.parse_args()
+    return args
 
-trainer.train()
 
-# Re-tie shared embeddings before saving.  The Trainer's
-# load_best_model_at_end checkpoint reload reports 'missing keys'
-# for the tied weight aliases; tie_weights() guarantees they
-# all point to the same tensor again.
-model.tie_weights()
+def main():
+    args = parse_args()
+    require_safe_torch_load()
+    set_seed(args.seed)
+    print(f"Loading {MODEL_NAME}...")
+    tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+    model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
+    add_frs_lang(tokenizer, model, random_init=False)
+    model.config.use_cache = False  # Decoder caches are for inference, not full-sequence training.
 
-model.save_pretrained(OUTPUT_DIR)
-tokenizer.save_pretrained(OUTPUT_DIR)
-print(f"Model saved to {OUTPUT_DIR}")
+    root = Path(args.data_path)
+    dataset = get_dataset(
+        root, tokenizer, tatoeba_path=root / "tatoeba/training", db_eng_path=root,
+        external_path=args.validation_path,
+        synthetic_path=None if args.no_synthetic else root / "synthetic",
+        manifest_path=Path(args.output_dir) / "data_split_manifest.json",
+        bidirectional=True,
+    )
+    print("Mixture: full dataset, shuffled once per epoch in both directions")
+
+    training_args = Seq2SeqTrainingArguments(
+        output_dir=args.output_dir, eval_strategy="epoch", save_strategy="epoch",
+        per_device_train_batch_size=args.batch_size, per_device_eval_batch_size=args.batch_size,
+        gradient_accumulation_steps=args.gradient_accumulation_steps,
+        num_train_epochs=args.epochs, learning_rate=args.learning_rate,
+        lr_scheduler_type="cosine", warmup_steps=args.warmup_steps, weight_decay=0.05,
+        bf16=torch.cuda.is_available() and torch.cuda.is_bf16_supported(),
+        logging_steps=100, dataloader_num_workers=4, dataloader_pin_memory=torch.cuda.is_available(),
+        optim="adamw_torch_fused" if torch.cuda.is_available() else "adamw_torch",
+        save_total_limit=3, load_best_model_at_end=True,
+        metric_for_best_model="eval_loss", greater_is_better=False,
+        seed=args.seed, data_seed=args.seed,
+        gradient_checkpointing=args.gradient_checkpointing,
+    )
+    metadata = {
+        "model": MODEL_NAME, "arguments": vars(args),
+        "versions": {name: version(name) for name in ("torch", "transformers", "accelerate")},
+        "training_arguments": training_args.to_dict(),
+    }
+    (Path(args.output_dir) / "run_config.json").write_text(
+        json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
+    trainer = Seq2SeqTrainer(
+        model=model, args=training_args, train_dataset=dataset["train"],
+        eval_dataset=dataset["validation"], processing_class=tokenizer,
+        data_collator=DataCollatorForSeq2Seq(tokenizer, model=model),
+        callbacks=[EarlyStoppingCallback(early_stopping_patience=3)],
+    )
+    trainer.train(resume_from_checkpoint=args.resume_from_checkpoint)
+    model.tie_weights()
+    model.config.use_cache = True
+    trainer.save_model(args.output_dir)
+    tokenizer.save_pretrained(args.output_dir)
+    print(f"Model saved to {args.output_dir}")
+
+
+if __name__ == "__main__":
+    main()

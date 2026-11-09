@@ -136,7 +136,6 @@ def split_sentences(frs: str, ger: str) -> list[tuple[str, str]]:
     if len(ger) > MAX_TEXT_LENGTH:
         frs_sents = frs.split(". ")
         ger_sents = ger.split(". ")
-        size = min(len(frs_sents), len(ger_sents))
 
         # Merge German abbreviation splits (e.g. "bzw")
         i = 0
@@ -149,6 +148,9 @@ def split_sentences(frs: str, ger: str) -> list[tuple[str, str]]:
             else:
                 i += 1
 
+        if len(frs_sents) != len(ger_sents):
+            raise ValueError("Cannot safely split long pair: unequal sentence counts")
+        size = len(frs_sents)
         result = []
         for j in range(size):
             f = frs_sents[j] if j < len(frs_sents) else ""
@@ -186,6 +188,20 @@ def seeded_shuffle(lst: list, seed: int) -> None:
         k = rng.randint(0, n)          # randint is inclusive → matches C# Next(n+1)
         lst[k], lst[n] = lst[n], lst[k]
 
+
+def combine_pairs(pairs):
+    """Combine consecutive aligned pairs, retaining an unpaired final row."""
+    pending = None
+    for left, right in pairs:
+        if pending is None:
+            pending = (left, right)
+        else:
+            yield (pending[0] + " " + left, pending[1] + " " + right)
+            pending = None
+    if pending is not None:
+        yield pending
+
+
 def get_db_rows(query: str) -> list:
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -220,7 +236,7 @@ def regenerate_tatoeba_english(directory):
                 english_by_german.setdefault(fields[1], fields[0])
     training = directory / "training"
     pairs = load_text_pairs(training)
-    english_pairs = [(english_by_german[g] if g.strip() else "", f) for g, f in pairs]
+    english_pairs = [(english_by_german[g], f) for g, f in pairs if g in english_by_german and f.strip()]
     with ((training / "english_tatoeba.txt").open("w", encoding="utf-8") as english,
           (training / "eastfrisian_tatoeba.txt").open("w", encoding="utf-8") as frisian):
         for e, f in english_pairs:
@@ -309,36 +325,22 @@ def main():
             f"FROM WB WHERE Deutsch != '-' AND Wortart = 'Phrase' "
             f"ORDER BY RandomOrder"
         )
-        acc_frs = acc_ger = ""
-        accumulating = False
-        smash_count = 0
+        phrase_pairs = []
         for row in rows:
             frs = row["Ostfriesisch"].replace("\n", " ")
             ger = row["Deutsch"].replace("\n", " ")
             ger = filter_all_abbreviations(cut_brackets(ger.split(";")[0]))
-
             if is_to_be_filtered(frs):
                 continue
-
             ger = cut_sentence_if_necessary(frs, ger)
-            if not is_valid_pair(ger, frs):
-                continue
-            frs = add_point(first_char_to_upper(frs))
-            ger = add_point(first_char_to_upper(ger))
-
-            if not accumulating:
-                # Write accumulated pair and start fresh
-                acc_frs += frs
-                acc_ger += ger
-                ger_out.write(acc_ger + "\n")
-                frs_out.write(acc_frs + "\n")
-                smash_count += 1
-                acc_frs = acc_ger = ""
-            else:
-                acc_frs += frs + " "
-                acc_ger += ger + " "
-
-            accumulating = not accumulating
+            if is_valid_pair(ger, frs):
+                phrase_pairs.append((add_point(first_char_to_upper(frs)),
+                                     add_point(first_char_to_upper(ger))))
+        smash_count = 0
+        for frs, ger in combine_pairs(phrase_pairs):
+            ger_out.write(ger + "\n")
+            frs_out.write(frs + "\n")
+            smash_count += 1
 
         print(f"  {smash_count} smashed phrase pairs")
 
@@ -388,27 +390,14 @@ def main():
         pairs_list = [[f, g] for f, g in zip(frs_texts, ger_texts)]
         for pass_num in range(MANUAL_DATASET_COMB_MUL):
             seeded_shuffle(pairs_list, SQL_SEED)
-            acc_frs = acc_ger = ""
-            accumulating = False
+            # Preserve complete human translations during augmentation.
+            complete = [(add_point(first_char_to_upper(f)), add_point(first_char_to_upper(g)))
+                        for f, g in pairs_list if f.strip() and g.strip()]
             smash_count = 0
-            for pair in pairs_list:
-                f, g = pair[0].replace("\n", " "), pair[1].replace("\n", " ")
-                if not f or not g:
-                    continue
-                g = cut_sentence_if_necessary(f, g)
-                f = add_point(first_char_to_upper(f))
-                g = add_point(first_char_to_upper(g))
-                if not accumulating:
-                    acc_frs += f
-                    acc_ger += g
-                    ger_out.write(acc_ger + "\n")
-                    frs_out.write(acc_frs + "\n")
-                    smash_count += 1
-                    acc_frs = acc_ger = ""
-                else:
-                    acc_frs += f + " "
-                    acc_ger += g + " "
-                accumulating = not accumulating
+            for f, g in combine_pairs(complete):
+                ger_out.write(g + "\n")
+                frs_out.write(f + "\n")
+                smash_count += 1
             print(f"  Smash pass {pass_num + 1}: {smash_count} pairs")
 
     # ── Summary ───────────────────────────────────────────────────────────────

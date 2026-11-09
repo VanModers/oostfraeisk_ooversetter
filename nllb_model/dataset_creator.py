@@ -187,29 +187,38 @@ class NLLBTranslationDataset(Dataset):
 
 def get_dataset(path, tokenizer, val_size=1000, bidirectional=True,
                 tatoeba_path=None, db_eng_path=None, external_path=None,
-                manifest_path=None):
+                manifest_path=None, synthetic_path=None):
     """Create the shared purged split before reversing directions/tokenizing.
 
     The manifest records original corpus line numbers, content IDs, exclusions
     and input hashes. Generated files remain unchanged.
     """
     train, validation, manifest = prepare_split(
-        path, val_size, tatoeba_path, db_eng_path, external_path
+        path, val_size, tatoeba_path, db_eng_path, external_path, synthetic_path=synthetic_path
     )
     print("Split:", manifest["counts"])
-    if manifest_path is not None:
-        destination = Path(manifest_path)
-        destination.parent.mkdir(parents=True, exist_ok=True)
-        destination.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
 
     def expand(rows):
         result = []
-        for src, tgt, src_lang, tgt_lang, _, _ in rows:
-            result.extend(make_lang_pairs([(src, tgt)], src_lang, tgt_lang, bidirectional))
+        for src, tgt, src_lang, tgt_lang, corpus, line in rows:
+            pairs = make_lang_pairs([(src, tgt)], src_lang, tgt_lang, bidirectional)
+            result.extend(pairs)
         return result
 
     print("Tokenizing training data...")
     train_ds = NLLBTranslationDataset(expand(train), tokenizer, max_length=MAX_LENGTH)
     print("Tokenizing validation data...")
     val_ds = NLLBTranslationDataset(expand(validation), tokenizer, max_length=MAX_LENGTH)
+    if not len(train_ds) or not len(val_ds):
+        raise ValueError("Empty training or validation dataset")
+    manifest["tokenization"] = {
+        "max_length": MAX_LENGTH,
+        "train_examples": len(train_ds), "validation_examples": len(val_ds),
+        "synthetic_examples": sum(row[4] == "synthetic" for row in train) * (2 if bidirectional else 1),
+        "bidirectional": bidirectional,
+    }
+    if manifest_path is not None:
+        destination = Path(manifest_path)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
     return {"train": train_ds, "validation": val_ds}

@@ -1,3 +1,4 @@
+import argparse
 import re
 import sys
 
@@ -26,12 +27,26 @@ def require_safe_torch_load() -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Check the NLLB training environment")
+    parser.add_argument("--require-cuda", action="store_true")
+    parser.add_argument("--require-bf16", action="store_true")
+    args = parser.parse_args()
     print(f"torch: {torch.__version__}")
     print(f"cuda available: {torch.cuda.is_available()}")
     if torch.cuda.is_available():
         print(f"cuda device: {torch.cuda.get_device_name(0)}")
         print(f"bf16 supported: {torch.cuda.is_bf16_supported()}")
     require_safe_torch_load()
+    if args.require_cuda or args.require_bf16:
+        if not torch.cuda.is_available():
+            raise RuntimeError("This cluster job requires a CUDA GPU")
+        if args.require_bf16 and not torch.cuda.is_bf16_supported():
+            raise RuntimeError("This cluster job requires bfloat16 GPU support")
+        dtype = torch.bfloat16 if args.require_bf16 else torch.float32
+        test = torch.ones((16, 16), device="cuda", dtype=dtype)
+        test = test @ test
+        torch.cuda.synchronize()
+        print("GPU startup check: OK")
     print("torch pickle-load safety check: OK")
 
 
