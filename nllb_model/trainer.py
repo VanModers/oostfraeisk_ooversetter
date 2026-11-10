@@ -34,6 +34,10 @@ def parse_args():
     parser.add_argument("--warmup-steps", type=int, default=500)
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--gradient-checkpointing", action="store_true")
+    parser.add_argument("--no-early-stopping", action="store_true",
+                        help="Finish the complete learning-rate schedule; still export the best validation-loss model.")
+    parser.add_argument("--save-last-model", action="store_true",
+                        help="Also export the final epoch's weights to OUTPUT/last-epoch.")
     parser.add_argument("--resume-from-checkpoint", default=None)
     args = parser.parse_args()
     return args
@@ -86,7 +90,7 @@ def main():
         model=model, args=training_args, train_dataset=dataset["train"],
         eval_dataset=dataset["validation"], processing_class=tokenizer,
         data_collator=DataCollatorForSeq2Seq(tokenizer, model=model),
-        callbacks=[EarlyStoppingCallback(early_stopping_patience=3)],
+        callbacks=[] if args.no_early_stopping else [EarlyStoppingCallback(early_stopping_patience=3)],
     )
     trainer.train(resume_from_checkpoint=args.resume_from_checkpoint)
     model.tie_weights()
@@ -94,9 +98,24 @@ def main():
     final_dir.mkdir(parents=True, exist_ok=True)
     trainer.save_model(str(final_dir))
     tokenizer.save_pretrained(final_dir)
+    trainer.state.save_to_json(str(final_dir / "trainer_state.json"))
     if checkpoint_dir.resolve() != final_dir.resolve():
         for name in ("run_config.json", "data_split_manifest.json"):
             shutil.copyfile(checkpoint_dir / name, final_dir / name)
+    if args.save_last_model:
+        # train() has already restored the best weights. Reload the last saved
+        # checkpoint on CPU so this export really contains the final epoch.
+        last_checkpoint = checkpoint_dir / f"checkpoint-{trainer.state.global_step}"
+        last_dir = final_dir / "last-epoch"
+        last_model = AutoModelForSeq2SeqLM.from_pretrained(str(last_checkpoint))
+        last_model.tie_weights()
+        last_model.config.use_cache = True
+        last_model.save_pretrained(last_dir)
+        tokenizer.save_pretrained(last_dir)
+        shutil.copyfile(last_checkpoint / "trainer_state.json", last_dir / "trainer_state.json")
+        last_metadata = {**metadata, "exported_checkpoint": str(last_checkpoint)}
+        (last_dir / "run_config.json").write_text(json.dumps(last_metadata, indent=2) + "\n", encoding="utf-8")
+        print(f"Final-epoch model saved to {last_dir}")
     print(f"Model saved to {final_dir}; training checkpoints: {checkpoint_dir}")
 
 

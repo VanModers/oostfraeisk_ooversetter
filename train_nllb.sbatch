@@ -30,6 +30,7 @@ TRAIN_ARGS=("$@")
 OUTPUT_DIR="${NLLB_OUTPUT_DIR:-./nllb_frs_model}"
 CHECKPOINT_DIR="${NLLB_CHECKPOINT_DIR:-}"
 VALIDATION_PATH="${NLLB_VALIDATION_PATH:-$PWD/validation data}"
+SAVE_LAST_MODEL=0
 for ((i=0; i<${#TRAIN_ARGS[@]}; i++)); do
   case "${TRAIN_ARGS[i]}" in
     --output-dir) OUTPUT_DIR="${TRAIN_ARGS[i+1]:?Missing value for --output-dir}" ;;
@@ -38,6 +39,7 @@ for ((i=0; i<${#TRAIN_ARGS[@]}; i++)); do
     --checkpoint-dir=*) CHECKPOINT_DIR="${TRAIN_ARGS[i]#*=}" ;;
     --validation-path) VALIDATION_PATH="${TRAIN_ARGS[i+1]:?Missing value for --validation-path}" ;;
     --validation-path=*) VALIDATION_PATH="${TRAIN_ARGS[i]#*=}" ;;
+    --save-last-model) SAVE_LAST_MODEL=1 ;;
   esac
 done
 CHECKPOINT_DIR="${CHECKPOINT_DIR:-/scratch/$USER/oostfraeisk_ooversetter_training/$(basename -- "$OUTPUT_DIR")-${SLURM_JOB_ID:-manual}}"
@@ -64,5 +66,13 @@ python nllb_model/validator.py \
   --validation-path "$VALIDATION_PATH" \
   --results-path "nllb-validation-${SLURM_JOB_ID:-manual}.txt" \
   --model-label "New model after training"
+
+if (( SAVE_LAST_MODEL )); then
+  python nllb_model/validator.py \
+    --model-path "$OUTPUT_DIR/last-epoch" \
+    --validation-path "$VALIDATION_PATH" \
+    --results-path "nllb-validation-${SLURM_JOB_ID:-manual}.txt" \
+    --model-label "Final epoch model"
+fi
 
 printf 'Finished: %s\nModel: %s\n' "$(date)" "$OUTPUT_DIR"
