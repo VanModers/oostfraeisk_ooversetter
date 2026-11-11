@@ -31,6 +31,10 @@ OUTPUT_DIR="${NLLB_OUTPUT_DIR:-./nllb_frs_model}"
 CHECKPOINT_DIR="${NLLB_CHECKPOINT_DIR:-}"
 VALIDATION_PATH="${NLLB_VALIDATION_PATH:-$PWD/validation data}"
 SAVE_LAST_MODEL=0
+EXPORT_EPOCHS=0
+for arg in "${TRAIN_ARGS[@]}"; do
+  if [[ "$arg" == --adapt ]]; then OUTPUT_DIR="./nllb_frs_adapted"; EXPORT_EPOCHS=1; fi
+done
 for ((i=0; i<${#TRAIN_ARGS[@]}; i++)); do
   case "${TRAIN_ARGS[i]}" in
     --output-dir) OUTPUT_DIR="${TRAIN_ARGS[i+1]:?Missing value for --output-dir}" ;;
@@ -39,6 +43,7 @@ for ((i=0; i<${#TRAIN_ARGS[@]}; i++)); do
     --checkpoint-dir=*) CHECKPOINT_DIR="${TRAIN_ARGS[i]#*=}" ;;
     --validation-path) VALIDATION_PATH="${TRAIN_ARGS[i+1]:?Missing value for --validation-path}" ;;
     --validation-path=*) VALIDATION_PATH="${TRAIN_ARGS[i]#*=}" ;;
+    --export-epochs) EXPORT_EPOCHS=1 ;;
     --save-last-model) SAVE_LAST_MODEL=1 ;;
   esac
 done
@@ -57,9 +62,11 @@ python nllb_model/validator.py \
   --model-path VanModers114/East_Frisian_NLLB_Model \
   --validation-path "$VALIDATION_PATH" \
   --results-path "nllb-validation-${SLURM_JOB_ID:-manual}.txt" \
+  --predictions-path "nllb-published-${SLURM_JOB_ID:-manual}.json" \
   --model-label "Published model before training"
 
-python nllb_model/trainer.py "${TRAIN_ARGS[@]}"
+python nllb_model/trainer.py "${TRAIN_ARGS[@]}" --output-dir "$OUTPUT_DIR" \
+  --checkpoint-dir "$CHECKPOINT_DIR" --validation-path "$VALIDATION_PATH"
 
 python nllb_model/validator.py \
   --model-path "$OUTPUT_DIR" \
@@ -73,6 +80,15 @@ if (( SAVE_LAST_MODEL )); then
     --validation-path "$VALIDATION_PATH" \
     --results-path "nllb-validation-${SLURM_JOB_ID:-manual}.txt" \
     --model-label "Final epoch model"
+fi
+
+if (( EXPORT_EPOCHS )); then
+  for MODEL in "$OUTPUT_DIR"/epoch-*; do
+    python nllb_model/validator.py --model-path "$MODEL" \
+      --validation-path "$VALIDATION_PATH" \
+      --results-path "nllb-validation-${SLURM_JOB_ID:-manual}.txt" \
+      --predictions-path "nllb-$(basename -- "$MODEL")-${SLURM_JOB_ID:-manual}.json"
+  done
 fi
 
 printf 'Finished: %s\nModel: %s\n' "$(date)" "$OUTPUT_DIR"
