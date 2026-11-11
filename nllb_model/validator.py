@@ -1,6 +1,10 @@
 """Evaluate both German/East Frisian directions on the reviewed benchmark."""
 import argparse
 import os
+import json
+import hashlib
+from pathlib import Path
+from importlib.metadata import version
 
 import torch
 from sacrebleu.metrics import BLEU, CHRF
@@ -21,6 +25,7 @@ def parse_args():
     parser.add_argument("--model-label", default=None)
     parser.add_argument("--validation-path", default=default_validation_path())
     parser.add_argument("--results-path", default="validation_results.txt")
+    parser.add_argument("--predictions-path", help="Save all sources, references, predictions and evaluation metadata as JSON.")
     parser.add_argument("--batch-size", type=int, default=8)
     parser.add_argument("--num-beams", type=int, default=1,
                         help="Number of beams for generation; default is greedy decoding.")
@@ -44,6 +49,15 @@ def main():
     directions = [("de-frs", DEU_LANG, FRS_LANG, pairs),
                   ("frs-de", FRS_LANG, DEU_LANG, [(t, s) for s, t in pairs])]
     collator = DataCollatorForSeq2Seq(tokenizer, model=model)
+    report = {
+        "arguments": vars(args), "dtype": str(dtype),
+        "model_revision": getattr(model.config, "_commit_hash", None),
+        "versions": {name: version(name) for name in ("torch", "transformers", "sacrebleu")},
+        "benchmark_sha256": {name: hashlib.sha256(
+            (Path(args.validation_path) / name).read_bytes().replace(b"\r\n", b"\n")
+        ).hexdigest() for name in ("german.txt", "eastfrisian.txt")},
+        "directions": {},
+    }
     for name, source_language, target_language, directed_pairs in directions:
         if args.direction not in ("both", name):
             continue
@@ -76,6 +90,14 @@ def main():
         bleu, chrf = BLEU(tokenize="13a"), CHRF(char_order=6, word_order=0, beta=2)
         bleu_score = bleu.corpus_score(predictions, references).score
         chrf_score = chrf.corpus_score(predictions, references).score
+        report["directions"][name] = {
+            "bleu": bleu_score, "chrf": chrf_score,
+            "bleu_signature": str(bleu.get_signature()), "chrf_signature": str(chrf.get_signature()),
+            "samples": [{"pair_index": i, "source": source, "reference": reference,
+                         "prediction": prediction}
+                        for i, ((source, reference), prediction) in
+                        enumerate(zip(directed_pairs, predictions))],
+        }
         result = (
             "-------------------------------------------------------------------------------------\n"
             f"{args.model_label or args.model_path} ({name})\n"
@@ -91,6 +113,10 @@ def main():
             stream.write(result + "\n")
         for prediction, (_, reference) in list(zip(predictions, directed_pairs))[:3]:
             print(f"Pred: {prediction}\nRef: {reference}\n")
+    if args.predictions_path:
+        destination = Path(args.predictions_path)
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
