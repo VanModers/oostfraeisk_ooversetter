@@ -22,9 +22,15 @@ MODEL_DIR="${1:-./nllb_frs_model}"
 RESULTS="nllb-comparison-${SLURM_JOB_ID:-manual}"
 mkdir -p "$RESULTS"
 python nllb_model/check_training_env.py --require-cuda --require-bf16
-MODELS=(VanModers114/East_Frisian_NLLB_Model "$MODEL_DIR" "$MODEL_DIR/last-epoch")
-LABELS=(published best-loss epoch40)
-for i in 0 1 2; do
+MODELS=(VanModers114/East_Frisian_NLLB_Model "$MODEL_DIR")
+LABELS=(published best-loss)
+shopt -s nullglob
+for MODEL in "$MODEL_DIR"/epoch-* "$MODEL_DIR/last-epoch"; do
+  [[ -d "$MODEL" ]] || continue
+  MODELS+=("$MODEL")
+  LABELS+=("$(basename -- "$MODEL")")
+done
+for i in "${!MODELS[@]}"; do
   python nllb_model/validator.py --model-path "${MODELS[i]}" \
     --validation-path "$PWD/validation data" --direction both --num-beams 1 \
     --results-path "$RESULTS/scores.txt" \
