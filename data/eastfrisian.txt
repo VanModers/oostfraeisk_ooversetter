@@ -958,7 +958,7 @@ duu maust dat gaud näit al behandjen anners kust duu 't noch wal kruus un fuul 
 däi kop is dat kind soo häit dat 't walgeróóden is doo Jii dat wat koel wóóter betten
 däi knuel is däi mauder fan d' mesbüelt un däi mesbüelt is däi fóóder fan d' burkeräj
 wees man gaau stiel un góó mooj läif up bäer anners kumt däi buuman un wil dii hóólen
-dat nat fan kookt buuskool as ersats föör titmelk doo däi mauder noch kiin geeven kan
+dat nat fan kookt buuskool as ersats föör maudermelk doo däi mauder noch kiin geeven kan
 säi skrift links un düs dekt säi däi tóóvel altiid mit mesten links un góóbels rechts
 dat is soo 'n deksel fan 'n jung dat man hóóst näit wäit wat man mit hum anfangen sal
 häi het 'n diisiğ natüer wat häi wil dat wil häi un d'r is häi ook näit of t' brengen
@@ -41923,7 +41923,7 @@ Häi wäit 't näit tau beseffen. "wat fadder! wat fründ! jung trek d' büks of
 Hilğland hangt in 't rand. Unskikkelk dik.
 In miin jueng joren. Wel is miin läifii?
 Däi hund is gaud fan d' natüer. Dat is falskert.
-Dat nat fan kookt buuskool as ersats föör titmelk doo däi mauder noch kiin geeven kan. D'r koom ik nóó.
+Dat nat fan kookt buuskool as ersats föör maudermelk doo däi mauder noch kiin geeven kan. D'r koom ik nóó.
 Of un tau maut ''n kind ''n lütje slağ fööer d' nêers hebben doo 't näit umliik wil. Säi hebbent 'n knüütje leevend.
 Häi angelt hum net soo lâang bit dat häi hum in 't net het. Häi het 'n kwóóed kop.
 Häi keek net soo ferheert uut as 'n kâat däi 't dönnern höörde. Sünner korten weesen.
@@ -63327,14 +63327,14 @@ Dióómantskîiv is mooj.
 Dióómantskîiv is läif.
 Dióómantskîiv is interessant.
 Dióómantskîiv kan ik näit säin.
-Münksgier is mooj.
-Münksgier is läif.
-Münksgier is interessant.
-Münksgier kan ik näit säin.
-Münksgier is mooj.
-Münksgier is läif.
-Münksgier is interessant.
-Münksgier kan ik näit säin.
+Münksgaajer is mooj.
+Münksgaajer is läif.
+Münksgaajer is interessant.
+Münksgaajer kan ik näit säin.
+Münksgaajer is mooj.
+Münksgaajer is läif.
+Münksgaajer is interessant.
+Münksgaajer kan ik näit säin.
 Nuudelsäiev is mooj.
 Nuudelsäiev is läif.
 Nuudelsäiev is interessant.
