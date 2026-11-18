@@ -415,7 +415,7 @@ Säi et't 's mörns selden wat.
 Säi stürde mii 'n lâang bräif.
 Säi trielde bii däi anblik.
 Säi het bii däi anblik trielt.
-Säi skoot hum dood mit 'n geweer.
+Säi skoot hum mit 'n geweer dood.
 Säi het hum miin bild weesen.
 Säi wees mii höör näej aauto.
 Säi slöpt up 't liif.
@@ -2435,7 +2435,7 @@ Gullydeksels bünt rund, um dat säi soo näit döör 't gat faalen köönent.
 Döör lüchtferfuulen is 't 'n daardel fan däi minsken up d' êer näit möögelk, dat melkpad t' säin.
 Däils is dat ofneemen fan däi undwikkelnshülplaistungen fan Jóópóón up 'n häimsk ökonoomsk dóólgaang t'rüeğ t' fören.
 Dat is praktisk allerweegens in d' weerld möögelk, mit 'n maudertóólprooter Engelsk t' leeren.
-Dat is kiin wunner, dat Tom slecht slöpt: häi drinkt je bit tau twalf kopkes kofje up d' dağ.
+Dat is kiin wunner, dat Tom slecht slöpt: häi drinkt je bit tau twalf taasen kofje up d' dağ.
 Dat was 'n läip lastiğ wêek föör Marió, säi is blîid, dat achter sük t' hebben.
 Dat gaajt gaauer, doo ik dat net akróót sülst erleediğ, as wen ik dii dat ferklor.
 Dat spöölt kiin ruel, woo klauk man is. Sünner fliit skaft man 't noojt.
@@ -4971,7 +4971,7 @@ Ik denk näit, dat Jii Tom säegen mautent, wat Marió föörhet.
 Ik denk näit, dat jii Tom säegen mautent, wat Marió föörhet.
 Ik denk näit, dat duu Tom säegen maust, wat Marió föörhet.
 Ik denk näit, dat 't makkelk weesen sal, Tom d'r fan t' oovertüügen, dat t' daun.
-Ik denk näit, dat 't langer as 'n kertäärsüer düren sul, diin kóómer up t' rüümen.
+Ik denk näit, dat dat langer as 'n kertäärsüer düren sul, diin kóómer up t' rüümen.
 Ik wäit näit, wor ik miin slöödels henläeğt heb, man ennerwor hir in mautent säi weesen.
 Ik wäit wal näit, wat, man ennerwat söölent wii seeker finnen.
 Dat is mii ne'ğeliik, wat däi dokter säeğt. Ik sal eeten, wat immer ik wil.
@@ -6263,7 +6263,7 @@ Föör n'rmóól drinkt miin frâau 's óóvends kiin kofje un ik ook näit.
 Miin tsuğ fort teegen ses üer of un kumt teegen tain üer an.
 Miin bóós let't mii dit daun, düs heb ik 't näit drok, dat t' beennen.
 Miin mauder het mii, as ik lütjet was, elker dağ tau 't klewäär spöölen dwungen.
-Miin besfóóer drinkt elker mörn mit 'n koppel fan oel manlüü kofje.
+Miin besfóóer drinkt elker mörn mit 'n gruep oel manlüü kofje.
 Miin fründin aarbaid't bii 'n tóólskaul, un dat gefaalt höör dor läip gaud.
 Miin fóóder het däi wenst, dat bladje fööer 't früüstük t' leesen.
 Um dat miin fiits plat was, ferpaasde ik däi 4-üer-tsuğ.
@@ -8054,7 +8054,7 @@ As teenager róókde Tom fóók mit 't wet in kunflikt.
 Tom róókde as teenager fóók in kunflikt mit 't wet.
 Tom kwam fanmörn lóóter as gewoon nóó d' aarbaid. Ik fróóğ mii woosoo.
 Tom kreeğ 'n siin uutbilden un erforen undspreekend aarbaid.
-Mit 'n poer bäär intus word't Tom häil kiiviğ.
+Mit 'n poer bäär intus word't Tom häil striidlüstiğ.
 Tom gaf mii 'n poer toastskiiven un 'n glas melk.
 Tom het dat wal genaau ferklort, man ik begriip 't noch altiid näit.
 Doo Mary hum ferleet, dee sük Tom sinlös besuupen.
@@ -8788,7 +8788,7 @@ Bit dat fergóódern t'äen was, wur nüms gewoer, dat säi feelde.
 Bit dat fergóódern ennen dee, wur nüms gewoer, dat säi feelde.
 Wat duu ook daajst, duu sast mii näit tau 't laagen brengen.
 Soo fööl ik d'r ook oover nóódenken dau - ik begriip 't näit.
-Ne'ğeliik woo läip 't word't, säi sal an disser krankhaid näit staarven.
+Ne'ğeliik woo läip dat word't, säi sal an disser krankhaid näit staarven.
 Näit minner as dreihunnert duller wurdent föör däi aarbaid benöödiğt.
 Hóóst äinduusend persoonen namment an däi demonstróósjoon däil.
 Hóóst duusend lüü hebbent an disser demonstróósjoon däilnoomen.
@@ -9363,7 +9363,7 @@ D'r wur teegen dat ferhoogern fan däi stuudiengeböören protestäärt.
 Säi hebbent 'n gat in 't iis sneeden un bünt in 't iiskoel wóóter swummen.
 In d' kufferruum is kiin bot meer föör noch 'n kuffer.
 Däi tiid langt noojt, um dat t' daun, wat man äinliik wil.
-Up 't süüdöyver fan d' säj is 'n lütje campingplats.
+Up 't süüdöyver fan d' säj befint sük 'n lütje campingplats.
 Dat was häilmóóls unmöögelk, Tom näit disser fróóeğ t' stellen.
 D'r was noch 'n biitje wóóter up d' flesboom oover.
 D'r hung 'n transparent an d' müer, up dat "Fan haarten greläärt tau d' boorsdağ" stun.
