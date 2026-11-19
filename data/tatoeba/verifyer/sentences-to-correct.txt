@@ -1,1 +1,2 @@
 ID 3549733 | DE: Maria hat Tom dabei erwischt, wie er in ihrem Tagebuch herumschnüffelte, um herauszufinden, ob sie sich noch mit jemand anderem traf. | FY: Marió het Tom d'r bii betrapt, as häi in höör dóóğbauk snüüsterde, um uut t' finnen, of säi sük noch mit wel anners dräepen dee.
+ID 3755584 | DE: Viele Rückenprobleme lassen sich auf eine schlechte Sitzhaltung zurückführen. | FY: Fööl rüeğprobleemen lóótent sük up 'n släecht sithollen t'rüeğfören.
