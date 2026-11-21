@@ -50,7 +50,7 @@ doo 't söndağ is doo 't söndağ is dan kookt us mauder heerenk - fóóder kri
 dor muus hest 'n hoel kûus dau mii 'n näej weer däi mii näit kelt däi mii näit swelt däi mii näit seer daajt däi mii näit weer tau d' mund uut gaajt
 doo däi aarften un boonen t' gail bünt dan is 't gaud doo man s' wat t'sóómendrükt un knikt of dat man s' ins' ooveraajd't um säi wat t' ferhóóten
 us olfräisk föörollen däi haarent un kendent kiin stäinen huusen düs fint man hir ook kiin püün of anner ooverbliivsels fan höör huusen of steeden
-däi düüvels hebbent fannacht miin pêer däi hiilseenen döörsneeden soo dat mii nuu niks anners ooverblift as däi âarm däären noodslachten t' lóóten
+däi düüvels hebbent fannacht miin pêer däi hiilseenen den soo dat mii nuu niks anners ooverblift as däi âarm däären noodslachten t' lóóten
 Hir woont däi rîik man däi us wal wat geeven kan! Fööl kan häi geeven! Lâang sal häi leeven un kumt häi dan t' staarven sal häi däi heemel aarven!
 soo 'n âarm mauder het 't drok mit âal höör lütje kinnerkes doo säi höör räiden un kläiden sal un dan ook noch sörgen maut woo säi höör sad kriğt
 ik was noch 'n henniğ fôon ik wäit 't noch as was 't fandóóeğ ik worde 't mäintgaud un braajde jüüst mit miin mesken wiren 'n hôos föör miin bäep
@@ -8491,7 +8491,7 @@ däi köölen bünt noch näit döörglort
 häi gnöysde hum däi bunken wat döör
 häi klemüüstert âal oel bauken döör
 häi het siin gaud un geld döörmóókt
-in döörsnee faalt däi waas noch tau
+in  faalt däi waas noch tau
 dat het häi in siin döösiğkaid dóón
 wor duuven bünt fläigent duuven tau
 ik heb kiin tiid düs koom ik lóóter
